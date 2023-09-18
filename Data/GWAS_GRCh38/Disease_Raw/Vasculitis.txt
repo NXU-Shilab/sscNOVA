@@ -1,0 +1,92 @@
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	5266661	rs6638512
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	120733621	rs1972809
+Antineutrophil cytoplasmic antibody-associated vasculitis	18	57960608	rs11875185
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	89275066	rs5941160
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	90549128	rs2755459
+Antineutrophil cytoplasmic antibody-associated vasculitis	14	94397299	rs7151526
+Antineutrophil cytoplasmic antibody-associated vasculitis	10	35771381	rs11010290
+Antineutrophil cytoplasmic antibody-associated vasculitis	17	46871734	rs11079740
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	142272785	rs5954596
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	91557719	rs6618677
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	155005499	rs17281398
+Antineutrophil cytoplasmic antibody-associated vasculitis	6	129710348	rs17057678
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	3492628	rs7059886
+Antineutrophil cytoplasmic antibody-associated vasculitis	13	44480955	rs17065868
+Antineutrophil cytoplasmic antibody-associated vasculitis	13	30311086	rs185694
+Antineutrophil cytoplasmic antibody-associated vasculitis	X	147961254	rs5904818
+Antineutrophil cytoplasmic antibody-associated vasculitis	18	3328748	rs1623523
+Antineutrophil cytoplasmic antibody-associated vasculitis	6	33102116	rs3117242
+Mixed cryoglobulinemia vasculitis in chronic hepatitis C infection	6	32212119	rs2071286
+Mixed cryoglobulinemia vasculitis in chronic hepatitis C infection	6	32607958	rs9461776
+Vasculitis associated with antineutrophil cytoplasmic antibody reactive to myeloperoxidase	6	32713706	rs7454108
+Antineutrophil cytoplasmic antibody-associated vasculitis	19	838178	rs62132293
+Antineutrophil cytoplasmic antibody-associated vasculitis	1	113761186	rs6679677
+Antineutrophil cytoplasmic antibody-associated vasculitis	14	94378610	rs28929474
+Antineutrophil cytoplasmic antibody-associated vasculitis	6	33071848	rs9277341
+Antineutrophil cytoplasmic antibody-associated vasculitis	6	32632280	rs35242582
+Antineutrophil cytoplasmic antibody-associated vasculitis	6	33080912	rs141530233
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	16	5030085	rs3743841
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	18	5503378	rs73379591
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	10	6791131	rs10508313
+Immunoglobulin A vasculitis	6	32702260	rs9275407
+Immunoglobulin A vasculitis	6	32475492	rs9269110
+Systemic vasculitis	9	7045058	rs16925200
+Systemic vasculitis	1	192445292	rs6704162
+Immunoglobulin A vasculitis	6	32452402	rs7754768
+Immunoglobulin A vasculitis	6	32460012	rs9268832
+Immunoglobulin A vasculitis	6	32711607	rs9275578
+Immunoglobulin A vasculitis	6	32712293	rs9275582
+Immunoglobulin A vasculitis	6	32445373	rs2213585
+Immunoglobulin A vasculitis	6	32445317	rs2213586
+Immunoglobulin A vasculitis	6	32445682	rs2227139
+Immunoglobulin A vasculitis	6	32446053	rs3763327
+Immunoglobulin A vasculitis	6	32443869	rs7192
+Immunoglobulin A vasculitis	6	32444762	rs7195
+Immunoglobulin A vasculitis	6	32714215	rs3998158
+Immunoglobulin A vasculitis	6	32623692	rs112396255
+Immunoglobulin A vasculitis	6	32622945	rs17533090
+Immunoglobulin A vasculitis	6	32687771	rs13194877
+Immunoglobulin A vasculitis	6	32711222	rs9275572
+Immunoglobulin A vasculitis	6	32430086	rs17202717
+Immunoglobulin A vasculitis	6	32433259	rs17496307
+Immunoglobulin A vasculitis	6	32441931	rs17496549
+Immunoglobulin A vasculitis	6	32697473	rs17212483
+Immunoglobulin A vasculitis	6	32696851	rs115255544
+Immunoglobulin A vasculitis	6	32697348	rs17212462
+Immunoglobulin A vasculitis	6	32697910	rs17212553
+Immunoglobulin A vasculitis	6	32695987	rs17427445
+Immunoglobulin A vasculitis	6	32699290	rs17427564
+Immunoglobulin A vasculitis	6	32703056	rs34492195
+Immunoglobulin A vasculitis			DRB1*01:01
+Immunoglobulin A vasculitis	6	32696159	rs34677551
+Immunoglobulin A vasculitis	6	32692120	rs35472814
+Immunoglobulin A vasculitis	6	32696261	rs35900855
+Immunoglobulin A vasculitis	6	32706866	rs9275516
+Immunoglobulin A vasculitis	6	32697643	rs10484561
+Immunoglobulin A vasculitis	6	32706448	rs35332745
+Immunoglobulin A vasculitis	6	32448081	rs12529093
+Immunoglobulin A vasculitis	6	32448301	rs13209059
+Immunoglobulin A vasculitis	6	32448198	rs13209234
+Immunoglobulin A vasculitis	6	32456254	rs13220657
+Immunoglobulin A vasculitis	6	32447434	rs28895028
+Immunoglobulin A vasculitis	6	32457527	rs28895205
+Immunoglobulin A vasculitis	6	32459604	rs28732229
+Immunoglobulin A vasculitis	6	32453727	rs28895136
+Immunoglobulin A vasculitis	6	32444658	rs3177928
+Immunoglobulin A vasculitis	6	32695144	rs114169440
+Immunoglobulin A vasculitis	6	32623281	rs17599077
+Immunoglobulin A vasculitis	6	32614112	rs4530903
+Immunoglobulin A vasculitis	6	32710405	rs6932517
+Immunoglobulin A vasculitis	6	32711685	rs9275580
+Immunoglobulin A vasculitis	6	32713500	rs2858331
+Immunoglobulin A vasculitis	6	32465348	rs113585425
+Immunoglobulin A vasculitis	6	32417115	rs72847996
+Immunoglobulin A vasculitis			DQB1*05:01
+Immunoglobulin A vasculitis			DQA1*01:01
+Immunoglobulin A vasculitis	6	32693798	rs9275260
+Immunoglobulin A vasculitis	2	43087705	rs1002796
+Immunoglobulin A vasculitis	2	164106976	rs1446468
+Immunoglobulin A vasculitis	5	173374104	rs6883311
+Immunoglobulin A vasculitis	10	18724467	rs11015915
+Immunoglobulin A vasculitis	10	18889952	rs72781262
+Immunoglobulin A vasculitis	11	96698259	rs10789640

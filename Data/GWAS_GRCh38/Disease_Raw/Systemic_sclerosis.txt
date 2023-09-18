@@ -1,0 +1,179 @@
+Diffuse cutaneous systemic sclerosis	11	118742965	rs7130875
+Systemic sclerosis	3	58197909	rs35677470
+Systemic sclerosis	3	159976265	rs77583790
+Systemic sclerosis	6	106207742	rs9373839
+Systemic sclerosis	11	118742965	rs7130875
+Systemic sclerosis	11	118777915	rs61219050
+Systemic sclerosis	2	191057148	rs11893432
+Systemic sclerosis	7	129044262	rs62478615
+Systemic sclerosis	3	58197909	rs35677470
+Systemic sclerosis	3	159976265	rs77583790
+Systemic sclerosis	17	39963001	rs3902025
+Systemic sclerosis	3	58410164	rs4681851
+Systemic sclerosis	3	159976265	rs77583790
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	6	32696074	rs6457617
+Systemic sclerosis	2	191038032	rs3821236
+Systemic sclerosis	1	167451188	rs2056626
+Systemic sclerosis	2	191099907	rs7574865
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	1	167451188	rs2056626
+Systemic sclerosis	6	31138491	rs3130573
+Systemic sclerosis	6	32696074	rs6457617
+Systemic sclerosis	2	20488758	rs13021401
+Systemic sclerosis	5	151060536	rs2233287
+Systemic sclerosis	2	191057148	rs11893432
+Systemic sclerosis	1	161638578	rs4554699
+Systemic sclerosis	4	953186	rs2290405
+Systemic sclerosis	20	45980011	rs6073976
+Diffuse cutaneous systemic sclerosis	16	70708633	rs11640251
+Diffuse cutaneous systemic sclerosis	7	128984019	rs12534421
+Diffuse cutaneous systemic sclerosis	7	129068743	rs17340351
+Systemic sclerosis (anti-centromere-positive)	1	161638578	rs4554699
+Systemic sclerosis (anti-centromere-positive)	7	128954129	rs10488631
+Systemic sclerosis (anti-centromere-positive)	22	44107052	rs16991498
+Systemic sclerosis (anti-topoisomerase-positive)	16	8638375	rs1641047
+Systemic sclerosis (anti-topoisomerase-positive)	7	129068743	rs17340351
+Systemic sclerosis (anti-topoisomerase-positive)	4	38762491	rs10024216
+Systemic sclerosis	2	191108308	rs10174238
+Systemic sclerosis	7	129068743	rs17340351
+Systemic sclerosis	7	128984019	rs12534421
+Systemic sclerosis	5	151031333	rs10463312
+Systemic sclerosis	1	67322032	rs2201584
+Systemic sclerosis	8	11502048	rs2409781
+Systemic sclerosis	7	128977412	rs12531711
+Systemic sclerosis	1	167451188	rs2056626
+Systemic sclerosis	1	207479647	rs4317805
+Systemic sclerosis	2	213064562	rs10186029
+Systemic sclerosis	11	101871526	rs12363310
+Systemic sclerosis	6	158203782	rs644637
+Diffuse cutaneous systemic sclerosis	7	128954129	rs10488631
+Diffuse cutaneous systemic sclerosis	7	99478208	rs10235235
+Diffuse cutaneous systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis (anti-centromere-positive)	2	191108308	rs10174238
+Systemic sclerosis (anti-centromere-positive)	16	85958099	rs11642873
+Systemic sclerosis (anti-topoisomerase-positive)	7	128954129	rs10488631
+Systemic sclerosis (anti-topoisomerase-positive)	17	3884181	rs3809804
+Systemic sclerosis (anti-topoisomerase-positive)	3	129431542	rs2307293
+Systemic sclerosis	1	167451188	rs2056626
+Systemic sclerosis	2	191038032	rs3821236
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	12	23793212	rs11047102
+Systemic sclerosis	16	85958099	rs11642873
+Systemic sclerosis	7	50597225	rs12540874
+Systemic sclerosis	6	32623148	rs3129763
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	6	32251212	rs9296015
+Systemic sclerosis	6	32441753	rs3129882
+Systemic sclerosis	12	23793212	rs11047102
+Systemic sclerosis	6	32222629	rs443198
+Systemic sclerosis	6	32701379	rs9275390
+Systemic sclerosis	12	56124624	rs11171747
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	6	32701379	rs9275390
+Systemic sclerosis	6	33075103	rs987870
+Systemic sclerosis	6	106129493	rs4134466
+Systemic sclerosis	17	39965740	rs3894194
+Systemic sclerosis	2	191099907	rs7574865
+Systemic sclerosis	2	191099907	rs7574865
+Systemic sclerosis	3	58197909	rs35677470
+Systemic sclerosis	6	137874929	rs2230926
+Systemic sclerosis	6	137874929	rs2230926
+Systemic lupus erythematosus and Systemic sclerosis	1	35442850	rs2275247
+Systemic lupus erythematosus and Systemic sclerosis	2	219833404	rs10498070
+Systemic lupus erythematosus and Systemic sclerosis	3	58345459	rs2176082
+Systemic lupus erythematosus and Systemic sclerosis	6	106237320	rs3827644
+Systemic lupus erythematosus and Systemic sclerosis	7	28149792	rs1635852
+Systemic lupus erythematosus and Systemic sclerosis	7	93135669	rs1133906
+Systemic lupus erythematosus and Systemic sclerosis	11	34742932	rs1355223
+Systemic lupus erythematosus and Systemic sclerosis	1	173257056	rs704840
+Systemic lupus erythematosus and Systemic sclerosis	1	183211125	rs16860537
+Systemic lupus erythematosus and Systemic sclerosis	2	191075725	rs7601754
+Systemic lupus erythematosus and Systemic sclerosis	5	151081488	rs960709
+Systemic lupus erythematosus and Systemic sclerosis	6	34959503	rs1535001
+Systemic lupus erythematosus and Systemic sclerosis	6	137811379	rs10499197
+Systemic lupus erythematosus and Systemic sclerosis	7	129055929	rs13239597
+Systemic lupus erythematosus and Systemic sclerosis	8	11486464	rs2736340
+Systemic lupus erythematosus and Systemic sclerosis	11	601785	rs2396545
+Systemic lupus erythematosus and Systemic sclerosis	15	75132252	rs7172677
+Systemic lupus erythematosus and Systemic sclerosis	16	31315385	rs11860650
+Systemic lupus erythematosus and Systemic sclerosis	16	85939422	rs12711490
+Systemic lupus erythematosus and Systemic sclerosis	17	39820216	rs9303277
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	22	21630805	rs5754467
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	67336688	rs6659932
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113761186	rs6679677
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113834946	rs2476601
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113891324	rs1217393
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	173368608	rs2422345
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	183563445	rs17849502
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	190700031	rs744600
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191068557	rs13389408
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191108308	rs10174238
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	58197909	rs35677470
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	160595133	rs112846137
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	4	971932	rs13101828
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	151058916	rs4958880
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	160460329	rs2431098
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	106121395	rs802791
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	137922602	rs58721818
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	74123572	rs193107685
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	128949579	rs10954214
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	129007888	rs13238352
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	8	11484371	rs2736337
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	11	633689	rs7929541
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	12	112433568	rs11066301
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	16	85960878	rs35929052
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	10351837	rs11085725
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	49618017	rs76246107
+Crohn's disease or systemic sclerosis	1	67336688	rs6659932
+Crohn's disease or systemic sclerosis	5	132496822	rs2548998
+Crohn's disease or systemic sclerosis	6	33512961	rs68191
+Crohn's disease or systemic sclerosis	17	42378745	rs4796791
+Systemic sclerosis	1	67348757	rs3790566
+Systemic sclerosis	1	167451188	rs2056626
+Systemic sclerosis	1	173363490	rs1857066
+Systemic sclerosis	2	190669646	rs16832798
+Systemic sclerosis	2	191038032	rs3821236
+Systemic sclerosis	3	58389559	rs4076852
+Systemic sclerosis	3	119397303	rs9884090
+Systemic sclerosis	3	160015740	rs589446
+Systemic sclerosis	4	971991	rs11724804
+Systemic sclerosis	4	102527884	rs230534
+Systemic sclerosis	5	151076171	rs3792783
+Systemic sclerosis	6	106286165	rs633724
+Systemic sclerosis	7	129011468	rs36073657
+Systemic sclerosis	8	11486464	rs2736340
+Systemic sclerosis	8	60652405	rs685985
+Systemic sclerosis	11	618172	rs6598008
+Systemic sclerosis	11	2327389	rs2651804
+Systemic sclerosis	11	118768644	rs11217020
+Systemic sclerosis	15	74785026	rs1378942
+Systemic sclerosis	16	85938316	rs11117420
+Systemic sclerosis	17	39907128	rs883770
+Systemic sclerosis	17	75228544	rs1005714
+Systemic sclerosis	19	18082381	rs2305743
+Systemic sclerosis	2	191099907	rs7574865
+Systemic sclerosis	1	152357053	rs76285340
+Systemic sclerosis	14	105855225	rs45471499
+Systemic sclerosis	4	185399752	rs4317244
+Systemic sclerosis			HLA-DRB1*11:04
+Systemic sclerosis	7	129068068	rs17424921
+Systemic sclerosis	7	128954129	rs10488631
+Systemic sclerosis	4	102615256	rs4648133
+Systemic sclerosis	3	7865390	rs9821717
+Systemic sclerosis	17	35174625	rs12452554
+Systemic sclerosis	2	1781887	rs2059413
+Systemic sclerosis	2	150917165	rs917238
+Systemic sclerosis	1	161968102	rs3002626
+Systemic sclerosis	4	56691923	rs9968446
+Systemic sclerosis	9	75428011	rs473299
+Systemic sclerosis	7	128932712	rs4731532
+Systemic sclerosis	19	18079534	rs8109496
+Systemic sclerosis	5	151059427	rs1422673
+Systemic sclerosis	11	118856134	rs10892299
+Systemic sclerosis	2	191099907	rs7574865
+Systemic sclerosis	7	37342861	rs60600003
+Systemic sclerosis	17	39877024	rs1054609
+Systemic sclerosis	3	58197909	rs35677470
+Systemic sclerosis	8	11501603	rs2736346

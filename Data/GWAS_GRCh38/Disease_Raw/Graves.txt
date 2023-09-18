@@ -1,0 +1,136 @@
+Thionamide-induced agranulocytosis in Graves' disease	3	111868398	rs56343172
+Thionamide-induced agranulocytosis in Graves' disease	6	31124190	rs9263688
+Thionamide-induced agranulocytosis in Graves' disease	6	31034324	rs7768644
+Thionamide-induced agranulocytosis in Graves' disease	6	31056824	rs9262631
+Thionamide-induced agranulocytosis in Graves' disease	6	31367559	rs17193122
+Thionamide-induced agranulocytosis in Graves' disease	6	31470613	rs2596449
+Thionamide-induced agranulocytosis in Graves' disease	6	31835353	rs17201248
+Thionamide-induced agranulocytosis in Graves' disease	6	32421366	rs116869525
+Thionamide-induced agranulocytosis in Graves' disease	6	32829996	rs2228391
+Graves' disease	1	2597658	rs2843403
+Graves' disease	2	12500615	rs1534422
+Graves' disease	3	188407332	rs13093110
+Graves' disease	6	90267049	rs72928038
+Graves' disease			imm_6_167338101
+Graves' disease	11	95578258	rs4409785
+Graves' disease	12	42475338	rs4768412
+Graves' disease	16	31174561	rs57348955
+Graves' disease	1	113834946	rs2476601
+Graves' disease	2	203880280	rs11571297
+Graves' disease	10	6056861	rs706779
+Graves' disease	14	80992418	rs2300519
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	1	2597658	rs2843403
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	2	12500615	rs1534422
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	3	188407332	rs13093110
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	6	90267049	rs72928038
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)			imm_6_167338101
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	11	95578258	rs4409785
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	12	42475338	rs4768412
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	16	31174561	rs57348955
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	1	113834946	rs2476601
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	2	203880280	rs11571297
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	10	6056861	rs706779
+Graves' disease	8	133133268	rs2294025
+Graves' disease	14	98021670	rs1456988
+Graves' disease	22	37185445	rs229527
+Graves' disease	X	79241621	rs5912838
+Graves' disease	1	160495121	rs1265883
+Graves' disease	9	133273813	rs505922
+Graves' disease	1	157699488	rs3761959
+Graves' disease	2	203857029	rs1024161
+Graves' disease	6	31382927	rs1521
+Graves' disease	4	40301616	rs6832151
+Graves' disease	6	31090401	rs4947296
+Graves' disease	6	32696074	rs6457617
+Graves' disease	6	33092341	rs2281388
+Graves' disease	6	90212021	rs370409
+Graves' disease	6	166969587	rs9355610
+Graves' disease	9	133273813	rs505922
+Graves' disease	14	80984885	rs12101261
+Graves' disease	6	32369853	rs2273017
+Graves' disease	6	29967473	rs3893464
+Graves' disease	6	30006148	rs4313034
+Graves' disease	6	30569829	rs3132613
+Graves' disease	6	31034839	rs4248154
+Graves' disease	6	33650385	rs9394159
+Graves' disease	6	33850152	rs4713693
+Hashimoto thyroiditis versus Graves' disease	1	107800465	rs7537605
+Hashimoto thyroiditis versus Graves' disease	4	11038666	rs2904297
+Hashimoto thyroiditis versus Graves' disease	6	46677138	rs2270450
+Thyroid-associated orbitopathy in graves' disease	20	15870432	rs6110809
+Graves' disease	2	203855416	rs11571292
+Graves' disease	20	46113425	rs1569723
+Graves' disease	3	188405190	rs2049218
+Graves' disease	4	40305571	rs113284964
+Graves' disease	8	127190780	rs10673095
+Graves' disease	X	79238163	rs4134408
+Graves' disease	1	157705207	rs2317230
+Graves' disease	1	160450150	rs117201373
+Graves' disease	12	110958445	rs11065783
+Graves' disease	14	80996305	rs4903961
+Graves' disease	16	30919662	rs9319588
+Graves' disease	1	113834946	rs2476601
+Graves' disease	1	157723932	rs1977710
+Graves' disease	1	160447367	rs12026490
+Graves' disease	2	191089272	rs12612769
+Graves' disease	2	203869764	rs231779
+Graves' disease	3	188414322	rs6780858
+Graves' disease	4	40305547	rs13136820
+Graves' disease	6	167059705	rs13210649
+Graves' disease	6	33073296	rs9357156
+Graves' disease	6	34825347	rs9469899
+Graves' disease	6	90279406	rs7754251
+Graves' disease	7	28154778	rs860262
+Graves' disease	8	127188311	rs2466028
+Graves' disease	10	62025330	rs10821944
+Graves' disease	11	95578258	rs4409785
+Graves' disease	12	111792215	rs4646776
+Graves' disease	14	80990913	rs28414437
+Graves' disease	16	30958165	rs11643872
+Graves' disease	16	79708493	rs17689159
+Graves' disease			chr19:18006252
+Graves' disease	20	46113425	rs1569723
+Graves' disease	21	42414745	rs34544259
+Graves' disease	22	22710482	rs5751536
+Graves' disease	X	77849367	rs4826198
+Graves' disease	X	78996283	rs201234360
+Graves' disease	1	157723932	rs1977710
+Graves' disease	1	160447367	rs12026490
+Graves' disease	2	203864430	rs231770
+Graves' disease	4	40305547	rs13136820
+Graves' disease	6	33072321	rs4345439
+Graves' disease	6	35097950	rs36110421
+Graves' disease	8	127198421	rs1378902
+Graves' disease	10	62025330	rs10821944
+Graves' disease	12	111730205	rs11066015
+Graves' disease	14	80990913	rs28414437
+Graves' disease	16	30926478	rs8050588
+Graves' disease			chr19:18006252
+Graves' disease	20	46113425	rs1569723
+Graves' disease	X	78148837	rs2982584
+Graves' disease	X	79152363	rs201689059
+Adverse response to antithyroid drugs in Graves disease	11	102591595	rs61893841
+Adverse response to antithyroid drugs in Graves disease	17	65208429	rs144542704
+Thyrotoxic hypokalemic periodic paralysis in Graves disease	9	134864107	rs60798663
+Thyrotoxic hypokalemic periodic paralysis in Graves disease	17	70330197	rs312691
+Thyrotoxic hypokalemic periodic paralysis in Graves disease	17	70310696	rs312729
+Thyrotoxic hypokalemic periodic paralysis in Graves disease	17	70263305	rs623011
+Thyrotoxic hypokalemic periodic paralysis in Graves disease	17	70380682	rs12451295
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70380682	rs12451295
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	4	154322452	rs1352714
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70330197	rs312691
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70384516	rs16975694
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70496115	rs62069783
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70303644	rs7222503
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	2	12494152	rs1881145
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70295230	rs411079
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70437584	rs16975792
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	X	79241621	rs5912838
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70276213	rs17714860
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	11	77872220	rs2186564
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70310696	rs312729
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	6	31090401	rs4947296
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	6	31382927	rs1521
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	6	33092341	rs2281388
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	6	32696074	rs6457617
+Thyrotoxic hypokalemic periodic paralysis and Graves disease	17	70263305	rs623011

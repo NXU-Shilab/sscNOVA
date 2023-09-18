@@ -1,0 +1,3790 @@
+Asthma	17	39867492	rs4795397
+Asthma	17	39908152	rs11078927
+Asthma	17	39766006	rs907092
+Bronchial hyperresponsiveness in asthma	17	39909987	rs2290400
+Allergic disease (asthma, hay fever or eczema)	18	54668944	rs4801001
+Allergic disease (asthma, hay fever or eczema)	18	62342581	rs4574025
+Allergic disease (asthma, hay fever or eczema)	19	33230549	rs10414065
+Allergic disease (asthma, hay fever or eczema)	20	51541298	rs3787184
+Allergic disease (asthma, hay fever or eczema)	20	53591817	rs2766678
+Allergic disease (asthma, hay fever or eczema)	20	63691346	rs6011033
+Allergic disease (asthma, hay fever or eczema)	21	35095533	rs73205303
+Allergic disease (asthma, hay fever or eczema)	21	43426546	rs76081789
+Allergic disease (asthma, hay fever or eczema)	22	41420648	rs5758343
+Allergic disease (asthma, hay fever or eczema)	5	132660808	rs848
+Allergic disease (asthma, hay fever or eczema)	10	6052734	rs61839660
+Allergic disease (asthma, hay fever or eczema)	10	8799706	rs2025758
+Allergic disease (asthma, hay fever or eczema)	5	142115369	rs10068717
+Allergic disease (asthma, hay fever or eczema)	5	177355217	rs13153019
+Allergic disease (asthma, hay fever or eczema)	6	33679281	rs10947428
+Allergic disease (asthma, hay fever or eczema)	6	33078975	rs3097670
+Allergic disease (asthma, hay fever or eczema)	6	127973564	rs35469349
+Allergic disease (asthma, hay fever or eczema)	6	166977184	rs72033857
+Allergic disease (asthma, hay fever or eczema)	7	28117268	rs6977955
+Allergic disease (asthma, hay fever or eczema)	8	80380364	rs7824394
+Allergic disease (asthma, hay fever or eczema)	9	6051399	rs343478
+Allergic disease (asthma, hay fever or eczema)	11	65784486	rs479844
+Allergic disease (asthma, hay fever or eczema)	11	111599843	rs7130753
+Allergic disease (asthma, hay fever or eczema)	11	76588387	rs55646091
+Allergic disease (asthma, hay fever or eczema)	11	76632384	rs11236814
+Allergic disease (asthma, hay fever or eczema)	17	39992780	rs11652139
+Allergic disease (asthma, hay fever or eczema)	17	40614390	rs11464691
+Allergic disease (asthma, hay fever or eczema)	2	102309902	rs12470864
+Allergic disease (asthma, hay fever or eczema)	5	110824180	rs1814576
+Allergic disease (asthma, hay fever or eczema)	5	111066174	rs1837253
+Allergic disease (asthma, hay fever or eczema)	5	132653444	rs3091307
+Allergic disease (asthma, hay fever or eczema)	6	31383887	rs2507978
+Allergic disease (asthma, hay fever or eczema)	10	6032488	rs4747846
+Allergic disease (asthma, hay fever or eczema)	10	8894199	rs11255968
+Allergic disease (asthma, hay fever or eczema)	10	8990592	rs72782676
+Allergic disease (asthma, hay fever or eczema)	10	9022398	rs1444789
+Allergic disease (asthma, hay fever or eczema)	12	49951888	rs11169225
+Allergic disease (asthma, hay fever or eczema)	12	57095926	rs1059513
+Allergic disease (asthma, hay fever or eczema)	12	56007301	rs10876864
+Allergic disease (asthma, hay fever or eczema)	12	111494996	rs7137828
+Allergic disease (asthma, hay fever or eczema)	12	120925921	rs6489785
+Allergic disease (asthma, hay fever or eczema)	12	123258146	rs63406760
+Allergic disease (asthma, hay fever or eczema)	13	40599271	rs4943794
+Allergic disease (asthma, hay fever or eczema)	13	73053137	rs9573092
+Allergic disease (asthma, hay fever or eczema)	14	35292469	rs1048990
+Allergic disease (asthma, hay fever or eczema)	14	37627797	rs111914382
+Allergic disease (asthma, hay fever or eczema)	14	68287700	rs2104047
+Allergic disease (asthma, hay fever or eczema)	14	75502265	rs9323612
+Allergic disease (asthma, hay fever or eczema)	14	102768675	rs9989163
+Allergic disease (asthma, hay fever or eczema)	15	41490486	rs12440045
+Allergic disease (asthma, hay fever or eczema)	15	60776148	rs10519067
+Allergic disease (asthma, hay fever or eczema)	15	67156025	rs56375023
+Allergic disease (asthma, hay fever or eczema)	15	90502176	rs3540
+Allergic disease (asthma, hay fever or eczema)	16	11183501	rs11644510
+Allergic disease (asthma, hay fever or eczema)	16	11397150	rs12596613
+Allergic disease (asthma, hay fever or eczema)	17	4618178	rs71368508
+Allergic disease (asthma, hay fever or eczema)	17	39912823	rs921650
+Allergic disease (asthma, hay fever or eczema)	17	40608272	rs112401631
+Allergic disease (asthma, hay fever or eczema)	17	42262844	rs7207591
+Allergic disease (asthma, hay fever or eczema)	17	45353330	rs7214661
+Allergic disease (asthma, hay fever or eczema)	17	49320708	rs9889262
+Allergic disease (asthma, hay fever or eczema)	1	2579316	rs10910095
+Allergic disease (asthma, hay fever or eczema)	1	8422018	rs301806
+Allergic disease (asthma, hay fever or eczema)	1	24925432	rs760805
+Allergic disease (asthma, hay fever or eczema)	1	35216137	rs76167968
+Allergic disease (asthma, hay fever or eczema)	1	150293284	rs7512552
+Allergic disease (asthma, hay fever or eczema)	1	152313385	rs61816761
+Allergic disease (asthma, hay fever or eczema)	1	152206676	rs12123821
+Allergic disease (asthma, hay fever or eczema)	1	151824266	rs11204896
+Allergic disease (asthma, hay fever or eczema)	1	154454494	rs2228145
+Allergic disease (asthma, hay fever or eczema)	1	161215268	rs2070901
+Allergic disease (asthma, hay fever or eczema)	1	167462115	rs2988277
+Allergic disease (asthma, hay fever or eczema)	1	173177782	rs4090390
+Allergic disease (asthma, hay fever or eczema)	1	172731728	rs1102705
+Allergic disease (asthma, hay fever or eczema)	1	226727033	rs697852
+Allergic disease (asthma, hay fever or eczema)	2	8302118	rs10174949
+Allergic disease (asthma, hay fever or eczema)	2	64609133	rs4671601
+Allergic disease (asthma, hay fever or eczema)	2	102324851	rs10865050
+Allergic disease (asthma, hay fever or eczema)	2	111630961	rs4848612
+Allergic disease (asthma, hay fever or eczema)	2	111511550	rs13403656
+Allergic disease (asthma, hay fever or eczema)	2	112832890	rs1143633
+Allergic disease (asthma, hay fever or eczema)	2	143074030	rs74847330
+Allergic disease (asthma, hay fever or eczema)	2	198085516	rs1064213
+Allergic disease (asthma, hay fever or eczema)	2	227843146	rs13384448
+Allergic disease (asthma, hay fever or eczema)	2	233206983	rs1057258
+Allergic disease (asthma, hay fever or eczema)	2	241759225	rs34290285
+Allergic disease (asthma, hay fever or eczema)	3	33027599	rs6776757
+Allergic disease (asthma, hay fever or eczema)	3	72345701	rs61192126
+Allergic disease (asthma, hay fever or eczema)	3	101523907	rs13088318
+Allergic disease (asthma, hay fever or eczema)	3	121933294	rs75557865
+Allergic disease (asthma, hay fever or eczema)	3	141602995	rs10663129
+Allergic disease (asthma, hay fever or eczema)	3	188415548	rs60946162
+Allergic disease (asthma, hay fever or eczema)	3	188684798	rs17607589
+Allergic disease (asthma, hay fever or eczema)	3	187915480	rs519973
+Allergic disease (asthma, hay fever or eczema)	3	188076045	rs2030030
+Allergic disease (asthma, hay fever or eczema)	3	196645675	rs80064395
+Allergic disease (asthma, hay fever or eczema)	4	4773674	rs10033073
+Allergic disease (asthma, hay fever or eczema)	4	38797027	rs5743618
+Allergic disease (asthma, hay fever or eczema)	4	102672741	rs227275
+Allergic disease (asthma, hay fever or eczema)	4	122394921	rs4145717
+Allergic disease (asthma, hay fever or eczema)	4	122532956	rs150254607
+Allergic disease (asthma, hay fever or eczema)	5	14610200	rs16903574
+Allergic disease (asthma, hay fever or eczema)	5	35862739	rs7717955
+Allergic disease (asthma, hay fever or eczema)	5	40492553	rs7714574
+Allergic disease (asthma, hay fever or eczema)	5	111134439	rs6594499
+Allergic disease (asthma, hay fever or eczema)	5	110830384	rs6869502
+Allergic disease (asthma, hay fever or eczema)	5	119348602	rs250308
+Allergic disease (asthma, hay fever or eczema)	5	132463934	rs3749833
+Allergic disease (asthma, hay fever or eczema)	9	128850912	rs12551834
+Allergic disease (asthma, hay fever or eczema)	10	9007290	rs12413578
+Allergic disease (asthma, hay fever or eczema)	10	8563590	rs11255753
+Allergic disease (asthma, hay fever or eczema)	10	62622599	rs2893907
+Allergic disease (asthma, hay fever or eczema)	10	102466075	rs10883723
+Allergic disease (asthma, hay fever or eczema)	5	141545795	rs740474
+Allergic disease (asthma, hay fever or eczema)	5	160482338	rs2910162
+Allergic disease (asthma, hay fever or eczema)	6	32658626	rs34004019
+Allergic disease (asthma, hay fever or eczema)	6	31355235	rs2854001
+Allergic disease (asthma, hay fever or eczema)	6	29925798	rs9259819
+Allergic disease (asthma, hay fever or eczema)	6	31606748	rs28895016
+Allergic disease (asthma, hay fever or eczema)	6	90277793	rs2134814
+Allergic disease (asthma, hay fever or eczema)	6	106219660	rs9372120
+Allergic disease (asthma, hay fever or eczema)	6	137874014	rs5029937
+Allergic disease (asthma, hay fever or eczema)	6	157098374	rs9383820
+Allergic disease (asthma, hay fever or eczema)	7	20521373	rs6461503
+Allergic disease (asthma, hay fever or eczema)	7	20336395	rs10486391
+Allergic disease (asthma, hay fever or eczema)	7	50214301	rs17664743
+Allergic disease (asthma, hay fever or eczema)	7	77389225	rs4296977
+Allergic disease (asthma, hay fever or eczema)	8	127801845	rs6990534
+Allergic disease (asthma, hay fever or eczema)	9	6208030	rs144829310
+Allergic disease (asthma, hay fever or eczema)	9	5064193	rs16922576
+Allergic disease (asthma, hay fever or eczema)	9	120888256	rs10760123
+Allergic disease (asthma, hay fever or eczema)	11	76582714	rs7936323
+Allergic disease (asthma, hay fever or eczema)	11	95692362	rs59593577
+Allergic disease (asthma, hay fever or eczema)	11	118872577	rs12365699
+Allergic disease (asthma, hay fever or eczema)	11	128288294	rs56129466
+Allergic disease (asthma, hay fever or eczema)	12	47803199	rs55726902
+Lung function (FEV1/FVC) in asthma (dust mite allergen exposure interaction)	4	118194762	rs115997623
+Lung function (FEV1/FVC) in asthma (dust mite allergen exposure interaction)	6	118757489	rs78930606
+Lung function (FEV1) in asthma (dust mite allergen exposure interaction)	8	121918402	rs117902240
+Lung function (FEV1) in asthma (dust mite allergen exposure interaction)	1	107668383	rs7541272
+Lung function (FEV1) in asthma (dust mite allergen exposure interaction)	3	143474269	rs35312258
+Lung function (FEV1) in asthma (dust mite allergen exposure interaction)	3	143491347	rs1404568
+Lung function (FEV1) in asthma (dust mite allergen exposure interaction)	9	26458552	rs72716237
+Asthma	5	132660151	rs1295686
+Asthma	2	102369762	rs3771166
+Asthma	9	6190076	rs1342326
+Asthma	17	39965740	rs3894194
+Asthma	22	37137994	rs2284033
+Asthma	15	67154447	rs744910
+Asthma	6	32658092	rs9273349
+Asthma	17	39905943	rs2305480
+Asthma	5	132387596	rs2073643
+Asthma	15	60777789	rs11071559
+Asthma (toluene diisocyanate-induced)	10	66328750	rs10762058
+Asthma (toluene diisocyanate-induced)	13	26841536	rs9319321
+Asthma (toluene diisocyanate-induced)	9	20098713	rs16937883
+Asthma	5	132565533	rs2244012
+Asthma	15	51677471	rs17525472
+Asthma	20	3846662	rs4815617
+Asthma	5	60073967	rs1588265
+Asthma	1	197356778	rs2786098
+Asthma	1	197356778	rs2786098
+Asthma	6	166121254	rs6456042
+Pulmonary function in asthmatics	22	45272131	rs58667
+Pulmonary function in asthmatics	10	117467831	rs4752066
+Pulmonary function in asthmatics	18	849177	rs1291183
+Pulmonary function in asthmatics	19	18021731	rs12984174
+Body mass index in non-asthmatics	4	34923442	rs1317830
+Body mass index in non-asthmatics	9	123684499	rs10818854
+Body mass index in non-asthmatics	20	52940622	rs6097169
+Body mass index in non-asthmatics	17	48672429	rs8074700
+Body mass index in non-asthmatics	17	48643203	rs2326017
+Body mass index in non-asthmatics	2	25082887	rs1530016
+Body mass index in non-asthmatics	2	24935412	rs713587
+Body mass index in non-asthmatics	6	51101004	rs7775861
+Body mass index in non-asthmatics	2	24880239	rs2033654
+Body mass index in asthmatics	18	2946293	rs643507
+Body mass index in asthmatics	13	33224125	rs2555603
+Body mass index in asthmatics	10	6530263	rs11259403
+Body mass index in asthmatics	9	19579429	rs3780215
+Body mass index in asthmatics	11	73183228	rs11603160
+Body mass index in asthmatics	2	210630863	rs12468557
+Asthma (childhood onset)	9	79424447	rs2378383
+Asthma	17	39938921	rs6503525
+Asthma (bronchodilator response)	2	200285317	rs295137
+Asthma	2	102338622	rs13408661
+Asthma	6	32411712	rs9268516
+Aspirin exacerbated respiratory disease in asthmatics	6	33080884	rs1042151
+Asthma (childhood onset)	1	244347874	rs4658627
+Asthma (childhood onset)	3	3573203	rs9815663
+Asthma (childhood onset)	11	127891771	rs7927044
+Asthma (childhood onset)	13	35777629	rs7328278
+Asthma (childhood onset)	17	13655763	rs10521233
+Asthma			ch2:211694960
+Asthma	5	142066415	rs6867913
+Asthma	9	32433528	rs10970976
+Asthma	17	39933091	rs4794820
+Asthma	19	53178789	rs16984547
+Asthma	2	102354740	rs9807989
+Asthma	5	132461230	rs11745587
+Asthma (bronchodilator response)	10	4198678	rs11252394
+Asthma (bronchodilator response)	8	138872266	rs6988229
+Asthma	4	143082006	rs7686660
+Asthma	4	143436584	rs3805236
+Asthma	5	111066174	rs1837253
+Asthma	6	32187804	rs204993
+Asthma	6	32216568	rs404860
+Asthma	6	32370918	rs3129943
+Asthma	6	32390736	rs3117098
+Asthma	6	32446496	rs3129890
+Asthma	10	8930055	rs10508372
+Asthma	12	56018703	rs1701704
+Asthma	12	55970537	rs2069408
+Asthma	6	32690302	rs7775228
+Asthma	6	32720196	rs9275698
+Asthma	6	32993584	rs9500927
+Asthma or allergic disease (pleiotropy)	3	196646711	rs4916533
+Asthma or allergic disease (pleiotropy)	1	92571555	rs12743520
+Asthma or allergic disease (pleiotropy)	2	234770601	rs1017494
+Asthma or allergic disease (pleiotropy)	1	167457187	rs1214598
+Asthma or allergic disease (pleiotropy)	11	111566171	rs659529
+Asthma or allergic disease (pleiotropy)	20	63690935	rs3208007
+Asthma or allergic disease (pleiotropy)	1	8420956	rs301805
+Asthma or allergic disease (pleiotropy)	1	24924933	rs742230
+Asthma or allergic disease (pleiotropy)	12	56007301	rs10876864
+Asthma or allergic disease (pleiotropy)	4	122441954	rs56267605
+Asthma or allergic disease (pleiotropy)	7	20521373	rs6461503
+Asthma or allergic disease (pleiotropy)	10	8553876	rs10795656
+Asthma or allergic disease (pleiotropy)	14	68285926	rs8008961
+Asthma or allergic disease (pleiotropy)	5	5074712	rs270636
+Asthma or allergic disease (pleiotropy)	3	107340876	rs793607
+Asthma or allergic disease (pleiotropy)	9	34889447	rs276666
+Asthma or allergic disease (pleiotropy)	9	6350235	rs2169282
+Asthma or allergic disease (pleiotropy)	8	80388446	rs2136016
+Asthma or allergic disease (pleiotropy)	5	132724891	rs10074523
+Asthma or allergic disease (pleiotropy)	5	132472976	rs2548992
+Asthma or allergic disease (pleiotropy)	17	39911790	rs869402
+Asthma or allergic disease (pleiotropy)	10	6052734	rs61839660
+Asthma or allergic disease (pleiotropy)	5	110807116	rs7705653
+Asthma or allergic disease (pleiotropy)	1	152347096	rs61816766
+Asthma or allergic disease (pleiotropy)	1	152921415	rs61815704
+Baseline cortisol levels in response to low dose short synacthen test in corticosteroid treated asthma	12	117321510	rs76830467
+Baseline cortisol levels in response to low dose short synacthen test in corticosteroid treated asthma	14	105694756	rs201541519
+Baseline cortisol levels in response to low dose short synacthen test in corticosteroid treated asthma	20	46719767	rs117420762
+Baseline cortisol levels in response to low dose short synacthen test in corticosteroid treated asthma	22	17685512	rs140179402
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	4	22794376	rs111863753
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	6	136006932	rs149647891
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	6	25701740	rs5875060
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	12	99392036	rs142161979
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	19	48019433	rs137939366
+Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	2	140665410	rs142320277
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	7	33120302	rs2392165
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	1	88756513	rs77582594
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	11	19760645	rs7118473
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	16	10265732	rs194326
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	3	1075549	rs2729117
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	4	23917905	rs7691998
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	6	41639846	rs75852965
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	6	5589406	rs7751224
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	8	131391985	rs11991713
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	8	25664618	rs17801625
+Subjective response to placebo treatment in childhood asthma (change in cough/wheeze)	9	25691229	rs9942904
+Response to placebo treatment in childhood asthma (FVC change)	16	27716458	rs12930749
+Response to placebo treatment in childhood asthma (FVC change)	16	27743124	rs12933955
+Response to placebo treatment in childhood asthma (FVC change)	2	240786220	rs74002922
+Response to placebo treatment in childhood asthma (FVC change)	5	81269361	rs62365031
+Response to placebo treatment in childhood asthma (FVC change)	7	2693648	rs111675143
+Response to placebo treatment in childhood asthma (FVC change)	7	14346007	rs17774495
+Response to placebo treatment in childhood asthma (FVC change)	7	104084676	rs7810885
+Response to placebo treatment in childhood asthma (FVC change)	15	98172432	rs1480090
+Response to placebo treatment in childhood asthma (FVC change)	16	27618340	rs4787980
+Response to placebo treatment in childhood asthma (FVC change)	20	4167215	rs1765013
+Response to placebo treatment in childhood asthma (FVC change)	21	37763184	rs8132375
+Response to placebo treatment in childhood asthma (FVC change)	22	48931631	rs2318405
+Allergic disease (asthma, hay fever or eczema)	15	41211532	rs8043253
+Allergic disease (asthma, hay fever or eczema)	4	122219899	rs45605540
+Allergic disease (asthma, hay fever or eczema)	9	6233082	rs12339348
+Allergic disease (asthma, hay fever or eczema)	12	56076841	rs11171739
+Allergic disease (asthma, hay fever or eczema)	20	53554702	rs2766664
+Allergic disease (asthma, hay fever or eczema)	15	67163292	rs56062135
+Allergic disease (asthma, hay fever or eczema)	16	11129597	rs11645657
+Allergic disease (asthma, hay fever or eczema)	11	76582483	rs7936070
+Allergic disease (asthma, hay fever or eczema)	10	6052734	rs61839660
+Allergic disease (asthma, hay fever or eczema)	5	110807116	rs7705653
+Allergic disease (asthma, hay fever or eczema)	14	68195642	rs56267624
+Allergic disease (asthma, hay fever or eczema)	1	152027641	rs115288876
+Allergic disease (asthma, hay fever or eczema)	9	6187132	rs76962799
+Allergic disease (asthma, hay fever or eczema)	1	152347096	rs61816766
+Asthma or allergic disease (pleiotropy)	6	32658837	rs9273374
+Asthma or allergic disease (pleiotropy)	2	102319699	rs72823641
+Asthma or allergic disease (pleiotropy)	8	56793197	rs1241357
+Asthma or allergic disease (pleiotropy)	5	35878993	rs6881270
+Asthma or allergic disease (pleiotropy)	19	33230549	rs10414065
+Asthma or allergic disease (pleiotropy)	4	38782646	rs28393318
+Asthma or allergic disease (pleiotropy)	17	40619224	rs9911533
+Asthma or allergic disease (pleiotropy)	12	57095926	rs1059513
+Asthma or allergic disease (pleiotropy)	16	11131109	rs36045143
+Asthma or allergic disease (pleiotropy)	5	111066174	rs1837253
+Asthma or allergic disease (pleiotropy)	2	241759225	rs34290285
+Asthma	5	111066174	rs1837253
+Asthma	5	132589495	rs2706362
+Asthma	15	67163292	rs56062135
+Asthma	2	102319699	rs72823641
+Asthma	17	39911790	rs869402
+Asthma	9	6177453	rs9775039
+Allergic disease (asthma, hay fever or eczema)	6	32630251	rs146668528
+Allergic disease (asthma, hay fever or eczema)	2	102319699	rs72823641
+Allergic disease (asthma, hay fever or eczema)	4	38852748	rs148906978
+Allergic disease (asthma, hay fever or eczema)	4	38788119	rs4833093
+Allergic disease (asthma, hay fever or eczema)	19	33230549	rs10414065
+Allergic disease (asthma, hay fever or eczema)	10	9007290	rs12413578
+Allergic disease (asthma, hay fever or eczema)	12	57099944	rs3024971
+Allergic disease (asthma, hay fever or eczema)	2	241759225	rs34290285
+Allergic disease (asthma, hay fever or eczema)	2	8302118	rs10174949
+Allergic disease (asthma, hay fever or eczema)	5	111131801	rs1438673
+Allergic disease (asthma, hay fever or eczema)	5	35878993	rs6881270
+Allergic disease (asthma, hay fever or eczema)	17	40619224	rs9911533
+Allergic disease (asthma, hay fever or eczema)	1	92571555	rs12743520
+Allergic disease (asthma, hay fever or eczema)	11	111566171	rs659529
+Allergic disease (asthma, hay fever or eczema)	20	63690935	rs3208007
+Allergic disease (asthma, hay fever or eczema)	1	24924933	rs742230
+Allergic disease (asthma, hay fever or eczema)	1	167457187	rs1214598
+Allergic disease (asthma, hay fever or eczema)	4	38743861	rs10008032
+Allergic disease (asthma, hay fever or eczema)	10	8540354	rs1409123
+Asthma or allergic disease (pleiotropy)	15	67163292	rs56062135
+Asthma or allergic disease (pleiotropy)	9	6177453	rs9775039
+Asthma	5	132458080	rs1023518
+Asthma	1	152313385	rs61816761
+Asthma	2	102386805	rs2241116
+Asthma	6	33063835	rs35449774
+Asthma	1	152949110	rs115813648
+Asthma	1	152206676	rs12123821
+Asthma	6	31354420	rs2428494
+Asthma	6	32700133	rs2647044
+Asthma	7	28101332	rs78823938
+Asthma	1	152799487	rs72702900
+Asthma	10	9166241	rs17406680
+Asthma	5	111066174	rs1837253
+Asthma	15	67149412	rs72743461
+Asthma	6	32607091	rs7760841
+Asthma	5	110810746	rs17513503
+Asthma	18	63775385	rs12964116
+Asthma	2	102298194	rs10515922
+Asthma	5	111051427	rs62375550
+Asthma	11	76582682	rs7936312
+Asthma	6	31357178	rs34437781
+Asthma	9	5850375	rs58029167
+Asthma	5	14610200	rs16903574
+Asthma	16	27354132	rs3024622
+Asthma	10	6073676	rs62626322
+Asthma	3	188327228	rs9852988
+Asthma	12	55995509	rs705700
+Asthma	3	33006170	rs35570272
+Asthma	17	49377153	rs28412876
+Asthma	6	127970054	rs3190930
+Asthma	14	68276590	rs10131490
+Asthma	3	188610688	rs73194495
+Asthma	1	151813805	rs3828058
+Asthma	5	132672844	rs142117234
+Asthma	15	67078906	rs28617673
+Asthma	9	6380605	rs139939994
+Asthma	11	76346902	rs55684690
+Asthma	17	40012575	rs150260796
+Asthma	17	39418339	rs146644295
+Asthma	12	57115319	rs3122929
+Asthma	6	28997735	rs114357009
+Asthma	5	132693722	rs17510339
+Asthma	17	40608272	rs112401631
+Asthma	6	31571990	rs2844482
+Asthma	5	132656189	rs115008099
+Asthma	5	111135296	rs6594500
+Asthma	17	47795683	rs72833417
+Asthma	4	122084379	rs10021288
+Asthma	5	110923378	rs10056243
+Asthma	21	35130261	rs2834787
+Asthma	4	122219915	rs45613035
+Asthma	10	6051176	rs12722502
+Asthma	12	57104437	rs201011002
+Asthma	16	27348194	rs145986476
+Asthma	10	8990592	rs72782676
+Asthma	9	6255967	rs146597587
+Asthma (childhood onset)	6	33128931	rs3117006
+Asthma (childhood onset)	6	31504943	rs2855812
+Asthma and attention deficit hyperactivity disorder	10	8799706	rs2025758
+Asthma and attention deficit hyperactivity disorder	10	8484656	rs7094182
+Asthma and attention deficit hyperactivity disorder	5	104659667	rs325485
+Asthma and attention deficit hyperactivity disorder	4	102686096	rs227283
+Asthma and attention deficit hyperactivity disorder	6	33128931	rs3117006
+Asthma and attention deficit hyperactivity disorder	2	63446926	rs6736411
+Asthma and attention deficit hyperactivity disorder	6	33633953	rs71565398
+Asthma and anxiety disorder	3	101980310	rs1709393
+Asthma and major depressive disorder	6	31504943	rs2855812
+Asthma and major depressive disorder	6	32660651	rs2854275
+Asthma and major depressive disorder	5	104686538	rs396755
+Asthma and major depressive disorder	6	28728995	rs150814685
+Asthma and major depressive disorder	6	29257248	rs149702363
+Asthma and major depressive disorder	6	27882936	rs493161
+Asthma and major depressive disorder	1	8443319	rs301817
+Asthma and major depressive disorder	6	28966575	rs148696809
+Asthma and major depressive disorder	6	27303811	rs147121091
+Asthma and major depressive disorder	1	72474590	rs10789340
+Asthma	13	99333984	rs59186511
+Asthma	7	20416355	rs2390314
+Asthma	3	33047293	rs79337446
+Asthma	9	6504189	rs7864027
+Asthma	17	39654542	rs72827176
+Asthma	15	60777002	rs34986765
+Asthma	16	11119164	rs35441874
+Asthma	2	101671373	rs13022699
+Asthma	5	111254701	rs10478040
+Asthma	16	27370327	rs77315098
+Asthma	6	32639135	rs28383364
+Asthma	10	9016708	rs1444782
+Asthma	12	57055423	rs11172086
+Asthma	2	241759225	rs34290285
+Asthma	9	6051924	rs10975416
+Asthma	17	39910014	rs1008723
+Asthma	4	122194117	rs138538714
+Asthma	10	9069863	rs72784452
+Asthma	5	111082543	rs149096812
+Asthma	19	33235672	rs117710327
+Asthma	9	6209697	rs992969
+Asthma	6	32619380	rs28688825
+Asthma	10	9028714	rs77000868
+Asthma	2	102319699	rs72823641
+Asthma	6	31570500	rs3093539
+Asthma (time to onset)	2	102349850	rs10208293
+Asthma (time to onset)	6	32636595	rs9272346
+Asthma (time to onset)	9	6213387	rs928413
+Asthma (time to onset)	16	50823782	rs1861760
+Asthma (time to onset)	17	39887090	rs9901146
+Asthma (time to onset)	2	101809678	rs12468899
+Asthma (time to onset)	15	60777789	rs11071559
+Asthma (time to onset)	16	27362659	rs1805013
+Asthma (time to onset)	9	6142948	rs413382
+Asthma (time to onset)	17	39972395	rs3859192
+Asthma	7	20372274	rs3757727
+Asthma	5	35846713	rs4594881
+Asthma	17	40711984	rs2253717
+Asthma	5	132530099	rs4705959
+Asthma	10	6013641	rs9663421
+Asthma	17	39984674	rs2305482
+Asthma	3	177134250	rs7626218
+Asthma	10	8524027	rs2477923
+Asthma	17	45259320	rs4247364
+Asthma	7	20547220	rs35621564
+Asthma	4	38754349	rs114559131
+Asthma	1	198632575	rs76181804
+Asthma	3	196632439	rs1684466
+Asthma	3	188415730	rs13099273
+Asthma	17	39279125	rs801429
+Asthma	11	118872577	rs12365699
+Asthma	9	6545605	rs75636497
+Asthma	5	132734014	rs9327638
+Asthma	3	188682451	rs17670280
+Asthma	2	8303673	rs10178845
+Asthma	10	9213927	rs75125788
+Asthma	6	90276840	rs6899623
+Asthma	15	67183150	rs10152595
+Asthma	8	80374940	rs13263709
+Asthma	3	196622133	rs112336433
+Asthma	5	142088291	rs12655443
+Asthma	10	8072959	rs7087058
+Asthma	1	203122146	rs903361
+Asthma	10	8473385	rs12785018
+Asthma	7	22752699	rs58507040
+Asthma	11	65791795	rs10791824
+Asthma	5	111228575	rs72793573
+Asthma	10	8968661	rs827637
+Asthma	1	161215268	rs2070901
+Asthma	1	167458010	rs7523907
+Asthma	5	119355086	rs3813308
+Asthma	1	8441726	rs301819
+Asthma	10	92669710	rs7918084
+Asthma	20	63748397	rs2315646
+Asthma	11	76655646	rs12718488
+Asthma	11	10639293	rs7936275
+Asthma	2	102072571	rs13427957
+Asthma	1	24927826	rs7517302
+Asthma	9	23588585	rs10965947
+Asthma	1	152473145	rs4845774
+Asthma	12	120926032	rs77741769
+Asthma	11	61824890	rs174566
+Asthma	11	111620598	rs11828343
+Asthma	8	127765473	rs13277355
+Asthma	11	36322652	rs7130870
+Asthma	17	39913696	rs7216389
+Asthma (sex interaction)	5	132493605	rs2549003
+Asthma (sex interaction)	10	117887745	rs17642749
+Asthma (sex interaction)	2	149798707	rs1012307
+Asthma (sex interaction)	2	212325005	rs4673659
+Asthma (sex interaction)	6	165152406	rs2675724
+Asthma (sex interaction)	17	3035239	rs9895098
+Asthma (childhood onset)	7	106018005	rs6967330
+Asthma (childhood onset)	17	39905943	rs2305480
+Asthma (childhood onset)	9	6213387	rs928413
+Asthma (childhood onset)	5	132634182	rs6871536
+Asthma (childhood onset)	17	39965740	rs3894194
+Asthma (childhood onset)	5	132660151	rs1295686
+Bronchodilator response in asthma (inhaled corticosteroid treatment interaction)	19	52098146	rs11666341
+Bronchodilator response in asthma (inhaled corticosteroid treatment interaction)	19	52083666	rs12460587
+Bronchodilator response in asthma (inhaled corticosteroid treatment interaction)	19	52029018	rs2288884
+Bronchodilator response in asthma (inhaled corticosteroid treatment interaction)	8	113873203	rs6469488
+Bronchodilator response in asthma (inhaled corticosteroid treatment interaction)	19	52104512	rs10411428
+Asthma	13	63064196	rs3119939
+Asthma	10	51733713	rs7922491
+Asthma	1	154453788	rs4129267
+Asthma	11	76559639	rs7130588
+Asthma	8	117013406	rs3019885
+Asthma	6	33075103	rs987870
+Asthma (childhood onset)	7	131336340	rs7807274
+Asthma (childhood onset)	3	178137844	rs9883878
+Asthma (childhood onset)	8	34187743	rs9297216
+Asthma (childhood onset)	4	39086721	rs35141484
+Asthma (childhood onset)	9	12521826	rs16929097
+Asthma (childhood onset)	1	116587089	rs17036023
+Asthma (childhood onset)	10	99095945	rs12570188
+Asthma (childhood onset)	10	71831773	rs11000019
+Asthma (childhood onset)	20	7405311	rs6054973
+Asthma (childhood onset)	3	112550440	rs2705520
+Asthma (childhood onset)	3	35598334	rs17033506
+Asthma (childhood onset)	6	44801500	rs7770848
+Asthma (childhood onset)	2	39888556	rs6721181
+Asthma (childhood onset)	9	86912543	rs11141597
+Asthma (childhood onset)	7	24200546	rs886448
+Asthma (childhood onset)	1	180676305	rs7527074
+Asthma (childhood onset)	4	58347679	rs17218161
+Bronchodilator response in asthma	2	52756635	rs350729
+Asthma (childhood onset)	3	100757869	rs9823506
+Asthma (childhood onset)	6	113158133	rs2473967
+Allergic rhinitis in asthma	8	16931726	rs1523643
+Allergic rhinitis in non-asthmatics	5	125252697	rs12520745
+Allergic rhinitis in non-asthmatics	21	15092828	rs2823053
+Allergic rhinitis in non-asthmatics	5	125252465	rs17152484
+Allergic rhinitis in non-asthmatics	6	122095195	rs2606618
+Allergic rhinitis in non-asthmatics	7	19438358	rs7780001
+Allergic rhinitis in non-asthmatics	21	15089947	rs2823048
+Allergic rhinitis in non-asthmatics	21	34753521	rs2834629
+Asthma (corticosteroid response)	16	54455881	rs2388639
+Asthma (corticosteroid response)	5	15783487	rs10044254
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	2	3675436	rs11123610
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	3	155327641	rs6440972
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	13	48676861	rs1323555
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	13	80488806	rs1930336
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	8	9407201	rs6601306
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	12	96240427	rs11835157
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	6	91246945	rs2811670
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	5	94362147	rs2434364
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	13	63636265	rs4884502
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	2	3655451	rs6754459; rs13384889; rs1965732; rs10173297; rs4849975; rs17445240; rs13031619; rs11902059; rs13418767; rs13395090; rs17017879; rs7558370
+Asthma	6	32636595	rs9272346
+Asthma	2	102337157	rs3771180
+Asthma	5	111066174	rs1837253
+Asthma	9	6193455	rs2381416
+Asthma	17	39908152	rs11078927
+Asthma	1	152520083	rs4845783
+Asthma	11	114360533	rs11214966
+Asthma	1	158962765	rs1101999
+IgE levels in asthmatics	2	36448387	rs848512
+IgE levels in asthmatics	19	56620870	rs10404342
+IgE levels in asthmatics	9	35700840	rs4879926
+IgE levels in asthmatics	4	118942321	rs1472066
+IgE levels in asthmatics (D.p. specific)	11	123777625	rs17744026
+IgE levels in asthmatics (D.p. specific)	8	53206654	rs1425902
+IgE levels in asthmatics (D.p. specific)	2	224693325	rs1843834
+IgE levels in asthmatics (D.f. specific)	14	98020208	rs10142119
+IgE levels in asthmatics (D.f. specific)	16	83325171	rs6563898
+Response to montelukast in asthma (change in FEV1)	9	20497144	rs6475448
+Response to montelukast in asthma (change in FEV1)	7	71273743	rs7794356
+Asthma	3	64540891	rs9866261
+Asthma	2	102350089	rs10197862
+Asthma	17	39869916	rs11655198
+Asthma	6	32635710	rs3104367
+Asthma	9	6208030	rs144829310
+Asthma	5	111066174	rs1837253
+Asthma	2	102297183	rs202011557
+Asthma	15	67156025	rs56375023
+Asthma	11	76582714	rs7936323
+Asthma	6	31354420	rs2428494
+Asthma	5	132565533	rs2244012
+Asthma	2	241759225	rs34290285
+Asthma	16	11136846	rs7203459
+Asthma	1	161189357	rs4233366
+Asthma	10	9007290	rs12413578
+Asthma	8	80372904	rs10957978
+Asthma	15	60776505	rs10519068
+Asthma	4	38797027	rs5743618
+Asthma	6	90275479	rs58521088
+Asthma	12	57115272	rs3001426
+Asthma	3	188684683	rs73196739
+Asthma	1	203131376	rs6683383
+Asthma	2	8317950	rs13412757
+Asthma	1	167464183	rs1723018
+Asthma	14	68283210	rs3784099
+Asthma	7	106036059	rs6959584
+Asthma	5	142150197	rs200634877
+Asthma	1	173182897	rs6691738
+Asthma	1	10497194	rs662064
+Asthma x air pollution interaction (2df)	8	6668487	rs11137048
+Asthma x air pollution interaction (2df)	5	149646839	rs6866110
+Asthma x air pollution interaction (2df)	22	44111992	rs62227671
+Asthma x air pollution interaction (2df)	20	47844694	rs6122625
+Asthma x air pollution interaction (2df)	2	134489652	rs57504074
+Asthma x Hispanic interaction (2df)	2	211721479	rs4672623
+Asthma x Hispanic interaction (2df)	8	116297663	rs10955770
+Asthma x Hispanic interaction (2df)	1	196735867	rs70620
+Asthma x Hispanic interaction (2df)	6	143037932	rs12664685
+Asthma or chronic obstructive pulmonary disease	2	15780199	rs2544523
+Asthma or chronic obstructive pulmonary disease	5	116261351	rs10043228
+Asthma or chronic obstructive pulmonary disease	13	47269242	rs9534578
+Pulmonary function in asthmatics	13	42212544	rs347412
+Pulmonary function in asthmatics	11	72161733	rs559389
+Pulmonary function in asthmatics	6	19677593	rs9366309
+Pulmonary function in asthmatics	3	141383991	rs6763931
+Pulmonary function in asthmatics	3	10844235	rs2304725
+Pulmonary function in asthmatics	7	9577350	rs17161791
+Diisocyanate-induced asthma	10	24951155	rs10828735
+Diisocyanate-induced asthma	1	112068273	rs12143327
+Diisocyanate-induced asthma	10	103630585	rs12248541
+Diisocyanate-induced asthma	6	37487051	rs2646928
+Diisocyanate-induced asthma	3	64163491	rs27387
+Diisocyanate-induced asthma	4	187920332	rs28375794
+Diisocyanate-induced asthma	4	85359485	rs342958
+Diisocyanate-induced asthma	6	93373405	rs351328
+Diisocyanate-induced asthma	18	77661491	rs356150
+Diisocyanate-induced asthma	12	21275437	rs3764044
+Diisocyanate-induced asthma	3	129418284	rs3796392
+Diisocyanate-induced asthma	5	83549670	rs3852186
+Diisocyanate-induced asthma	2	120863253	rs4143116
+Diisocyanate-induced asthma	20	42321191	rs4635580
+Diisocyanate-induced asthma	10	15612888	rs4748185
+Diisocyanate-induced asthma	15	57741661	rs487836
+Diisocyanate-induced asthma	2	134875411	rs4954192
+Diisocyanate-induced asthma	8	93291573	rs55798256
+Diisocyanate-induced asthma	10	133019423	rs55816310
+Diisocyanate-induced asthma	15	57790169	rs566767
+Diisocyanate-induced asthma	7	19125257	rs56868568
+Diisocyanate-induced asthma	8	21649156	rs59294057
+Diisocyanate-induced asthma	12	52286982	rs59448276
+Diisocyanate-induced asthma	12	24987756	rs59753639
+Diisocyanate-induced asthma	18	33810904	rs60241046
+Diisocyanate-induced asthma	3	184372478	rs6141
+Diisocyanate-induced asthma	6	140802574	rs61613191
+Diisocyanate-induced asthma	2	205440538	rs61741390
+Diisocyanate-induced asthma	2	222005387	rs6436285
+Diisocyanate-induced asthma	3	1952960	rs6442708
+Diisocyanate-induced asthma	8	21299082	rs6586977
+Diisocyanate-induced asthma	11	7379335	rs66714249
+Diisocyanate-induced asthma	11	115841215	rs66785688
+Diisocyanate-induced asthma	16	4021721	rs67335251
+Diisocyanate-induced asthma	4	12171045	rs6858365
+Diisocyanate-induced asthma	8	130511037	rs7000447
+Diisocyanate-induced asthma	9	74095368	rs7020553
+Diisocyanate-induced asthma	11	26719715	rs7112383
+Diisocyanate-induced asthma	12	126249723	rs7137521
+Diisocyanate-induced asthma	14	95621923	rs7161179
+Diisocyanate-induced asthma	17	67390098	rs7224314
+Diisocyanate-induced asthma	2	136044886	rs72974161
+Diisocyanate-induced asthma	19	38484809	rs73030953
+Diisocyanate-induced asthma	5	78052816	rs73132886
+Diisocyanate-induced asthma	7	28232071	rs73302615
+Diisocyanate-induced asthma	20	25245309	rs7344105
+Diisocyanate-induced asthma	10	27728643	rs7358151
+Diisocyanate-induced asthma	7	156017807	rs73737676
+Diisocyanate-induced asthma	2	9151105	rs73912949
+Diisocyanate-induced asthma	17	6379151	rs73976923
+Diisocyanate-induced asthma	10	103597080	rs7921536
+Diisocyanate-induced asthma	2	163774442	rs7576072
+Diisocyanate-induced asthma	17	6346734	rs79392787
+Diisocyanate-induced asthma	7	28435636	rs79835348
+Diisocyanate-induced asthma	12	129632604	rs79946301
+Diisocyanate-induced asthma	14	33326385	rs80221072
+Diisocyanate-induced asthma	5	117157137	rs76314368
+Diisocyanate-induced asthma	6	163922743	rs9356171
+Diisocyanate-induced asthma	12	52246493	rs936332
+Diisocyanate-induced asthma	6	16110152	rs9367895
+Diisocyanate-induced asthma	13	112366443	rs9577729
+Diisocyanate-induced asthma	13	87022817	rs9589866
+Diisocyanate-induced asthma	3	129490335	rs9871967
+Diisocyanate-induced asthma	18	79614321	rs9949526
+Diisocyanate-induced asthma	18	58353277	rs9963330
+Diisocyanate-induced asthma	8	133337863	rs4736655
+Diisocyanate-induced asthma	9	7267614	rs60244812
+Diisocyanate-induced asthma	11	103016500	rs74380195
+Diisocyanate-induced asthma	11	11572026	rs77302254
+Diisocyanate-induced asthma	15	90844149	rs74874915
+Diisocyanate-induced asthma	5	131429243	rs7735563
+Diisocyanate-induced asthma	4	153557590	rs74964132
+Diisocyanate-induced asthma	8	3261257	rs7819937
+Diisocyanate-induced asthma	3	107844030	rs75515191
+Diisocyanate-induced asthma	11	17620582	rs78894156
+Diisocyanate-induced asthma	6	24901633	rs79014439
+Diisocyanate-induced asthma	3	23084498	rs79143957
+Diisocyanate-induced asthma	15	29584445	rs75646498
+Diisocyanate-induced asthma	15	26476869	rs79252495
+Diisocyanate-induced asthma	2	75246790	rs7588010
+Diisocyanate-induced asthma	14	50797408	rs76096589
+Diisocyanate-induced asthma	2	140833839	rs76247873
+Diisocyanate-induced asthma	4	182622495	rs908084
+Diisocyanate-induced asthma	2	199807180	rs76506302
+Diisocyanate-induced asthma	12	129982086	rs76582905
+Diisocyanate-induced asthma	18	33508114	rs76650652
+Diisocyanate-induced asthma	5	15616567	rs76684306
+Diisocyanate-induced asthma	9	16414508	rs76780579
+Diisocyanate-induced asthma	2	163945275	rs76833157
+Diisocyanate-induced asthma	7	34075100	rs76917448
+Diisocyanate-induced asthma	4	57598187	rs7693389
+Diisocyanate-induced asthma	4	164479668	rs77156671
+Diisocyanate-induced asthma	5	111735928	rs7720886
+Diisocyanate-induced asthma	15	31248192	rs74609360
+Diisocyanate-induced asthma	5	105131414	rs7733624
+Diisocyanate-induced asthma	5	79733488	rs74935252
+Diisocyanate-induced asthma	5	126512664	rs77885874
+Diisocyanate-induced asthma	1	168751383	rs7534485
+Diisocyanate-induced asthma	18	27286085	rs78788148
+Diisocyanate-induced asthma	1	119475304	rs7551641
+Diisocyanate-induced asthma	16	24352448	rs74013184
+Diisocyanate-induced asthma	1	116219072	rs74346392
+Diisocyanate-induced asthma	1	4133491	rs12568266
+Diisocyanate-induced asthma	2	143840863	rs1257344
+Diisocyanate-induced asthma	2	45772849	rs12622534
+Diisocyanate-induced asthma	2	221342893	rs12622686
+Diisocyanate-induced asthma	10	6028576	rs12722556
+Diisocyanate-induced asthma	15	28120472	rs12913832
+Diisocyanate-induced asthma	2	222057197	rs13391419
+Diisocyanate-induced asthma	2	13542679	rs13405366
+Diisocyanate-induced asthma	11	12458540	rs1346220
+Diisocyanate-induced asthma	12	126523324	rs141337143
+Diisocyanate-induced asthma	1	9729092	rs14271
+Diisocyanate-induced asthma	2	11597965	rs1435547
+Diisocyanate-induced asthma	15	98221618	rs1442808
+Diisocyanate-induced asthma	4	12097711	rs1479279
+Diisocyanate-induced asthma	5	21259029	rs1491921
+Diisocyanate-induced asthma	10	23104137	rs1555804
+Diisocyanate-induced asthma	11	114071429	rs1672691
+Diisocyanate-induced asthma	2	157012356	rs16841200
+Diisocyanate-induced asthma	5	15607339	rs16867528
+Diisocyanate-induced asthma	5	15783391	rs16867713
+Diisocyanate-induced asthma	8	29858745	rs16876083
+Diisocyanate-induced asthma	6	29419226	rs16894878
+Diisocyanate-induced asthma	10	71336036	rs16928705
+Diisocyanate-induced asthma	18	33742030	rs16964886
+Diisocyanate-induced asthma	4	85772164	rs16995986
+Diisocyanate-induced asthma	20	3476969	rs171165
+Diisocyanate-induced asthma	7	13644138	rs17167307
+Diisocyanate-induced asthma	9	86348093	rs17461620
+Diisocyanate-induced asthma	2	13586488	rs1877101
+Diisocyanate-induced asthma	12	204673	rs188610
+Diisocyanate-induced asthma	3	158729995	rs190141647
+Diisocyanate-induced asthma	21	21773630	rs2014791
+Diisocyanate-induced asthma	12	116716457	rs2279695
+Diisocyanate-induced asthma	5	118673777	rs2376682
+Diisocyanate-induced asthma	6	21824163	rs2479808
+Diisocyanate-induced asthma	18	50790789	rs2586731
+Diisocyanate-induced asthma	22	17777938	rs10048897
+Diisocyanate-induced asthma	2	239519464	rs10174165
+Diisocyanate-induced asthma	7	80032911	rs10237103
+Diisocyanate-induced asthma	7	82453122	rs10268774
+Diisocyanate-induced asthma	7	46681113	rs10435178
+Diisocyanate-induced asthma	11	6354579	rs10769691
+Diisocyanate-induced asthma	4	123742201	rs111361850
+Diisocyanate-induced asthma	11	103145464	rs11225569
+Diisocyanate-induced asthma	1	204798177	rs11240285
+Diisocyanate-induced asthma	18	78938027	rs113740863
+Diisocyanate-induced asthma	10	61425904	rs114154155
+Diisocyanate-induced asthma	1	9819291	rs114190122
+Diisocyanate-induced asthma	8	6345443	rs114252942
+Diisocyanate-induced asthma	13	44901447	rs114280567
+Diisocyanate-induced asthma	4	30702905	rs114326390
+Diisocyanate-induced asthma	11	12069460	rs114332009
+Diisocyanate-induced asthma	9	109366718	rs114356520
+Diisocyanate-induced asthma	9	18890063	rs114646018
+Diisocyanate-induced asthma	4	174204278	rs115683773
+Diisocyanate-induced asthma	10	28301454	rs115882204
+Diisocyanate-induced asthma	16	86793401	rs115958457
+Diisocyanate-induced asthma	6	169157918	rs116146467
+Diisocyanate-induced asthma	2	232689486	rs116212486
+Diisocyanate-induced asthma	6	75236034	rs116278466
+Diisocyanate-induced asthma	15	45786109	rs11633886
+Diisocyanate-induced asthma	15	74257709	rs11635191
+Diisocyanate-induced asthma	1	211565125	rs116493700
+Diisocyanate-induced asthma	19	50895171	rs116520962
+Diisocyanate-induced asthma	20	10290719	rs116940963
+Diisocyanate-induced asthma	9	3195775	rs117260909
+Diisocyanate-induced asthma	8	133955165	rs117405208
+Diisocyanate-induced asthma	8	75406931	rs117628011
+Diisocyanate-induced asthma	12	41319504	rs118079879
+Diisocyanate-induced asthma	9	8658954	rs118106262
+Diisocyanate-induced asthma	18	77739121	rs11877305
+Diisocyanate-induced asthma	7	139355512	rs11971779
+Diisocyanate-induced asthma	1	159338281	rs12074934
+Diisocyanate-induced asthma	17	2037754	rs12451788
+Diisocyanate-induced asthma	16	56973600	rs12691052
+Diisocyanate-induced asthma	4	180182576	rs2309284
+Diisocyanate-induced asthma	8	94155019	rs2514805
+Diisocyanate-induced asthma	12	16546316	rs74377925
+Response to inhaled glucocorticoid treatment in asthma (change in FEV1)	6	97910699	rs6924808
+Response to inhaled glucocorticoid treatment in asthma (change in FEV1)	11	20232053	rs1353649
+Asthma and hay fever	6	32658824	rs9273373
+Asthma and hay fever	4	38798089	rs4833095
+Asthma and hay fever	5	111131801	rs1438673
+Asthma and hay fever	2	102350089	rs10197862
+Asthma and hay fever	17	39966427	rs7212938
+Asthma and hay fever	5	111066174	rs1837253
+Asthma and hay fever	9	6175855	rs72699186
+Asthma and hay fever	15	67175947	rs17294280
+Asthma and hay fever	8	80379644	rs7009110
+Asthma and hay fever	16	11134855	rs62026376
+Asthma and hay fever	5	110818610	rs3853750
+Asthma and hay fever	12	28042192	rs11049300
+Asthma and hay fever	17	39816455	rs12450323
+Asthma and hay fever	8	10955964	rs6982751
+Asthma and hay fever	10	6082658	rs41295115
+Asthma and hay fever	5	84611411	rs72766477
+Asthma and hay fever	2	217812863	rs76043829
+Asthma and hay fever	1	107779913	rs7521681
+Asthma and hay fever	21	36635645	rs6517368
+Asthma and hay fever	12	61856639	rs17605016
+Asthma and hay fever	9	6068077	rs343496
+Response to zileuton treatment in asthma (FEV1 change interaction)	2	46184068	rs281508
+Response to zileuton treatment in asthma (FEV1 change interaction)	2	50909664	rs2193412
+Response to zileuton treatment in asthma (FEV1 change interaction)	2	210976104	rs12991650
+Response to zileuton treatment in asthma (FEV1 change interaction)	3	29005953	rs6790709
+Response to zileuton treatment in asthma (FEV1 change interaction)	4	6175408	rs4689355
+Response to zileuton treatment in asthma (FEV1 change interaction)	4	6017164	rs4689318
+Response to zileuton treatment in asthma (FEV1 change interaction)	6	83524425	rs3812141
+Response to zileuton treatment in asthma (FEV1 change interaction)	6	69672978	rs6929584
+Response to zileuton treatment in asthma (FEV1 change interaction)	6	167135989	rs3093009
+Response to zileuton treatment in asthma (FEV1 change interaction)	7	50598336	rs7777754
+Response to zileuton treatment in asthma (FEV1 change interaction)	8	17534848	rs2720499
+Response to zileuton treatment in asthma (FEV1 change interaction)	8	27480274	rs2741335
+Response to zileuton treatment in asthma (FEV1 change interaction)	10	59313854	rs11812286
+Response to zileuton treatment in asthma (FEV1 change interaction)	11	11087692	rs1910505
+Response to zileuton treatment in asthma (FEV1 change interaction)	12	128978158	rs517020
+Response to zileuton treatment in asthma (FEV1 change interaction)	12	59692425	rs7976838
+Response to zileuton treatment in asthma (FEV1 change interaction)	14	35169914	rs12436663
+Response to zileuton treatment in asthma (FEV1 change interaction)	17	73531941	rs1872085
+Response to zileuton treatment in asthma (FEV1 change interaction)	18	75689695	rs9952762
+Response to zileuton treatment in asthma (FEV1 change interaction)	14	71181355	rs917063
+Response to zileuton treatment in asthma (FEV1 change interaction)	14	35271735	rs2899832
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	8	134838655	rs7003550
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	17	82940212	rs9896933
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	2	236897044	rs7599706
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	16	88503726	rs12447718
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	18	40803519	rs4368243
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	7	154830747	rs2316527
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	8	95196498	rs4484658
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	18	6522757	rs7506840
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	20	41864432	rs10485681
+Adult asthma	6	32652506	rs17843604
+Adult asthma	6	32473192	rs9269080
+Adult asthma	2	102341256	rs1420101
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	5	111134439	rs6594499
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	3	188414322	rs6780858
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	6	32658238	rs6905282
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	152057072	rs115045402
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	153079185	rs184587444
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	155170451	rs4971089
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	172746562	rs78037977
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	173172821	rs7521390
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	2	8311571	rs13398375
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	2	28421803	rs7559046
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	2	227805721	rs10187276
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	2	241759225	rs34290285
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	3	188414322	rs6780858
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	4	38790719	rs6531663
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	4	102593898	rs4648052
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	4	122219915	rs45613035
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	4	122481853	rs45610037
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	5	110828975	rs7728612
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	5	111134439	rs6594499
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	5	132693166	rs4705962
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	6	31355235	rs2854001
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	6	31550126	rs2523501
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	6	32338202	rs3129900
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	6	32658238	rs6905282
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	6	33065933	rs73739621
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	4	122219915	rs45613035
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	18	62342581	rs4574025
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	4	102593898	rs4648052
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	5	132693166	rs4705962
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	17	39910767	rs4795400
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	12	55991020	rs705699
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	14	68293810	rs7140939
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	17	40600717	rs7216890
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	102312157	rs72823628
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	6	33065933	rs73739621
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	173172821	rs7521390
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	28421803	rs7559046
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	5	110828975	rs7728612
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	172746562	rs78037977
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	9	6213468	rs7848215
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	12	120764861	rs9431
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	20	47061144	rs4809619
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	11	118876060	rs4938576
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	155170451	rs4971089
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	15	67163292	rs56062135
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	14	102790624	rs56101042
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	12	111535554	rs597808
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	11	128291247	rs61907712
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	9	133279427	rs635634
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	4	38790719	rs6531663
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	152206676	rs12123821
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	1	152313385	rs61816761
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	2	102312157	rs72823628
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	17	39910767	rs4795400
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	9	6213468	rs7848215
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	102324851	rs10865050
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	152206676	rs12123821
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	152313385	rs61816761
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	11	76582714	rs7936323
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	17	39912823	rs921650
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	9	6213387	rs928413
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	227805721	rs10187276
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	11	65791795	rs10791824
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	15	60777789	rs11071559
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	11	76584554	rs11236791
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	152057072	rs115045402
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	10	102525837	rs12572775
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	18	63775385	rs12964116
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	8311571	rs13398375
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	1	153079185	rs184587444
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	13	42460832	rs1853573
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	16	11135732	rs2041733
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	7	50286219	rs2085423
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	15	90392993	rs2601191
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	6	31355235	rs2854001
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	19	8675909	rs2918302
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	18	54254038	rs3017289
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	12	57099944	rs3024971
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	2	241759225	rs34290285
+Allergic disease (asthma, hay fever and/or eczema) (age of onset)	4	122481853	rs45610037
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	7	50286219	rs2085423
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	9	133279427	rs635634
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	10	102525837	rs12572775
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	11	65791795	rs10791824
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	11	76588387	rs55646091
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	11	118876060	rs4938576
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	11	128291247	rs61907712
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	12	55991020	rs705699
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	12	57099944	rs3024971
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	12	111535554	rs597808
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	12	120764861	rs9431
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	13	42460832	rs1853573
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	14	68293810	rs7140939
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	14	102790624	rs56101042
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	15	60777789	rs11071559
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	15	67163292	rs56062135
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	15	90392993	rs2601191
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	16	11135732	rs2041733
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	17	40600717	rs7216890
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	18	54254038	rs3017289
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	18	62342581	rs4574025
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	18	63775385	rs12964116
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	19	8675909	rs2918302
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	20	47061144	rs4809619
+Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis)	11	76584554	rs11236791
+Asthma (time to childhood onset) in early life tobacco smoke exposure	13	70061278	rs17742723
+Asthma (childhood onset)	20	14948299	rs13037508
+Asthma (time to childhood onset) x early life tobacco smoke interaction	2	38101036	rs232542
+Asthma (time to childhood onset) x early life tobacco smoke interaction	13	70071740	rs7334050
+Asthma (time to childhood onset) x early life tobacco smoke interaction	14	50850700	rs7493885
+Asthma (time to childhood onset) x early life tobacco smoke interaction	20	14948299	rs13037508
+Body mass index in childhood asthma	5	57534776	rs9292139
+Asthma (childhood onset)	1	19697340	rs4912145
+Asthma (childhood onset)			chr1:163230460
+Asthma (childhood onset)	3	48731247	rs74617496
+Asthma (childhood onset)	3	134992705	rs39697
+Asthma (childhood onset)	6	6276196	rs4960182
+Asthma (childhood onset)			chr8:145579950
+Asthma (childhood onset)	9	8376477	rs1566447
+Asthma (childhood onset)	9	137345136	rs142585779
+Asthma (childhood onset)	18	48386553	rs148980742
+Asthma	1	8599655	rs4480384
+Asthma	1	10573188	rs6687430
+Asthma	1	12115601	rs2230624
+Asthma	1	152312601	rs558269137
+Asthma	1	167461956	rs2995089
+Asthma	1	173201479	rs10912564
+Asthma	1	198697103	rs2296618
+Asthma	2	8303673	rs10178845
+Asthma	2	100196622	rs567095143
+Asthma	2	102319699	rs72823641
+Asthma	2	227840005	rs7423358
+Asthma	2	241759225	rs34290285
+Asthma	3	33006170	rs35570272
+Asthma	3	177134250	rs7626218
+Asthma	3	188415730	rs13099273
+Asthma	3	196632439	rs1684466
+Asthma	4	38797027	rs5743618
+Asthma	4	122148496	rs770379212
+Asthma	5	14633790	rs796632525
+Asthma	5	35881029	rs35467801
+Asthma	5	111066174	rs1837253
+Asthma	5	132660808	rs848
+Asthma	5	142130697	rs11405616
+Asthma	5	157264015	rs76493820
+Asthma	6	32659200	rs9273386
+Asthma	11	118872577	rs12365699
+Asthma	12	57099944	rs3024971
+Asthma	12	71139458	rs11178649
+Asthma	12	94211187	rs7961712
+Asthma	13	73465798	rs981625
+Asthma	13	99377210	rs34259893
+Asthma	14	68265589	rs770792291
+Asthma	15	60777789	rs11071559
+Asthma	15	67156025	rs56375023
+Asthma	15	83887871	rs4842921
+Asthma	16	11119164	rs35441874
+Asthma	16	27337847	rs3785356
+Asthma	17	39911280	rs4795401
+Asthma	17	42260918	rs11402155
+Asthma	17	45259320	rs4247364
+Asthma	17	47795683	rs72833417
+Asthma	17	49361940	rs112502960
+Asthma	17	75832822	rs112267124
+Asthma	18	63775385	rs12964116
+Asthma	19	3136093	rs117552144
+Asthma	19	33235672	rs117710327
+Asthma	21	35092334	rs11088309
+Asthma	22	41630490	rs34290865
+Asthma	6	63486683	rs533610689
+Asthma	6	90291614	rs367983479
+Asthma	6	127958284	rs802731
+Asthma	6	135388622	rs3827780
+Asthma	6	154306689	rs7770794
+Asthma	7	3022995	rs112119265
+Asthma	7	20547220	rs35621564
+Asthma	7	22726602	rs1800797
+Asthma	7	28129127	rs1160871
+Asthma	7	40657595	rs576468798
+Asthma	8	80379410	rs4739738
+Asthma	8	127765473	rs13277355
+Asthma	7	28129127	rs1160871
+Asthma	9	6209697	rs992969
+Asthma	9	23586656	rs919826
+Asthma	9	99170570	rs200491113
+Asthma	10	6051176	rs12722502
+Asthma	10	9016708	rs1444782
+Asthma	10	80486993	rs1870140
+Asthma	11	1116487	rs35225972
+Asthma	11	10634076	rs11042902
+Asthma	11	61808335	rs751229834
+Asthma	11	65784486	rs479844
+Asthma	11	76582682	rs7936312
+Asthma	11	111603392	rs1789358
+Childhood asthma x sex interaction	2	138460830	rs146406602
+Childhood asthma x sex interaction	6	158092724	rs73021932
+Childhood asthma x sex interaction	7	46130984	rs12539647
+Childhood asthma x sex interaction	20	24452435	rs6036804
+Childhood asthma	8	116325159	rs72683967
+Childhood asthma	9	22862536	rs4400476
+Childhood asthma	17	39766006	rs907092
+Asthma (childhood onset)	2	171560482	rs2542932
+Asthma (childhood onset)	9	114778630	rs7856856
+Asthma (childhood onset)	17	39919173	rs7224129
+Adult asthma	6	32660056	rs1770
+Adult asthma	6	32620853	rs9271469
+Adult asthma	5	152557157	rs2961757
+Adult asthma	6	32634619	rs9272226
+Adult asthma	10	9022398	rs1444789
+Adult asthma	14	31349363	rs142914081
+Adult asthma	6	32600901	rs146351421
+Adult asthma	6	32441130	rs3129879
+Adult asthma	9	111611994	rs57669363
+Adult asthma	9	5882401	rs10758715
+Asthma	5	111089365	rs252716
+Asthma	5	138522378	rs154073
+Asthma	6	32638702	rs9272521
+Asthma	9	6213820	rs142807069
+Asthma	9	95582584	rs67053006
+Asthma (childhood onset)	1	161215268	rs2070901
+Asthma (childhood onset)	1	203124073	rs12023876
+Asthma (childhood onset)	1	150836557	rs35665093
+Asthma (childhood onset)	1	152313385	rs61816761
+Asthma (childhood onset)	1	152799487	rs72702900
+Asthma (childhood onset)	1	152206676	rs12123821
+Asthma (childhood onset)	1	151829917	rs71625139
+Asthma (childhood onset)	1	151790858	rs55875222
+Asthma (childhood onset)	1	152305146	rs150597413
+Asthma (childhood onset)	1	152468434	rs12144049
+Asthma (childhood onset)	1	152307547	rs138726443
+Asthma (childhood onset)	1	152198985	rs1552994
+Asthma (childhood onset)	1	152219980	rs145282902
+Asthma (childhood onset)	1	152202679	rs11588970
+Asthma (childhood onset)	1	152949110	rs115813648
+Asthma (childhood onset)	1	151813805	rs3828058
+Asthma (childhood onset)	1	8664463	rs10864360
+Asthma (childhood onset)	1	151829204	rs4845604
+Asthma (childhood onset)	1	173202534	rs11811856
+Asthma (childhood onset)	1	153132598	rs535153283
+Asthma (childhood onset)	1	152487271	rs1199156
+Asthma (childhood onset)	1	172746562	rs78037977
+Asthma (childhood onset)	1	172765458	rs859725
+Asthma (childhood onset)	2	223799333	rs6755248
+Asthma (childhood onset)	2	241751355	rs141343442
+Asthma (childhood onset)	2	241759225	rs34290285
+Asthma (childhood onset)	2	241776965	rs12469459
+Asthma (childhood onset)	2	102115136	rs1007027
+Asthma (childhood onset)	2	102113414	rs874953
+Asthma (childhood onset)	2	102165764	rs3917339
+Asthma (childhood onset)	2	102319699	rs72823641
+Asthma (childhood onset)	2	102225664	rs2302621
+Asthma (childhood onset)	2	102309902	rs12470864
+Asthma (childhood onset)	2	8301605	rs13416555
+Asthma (childhood onset)	2	101671373	rs13022699
+Asthma (childhood onset)	2	102635468	rs17775170
+Asthma (childhood onset)	2	102593137	rs10209131
+Asthma (childhood onset)	2	102470626	rs72825929
+Asthma (childhood onset)	2	102562489	rs72825990
+Asthma (childhood onset)	2	227805760	rs1811711
+Asthma (childhood onset)	3	33047293	rs79337446
+Asthma (childhood onset)	3	128239849	rs2999076
+Asthma (childhood onset)	3	33002847	rs9828592
+Asthma (childhood onset)	3	156638368	rs13097957
+Asthma (childhood onset)	3	188415730	rs13099273
+Asthma (childhood onset)	3	188683350	rs55661102
+Asthma (childhood onset)	3	177134250	rs7626218
+Asthma (childhood onset)	4	122639784	rs62324212
+Asthma (childhood onset)	4	122219915	rs45613035
+Asthma (childhood onset)	4	122451978	rs2069772
+Post-bronchodilator lung function in asthma (FVC)			chr8:83741379
+Post-bronchodilator lung function in asthma (FVC)			chr8:119895298
+Post-bronchodilator lung function in asthma (FVC)			chr11:118932913
+Post-bronchodilator lung function in asthma (FVC)			chr12:107662094
+Post-bronchodilator lung function in asthma (FVC)			chr12:115797499
+Post-bronchodilator lung function in asthma (FVC)			chr17:74377172
+Post-bronchodilator lung function in asthma (FVC)			chr18:67404973
+Post-bronchodilator lung function in asthma (FVC)			chr19:4291817
+Post-bronchodilator lung function in asthma (FVC)			chr19:36372775
+Post-bronchodilator lung function in asthma (FVC)			chr21:18234328
+Post-bronchodilator lung function in asthma (FVC)			chr21:43755177
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr1:117580100
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr1:180886944
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr1:185527158
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr2:26392354
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr2:171008016
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr3:22321021
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr3:49908748
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr4:55555416
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr4:70338226
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr5:89139642
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr8:4110597
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr10:69583770
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr11:35570480
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr12:4773488
+Lung function (FEV1/FVC) in asthma			chr10:4706126
+Lung function (FEV1/FVC) in asthma			chr10:24126147
+Lung function (FEV1/FVC) in asthma			chr10:69368950
+Lung function (FEV1/FVC) in asthma			chr10:69471854
+Lung function (FEV1/FVC) in asthma			chr10:69600576
+Lung function (FEV1/FVC) in asthma			chr10:69702559
+Lung function (FEV1/FVC) in asthma			chr11:23684142
+Lung function (FEV1/FVC) in asthma			chr11:116627541
+Lung function (FEV1/FVC) in asthma			chr13:26235394
+Lung function (FEV1/FVC) in asthma			chr14:94479922
+Lung function (FEV1/FVC) in asthma			chr15:78805789
+Lung function (FEV1/FVC) in asthma			chr15:93818088
+Lung function (FEV1/FVC) in asthma			chr16:19508306
+Lung function (FEV1/FVC) in asthma			chr18:55422267
+Post-bronchodilator lung function in asthma (FEV1)			chr5:16893255
+Post-bronchodilator lung function in asthma (FEV1)			chr8:25026871
+Post-bronchodilator lung function in asthma (FEV1)			chr9:86916173
+Post-bronchodilator lung function in asthma (FEV1)			chr10:85216527
+Post-bronchodilator lung function in asthma (FEV1)			chr12:107662094
+Post-bronchodilator lung function in asthma (FEV1)			chr18:9409089
+Post-bronchodilator lung function in asthma (FEV1)			chr19:45782594
+Post-bronchodilator lung function in asthma (FEV1)			chr22:45424732
+Post-bronchodilator lung function in asthma (FVC)			chr1:195778940
+Post-bronchodilator lung function in asthma (FVC)			chr2:115978242
+Post-bronchodilator lung function in asthma (FVC)			chr6:162713288
+Lung function (FVC) in asthma			chr3:136073920
+Lung function (FVC) in asthma			chr3:140836152
+Lung function (FVC) in asthma			chr3:172005706
+Lung function (FVC) in asthma			chr6:45961727
+Lung function (FVC) in asthma			chr6:162713288
+Lung function (FVC) in asthma			chr11:86410675
+Lung function (FVC) in asthma			chr14:51754057
+Lung function (FVC) in asthma			chr15:68708723
+Lung function (FVC) in asthma			chr16:54327903
+Lung function (FVC) in asthma			chr19:7732700
+Lung function (FVC) in asthma			chr19:36353880
+Lung function (FVC) in asthma			chr20:22900228
+Lung function (FVC) in asthma			chr20:49240699
+Lung function (FVC) in asthma			chr20:58734941
+Lung function (FVC) in asthma			chr21:25030141
+Lung function (FVC) in asthma			chr21:26032912
+Lung function (FVC) in asthma			chr22:35972126
+Lung function (FEV1/FVC) in asthma			chr2:37977506
+Lung function (FEV1/FVC) in asthma			chr2:236936348
+Lung function (FEV1/FVC) in asthma			chr3:31401513
+Lung function (FEV1/FVC) in asthma			chr4:96913583
+Lung function (FEV1/FVC) in asthma			chr5:50028474
+Lung function (FEV1/FVC) in asthma			chr5:50140616
+Lung function (FEV1/FVC) in asthma			chr7:23819738
+Lung function (FEV1/FVC) in asthma			chr7:52041108
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr14:38963901
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr15:76057493
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr15:85798401
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr15:88957199
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr15:93817218
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr17:57263393
+Post-bronchodilator lung function in asthma (FEV1/FVC)			chr17:78917207
+Lung function (FEV1) in asthma			chr1:158003840
+Lung function (FEV1) in asthma			chr2:34321239
+Lung function (FEV1) in asthma			chr6:12318099
+Lung function (FEV1) in asthma			chr10:109532529
+Lung function (FEV1) in asthma			chr12:125410562
+Lung function (FEV1) in asthma			chr14:20642034
+Lung function (FEV1) in asthma			chr17:1307087
+Lung function (FEV1) in asthma			chr17:10856828
+Lung function (FEV1) in asthma			chr17:66947338
+Lung function (FEV1) in asthma			chr19:45782594
+Lung function (FEV1) in asthma			chr20:42117790
+Asthma (childhood onset)	17	39232314	rs75097049
+Asthma (childhood onset)	17	45221021	rs1552458
+Asthma (childhood onset)	17	39966629	rs11871317
+Asthma (childhood onset)	17	39948315	rs150597587
+Asthma (childhood onset)	17	39793671	rs17676191
+Asthma (childhood onset)	17	40606948	rs11658582
+Asthma (childhood onset)	17	39929132	rs4795402
+Asthma (childhood onset)	17	39140376	rs140907835
+Asthma (childhood onset)	17	47741840	rs56308324
+Asthma (childhood onset)	17	40075600	rs939348
+Asthma (childhood onset)	17	39620391	rs112037479
+Asthma (childhood onset)	18	54303259	rs1893958
+Asthma (childhood onset)	18	54309883	rs115515961
+Asthma (childhood onset)	18	63775385	rs12964116
+Asthma (childhood onset)	18	62342581	rs4574025
+Asthma (childhood onset)	19	8677192	rs2918300
+Asthma (childhood onset)	19	1152657	rs892225
+Asthma (childhood onset)	19	33235672	rs117710327
+Asthma (childhood onset)	22	41391672	rs9611573
+Nonatopic asthma	1	8443319	rs301817
+Nonatopic asthma	2	241759225	rs34290285
+Nonatopic asthma	2	102119246	rs1004548
+Nonatopic asthma	2	102327786	rs59185885
+Nonatopic asthma	2	102475982	rs1468790
+Nonatopic asthma	2	102236342	rs10167431
+Asthma (childhood onset)	16	50712015	rs2066844
+Asthma (childhood onset)	16	27269311	rs8052566
+Asthma (childhood onset)	16	27337847	rs3785356
+Asthma (childhood onset)	16	27369351	rs75763833
+Asthma (childhood onset)	16	87865979	rs61584523
+Asthma (childhood onset)	16	10926598	rs11648656
+Asthma (childhood onset)	17	49377145	rs28406364
+Asthma (childhood onset)	17	45149847	rs1044977
+Asthma (childhood onset)	17	45378874	rs10468514
+Asthma (childhood onset)	17	46291264	rs78625142
+Asthma (childhood onset)	17	39984021	rs141908043
+Asthma (childhood onset)	17	40113506	rs35142265
+Asthma (childhood onset)	17	39829526	rs143669790
+Asthma (childhood onset)	17	39819840	rs114211283
+Asthma (childhood onset)	17	39822742	rs146459536
+Asthma (childhood onset)	17	39423130	rs145835664
+Asthma (childhood onset)	17	39760570	rs3764354
+Asthma (childhood onset)	17	39925141	rs111935829
+Asthma (childhood onset)	17	39397398	rs12600751
+Asthma (childhood onset)	17	39899863	rs11651596
+Asthma (childhood onset)	17	39968639	rs59843584
+Asthma (childhood onset)	17	40021896	rs2302776
+Asthma (childhood onset)	17	40028327	rs6503533
+Asthma (childhood onset)	17	39671417	rs3152
+Asthma (childhood onset)	17	39308437	rs76144645
+Atopic asthma	4	122219915	rs45613035
+Atopic asthma	4	122639784	rs62324212
+Atopic asthma	4	122466445	rs1479924
+Atopic asthma	4	122084379	rs10021288
+Atopic asthma	4	122387310	rs151275015
+Atopic asthma	4	38745467	rs6847640
+Atopic asthma	4	38766666	rs13107091
+Atopic asthma	5	132458080	rs1023518
+Atopic asthma	5	111231900	rs1457115
+Atopic asthma	5	111073450	rs2289278
+Atopic asthma	5	111096578	rs149205188
+Atopic asthma	5	35846713	rs4594881
+Atopic asthma	5	132748537	rs72799426
+Atopic asthma	5	14610200	rs16903574
+Atopic asthma	5	132660272	rs20541
+Atopic asthma	5	132663479	rs2243297
+Atopic asthma	5	132698896	rs10455052
+Atopic asthma	5	142159774	rs249677
+Atopic asthma	5	110810746	rs17513503
+Atopic asthma	5	110660766	rs6886061
+Atopic asthma	5	111136093	rs73786772
+Atopic asthma	5	111071809	rs2289276
+Atopic asthma	5	111067157	rs10061842
+Atopic asthma	5	111096199	rs114442993
+Atopic asthma	5	111066174	rs1837253
+Asthma	14	68286876	rs911263
+Asthma	14	92549049	rs10131197
+Asthma	14	102724506	rs59457020
+Asthma	15	41482225	rs1942
+Asthma	15	60777789	rs11071559
+Asthma	15	67150258	rs17293632
+Asthma	15	83908598	rs11259930
+Asthma	15	90866284	rs8029440
+Asthma	16	3699396	rs11645975
+Asthma	16	11125184	rs12935657
+Asthma	16	27358181	rs3024655
+Asthma	16	50712015	rs2066844
+Asthma	16	57360950	rs223819
+Asthma	17	7425502	rs72842819
+Asthma	17	12290127	rs750065349
+Asthma	17	39905964	rs2305479
+Asthma	17	42527700	rs2006141
+Asthma	17	45259769	rs7224548
+Asthma	17	47795683	rs72833417
+Asthma	17	49384071	rs17637472
+Asthma	17	75829382	rs111365807
+Asthma	18	51055548	rs12453988
+Asthma	18	54287596	rs3730775
+Asthma	18	62354271	rs3826620
+Asthma	18	63775385	rs12964116
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	6	142823821	rs2328386
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	16	5734291	rs6500715
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	1	153160647	rs509061
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	8	118461550	rs34338452
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	15	71540730	rs34631960
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	163841095	rs290119
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	163841300	rs290122
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	163841781	rs58836160
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma			chr12:121988899
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58230875	rs72755727
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58256637	rs12658947
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58256888	rs12659412
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58254269	rs6892109
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58237135	rs1477347
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58242927	rs72755734
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	5	58240905	rs2052548
+Adverse response to inhaled corticosteroid treatment x age interaction in asthma	1	153164031	rs524887
+Asthma	22	37135396	rs228953
+Asthma	22	41522649	rs201267172
+Asthma	11	1129831	rs12788104
+Asthma	11	10634076	rs11042902
+Asthma	11	36322652	rs7130870
+Asthma	11	45225625	rs714417
+Asthma	11	61806212	rs174551
+Asthma	11	65784486	rs479844
+Asthma	11	76582714	rs7936323
+Asthma	11	111601668	rs1784776
+Asthma	11	118872577	rs12365699
+Asthma	11	128298736	rs55836957
+Asthma	12	47811575	rs56389811
+Asthma	12	49960654	rs3759129
+Asthma	12	56002984	rs1689510
+Asthma	12	57109992	rs167769
+Asthma	12	71129354	rs1051334
+Asthma	12	94188560	rs12303699
+Asthma	12	111569952	rs653178
+Asthma	12	120840463	rs625228
+Asthma	12	123108835	rs7132277
+Asthma	13	73465798	rs981625
+Asthma	13	99421088	rs7987173
+Asthma	14	35412761	rs34332679
+Asthma	14	61517225	rs3751289
+Asthma	19	1163935	rs10853952
+Asthma	19	6579019	rs755023315
+Asthma	19	9018984	rs10416530
+Asthma	19	16331971	rs34006614
+Asthma	19	33235671	rs118013485
+Asthma	19	44749458	rs143432496
+Asthma	19	45867123	rs8103278
+Asthma	19	51810908	rs11670020
+Asthma	1	2581777	rs734999
+Asthma	1	8441726	rs301819
+Asthma	1	10573188	rs6687430
+Asthma	1	12115601	rs2230624
+Asthma	1	24937506	rs1293202
+Asthma	1	26275079	rs11577318
+Asthma	1	31699894	rs2228552
+Asthma	1	152313385	rs61816761
+Asthma	1	154453788	rs4129267
+Asthma	1	159199673	rs3027001
+Asthma	1	161215268	rs2070901
+Asthma	1	167457187	rs1214598
+Asthma	1	173201479	rs10912564
+Asthma	1	198684045	rs17669032
+Asthma	1	203121848	rs7555556
+Asthma	1	206451019	rs4127124
+Asthma	1	212685406	rs906364
+Asthma (childhood onset)	11	76323657	rs2213020
+Asthma (childhood onset)	11	36343703	rs10836538
+Asthma (childhood onset)	11	76574378	rs6592651
+Asthma (childhood onset)	11	76324763	rs2618070
+Asthma (childhood onset)	12	120920841	rs1696390
+Asthma (childhood onset)	12	120833931	rs11065286
+Asthma (childhood onset)	12	55991020	rs705699
+Asthma (childhood onset)	12	57099944	rs3024971
+Asthma (childhood onset)	12	57136558	rs17547610
+Asthma (childhood onset)	12	57115319	rs3122929
+Asthma (childhood onset)	12	54974507	rs62623446
+Asthma (childhood onset)	13	99342319	rs4772189
+Asthma (childhood onset)	13	42423188	rs912425
+Asthma (childhood onset)	14	68286570	rs2208397
+Asthma (childhood onset)	14	35415835	rs17103286
+Asthma (childhood onset)	15	67183097	rs10152593
+Asthma (childhood onset)	15	67165502	rs56336520
+Asthma (childhood onset)	15	41244154	rs1965139
+Asthma (childhood onset)	15	60777002	rs34986765
+Asthma (childhood onset)	15	67163292	rs56062135
+Asthma (childhood onset)	15	67174805	rs12912010
+Asthma (childhood onset)	15	67078906	rs28617673
+Asthma (childhood onset)	16	11155472	rs6498169
+Asthma (childhood onset)	16	11031436	rs17804800
+Asthma (childhood onset)	16	11131109	rs36045143
+Atopic asthma	6	32697103	rs2647003
+Atopic asthma	6	154306689	rs7770794
+Atopic asthma	6	32821623	rs151027268
+Atopic asthma	6	31572779	rs2229094
+Atopic asthma	6	31410197	rs28559870
+Atopic asthma	6	31360979	rs9266289
+Atopic asthma	6	31507279	rs41273040
+Atopic asthma	6	127970504	rs41285280
+Atopic asthma	6	32836793	rs3819720
+Atopic asthma	6	31484655	rs2904789
+Atopic asthma	6	32233814	rs443863
+Atopic asthma	7	20416355	rs2390314
+Atopic asthma	7	28101332	rs78823938
+Atopic asthma	7	22571094	rs1012177
+Atopic asthma	7	20547220	rs35621564
+Atopic asthma	8	80374940	rs13263709
+Atopic asthma	9	137605991	rs117137535
+Atopic asthma	9	120915851	rs2159778
+Atopic asthma	9	128226337	rs3003612
+Atopic asthma	9	5866925	rs66632892
+Atopic asthma	9	5765648	rs41280733
+Atopic asthma	9	6583518	rs10975660
+Atopic asthma	9	6187132	rs76962799
+Atopic asthma	9	6305904	rs2169287
+Atopic asthma	9	6252690	rs149045797
+Nonatopic asthma	6	32455739	rs140302846
+Nonatopic asthma	6	32456817	rs9268813
+Nonatopic asthma	6	32461526	rs9268848
+Nonatopic asthma	6	32992717	rs140545087
+Nonatopic asthma	6	90276840	rs6899623
+Nonatopic asthma	6	32619017	rs9271365
+Nonatopic asthma	6	32319552	rs2746115
+Nonatopic asthma	6	32632222	rs9272105
+Nonatopic asthma	6	32775050	rs12663317
+Nonatopic asthma	6	32606581	rs2760995
+Nonatopic asthma	6	32659923	rs6689
+Nonatopic asthma	6	32619380	rs28688825
+Nonatopic asthma	6	32581754	rs112796209
+Nonatopic asthma			chr6:32623277
+Nonatopic asthma	6	32710422	rs9275570
+Nonatopic asthma	6	32616103	rs112430285
+Nonatopic asthma	6	33015971	rs11964504
+Nonatopic asthma	7	20336395	rs10486391
+Nonatopic asthma	7	20536128	rs10244416
+Nonatopic asthma	7	3110249	rs73033536
+Nonatopic asthma	8	80390804	rs2001628
+Nonatopic asthma	9	5840749	rs12379291
+Nonatopic asthma	9	6362365	rs7851246
+Nonatopic asthma	9	6255967	rs146597587
+Nonatopic asthma	9	6209697	rs992969
+Nonatopic asthma	2	102332701	rs12479210
+Nonatopic asthma	2	8319274	rs3856439
+Nonatopic asthma	2	101962555	rs74538397
+Nonatopic asthma	2	102584846	rs12712161
+Nonatopic asthma	2	102550572	rs13008334
+Nonatopic asthma	2	102578099	rs74263644
+Nonatopic asthma	2	102562489	rs72825990
+Nonatopic asthma	2	145382564	rs6756212
+Nonatopic asthma	3	128296335	rs2811387
+Nonatopic asthma	3	188415730	rs13099273
+Nonatopic asthma	3	169000309	rs1420466
+Nonatopic asthma	3	196008500	rs2019472
+Nonatopic asthma	4	38754349	rs114559131
+Nonatopic asthma	5	157542675	rs13355228
+Nonatopic asthma	5	132473613	rs2057656
+Nonatopic asthma	5	14610200	rs16903574
+Nonatopic asthma	5	132549548	rs12652920
+Nonatopic asthma	5	132579587	rs75639632
+Nonatopic asthma	5	132477512	rs13164856
+Nonatopic asthma	5	132734014	rs9327638
+Nonatopic asthma	5	142133453	rs62381975
+Nonatopic asthma	5	111136093	rs73786772
+Nonatopic asthma	5	111066174	rs1837253
+Nonatopic asthma	6	31663557	rs76072474
+Nonatopic asthma	6	31771343	rs3130490
+Exacerbations requiring hospitalisation in asthma	6	32679602	rs56151658
+Exacerbations requiring hospitalisation in asthma			chr3:100221952
+Exacerbations requiring hospitalisation in asthma	10	8365606	rs2935682
+Exacerbations requiring hospitalisation in asthma	20	42621892	rs138276104
+Exacerbations requiring hospitalisation in asthma	5	105099675	rs4571441
+Exacerbations requiring hospitalisation in asthma	3	34359399	rs146266213
+Exacerbations requiring hospitalisation in asthma	3	175535845	rs75649340
+Exacerbations requiring hospitalisation in asthma	17	20260795	rs74850712
+Exacerbations requiring hospitalisation in asthma	6	32461526	rs9268848
+Exacerbations requiring hospitalisation in asthma	6	166506997	rs78599761
+Exacerbations requiring hospitalisation in asthma	7	82059922	rs36167844
+Exacerbations requiring hospitalisation in asthma			chr7:100959278
+Exacerbations requiring hospitalisation in asthma	4	129344890	rs56255423
+Exacerbations requiring hospitalisation in asthma	3	100627813	rs115566786
+Exacerbations requiring hospitalisation in asthma	18	8161804	rs25417
+Exacerbations requiring hospitalisation in asthma	22	42200247	rs8142673
+Exacerbations requiring hospitalisation in asthma	16	57347441	rs113283269
+Exacerbations requiring hospitalisation in asthma	10	18821570	rs118104476
+Exacerbations requiring hospitalisation in asthma	7	63002918	rs551595223
+Exacerbations requiring hospitalisation in asthma	19	45455036	rs8109532
+Exacerbations requiring hospitalisation in asthma	11	7603399	rs11605093
+Exacerbations requiring hospitalisation in asthma	5	133192580	rs4403228
+Exacerbations requiring hospitalisation in asthma	1	187274037	rs75066068
+Exacerbations requiring hospitalisation in asthma			chr3:188984536
+Exacerbations requiring hospitalisation in asthma	7	6577616	rs11559147
+Exacerbations requiring hospitalisation in asthma	11	89011257	rs7932640
+Exacerbations requiring hospitalisation in asthma			chr2:81093947
+Exacerbations requiring hospitalisation in asthma	7	154715590	rs1387192
+Exacerbations requiring hospitalisation in asthma	13	73143664	rs147707062
+Exacerbations requiring hospitalisation in asthma	5	167634769	rs62382816
+Exacerbations requiring hospitalisation in asthma	1	187430386	rs146244859
+Exacerbations requiring hospitalisation in asthma	10	36165947	rs75347344
+Exacerbations requiring hospitalisation in asthma	4	125651718	rs192613850
+Exacerbations requiring hospitalisation in asthma			chr1:198084331
+Exacerbations requiring hospitalisation in asthma	17	53632737	rs4453548
+Exacerbations requiring hospitalisation in asthma	3	8689796	rs350815
+Atopic asthma	5	111052064	rs58743367
+Atopic asthma	5	110933992	rs12055046
+Atopic asthma	6	31879859	rs41267086
+Atopic asthma	6	31361514	rs2596544
+Atopic asthma	6	31552881	rs34492353
+Atopic asthma	6	32456817	rs9268813
+Atopic asthma	6	135497759	rs13197384
+Atopic asthma	6	106214866	rs2245214
+Atopic asthma	6	31594990	rs34744948
+Atopic asthma	6	90287050	rs12212193
+Atopic asthma	6	32647774	rs17843580
+Atopic asthma	6	32621440	rs34104805
+Atopic asthma	6	32343682	rs3132954
+Atopic asthma	6	32617103	rs73730377
+Atopic asthma	6	32610813	rs3997868
+Atopic asthma	6	32313239	rs74209703
+Atopic asthma	6	31868665	rs542418
+Atopic asthma	6	29961296	rs2517690
+Atopic asthma	6	31353630	rs12196740
+Atopic asthma	6	32717421	rs41288885
+Atopic asthma	6	33063835	rs35449774
+Atopic asthma	6	33157195	rs3130160
+Atopic asthma	6	33130274	rs3116995
+Atopic asthma	6	32618459	rs11751024
+Atopic asthma	6	32665218	rs41263828
+Asthma (childhood onset)	6	128989531	rs529876593
+Asthma (childhood onset)	6	31574531	rs1799964
+Asthma (childhood onset)	6	31504024	rs2855811
+Asthma (childhood onset)	6	127972417	rs55743914
+Asthma (childhood onset)	6	32836793	rs3819720
+Asthma (childhood onset)	6	127822379	rs6918558
+Asthma (childhood onset)	6	32905142	rs574560492
+Asthma (childhood onset)	7	22740703	rs6954667
+Asthma (childhood onset)	7	20372274	rs3757727
+Asthma (childhood onset)	7	20345190	rs10262599
+Asthma (childhood onset)	7	20416355	rs2390314
+Asthma (childhood onset)	7	28101332	rs78823938
+Asthma (childhood onset)	7	20536128	rs10244416
+Asthma (childhood onset)	8	127765520	rs13279820
+Asthma (childhood onset)	8	80379410	rs4739738
+Asthma (childhood onset)	8	127816434	rs4733778
+Asthma (childhood onset)	9	99227424	rs150707349
+Asthma (childhood onset)	9	137605991	rs117137535
+Asthma (childhood onset)	9	6555079	rs1929933
+Asthma (childhood onset)	9	6187132	rs76962799
+Asthma (childhood onset)	9	6222149	rs10815376
+Asthma (childhood onset)	9	6255967	rs146597587
+Asthma (childhood onset)	9	6213148	rs928412
+Asthma (childhood onset)	9	6236407	rs55645596
+Asthma (childhood onset)	9	6175522	rs72699185
+Asthma (childhood onset)	4	38800725	rs5743597
+Asthma (childhood onset)	4	38813881	rs4833103
+Asthma (childhood onset)	4	38819070	rs75983064
+Asthma (childhood onset)	4	38753856	rs111066798
+Asthma (childhood onset)	4	38721343	rs11096954
+Asthma (childhood onset)	5	132477512	rs13164856
+Asthma (childhood onset)	5	132452642	rs7713065
+Asthma (childhood onset)	5	111285132	rs306106
+Asthma (childhood onset)	5	111222366	rs2162893
+Asthma (childhood onset)	5	111133934	rs114081163
+Asthma (childhood onset)	5	111096578	rs149205188
+Asthma (childhood onset)	5	132748537	rs72799426
+Asthma (childhood onset)	5	14610200	rs16903574
+Asthma (childhood onset)	5	132734014	rs9327638
+Asthma (childhood onset)	5	132669064	rs762534
+Asthma (childhood onset)	5	132693722	rs17510339
+Asthma (childhood onset)	5	132616706	rs6894017
+Asthma (childhood onset)	5	132617818	rs17772583
+Asthma (childhood onset)	5	142159774	rs249677
+Asthma (childhood onset)	5	110877812	rs9784725
+Asthma (childhood onset)	5	110669048	rs7730817
+Asthma (childhood onset)	5	111223856	rs7714962
+Asthma (childhood onset)	5	111073450	rs2289278
+Asthma (childhood onset)	5	111066174	rs1837253
+Asthma (childhood onset)	5	111051427	rs62375550
+Nonatopic asthma	12	57095926	rs1059513
+Nonatopic asthma	12	57115319	rs3122929
+Nonatopic asthma	15	67183150	rs10152595
+Nonatopic asthma	15	60777002	rs34986765
+Nonatopic asthma	15	67149412	rs72743461
+Nonatopic asthma	15	67175169	rs12913547
+Nonatopic asthma	15	67088795	rs148586558
+Nonatopic asthma	16	11136846	rs7203459
+Nonatopic asthma	16	27353989	rs140152038
+Nonatopic asthma	16	27353485	rs3024619
+Nonatopic asthma	17	49377153	rs28412876
+Nonatopic asthma	17	39850018	rs79411018
+Nonatopic asthma	17	39423130	rs145835664
+Nonatopic asthma	17	39900944	rs8069176
+Nonatopic asthma	17	39972512	rs8077456
+Nonatopic asthma	17	39974239	rs62066853
+Nonatopic asthma	17	39929132	rs4795402
+Nonatopic asthma	17	39586130	rs9903269
+Nonatopic asthma	19	33235672	rs117710327
+Nonatopic asthma	21	35049034	rs56045941
+Nonatopic asthma	1	31699492	rs6681149
+Nonatopic asthma	11	66562261	rs540874
+Nonatopic asthma	17	75829382	rs111365807
+Nonatopic asthma	17	78844832	rs9895419
+Nonatopic asthma	18	23000571	rs112104755
+Nonatopic asthma	18	41911693	rs8089834
+Nonatopic asthma	19	17056913	rs73504817
+Nonatopic asthma	19	45867123	rs8103278
+Atopic asthma	1	161215268	rs2070901
+Atopic asthma	1	152313385	rs61816761
+Atopic asthma	1	152799487	rs72702900
+Atopic asthma	1	152206676	rs12123821
+Atopic asthma	1	167458010	rs7523907
+Atopic asthma	1	151829917	rs71625139
+Atopic asthma	1	151790858	rs55875222
+Atopic asthma	1	152468434	rs12144049
+Atopic asthma	1	152307547	rs138726443
+Atopic asthma	1	152198985	rs1552994
+Atopic asthma	1	152921415	rs61815704
+Atopic asthma	1	152798817	rs2065206
+Atopic asthma	1	151829204	rs4845604
+Atopic asthma	1	151813805	rs3828058
+Atopic asthma	1	12115601	rs2230624
+Atopic asthma	1	12069994	rs4491070
+Atopic asthma	1	173202534	rs11811856
+Atopic asthma	1	172810693	rs2422254
+Atopic asthma	1	167428034	rs1917534
+Atopic asthma	2	197670954	rs4286272
+Atopic asthma	2	223799091	rs6755198
+Atopic asthma	2	241622595	rs34143604
+Atopic asthma	2	241751355	rs141343442
+Atopic asthma	2	241734689	rs7370843
+Atopic asthma	2	241759225	rs34290285
+Atopic asthma	2	241800856	rs115572130
+Atopic asthma	2	102343750	rs3771175
+Atopic asthma	2	102236342	rs10167431
+Atopic asthma	2	102348282	rs13017455
+Atopic asthma	2	102226205	rs13416449
+Atopic asthma	2	8302118	rs10174949
+Atopic asthma	2	101671373	rs13022699
+Atopic asthma	2	102636570	rs67768228
+Atopic asthma	2	102635468	rs17775170
+Atopic asthma	2	102594085	rs2310313
+Atopic asthma	2	102510080	rs11688802
+Atopic asthma	2	102562489	rs72825990
+Atopic asthma	2	111520962	rs61033544
+Atopic asthma	3	33123159	rs79761396
+Atopic asthma	3	121999606	rs10934569
+Atopic asthma	3	33002847	rs9828592
+Atopic asthma	3	188415730	rs13099273
+Atopic asthma	3	188683350	rs55661102
+Atopic asthma	3	196650180	rs112669193
+Atopic asthma	3	177131952	rs62296577
+Atopic asthma	3	176978234	rs11716087
+Atopic asthma	3	187963924	rs509399
+Allergic disease (asthma, hay fever or eczema)	1	206472931	rs11117858
+Allergic disease (asthma, hay fever or eczema)	1	10583772	rs12045923
+Allergic disease (asthma, hay fever or eczema)	16	28495107	rs151233
+Allergic disease (asthma, hay fever or eczema)	5	115514125	rs17137937
+Allergic disease (asthma, hay fever or eczema)	16	28555683	rs231970
+Allergic disease (asthma, hay fever or eczema)	16	28319469	rs2726040
+Allergic disease (asthma, hay fever or eczema)	16	28492860	rs27741
+Allergic disease (asthma, hay fever or eczema)	7	99171402	rs4236540
+Allergic disease (asthma, hay fever or eczema)	16	27265406	rs4523932
+Allergic disease (asthma, hay fever or eczema)	22	36862461	rs4821544
+Allergic disease (asthma, hay fever or eczema)	9	133271182	rs550057
+Allergic disease (asthma, hay fever or eczema)	22	36902302	rs5756391
+Allergic disease (asthma, hay fever or eczema)	6	149979828	rs6909158
+Allergic disease (asthma, hay fever or eczema)	10	17664114	rs7092926
+Allergic disease (asthma, hay fever or eczema)	3	51403873	rs73078636
+Allergic disease (asthma, hay fever or eczema)	16	28584489	rs75539558
+Allergic disease (asthma, hay fever or eczema)	2	28412873	rs7562
+Allergic disease (asthma, hay fever or eczema)	11	36365351	rs7925585
+Allergic disease (asthma, hay fever or eczema)	16	28976948	rs8045689
+Allergic disease (asthma, hay fever or eczema)	16	28886131	rs8056890
+Allergic disease (asthma, hay fever or eczema)	6	154341513	rs9397706
+Allergic disease (asthma, hay fever or eczema)			CADM3
+Allergic disease (asthma, hay fever or eczema)			SLC39A8
+Allergic disease (asthma, hay fever or eczema)			LRRC43
+Allergic disease (asthma, hay fever or eczema)			KLF5
+Atopic asthma	11	76402977	rs12420744
+Atopic asthma	11	76655646	rs12718488
+Atopic asthma	11	76323657	rs2213020
+Atopic asthma	11	76561595	rs1892954
+Atopic asthma	11	76556723	rs60748394
+Atopic asthma	11	76324763	rs2618070
+Atopic asthma	12	55991020	rs705699
+Atopic asthma	12	57099944	rs3024971
+Atopic asthma	12	57136558	rs17547610
+Atopic asthma	12	57115319	rs3122929
+Atopic asthma	12	120926222	rs61946386
+Atopic asthma	12	54974507	rs62623446
+Atopic asthma	13	99377678	rs7325747
+Atopic asthma	14	68285926	rs8008961
+Atopic asthma	15	67183150	rs10152595
+Atopic asthma	15	41211532	rs8043253
+Atopic asthma	15	41490523	rs12440111
+Atopic asthma	15	60777002	rs34986765
+Atopic asthma	15	60777984	rs922782
+Atopic asthma	15	67150258	rs17293632
+Atopic asthma	15	67174805	rs12912010
+Atopic asthma	15	67078906	rs28617673
+Atopic asthma	16	11159977	rs12925631
+Atopic asthma	16	11150801	rs7206912
+Atopic asthma	16	11210463	rs79156681
+Asthma (childhood onset)	6	31552881	rs34492353
+Asthma (childhood onset)	6	31573180	rs4647195
+Asthma (childhood onset)	6	31504943	rs2855812
+Asthma (childhood onset)	6	32337461	rs78546106
+Asthma (childhood onset)	6	106165888	rs35342892
+Asthma (childhood onset)	6	106219660	rs9372120
+Asthma (childhood onset)	6	90119163	rs207270
+Asthma (childhood onset)	6	90296024	rs6908626
+Asthma (childhood onset)	6	33472004	rs62407927
+Asthma (childhood onset)	6	32409276	rs116835963
+Asthma (childhood onset)	6	32604425	rs9270911
+Asthma (childhood onset)	6	32621440	rs34104805
+Asthma (childhood onset)	6	32616804	rs73730372
+Asthma (childhood onset)	6	32314291	rs2395141
+Asthma (childhood onset)	6	30977848	rs34853064
+Asthma (childhood onset)	6	29941027	rs13203830
+Asthma (childhood onset)	6	32744232	rs41288889
+Asthma (childhood onset)	6	33063835	rs35449774
+Asthma (childhood onset)	6	33080325	rs3130169
+Asthma (childhood onset)	6	32666988	rs41316204
+Asthma (childhood onset)	6	32618459	rs11751024
+Asthma (childhood onset)	6	32692964	rs9275241
+Asthma (childhood onset)	6	32643864	rs9273012
+Asthma (childhood onset)	6	32715035	rs9275602
+Asthma (childhood onset)	6	19843536	rs6905736
+Nonatopic asthma	9	6187132	rs76962799
+Nonatopic asthma	9	6072597	rs343476
+Nonatopic asthma	9	23585314	rs274947
+Nonatopic asthma	10	8064496	rs570730
+Nonatopic asthma	10	6030130	rs12722547
+Nonatopic asthma	10	8996394	rs12356492
+Nonatopic asthma	10	9015459	rs1031163
+Nonatopic asthma	10	9007290	rs12413578
+Nonatopic asthma	10	9004682	rs2589561
+Nonatopic asthma	10	8960206	rs827620
+Nonatopic asthma	10	9066555	rs17145188
+Nonatopic asthma	10	8990592	rs72782676
+Nonatopic asthma	10	8524027	rs2477923
+Nonatopic asthma	10	8959364	rs827624
+Nonatopic asthma	10	8806288	rs446522
+Nonatopic asthma	10	9034193	rs117418264
+Nonatopic asthma	10	8956766	rs75861713
+Nonatopic asthma	10	8473385	rs12785018
+Nonatopic asthma	10	8850422	rs77987301
+Nonatopic asthma	11	111620598	rs11828343
+Nonatopic asthma	11	76582714	rs7936323
+Nonatopic asthma	11	76588387	rs55646091
+Nonatopic asthma	11	61842278	rs174583
+Nonatopic asthma	11	76324763	rs2618070
+Nonatopic asthma	12	55995509	rs705700
+Atopic asthma	16	11125184	rs12935657
+Atopic asthma	16	68253641	rs12600062
+Atopic asthma	16	27338117	rs9940480
+Atopic asthma	16	27408716	rs1158136
+Atopic asthma	16	11246664	rs151770
+Atopic asthma	17	49363104	rs16948048
+Atopic asthma	17	42534324	rs4793090
+Atopic asthma	17	42364598	rs113366589
+Atopic asthma	17	39994693	rs4795413
+Atopic asthma	17	40012575	rs150260796
+Atopic asthma	17	40128610	rs75905358
+Atopic asthma	17	39586130	rs9903269
+Atopic asthma	17	39850018	rs79411018
+Atopic asthma	17	39423130	rs145835664
+Atopic asthma	17	39910119	rs56380902
+Atopic asthma	17	39972395	rs3859192
+Atopic asthma	17	45259769	rs7224548
+Atopic asthma	17	40448294	rs10305290
+Atopic asthma	17	40598548	rs9889953
+Atopic asthma	17	40608272	rs112401631
+Atopic asthma	18	63775385	rs12964116
+Atopic asthma	19	3136093	rs117552144
+Atopic asthma	19	33235671	rs118013485
+Atopic asthma	20	53555602	rs2766666
+Atopic asthma	21	35130261	rs2834787
+Asthma (childhood onset)	9	6078614	rs371454
+Asthma (childhood onset)	9	5888194	rs75557055
+Asthma (childhood onset)	9	6142157	rs544253
+Asthma (childhood onset)	9	23585841	rs274943
+Asthma (childhood onset)	9	5840749	rs12379291
+Asthma (childhood onset)	9	6169383	rs117248841
+Asthma (childhood onset)	10	92669710	rs7918084
+Asthma (childhood onset)	10	6030130	rs12722547
+Asthma (childhood onset)	10	9078931	rs17363282
+Asthma (childhood onset)	10	6589261	rs10737105
+Asthma (childhood onset)	10	9022753	rs1612986
+Asthma (childhood onset)	10	9007290	rs12413578
+Asthma (childhood onset)	10	9016708	rs1444782
+Asthma (childhood onset)	10	8549406	rs7894791
+Asthma (childhood onset)	11	65791795	rs10791824
+Asthma (childhood onset)	11	118887380	rs497916
+Asthma (childhood onset)	11	76588605	rs11236797
+Asthma (childhood onset)	11	76537586	rs61894547
+Asthma (childhood onset)	11	76487517	rs7106446
+Asthma (childhood onset)	11	76362164	rs61892804
+Asthma (childhood onset)	11	118872577	rs12365699
+Asthma (childhood onset)	11	76405941	rs2017759
+Asthma (childhood onset)	11	76658028	rs3197153
+Asthma (childhood onset)	11	76666775	rs6592657
+Asthma (childhood onset)	11	10639293	rs7936275
+Atopic asthma	9	6210099	rs3939286
+Atopic asthma	9	6221246	rs16924144
+Atopic asthma	9	6175522	rs72699185
+Atopic asthma	9	6049843	rs10975413
+Atopic asthma	9	128710523	rs138407416
+Atopic asthma	9	6142157	rs544253
+Atopic asthma	10	6051176	rs12722502
+Atopic asthma	10	92669710	rs7918084
+Atopic asthma	10	6069112	rs7893324
+Atopic asthma	10	9166241	rs17406680
+Atopic asthma	10	6584252	rs41284471
+Atopic asthma	10	9016708	rs1444782
+Atopic asthma	10	9004682	rs2589561
+Atopic asthma	10	9007290	rs12413578
+Atopic asthma	10	8799706	rs2025758
+Atopic asthma	10	8990592	rs72782676
+Atopic asthma	10	9251327	rs1143869
+Atopic asthma	10	9066555	rs17145188
+Atopic asthma	10	8956766	rs75861713
+Atopic asthma	11	65791795	rs10791824
+Atopic asthma	11	76582682	rs7936312
+Atopic asthma	11	76588387	rs55646091
+Atopic asthma	11	76462904	rs72944758
+Atopic asthma	11	118872577	rs12365699
+Atopic asthma	11	76708897	rs143942614
+Complete remission in asthma	12	69448863	rs6581895
+Atopic asthma	22	41408156	rs132911
+Allergic disease (asthma, hay fever or eczema)	4	102560404	rs230504
+Allergic disease (asthma, hay fever or eczema)	18	62339745	rs8086340
+Allergic disease (asthma, hay fever or eczema)	1	226727033	rs697852
+Allergic disease (asthma, hay fever or eczema)	20	51541298	rs3787184
+Allergic disease (asthma, hay fever or eczema)	14	35387142	rs2013724
+Allergic disease (asthma, hay fever or eczema)	2	233206983	rs1057258
+Allergic disease (asthma, hay fever or eczema)	3	101523907	rs13088318
+Asthma	1	8416368	rs159960
+Asthma	1	152206676	rs12123821
+Asthma	1	161198214	rs33941127
+Asthma	1	167457187	rs1214598
+Asthma	1	173201479	rs10912564
+Asthma	1	203122146	rs903361
+Asthma	2	8302417	rs891058
+Asthma	2	102319699	rs72823641
+Asthma	2	197785535	rs771018
+Asthma	2	241759225	rs34290285
+Asthma	3	33006170	rs35570272
+Asthma	3	51403873	rs73078636
+Asthma	3	188415651	rs6808893
+Asthma	3	196616946	rs113048054
+Asthma	4	38787511	rs28690449
+Asthma	4	122527407	rs4380538
+Asthma	5	14610200	rs16903574
+Asthma	5	35881274	rs11742240
+Allergic disease (asthma, hay fever or eczema)	15	41490486	rs12440045
+Allergic disease (asthma, hay fever or eczema)	3	196616946	rs113048054
+Allergic disease (asthma, hay fever or eczema)	3	121918956	rs2689282
+Allergic disease (asthma, hay fever or eczema)	6	137850329	rs9494883
+Allergic disease (asthma, hay fever or eczema)	20	63691346	rs6011033
+Allergic disease (asthma, hay fever or eczema)	2	198022936	rs2139049
+Allergic disease (asthma, hay fever or eczema)	17	4632019	rs34210653
+Allergic disease (asthma, hay fever or eczema)	2	143118156	rs16858573
+Allergic disease (asthma, hay fever or eczema)	2	227857292	rs11685995
+Allergic disease (asthma, hay fever or eczema)	3	72345701	rs61192126
+Allergic disease (asthma, hay fever or eczema)	18	54338086	rs7240948
+Allergic disease (asthma, hay fever or eczema)	20	51524602	rs6021268
+Allergic disease (asthma, hay fever or eczema)	11	95692306	rs59183580
+Allergic disease (asthma, hay fever or eczema)	11	118872577	rs12365699
+Allergic disease (asthma, hay fever or eczema)	2	111505565	rs12623041
+Allergic disease (asthma, hay fever or eczema)	2	112832890	rs1143633
+Asthma	21	35092334	rs11088309
+Asthma	22	36862944	rs760517
+Asthma	22	41456475	rs202636
+Asthma	1	2582239	rs2016366
+Asthma	1	8444998	rs301816
+Asthma	1	10573188	rs6687430
+Asthma	1	12115601	rs2230624
+Asthma	1	24924429	rs34349689
+Asthma	1	31699894	rs2228552
+Asthma	1	150535216	rs71580314
+Asthma	1	152313385	rs61816761
+Asthma	1	154437881	rs1202085373
+Asthma	1	159181531	rs776871909
+Asthma	1	161215268	rs2070901
+Asthma	1	167463819	rs1723016
+Asthma	1	173201479	rs10912564
+Asthma	1	198632575	rs76181804
+Asthma	1	203122931	rs7538512
+Asthma	1	206449448	rs372362333
+Asthma	1	212688020	rs371923485
+Asthma	1	226727033	rs697852
+Asthma	2	8302417	rs891058
+Asthma	2	30268526	rs17009315
+Asthma	2	71827707	rs35668054
+Asthma	2	102350089	rs10197862
+Allergic disease (asthma, hay fever or eczema)	11	65784486	rs479844
+Allergic disease (asthma, hay fever or eczema)	1	24934712	rs4648883
+Allergic disease (asthma, hay fever or eczema)	5	40487168	rs7725052
+Allergic disease (asthma, hay fever or eczema)	5	142153497	rs449454
+Allergic disease (asthma, hay fever or eczema)	12	111569952	rs653178
+Allergic disease (asthma, hay fever or eczema)	1	2579316	rs10910095
+Allergic disease (asthma, hay fever or eczema)	11	128261371	rs1940377
+Allergic disease (asthma, hay fever or eczema)	15	90502176	rs3540
+Allergic disease (asthma, hay fever or eczema)	3	33042493	rs4491851
+Asthma	12	56018703	rs1701704
+Asthma	9	128721272	rs11539209
+Asthma	9	133264505	rs782134971
+Asthma	20	47053149	rs8125525
+Asthma	20	53555865	rs2766667
+Asthma	20	63691346	rs6011033
+Asthma	21	15440734	rs1736147
+Asthma	21	35081540	rs2242900
+Asthma	21	39677418	rs34846236
+Asthma	21	42436483	rs12626388
+Asthma	10	6016360	rs4749894
+Asthma	10	9020893	rs2197415
+Asthma	10	30512789	rs9284092
+Asthma	10	43254252	rs12769745
+Asthma	10	62622599	rs2893907
+Asthma	10	73778893	rs1134777
+Asthma	10	92624757	rs113092121
+Asthma	10	102753292	rs11191385
+Asthma	19	9026519	rs73012738
+Asthma	19	17107055	rs60139334
+Asthma	19	33235672	rs117710327
+Asthma	19	44749458	rs143432496
+Asthma	19	45867123	rs8103278
+Asthma	20	51526084	rs6126249
+Asthma	20	53568405	rs1555926
+Asthma	20	63691346	rs6011033
+Asthma	8	127765473	rs13277355
+Asthma	8	144103704	rs34173062
+Asthma	9	6209697	rs992969
+Asthma	9	23585743	rs274945
+Asthma	9	99170570	rs200491113
+Asthma	9	114743761	rs34187268
+Asthma	9	120915851	rs2159778
+Asthma	9	124253992	rs10986291
+Asthma	9	128721272	rs11539209
+Asthma	9	137605991	rs117137535
+Asthma	10	6051176	rs12722502
+Asthma	10	9020893	rs2197415
+Asthma	10	62677713	rs12775438
+Asthma	10	92631683	rs1227677510
+Asthma	11	1129831	rs12788104
+Asthma	11	10634076	rs11042902
+Asthma	11	36330231	rs7108441
+Asthma	11	61830500	rs1535
+Asthma	11	65784486	rs479844
+Asthma	11	76582714	rs7936323
+Asthma	11	111606601	rs539524
+Asthma	11	118872577	rs12365699
+Asthma	11	128261371	rs1940377
+Asthma	12	47809158	rs11168244
+Asthma	12	54974507	rs62623446
+Asthma	12	57099944	rs3024971
+Asthma	12	71139458	rs11178649
+Asthma	12	94164662	rs377150901
+Asthma	12	111634620	rs11065987
+Asthma	12	120915285	rs2701184
+Asthma	13	39779254	rs34270626
+Asthma	13	43916045	rs61960013
+Asthma	13	73421057	rs61957178
+Asthma	13	99377210	rs34259893
+Asthma	14	35413729	rs2007960
+Asthma	14	68293424	rs1950897
+Asthma	14	92549134	rs10131290
+Asthma	14	102762080	rs4906259
+Asthma	15	41495387	rs1655558
+Asthma	15	60777789	rs11071559
+Asthma	15	67156025	rs56375023
+Asthma	15	83887871	rs4842921
+Asthma	16	11119164	rs35441874
+Asthma	16	27354132	rs3024622
+Asthma	16	50712015	rs2066844
+Asthma	17	4618178	rs71368508
+Asthma	17	7425502	rs72842819
+Asthma	17	12290127	rs750065349
+Asthma	17	39905964	rs2305479
+Asthma	17	42266553	rs9909628
+Asthma	17	45259320	rs4247364
+Asthma	17	47795683	rs72833417
+Asthma	17	49370984	rs12952581
+Asthma	17	64506317	rs1991401
+Asthma	17	78356473	rs76848919
+Asthma	18	48924776	rs12956924
+Asthma	18	54273387	rs11379197
+Asthma	18	62354271	rs3826620
+Asthma	18	63775385	rs12964116
+Asthma	19	3136093	rs117552144
+Asthma	19	4355874	rs10420217
+Asthma	19	6579019	rs755023315
+Asthma	1	226727033	rs697852
+Asthma	2	8303673	rs10178845
+Asthma	2	30251485	rs72787718
+Asthma	2	60718420	rs68110799
+Asthma	2	71812584	rs35548551
+Asthma	2	102337157	rs3771180
+Asthma	2	111155479	rs13405741
+Asthma	2	162053713	rs6741949
+Asthma	2	186669456	rs2595389
+Asthma	2	198079128	rs2164068
+Asthma	2	223802975	rs13383994
+Asthma	2	227840005	rs7423358
+Asthma	2	241759225	rs34290285
+Asthma	3	16930719	rs2014490
+Asthma	3	23556495	rs2036226
+Asthma	3	33006170	rs35570272
+Asthma	3	50734193	rs73072483
+Asthma	3	56707557	rs9813229
+Asthma	3	71205600	rs7372960
+Asthma	3	101513249	rs55749605
+Asthma	3	112931584	rs7622814
+Asthma	3	119542019	rs9877891
+Asthma	3	128294802	rs2811518
+Asthma	3	141388112	rs13077048
+Asthma	3	169409731	rs17485347
+Asthma	5	111066174	rs1837253
+Asthma	5	119355086	rs3813308
+Asthma	5	132660808	rs848
+Asthma	5	142153497	rs449454
+Asthma	5	160484499	rs2961920
+Asthma	6	32644653	rs6926894
+Asthma	6	90271600	rs55771973
+Asthma	6	127970054	rs3190930
+Asthma	6	154841029	rs12201149
+Asthma	7	20372274	rs3757727
+Asthma	7	28116987	rs4722758
+Asthma	8	80374940	rs13263709
+Asthma	9	6213148	rs928412
+Asthma	9	128721272	rs11539209
+Asthma	10	6030130	rs12722547
+Asthma	10	9020893	rs2197415
+Asthma	11	1129831	rs12788104
+Asthma	11	36330231	rs7108441
+Asthma	11	65784486	rs479844
+Asthma	11	76582682	rs7936312
+Asthma	11	111600668	rs542831
+Asthma	12	47811575	rs56389811
+Asthma	12	57099944	rs3024971
+Asthma	13	73465798	rs981625
+Asthma	13	99380092	rs912131
+Asthma	14	68293424	rs1950897
+Asthma	15	41495387	rs1655558
+Asthma	15	60777789	rs11071559
+Asthma	15	67149412	rs72743461
+Asthma	16	11125184	rs12935657
+Asthma	16	27360103	rs3024664
+Asthma	16	50756247	rs12324931
+Asthma	17	39905964	rs2305479
+Asthma	17	42275129	rs8080122
+Asthma	17	45259320	rs4247364
+Asthma	17	49370984	rs12952581
+Asthma	18	54287596	rs3730775
+Asthma	18	63775385	rs12964116
+Asthma	19	33235672	rs117710327
+Asthma	20	63691346	rs6011033
+Asthma	21	35080321	rs8126516
+Asthma	22	41423956	rs12165508
+Asthma	1	151829204	rs4845604
+Asthma			rs152271219
+Asthma	2	102316102	rs950880
+Asthma	3	188684683	rs73196739
+Asthma	3	187963924	rs509399
+Asthma	4	122120316	rs78560100
+Asthma	5	110826563	rs4099209
+Asthma	5	111071044	rs3806933
+Asthma	3	177134250	rs7626218
+Asthma	3	188415730	rs13099273
+Asthma	3	196641065	rs7636495
+Asthma	4	38797027	rs5743618
+Asthma	4	122394921	rs4145717
+Asthma	4	144558728	rs6842889
+Asthma	5	14610200	rs16903574
+Asthma	5	35837132	rs12697352
+Asthma	5	111066174	rs1837253
+Asthma	5	119355086	rs3813308
+Asthma	5	131619794	rs11950815
+Asthma	5	132660808	rs848
+Asthma	5	142116150	rs10875596
+Asthma	5	157325949	rs11746314
+Asthma	5	160491328	rs61665417
+Asthma	5	177388879	rs56297224
+Asthma	6	249788	rs12196306
+Asthma	6	12159466	rs3777755
+Asthma	6	19341070	rs13203384
+Asthma	6	21884209	rs952579
+Asthma	6	26319360	rs766406
+Asthma	6	28744470	rs1233578
+Asthma	6	32636595	rs9272346
+Asthma	6	33226700	rs411919
+Asthma	6	35254233	rs9394288
+Asthma	6	90296508	rs1504215
+Asthma	6	106219660	rs9372120
+Asthma	6	109048803	rs11759732
+Asthma	6	127966168	rs813915
+Asthma	6	135483493	rs4526212
+Asthma	6	137684378	rs17264332
+Asthma	6	142901633	rs13190880
+Asthma	6	149466242	rs431362
+Asthma	6	154753371	rs4599658
+Asthma	7	3110249	rs73033536
+Asthma	7	20536128	rs10244416
+Asthma	7	22726602	rs1800797
+Asthma	7	28136686	rs917117
+Asthma	7	50296955	rs9886239
+Asthma	7	77409628	rs2190097
+Asthma	8	8310891	rs7014953
+Asthma	8	80379410	rs4739738
+Asthma	8	127765473	rs13277355
+Asthma	8	144103704	rs34173062
+Asthma	9	6209697	rs992969
+Asthma	9	23585743	rs274945
+Asthma	9	99067260	rs1537504
+Asthma	9	114746157	rs4978607
+Asthma	9	120925556	rs1930781
+Asthma	9	124309214	rs10986311
+Asthma	5	132552294	rs1986009
+Asthma	6	31353747	rs2844584
+Asthma	6	32618190	rs3104412
+Asthma	6	32629564	rs114798579
+Asthma	6	32639108	rs9272545
+Asthma	6	32647733	rs17843577
+Asthma	6	32668172	rs2647025
+Asthma	6	32681887	rs1694112
+Asthma	6	32684540	rs7755224
+Asthma	6	32694218	rs79870097
+Asthma	6	32715035	rs9275602
+Asthma	6	32777057	rs9276643
+Asthma	6	32783639	rs7749543
+Asthma	6	32801612	rs2621363
+Asthma	7	20545214	rs13241235
+Asthma	9	6051399	rs343478
+Asthma	9	6176871	rs72699188
+Asthma	10	6073676	rs62626322
+Asthma	10	6586262	rs61841332
+Asthma	10	8059464	rs3781094
+Asthma	10	8418702	rs6602301
+Asthma	10	8549406	rs7894791
+Asthma	10	8808772	rs11255938
+Asthma	10	8986983	rs72782675
+Asthma	10	9007290	rs12413578
+Asthma	5	132660808	rs848
+Asthma	5	134103583	rs62379371
+Asthma	5	142158452	rs249681
+Asthma	5	157325949	rs11746314
+Asthma	5	160487233	rs4921290
+Asthma	5	177388879	rs56297224
+Asthma	6	21884209	rs952579
+Asthma	6	26173025	rs761202278
+Asthma	6	28744470	rs1233578
+Asthma	6	32641593	rs28383454
+Asthma	6	33130567	rs6901830
+Asthma	6	35185788	rs9348970
+Asthma	6	90291614	rs1198807554
+Asthma	6	109007801	rs772675085
+Asthma	6	127970504	rs41285280
+Asthma	6	135395394	rs2614266
+Asthma	6	137681038	rs6927172
+Asthma	6	149465354	rs768512669
+Asthma	6	154813040	rs1401084970
+Asthma	7	3117642	rs73033560
+Asthma	7	20530448	rs7802450
+Asthma	7	22726602	rs1800797
+Asthma	7	28136686	rs917117
+Asthma	7	77375844	rs370802342
+Asthma	8	80379410	rs4739738
+Asthma	2	111493181	rs138308793
+Asthma	2	143019929	rs7425446
+Asthma	2	162053713	rs6741949
+Asthma	2	227840005	rs7423358
+Asthma	2	241759225	rs34290285
+Asthma	3	12657862	rs13101202
+Asthma	3	16930719	rs2014490
+Asthma	3	33006170	rs35570272
+Asthma	3	51403873	rs73078636
+Asthma	3	72345701	rs61192126
+Asthma	3	112931584	rs7622814
+Asthma	3	119542019	rs9877891
+Asthma	3	128280587	rs2811525
+Asthma	3	141388112	rs13077048
+Asthma	3	177134250	rs7626218
+Asthma	3	188415730	rs13099273
+Asthma	3	196632439	rs1684466
+Asthma	4	38797027	rs5743618
+Asthma	4	122432277	rs17454584
+Asthma	5	14633790	rs796632525
+Asthma	5	35862739	rs7717955
+Asthma	5	72400053	rs10040192
+Asthma	5	111066174	rs1837253
+Asthma	5	119355086	rs3813308
+Asthma	5	131619794	rs11950815
+Asthma	11	76588387	rs55646091
+Asthma	12	56002984	rs1689510
+Asthma	12	57115319	rs3122929
+Asthma	15	67079082	rs12592283
+Asthma	15	67183150	rs10152595
+Asthma	16	27337847	rs3785356
+Asthma	17	40608272	rs112401631
+Asthma	17	40651705	rs7219483
+Allergic disease (asthma, hay fever or eczema)	4	122465565	rs45599938
+Allergic disease (asthma, hay fever or eczema)	5	14700894	rs77665773
+Allergic disease (asthma, hay fever or eczema)	15	67149412	rs72743461
+Allergic disease (asthma, hay fever or eczema)	13	73465798	rs981625
+Allergic disease (asthma, hay fever or eczema)	9	6208030	rs144829310
+Allergic disease (asthma, hay fever or eczema)	10	6052734	rs61839660
+Allergic disease (asthma, hay fever or eczema)	11	76582682	rs7936312
+Allergic disease (asthma, hay fever or eczema)	1	152101640	rs12122629
+Allergic disease (asthma, hay fever or eczema)	17	40608272	rs112401631
+Allergic disease (asthma, hay fever or eczema)	2	102319699	rs72823641
+Allergic disease (asthma, hay fever or eczema)	6	32658571	rs28407950
+Allergic disease (asthma, hay fever or eczema)	4	38787511	rs28690449
+Allergic disease (asthma, hay fever or eczema)	5	111131801	rs1438673
+Allergic disease (asthma, hay fever or eczema)	2	241759225	rs34290285
+Allergic disease (asthma, hay fever or eczema)	16	11125184	rs12935657
+Allergic disease (asthma, hay fever or eczema)	5	35878993	rs6881270
+Allergic disease (asthma, hay fever or eczema)	10	9012362	rs1775553
+Allergic disease (asthma, hay fever or eczema)	12	57099944	rs3024971
+Allergic disease (asthma, hay fever or eczema)	2	8302417	rs891058
+Allergic disease (asthma, hay fever or eczema)	19	33235672	rs117710327
+Allergic disease (asthma, hay fever or eczema)	1	167457187	rs1214598
+Allergic disease (asthma, hay fever or eczema)	15	60776505	rs10519068
+Allergic disease (asthma, hay fever or eczema)	6	90248783	rs905670
+Allergic disease (asthma, hay fever or eczema)	11	111563369	rs11213941
+Allergic disease (asthma, hay fever or eczema)	5	160484499	rs2961920
+Allergic disease (asthma, hay fever or eczema)	4	4764538	rs6446685
+Allergic disease (asthma, hay fever or eczema)	10	102466075	rs10883723
+Allergic disease (asthma, hay fever or eczema)	10	62631615	rs10995245
+Allergic disease (asthma, hay fever or eczema)	12	122177994	rs7953139
+Allergic disease (asthma, hay fever or eczema)	17	45378874	rs10468514
+Allergic disease (asthma, hay fever or eczema)	12	120782572	rs2393717
+Allergic disease (asthma, hay fever or eczema)	5	119355086	rs3813308
+Allergic disease (asthma, hay fever or eczema)	1	154454494	rs2228145
+Allergic disease (asthma, hay fever or eczema)	22	41423956	rs12165508
+Allergic disease (asthma, hay fever or eczema)	1	161215268	rs2070901
+Allergic disease (asthma, hay fever or eczema)	7	77409628	rs2190097
+Allergic disease (asthma, hay fever or eczema)	6	127970926	rs3933376
+Allergic disease (asthma, hay fever or eczema)	1	173201479	rs10912564
+Allergic disease (asthma, hay fever or eczema)	8	127765473	rs13277355
+Allergic disease (asthma, hay fever or eczema)	14	68293424	rs1950897
+Allergic disease (asthma, hay fever or eczema)	8	80387531	rs6473228
+Allergic disease (asthma, hay fever or eczema)	13	40605184	rs9549238
+Allergic disease (asthma, hay fever or eczema)	17	49370984	rs12952581
+Allergic disease (asthma, hay fever or eczema)	3	188724692	rs9290877
+Allergic disease (asthma, hay fever or eczema)	3	188727995	rs7650683
+Allergic disease (asthma, hay fever or eczema)	14	102772514	rs12887759
+Allergic disease (asthma, hay fever or eczema)	21	35080321	rs8126516
+Allergic disease (asthma, hay fever or eczema)	7	20536128	rs10244416
+Allergic disease (asthma, hay fever or eczema)	7	28116987	rs4722758
+Allergic disease (asthma, hay fever or eczema)	5	132660753	rs1295685
+Allergic disease (asthma, hay fever or eczema)	5	177355217	rs13153019
+Allergic disease (asthma, hay fever or eczema)	9	5064193	rs16922576
+Allergic disease (asthma, hay fever or eczema)	3	141387221	rs7632381
+Asthma	15	60776148	rs10519067
+Asthma	16	27346882	rs3024577
+Asthma	10	9021025	rs3032952
+Asthma	12	56041628	rs705704
+Asthma	2	203712201	rs3835894
+Asthma	2	241763123	rs4449174
+Asthma	3	188393029	rs10719384
+Asthma	5	111066174	rs1837253
+Asthma	5	132458377	rs3857440
+Asthma	9	89587580	rs10797119
+Asthma	10	8898431	rs12253380
+Asthma	10	8073399	rs10905284
+Asthma	5	132544224	rs2069812
+Asthma	7	73865152	rs13227841
+Asthma	3	26804032	rs9836823
+Asthma (time to event)	22	41391946	rs5758324
+Asthma (time to event)	6	30936495	rs2844649
+Asthma (time to event)	4	122680257	rs6835638
+Asthma (moderate or severe)	2	241759225	rs34290285
+Asthma (moderate or severe)	4	38798089	rs4833095
+Asthma (moderate or severe)	2	102265886	rs139210940
+Asthma (moderate or severe)	5	111069301	rs10455025
+Asthma (moderate or severe)	6	32634706	rs17205170
+Asthma (moderate or severe)	6	90240909	rs2875584
+Asthma (moderate or severe)	11	76559639	rs7130588
+Asthma (moderate or severe)	14	68287700	rs2104047
+Asthma (moderate or severe)	15	71314041	rs11631778
+Asthma (moderate or severe)	17	39913818	rs7216558
+Allergic march (atopic dermatitis to asthma)	2	8299237	rs60242841
+Asthma	6	117071395	rs144763329
+Asthma	1	3435611	rs79408112
+Asthma	2	34078378	rs73926864
+Asthma	3	13561699	rs79980658
+Asthma	6	117071395	rs144763329
+Asthma	7	154835628	rs76556931
+Asthma	8	121320840	rs6982340
+Asthma	8	23151624	rs7014637
+Asthma	8	89598206	rs311656
+Asthma	9	6159758	rs10975467
+Asthma	11	35865269	rs77231114
+Asthma	11	75123789	rs7480008
+Asthma	13	51814629	rs1543525
+Asthma exacerbations in inhaled corticosteroid treatment	21	17198794	rs79172967
+Asthma exacerbations in inhaled corticosteroid treatment	3	171420998	rs78234014
+Asthma exacerbations in inhaled corticosteroid treatment	14	97123059	rs17770168
+Asthma exacerbations in inhaled corticosteroid treatment	1	242604649	rs4658489
+Asthma exacerbations in inhaled corticosteroid treatment	11	11065928	rs17427708
+Asthma exacerbations in inhaled corticosteroid treatment	8	132149134	rs17653044
+Asthma exacerbations in inhaled corticosteroid treatment	1	9419783	rs7553273
+Asthma exacerbations in inhaled corticosteroid treatment	12	2046979	rs765124
+Asthma exacerbations in inhaled corticosteroid treatment	2	125137298	rs138328839
+Asthma exacerbations in inhaled corticosteroid treatment	4	15951847	rs116119644
+Asthma exacerbations in inhaled corticosteroid treatment	7	21645609	rs73074141
+Asthma exacerbations in inhaled corticosteroid treatment	1	115143063	rs4367784
+Asthma exacerbations in inhaled corticosteroid treatment	6	34376801	rs3798562
+Asthma exacerbations in inhaled corticosteroid treatment	8	31568155	rs142123351
+Asthma exacerbations in inhaled corticosteroid treatment	22	46903259	rs135471
+Asthma exacerbations in inhaled corticosteroid treatment	11	98708388	rs2435579
+Asthma	1	161215268	rs2070901
+Asthma	1	167449231	rs34276574
+Asthma	1	198632575	rs76181804
+Asthma	2	102343750	rs3771175
+Asthma	2	111175424	rs72837826
+Asthma	2	203721233	rs55730955
+Asthma	2	228727588	rs3732192
+Asthma	2	241759225	rs34290285
+Asthma	2	8298563	rs346835
+Asthma	3	122276094	rs2279802
+Asthma	11	65725735	rs72941069
+Asthma	11	76588605	rs11236797
+Asthma	12	56034024	rs1702877
+Asthma	12	57103222	rs703816
+Asthma	12	71139458	rs11178649
+Asthma	13	39793932	rs9603616
+Asthma	13	73465798	rs981625
+Asthma	13	99341419	rs59704974
+Asthma	14	68265589	rs10551501
+Asthma	15	60777789	rs11071559
+Asthma	15	67149412	rs72743461
+Asthma	16	11125184	rs12935657
+Asthma	16	27344041	rs3024556
+Asthma	17	39912261	rs1011082
+Asthma	17	42276943	rs4029774
+Asthma	17	49388382	rs10667251
+Asthma	17	75768419	rs4641805
+Asthma	19	33235672	rs117710327
+Asthma	19	45816157	rs1132645
+Asthma	19	9030483	rs7258329
+Asthma	20	63740688	rs1741708
+Asthma	21	35342683	rs572177190
+Asthma	1	10573188	rs6687430
+Asthma	1	152101640	rs12122629
+Asthma	1	154435237	rs7521458
+Asthma	3	188415375	rs13098877
+Asthma	3	33006170	rs35570272
+Asthma	3	94155610	rs10934957
+Asthma	4	105897896	rs34712979
+Asthma	4	122415763	rs1904522
+Asthma	4	38797027	rs5743618
+Asthma	5	111066174	rs1837253
+Asthma	5	119355086	rs3813308
+Asthma	5	132660753	rs1295685
+Asthma	5	142115574	rs13188700
+Asthma	5	35837132	rs12697352
+Asthma	6	30201550	rs2517611
+Asthma	6	32638467	rs9272502
+Asthma	6	90253896	rs148639908
+Asthma	7	20544936	rs12700215
+Asthma	8	80374940	rs13263709
+Asthma	9	128721272	rs11539209
+Asthma	9	4145873	rs2380938
+Asthma	9	6209697	rs992969
+Asthma	9	89591072	rs1888072
+Asthma	10	6051176	rs12722502
+Asthma	10	62631615	rs10995245
+Asthma	10	9010779	rs1775550
+Asthma	11	128283912	rs61907683
+Asthma	11	61826344	rs174568
+Oral corticosteroid burst in asthma	6	48149081	rs116023293
+Oral corticosteroid burst in asthma	18	57034213	rs188029498
+Oral corticosteroid burst in asthma	1	104753930	rs10399688
+Oral corticosteroid burst in asthma	6	48291355	rs77506063
+Oral corticosteroid burst in asthma	8	135099216	rs6989024
+Oral corticosteroid burst in asthma	9	1718534	rs10962867
+Oral corticosteroid burst in asthma	13	105419977	rs189248038
+Oral corticosteroid burst in asthma	8	134456669	rs7816086
+Oral corticosteroid burst in asthma	10	60350910	rs140590249
+Oral corticosteroid burst in asthma	10	3941915	rs7094139
+Oral corticosteroid burst in asthma	13	25702195	rs3121591
+Oral corticosteroid burst in asthma	6	56562750	rs9475719
+Oral corticosteroid burst in asthma	13	25593405	rs7332027
+Oral corticosteroid burst in asthma	10	60551981	rs117897830
+Oral corticosteroid burst in asthma	10	60767276	rs142105464
+Oral corticosteroid burst in asthma	16	24033920	rs56374842
+Oral corticosteroid burst in asthma	4	135866600	rs35328661
+Oral corticosteroid burst in asthma	3	159760101	rs115745171
+Oral corticosteroid burst in asthma	14	100692930	rs113007508
+Asthma exacerbations in inhaled corticosteroid treatment	8	80141887	rs113742116
+Asthma exacerbations in inhaled corticosteroid treatment	10	9107417	rs4749836
+Asthma exacerbations in inhaled corticosteroid treatment	10	120587210	rs118174380
+Asthma exacerbations in inhaled corticosteroid treatment	21	23962597	rs2828658
+Asthma exacerbations in inhaled corticosteroid treatment	2	105176393	rs2679870
+Asthma exacerbations in inhaled corticosteroid treatment	2	10278047	rs10178726
+Asthma (adult onset)	6	32992717	rs140545087
+Asthma (adult onset)	6	90276634	rs6454805
+Asthma (adult onset)	6	32634705	rs3104369
+Asthma (adult onset)	6	32582349	rs35789108
+Asthma (adult onset)	6	32777750	rs12661352
+Asthma (adult onset)	6	32607747	rs4713555
+Asthma (adult onset)	6	32625016	rs566952760
+Asthma (adult onset)	6	32695197	rs9275282
+Asthma (adult onset)	6	32659923	rs6689
+Asthma (adult onset)	6	32637412	rs9272426
+Asthma (adult onset)	6	32619380	rs28688825
+Asthma (adult onset)	6	32586627	rs34084957
+Asthma (adult onset)	6	31379045	rs9266629
+Asthma (adult onset)	8	80390804	rs2001628
+Asthma (adult onset)	8	80406657	rs10091870
+Asthma (adult onset)	9	5841438	rs7047575
+Asthma (adult onset)	9	6362365	rs7851246
+Asthma (adult onset)	9	6255967	rs146597587
+Asthma (adult onset)	9	6209697	rs992969
+Asthma (adult onset)	9	6187132	rs76962799
+Asthma (adult onset)	9	5950583	rs115053934
+Asthma (adult onset)	9	6049843	rs10975413
+Asthma (adult onset)	10	8061096	rs477771
+Asthma (adult onset)	10	6051176	rs12722502
+Asthma (adult onset)	10	9166241	rs17406680
+Asthma (adult onset)	10	8990592	rs72782676
+Asthma (adult onset)	10	9011110	rs962992
+Asthma (adult onset)	10	9007290	rs12413578
+Asthma (adult onset)	10	9004682	rs2589561
+Asthma (adult onset)	10	8995529	rs930579
+Asthma (adult onset)	10	8960206	rs827620
+Asthma (adult onset)	10	8735677	rs10795672
+Asthma (adult onset)	10	9066555	rs17145188
+Asthma (adult onset)	10	8473385	rs12785018
+Asthma (adult onset)	10	9108236	rs118091978
+Asthma (adult onset)	11	76582483	rs7936070
+Asthma (adult onset)	11	76588387	rs55646091
+Asthma (adult onset)	11	61843278	rs174584
+Asthma (adult onset)	12	55995509	rs705700
+Asthma (adult onset)	12	57095926	rs1059513
+Asthma (adult onset)	12	57136558	rs17547610
+Asthma (adult onset)	12	57115319	rs3122929
+Asthma (adult onset)	13	39788092	rs8002731
+Asthma (adult onset)	15	67183150	rs10152595
+Asthma (adult onset)	15	60757370	rs7183955
+Asthma (adult onset)	15	67149412	rs72743461
+Asthma (adult onset)	15	67078906	rs28617673
+Asthma (adult onset)	15	67174805	rs12912010
+Asthma (adult onset)	16	11119164	rs35441874
+Asthma (adult onset)	16	27353989	rs140152038
+Adult onset asthma or fasting glucose levels	11	61842278	rs174583
+Nonatopic asthma or fasting glucose levels	11	61842278	rs174583
+Asthma (adult onset)	1	167458010	rs7523907
+Asthma (adult onset)	1	198688721	rs3767745
+Asthma (adult onset)	2	241759225	rs34290285
+Asthma (adult onset)	2	102327786	rs59185885
+Asthma (adult onset)	2	102475982	rs1468790
+Asthma (adult onset)	2	102236342	rs10167431
+Asthma (adult onset)	2	102332701	rs12479210
+Asthma (adult onset)	2	101671373	rs13022699
+Asthma (adult onset)	2	102578099	rs74263644
+Asthma (adult onset)	2	145360501	rs1474011
+Asthma (adult onset)	3	33042493	rs4491851
+Asthma (adult onset)	3	177131952	rs62296577
+Asthma (adult onset)	5	157209701	rs75355720
+Asthma (adult onset)	5	132463934	rs3749833
+Asthma (adult onset)	5	132656189	rs115008099
+Asthma (adult onset)	5	132649143	rs60153262
+Asthma (adult onset)	5	142088689	rs1821263
+Asthma (adult onset)	5	111136093	rs73786772
+Asthma (adult onset)	5	111066174	rs1837253
+Asthma (adult onset)	6	31663557	rs76072474
+Asthma (adult onset)	6	31771343	rs3130490
+Asthma (adult onset)	6	32455739	rs140302846
+Asthma (adult onset)	6	32456817	rs9268813
+Asthma (adult onset)	16	27347740	rs2239346
+Asthma (adult onset)	17	49391824	rs2412099
+Asthma (adult onset)	19	33235672	rs117710327
+Asthma (adult onset)	21	35049034	rs56045941
+Asthma (adult onset)	1	31699492	rs6681149
+Asthma (adult onset)	11	111570140	rs4616071
+Asthma (adult onset)	11	65527359	rs1787663
+Asthma (adult onset)	15	83887871	rs4842921
+Asthma (adult onset)	17	75829382	rs111365807
+Asthma (adult onset)	19	45867123	rs8103278
+Asthma (adult onset)	2	111117122	rs72836344
+Asthma (adult onset)	4	52437952	rs7670374
+Asthma (adult onset)	6	143977063	rs6900923
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	2	111134218	rs72836349
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	11	65527359	rs1787663
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	11	111570140	rs4616071
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	15	67183150	rs10152595
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	15	83887871	rs4842921
+Adult onset asthma and/or waist-to-hip ratio adjusted for BMI	19	45867123	rs8103278
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	15	67183150	rs10152595
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	18	23000571	rs112104755
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	11	111563202	rs11213940
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	3	169128913	rs12491785
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	7	20304503	rs73084574
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	7	20336480	rs73086541
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	19	17056913	rs73504817
+Nonatopic asthma and/or waist-to-hip ratio adjusted for BMI	19	45867123	rs8103278
+Adult onset asthma or type 2 diabetes	11	61843278	rs174584
+Adult onset asthma or type 2 diabetes	10	92670740	rs2185756
+Adult onset asthma or type 2 diabetes	6	32634705	rs3104369
+Adult onset asthma or type 2 diabetes	19	44908684	rs429358
+Adult onset asthma or type 2 diabetes	10	92738679	rs4933236
+Adult onset asthma or type 2 diabetes	6	32706552	rs9275511
+Nonatopic asthma or type 2 diabetes	10	92499423	rs11187027
+Nonatopic asthma or type 2 diabetes	2	60324666	rs1512226
+Nonatopic asthma or type 2 diabetes	11	61843278	rs174584
+Nonatopic asthma or type 2 diabetes	1	39570256	rs3768321
+Nonatopic asthma or type 2 diabetes	7	28139777	rs849139
+Adult onset asthma and/or BMI	1	31699492	rs6681149
+Adult onset asthma and/or BMI	2	111117122	rs72836344
+Adult onset asthma and/or BMI	3	177195111	rs12493005
+Adult onset asthma and/or BMI	4	52437952	rs7670374
+Adult onset asthma and/or BMI	6	143977063	rs6900923
+Adult onset asthma and/or BMI	12	56080696	rs4759229
+Adult onset asthma and/or BMI	17	75829382	rs111365807
+Adult onset asthma and/or BMI	1	167326601	rs6427082
+Nonatopic asthma and/or BMI	1	8630874	rs1381928
+Nonatopic asthma and/or BMI	1	31699492	rs6681149
+Nonatopic asthma and/or BMI	6	32710422	rs9275570
+Nonatopic asthma and/or BMI	7	20540024	rs28423374
+Nonatopic asthma and/or BMI	11	66562261	rs540874
+Nonatopic asthma and/or BMI	12	56080696	rs4759229
+Nonatopic asthma and/or BMI	17	75829382	rs111365807
+Nonatopic asthma and/or BMI	17	39994239	rs3826331
+Nonatopic asthma and/or BMI	17	78844832	rs9895419
+Nonatopic asthma and/or BMI	18	41911693	rs8089834
+Pediatric asthma	1	152206676	rs12123821
+Pediatric asthma			chr1:167666157
+Pediatric asthma	1	198697103	rs2296618
+Pediatric asthma	2	102319699	rs72823641
+Pediatric asthma	2	111175424	rs72837826
+Pediatric asthma	2	241759225	rs34290285
+Pediatric asthma	2	8333945	rs2561999
+Pediatric asthma	3	188415548	rs60946162
+Pediatric asthma	3	33002847	rs9828592
+Pediatric asthma	3	94155610	rs10934957
+Pediatric asthma	4	122148497	rs140838728
+Pediatric asthma	4	38797027	rs5743618
+Pediatric asthma	5	111069301	rs10455025
+Pediatric asthma	5	132660753	rs1295685
+Pediatric asthma	6	32647774	rs17843580
+Pediatric asthma	6	90253896	rs148639908
+Pediatric asthma	8	80374940	rs13263709
+Pediatric asthma	9	6209697	rs992969
+Pediatric asthma	10	6051176	rs12722502
+Pediatric asthma	10	9020893	rs2197415
+Pediatric asthma	11	128268973	rs34814731
+Pediatric asthma	11	76582682	rs7936312
+Pediatric asthma	12	56034024	rs1702877
+Pediatric asthma	12	57099944	rs3024971
+Pediatric asthma	13	99377210	rs34259893
+Pediatric asthma	13	73465798	rs981625
+Pediatric asthma	14	68261708	rs28498223
+Pediatric asthma	15	67149412	rs72743461
+Pediatric asthma	16	11119164	rs35441874
+Pediatric asthma	16	27353485	rs3024619
+Pediatric asthma	17	39912261	rs1011082
+Pediatric asthma	17	49384071	rs17637472
+Pediatric asthma	19	33235672	rs117710327
+Pediatric asthma	21	35051694	rs17227210
+Pediatric asthma	22	41401543	rs132901
+Asthma exacerbations	1	100745004	rs12091010
+Asthma exacerbations	5	22659297	rs6888198
+Asthma exacerbations	9	90493592	rs1551751
+Asthma exacerbations	10	89616542	rs943126
+Endometriosis or asthma (pleiotropy)	8	9706927	rs7006985
+Endometriosis or asthma (pleiotropy)	8	10855435	rs877116
+Endometriosis or asthma (pleiotropy)	8	10873290	rs1367507
+Endometriosis or asthma (pleiotropy)	8	10954319	rs11250097
+Endometriosis or asthma (pleiotropy)	8	10961097	rs11250098
+Endometriosis or asthma (pleiotropy)	8	11605008	rs13248109
+Endometriosis or asthma (pleiotropy)	8	11605721	rs4840573
+Endometriosis or asthma (pleiotropy)	10	21744013	rs7072776
+Endometriosis or asthma (pleiotropy)	10	21809772	rs10828266
+Endometriosis or asthma (pleiotropy)	10	21834839	rs2666773
+Endometriosis or asthma (pleiotropy)	10	21835334	rs4747438
+Endometriosis or asthma (pleiotropy)	10	21844864	rs792458
+Endometriosis or asthma (pleiotropy)	10	21999203	rs4748779
+Endometriosis or asthma (pleiotropy)	11	128316987	rs10893845
+Endometriosis or asthma (pleiotropy)	21	35322878	rs2834909
+Endometriosis or asthma (pleiotropy)	21	35353673	rs1022461
+Endometriosis or asthma (pleiotropy)	1	24894099	rs9438873
+Endometriosis or asthma (pleiotropy)	10	21728616	rs10828264
+Endometriosis or asthma (pleiotropy)	10	88022133	rs12412656
+Endometriosis or asthma (pleiotropy)	9	22103814	rs1333042
+Endometriosis or asthma (pleiotropy)	15	67150258	rs17293632
+Endometriosis or asthma (pleiotropy)			rs10116277
+Endometriosis or asthma (pleiotropy)	9	22081851	rs6475606
+Endometriosis or asthma (pleiotropy)	9	22084311	rs1537370
+Endometriosis or asthma (pleiotropy)	9	22088095	rs10738607
+Endometriosis or asthma (pleiotropy)	9	22088261	rs10757272
+Endometriosis or asthma (pleiotropy)	9	22099569	rs1537371
+Endometriosis or asthma (pleiotropy)	9	22102166	rs7859727
+Endometriosis or asthma (pleiotropy)	9	22103342	rs1537373
+Endometriosis or asthma (pleiotropy)	9	22110132	rs1412834
+Endometriosis or asthma (pleiotropy)	9	22112242	rs7341786
+Endometriosis or asthma (pleiotropy)	9	22112600	rs10511701
+Endometriosis or asthma (pleiotropy)	9	22115960	rs2383207
+Endometriosis or asthma (pleiotropy)	9	22116047	rs1537374
+Endometriosis or asthma (pleiotropy)	9	22116072	rs1537375
+Endometriosis or asthma (pleiotropy)	15	67154447	rs744910
+Endometriosis or asthma (pleiotropy)	15	67157967	rs17228058
+Endometriosis or asthma (pleiotropy)	15	67175203	rs12708492
+Endometriosis or asthma (pleiotropy)	15	67175947	rs17294280
+Endometriosis or asthma (pleiotropy)			rs4851536
+Endometriosis or asthma (pleiotropy)	2	145067988	rs1830321
+Endometriosis or asthma (pleiotropy)	2	173688707	rs752280
+Endometriosis or asthma (pleiotropy)	2	215430291	rs1250240
+Endometriosis or asthma (pleiotropy)	3	25465539	rs6778350
+Endometriosis or asthma (pleiotropy)	3	112036219	rs4386465
+Endometriosis or asthma (pleiotropy)	5	155636254	rs882551
+Endometriosis or asthma (pleiotropy)	6	5479863	rs200215
+Endometriosis or asthma (pleiotropy)	7	27157700	rs4722665
+Endometriosis or asthma (pleiotropy)	7	46439588	rs12702220
+Endometriosis or asthma (pleiotropy)	7	46590756	rs11769224
+Endometriosis or asthma (pleiotropy)	1	174831734	rs1540207
+Endometriosis or asthma (pleiotropy)	3	188415375	rs13098877
+Endometriosis or asthma (pleiotropy)	6	31494468	rs2534685
+Endometriosis or asthma (pleiotropy)	6	31495714	rs2516408
+Endometriosis or asthma (pleiotropy)	8	8310952	rs17603933
+Endometriosis or asthma (pleiotropy)	8	8391572	rs2976950
+Endometriosis or asthma (pleiotropy)	8	8412181	rs2945865
+Endometriosis or asthma (pleiotropy)	8	8427694	rs2921095
+Endometriosis or asthma (pleiotropy)	8	8428606	rs2945858
+Endometriosis or asthma (pleiotropy)	8	8442426	rs2921081
+Endometriosis or asthma (pleiotropy)	8	8720719	rs7825636
+Endometriosis or asthma (pleiotropy)	8	8721284	rs572366
+Endometriosis or asthma (pleiotropy)	8	8721301	rs572307
+Endometriosis or asthma (pleiotropy)	8	8737594	rs519019
+Endometriosis or asthma (pleiotropy)	8	8782662	rs693109
+Endometriosis or asthma (pleiotropy)	8	8786428	rs2271342
+Endometriosis or asthma (pleiotropy)	8	8786764	rs12677543
+Endometriosis or asthma (pleiotropy)	8	8797017	rs4841040
+Endometriosis or asthma (pleiotropy)	8	8813226	rs59046059
+Endometriosis or asthma (pleiotropy)	8	8815291	rs4841046
+Endometriosis or asthma (pleiotropy)	8	8817815	rs35039922
+Endometriosis or asthma (pleiotropy)	8	8822967	rs57312668
+Endometriosis or asthma (pleiotropy)	8	8828136	rs4841051
+Endometriosis or asthma (pleiotropy)	8	9549327	rs12156017
+Endometriosis or asthma (pleiotropy)	8	9630303	rs4075359
+Endometriosis or asthma (pleiotropy)	1	174830983	rs4480415
+Endometriosis or asthma (pleiotropy)	2	102661403	rs72828033
+Endometriosis or asthma (pleiotropy)	3	188415730	rs13099273
+Endometriosis or asthma (pleiotropy)	6	31493831	rs2534687
+Endometriosis or asthma (pleiotropy)	6	31493994	rs2894221
+Endometriosis or asthma (pleiotropy)	7	20377088	rs12700186
+Endometriosis or asthma (pleiotropy)	8	8317614	rs55852693
+Endometriosis or asthma (pleiotropy)	8	8412784	rs6601697
+Endometriosis or asthma (pleiotropy)	8	8690607	rs7829975
+Endometriosis or asthma (pleiotropy)	8	8788215	rs2409088
+Endometriosis or asthma (pleiotropy)	8	8890027	rs399123
+Endometriosis or asthma (pleiotropy)	8	9296109	rs17658270
+Endometriosis or asthma (pleiotropy)	8	9710493	rs10099122
+Endometriosis or asthma (pleiotropy)	8	10873556	rs7838378
+Endometriosis or asthma (pleiotropy)	8	10958061	rs10109025
+Endometriosis or asthma (pleiotropy)	8	11427710	rs12156009
+Endometriosis or asthma (pleiotropy)	8	11610254	rs13250871
+Endometriosis or asthma (pleiotropy)	10	8986983	rs72782675
+Endometriosis or asthma (pleiotropy)	10	21530895	rs12253527
+Endometriosis or asthma (pleiotropy)	11	128315955	rs10893844
+Endometriosis or asthma (pleiotropy)	15	67163292	rs56062135
+Endometriosis or asthma (pleiotropy)	15	67166467	rs28360855
+Endometriosis or asthma (pleiotropy)	17	44898335	rs35653192
+Endometriosis or asthma (pleiotropy)	21	35107932	rs8129889
+Endometriosis or asthma (pleiotropy)	21	35320152	rs8133814
+Endometriosis or asthma (pleiotropy)	7	46644856	rs2195889
+Endometriosis or asthma (pleiotropy)	8	8521482	rs7837587
+Endometriosis or asthma (pleiotropy)	8	8828344	rs1039916
+Endometriosis or asthma (pleiotropy)	8	9549092	rs1458942
+Endometriosis or asthma (pleiotropy)	9	22072265	rs10757269
+Endometriosis or asthma (pleiotropy)	9	22119196	rs1333045
+Endometriosis or asthma (pleiotropy)	9	120933004	rs10739580
+Endometriosis or asthma (pleiotropy)	9	133279294	rs495828
+Endometriosis or asthma (pleiotropy)	10	21379270	rs12245880
+Endometriosis or asthma (pleiotropy)	10	21560840	rs11012737
+Endometriosis or asthma (pleiotropy)	10	81666211	rs11190871
+Endometriosis or asthma (pleiotropy)	10	88026131	rs4933464
+Endometriosis or asthma (pleiotropy)	12	3293526	rs4766095
+Endometriosis or asthma (pleiotropy)	12	26440995	rs12301591
+Endometriosis or asthma (pleiotropy)	12	64439469	rs10878172
+Endometriosis or asthma (pleiotropy)	12	102246473	rs7954204
+Endometriosis or asthma (pleiotropy)	12	102451766	rs9651925
+Endometriosis or asthma (pleiotropy)	12	102520168	rs17797222
+Endometriosis or asthma (pleiotropy)	12	123251537	rs10773000
+Endometriosis or asthma (pleiotropy)	13	69314926	rs17606127
+Endometriosis or asthma (pleiotropy)	15	67166301	rs17228212
+Endometriosis or asthma (pleiotropy)	17	65867092	rs7208926
+Endometriosis or asthma (pleiotropy)	17	77370538	rs98229
+Endometriosis or asthma (pleiotropy)	19	45765644	rs2341097
+Endometriosis or asthma (pleiotropy)	19	45853290	rs7258364
+Endometriosis or asthma (pleiotropy)	19	45871299	rs11669442
+Endometriosis or asthma (pleiotropy)	22	50276187	rs6010226
+Asthma and eczema	1	152459455	rs12089980
+Asthma and eczema	2	141361833	rs1402470
+Asthma and eczema	4	6916952	rs10937762
+Asthma and eczema	15	27902060	rs2703978
+Asthma-COPD overlap syndrome	5	99135431	rs80101740
+Asthma-COPD overlap syndrome	5	14610200	rs16903574
+Asthma-COPD overlap syndrome	3	57129723	rs6787279
+Asthma-COPD overlap syndrome	5	132463934	rs3749833
+Asthma-COPD overlap syndrome	3	33006170	rs35570272
+Asthma-COPD overlap syndrome	17	49393125	rs2584662
+Asthma-COPD overlap syndrome	6	32659473	rs9273410
+Asthma-COPD overlap syndrome	5	111066174	rs1837253
+Asthma-COPD overlap syndrome	17	39915994	rs1031460
+Asthma-COPD overlap syndrome	2	241759225	rs34290285
+Asthma-COPD overlap syndrome	11	76588387	rs55646091
+Asthma-COPD overlap syndrome	12	56073803	rs7312770
+Asthma-COPD overlap syndrome	1	8416368	rs159960
+Asthma-COPD overlap syndrome	13	99343761	rs9513600
+Asthma-COPD overlap syndrome	14	93050120	rs2180369
+Asthma-COPD overlap syndrome	11	111754361	rs4936678
+Asthma-COPD overlap syndrome	12	94225997	rs17241080
+Asthma-COPD overlap syndrome	6	30107095	rs7383537
+Asthma-COPD overlap syndrome	10	6021290	rs2076846
+Asthma-COPD overlap syndrome	18	28110320	rs11564388
+Asthma-COPD overlap syndrome	9	98889824	rs1028655
+Asthma-COPD overlap syndrome	1	14960672	rs41301991
+Asthma	2	102357669	rs12999364
+Asthma	2	203721233	rs55730955
+Asthma	2	241769551	rs79626458
+Asthma	3	122273978	rs3804594
+Asthma	3	188415375	rs13098877
+Asthma	5	111066174	rs1837253
+Asthma	5	132660151	rs1295686
+Asthma	6	30010092	rs886997
+Asthma	6	32464723	rs78218185
+Asthma	7	20496719	rs9986779
+Asthma	9	4148717	rs7041606
+Asthma	9	89574598	rs7030895
+Asthma	10	62637161	rs10995250
+Asthma	10	8898431	rs12253380
+Asthma	12	56034024	rs1702877
+Asthma	14	68844624	rs79509103
+Asthma	15	60777789	rs11071559
+Asthma	16	27346882	rs3024577
+Asthma	17	39781794	rs10445308
+Asthma	19	9030483	rs7258329
+Asthma	20	64143830	rs4809412
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	2	38065376	rs163085
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	2	206991641	rs9288377
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	3	151058813	rs358959
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	5	180828963	rs4700988
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	6	92324740	rs2818130
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	10	123169436	rs7918913
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	12	114915295	rs7958534
+Childhood asthma exacerbations in long-acting beta2-agonist treatment	20	57984096	rs55950385
+Atopic asthma	6	32393356	rs3817971
+Severe exacerbations in childhood asthma	14	61613308	rs2253681
+Severe exacerbations in childhood asthma	11	131886801	rs67037181
+Asthma			chr9:6255967
+Asthma vs allergic disease			chr9:6255967
+Childhood asthma vs allergic disease			chr9:6255967
+ICD10 J45: Asthma			chr9:6255967
+Asthma strict			chr9:6255967
+Asthma			chr9:6255967
+Asthma and cardiovascular disease	5	132350453	rs10058074
+Asthma and cardiovascular disease	17	39955101	rs1007654
+Asthma and cardiovascular disease	17	39955166	rs1007655
+Asthma and cardiovascular disease	17	39910014	rs1008723
+Asthma and cardiovascular disease	9	6163823	rs10119713
+Asthma and cardiovascular disease	9	6161686	rs10124250
+Asthma and cardiovascular disease	17	39781794	rs10445308
+Asthma and cardiovascular disease	9	22112600	rs10511701
+Asthma and cardiovascular disease	17	39877024	rs1054609
+Asthma and cardiovascular disease	9	22088095	rs10738607
+Asthma and cardiovascular disease	9	22114496	rs10738609
+Asthma and cardiovascular disease	9	22123767	rs10738610
+Asthma and cardiovascular disease	9	22088261	rs10757272
+Asthma and cardiovascular disease	9	22067594	rs10811650
+Asthma and cardiovascular disease	17	39875461	rs10852936
+Asthma and cardiovascular disease	17	39679502	rs11078919
+Asthma and cardiovascular disease	17	39868955	rs11078925
+Asthma and cardiovascular disease	17	39906723	rs11078926
+Asthma and cardiovascular disease	17	39908152	rs11078927
+Asthma and cardiovascular disease	17	39985702	rs11078930
+Asthma and cardiovascular disease	17	40041661	rs11078936
+Asthma and cardiovascular disease	9	6155226	rs1116795
+Asthma and cardiovascular disease	17	39868373	rs11557466
+Asthma and cardiovascular disease	17	39872381	rs11557467
+Asthma and cardiovascular disease	5	132316836	rs11950562
+Asthma and cardiovascular disease	5	132450903	rs11951091
+Asthma and cardiovascular disease	17	39869164	rs12150079
+Asthma and cardiovascular disease	17	39678288	rs12150298
+Asthma and cardiovascular disease	17	39883866	rs12232497
+Asthma and cardiovascular disease	17	40019209	rs12309
+Asthma and cardiovascular disease	17	40023022	rs12451897
+Asthma and cardiovascular disease	17	39997220	rs12453334
+Asthma and cardiovascular disease	17	39613752	rs12453682
+Asthma and cardiovascular disease	5	132449992	rs12515180
+Asthma and cardiovascular disease	5	132239645	rs12521097
+Asthma and cardiovascular disease	5	132448701	rs12521868
+Asthma and cardiovascular disease	17	39926554	rs12603332
+Asthma and cardiovascular disease	5	132636210	rs12653750
+Asthma and cardiovascular disease	17	39892980	rs12950743
+Asthma and cardiovascular disease	9	22103814	rs1333042
+Asthma and cardiovascular disease	9	22125348	rs1333048
+Asthma and cardiovascular disease	17	39671819	rs14050
+Asthma and cardiovascular disease	9	22110132	rs1412834
+Asthma and cardiovascular disease	17	39679990	rs1476278
+Asthma and cardiovascular disease	9	22099569	rs1537371
+Asthma and cardiovascular disease	9	22103342	rs1537373
+Asthma and cardiovascular disease	9	22116047	rs1537374
+Asthma and cardiovascular disease	9	22116072	rs1537375
+Asthma and cardiovascular disease	17	39674782	rs1565922
+Asthma and cardiovascular disease	17	39702425	rs1565923
+Asthma and cardiovascular disease	5	132579521	rs17166050
+Asthma and cardiovascular disease	17	39954436	rs17609240
+Asthma and cardiovascular disease	5	132381358	rs17622208
+Asthma and cardiovascular disease	5	132442760	rs17622378
+Asthma and cardiovascular disease	17	39709752	rs1810132
+Asthma and cardiovascular disease	17	39657827	rs1877031
+Asthma and cardiovascular disease	5	132648366	rs2158177
+Asthma and cardiovascular disease	5	132435113	rs2188962
+Asthma and cardiovascular disease	17	40014592	rs2227319
+Asthma and cardiovascular disease	5	132468655	rs2248116
+Asthma and cardiovascular disease	5	132582752	rs2252775
+Asthma and cardiovascular disease	17	39909987	rs2290400
+Asthma and cardiovascular disease	5	132616304	rs2301713
+Asthma and cardiovascular disease	17	40026837	rs2302774
+Asthma and cardiovascular disease	17	40021896	rs2302776
+Asthma and cardiovascular disease	17	40023239	rs2302777
+Asthma and cardiovascular disease	17	39905964	rs2305479
+Asthma and cardiovascular disease	17	39905943	rs2305480
+Asthma and cardiovascular disease	17	39982371	rs2305481
+Asthma and cardiovascular disease	17	39677589	rs2313171
+Asthma and cardiovascular disease	17	39955592	rs2313640
+Asthma and cardiovascular disease	9	22115027	rs2383206
+Asthma and cardiovascular disease	9	22115960	rs2383207
+Asthma and cardiovascular disease	17	39687297	rs2517954
+Asthma and cardiovascular disease	17	39687428	rs2517955
+Asthma and cardiovascular disease	17	39687606	rs2517956
+Asthma and cardiovascular disease	17	39682463	rs2517957
+Asthma and cardiovascular disease	17	39682498	rs2517958
+Asthma and cardiovascular disease	5	132462795	rs2522052
+Asthma and cardiovascular disease	17	40016890	rs25645
+Asthma and cardiovascular disease	17	39884510	rs2872507
+Asthma and cardiovascular disease	9	22098620	rs2891168
+Asthma and cardiovascular disease	17	39676113	rs2934952
+Asthma and cardiovascular disease	17	39672492	rs2941503
+Asthma and cardiovascular disease	17	39674647	rs2941504
+Asthma and cardiovascular disease	17	39676451	rs2941505
+Asthma and cardiovascular disease	17	39676782	rs2941506
+Asthma and cardiovascular disease	5	132451445	rs6866614
+Asthma and cardiovascular disease	5	132634182	rs6871536
+Asthma and cardiovascular disease	17	39935407	rs7207600
+Asthma and cardiovascular disease	17	39966427	rs7212938
+Asthma and cardiovascular disease	17	39913696	rs7216389
+Asthma and cardiovascular disease	17	39958216	rs7218321
+Asthma and cardiovascular disease	17	39958108	rs7218742
+Asthma and cardiovascular disease	17	39958263	rs7219080
+Asthma and cardiovascular disease	17	39918265	rs7219923
+Asthma and cardiovascular disease	17	39919173	rs7224129
+Asthma and cardiovascular disease	9	22112242	rs7341786
+Asthma and cardiovascular disease	17	39893336	rs7359623
+Asthma and cardiovascular disease	5	132617735	rs7449456
+Asthma and cardiovascular disease	9	22105928	rs7859362
+Asthma and cardiovascular disease	17	39942782	rs8065126
+Asthma and cardiovascular disease	17	40052687	rs8065443
+Asthma and cardiovascular disease	17	39895095	rs8067378
+Asthma and cardiovascular disease	17	39900944	rs8069176
+Asthma and cardiovascular disease	17	39348680	rs8069451
+Asthma and cardiovascular disease	17	39924659	rs8076131
+Asthma and cardiovascular disease	17	39678745	rs8078228
+Asthma and cardiovascular disease	17	39936460	rs8079416
+Asthma and cardiovascular disease	17	40057106	rs868150
+Asthma and cardiovascular disease	17	39911790	rs869402
+Asthma and cardiovascular disease	17	39668292	rs876493
+Asthma and cardiovascular disease	17	39683240	rs903501
+Asthma and cardiovascular disease	17	39673351	rs903502
+Asthma and cardiovascular disease	17	39672534	rs907087
+Asthma and cardiovascular disease	17	39677347	rs907089
+Asthma and cardiovascular disease	17	39765489	rs907091
+Asthma and cardiovascular disease	17	39766006	rs907092
+Asthma and cardiovascular disease	17	39680100	rs9303274
+Asthma and cardiovascular disease	17	39820216	rs9303277
+Asthma and cardiovascular disease	17	39917778	rs9303280
+Asthma and cardiovascular disease	17	39917793	rs9303281
+Asthma and cardiovascular disease	17	39665182	rs931992
+Asthma and cardiovascular disease	9	22115287	rs944797
+Asthma and cardiovascular disease	17	39952110	rs9895948
+Asthma and cardiovascular disease	17	39887090	rs9901146
+Asthma and cardiovascular disease	17	39878863	rs9907088
+Asthma and cardiovascular disease	17	39813896	rs9909593
+Asthma and cardiovascular disease	17	40025976	rs9916158
+Asthma and cardiovascular disease	17	39672243	rs2952151
+Asthma and cardiovascular disease	17	39720582	rs2952156
+Asthma and cardiovascular disease	17	39829548	rs3816470
+Asthma and cardiovascular disease	17	39972395	rs3859192
+Asthma and cardiovascular disease	17	39965740	rs3894194
+Asthma and cardiovascular disease	17	39963001	rs3902025
+Asthma and cardiovascular disease	5	132358384	rs4705938
+Asthma and cardiovascular disease	5	132457594	rs4705950
+Asthma and cardiovascular disease	17	39933091	rs4794820
+Asthma and cardiovascular disease	17	39867492	rs4795397
+Asthma and cardiovascular disease	17	39910767	rs4795400
+Asthma and cardiovascular disease	17	39932164	rs4795405
+Asthma and cardiovascular disease	17	39951374	rs4795408
+Asthma and cardiovascular disease	9	22098575	rs4977574
+Asthma and cardiovascular disease	17	39958345	rs6503526
+Asthma and cardiovascular disease	17	39958466	rs6503527
+Adult asthma	6	31120368	rs3095318
+Adult asthma	1	228456531	rs2147959
+Adult asthma	11	993745	rs7104956
+Adult asthma	6	30311297	rs114623225
+Adult asthma	16	11116558	rs9923856
+Adult asthma	5	123802198	rs2431345
+Adult asthma	12	112987349	rs1293767
+Adult asthma	12	76895640	rs1691562
+Adult asthma	1	54702100	rs646356
+Adult asthma	10	38470625	rs11498342
+Adult asthma	12	82684840	rs74106266
+Adult asthma	8	72097031	rs112461602
+Adult asthma	2	208321398	rs4673397
+Adult asthma	6	31484146	rs147089311
+Adult asthma	4	82872768	rs10022260
+Adult asthma	3	147211318	rs78558203
+Adult asthma	6	31120368	rs3095318
+Adult asthma	1	228456531	rs2147959
+Adult asthma	12	112987349	rs1293767
+Adult asthma	1	54702100	rs646356
+Adult asthma	6	32398119	rs116020758
+Adult asthma	4	53928308	rs58354223
+Adult asthma	9	27308290	rs72721168
+Adult asthma	9	27308290	rs72721168
+Asthma	5	109108853	rs4957798
+Asthma	12	57000851	rs3741578
+Asthma	6	32398119	rs116020758
+Asthma	2	47948199	rs12105167
+Asthma	2	233968199	rs10171428
+Asthma	10	86305355	rs2353275
+Asthma	13	23188133	rs578196
+Asthma	14	69612583	rs3784143
+Asthma	16	11135271	rs62026377
+Asthma	8	100419573	rs7830057
+Asthma	6	32398119	rs116020758
+Asthma	4	53928308	rs58354223
+Asthma	3	65559892	rs114381917
+Asthma	12	11788645	rs2856328
+Asthma	2	173386140	rs6761859
+Asthma			rs67431028
+Asthma	9	133721832	rs2502757
+Asthma	2	40127337	rs2373794
+Asthma	8	6333897	rs141602583
+Asthma	5	132637485	rs2040704
+Asthma	22	23333616	rs9620247
+Asthma	21	21779123	rs7281353
+Asthma	11	30591466	rs10835689
+Asthma	20	16284118	rs77829948
+Asthma	15	53872840	rs7169793
+Asthma	16	13813303	rs116201499
+Asthma (childhood onset)	5	95949	rs62344088
+Asthma (childhood onset)	5	109108853	rs4957798
+Asthma (childhood onset)	2	152400198	rs35083325
+Asthma (childhood onset)	17	39907485	rs62067034
+Asthma (childhood onset)	9	1995749	rs10811256
+Asthma (childhood onset)	2	141243326	rs116126524
+Asthma (childhood onset)	6	167156031	rs6907629
+Asthma (childhood onset)	5	124974999	rs6872411
+Asthma (childhood onset)	6	154156778	rs17277929
+Asthma (childhood onset)	2	133880928	rs1530572
+Asthma (childhood onset)	16	84810839	rs12600053
+Asthma (childhood onset)	13	22056464	rs11839433
+Asthma (childhood onset)	2	233967393	rs13401339
+Asthma (childhood onset)	17	39907485	rs62067034
+Asthma (childhood onset)	3	114218488	rs9846423
+Asthma (childhood onset)	10	86305355	rs2353275
+Asthma (childhood onset)	5	95949	rs62344088
+Asthma (childhood onset)	5	109108853	rs4957798
+Asthma (childhood onset)	3	65559892	rs114381917
+Asthma (childhood onset)	8	6333897	rs141602583
+Asthma (childhood onset)	21	21779123	rs7281353
+Asthma (childhood onset)	16	13813303	rs116201499
+Asthma (childhood onset)	6	34188667	rs1776883
+Asthma (childhood onset)	10	63340256	rs75446656
+Asthma (childhood onset)	10	63667025	rs36080042
+Asthma	3	140276284	rs77960860
+Asthma	7	86598195	rs12669009
+Asthma	9	102283422	rs57728637
+Asthma	9	120367694	rs12006110
+Asthma	9	30001317	rs191386225
+Asthma	8	113280567	rs116276540
+Asthma	14	84334260	rs115366932
+Asthma	13	32718324	rs188887209
+Asthma	9	19994738	rs10964378
+Asthma	6	105411292	rs9486080
+Asthma	19	48962236	rs4645904
+Asthma	2	237162242	rs4290604
+Asthma	10	124614367	rs7095944
+Asthma	7	6276071	rs59568570
+Asthma	6	147671918	rs9390491
+Asthma	5	111066174	rs1837253
+Asthma	9	129740522	rs11788591
+Asthma	5	111066174	rs1837253
+Asthma	9	27308290	rs72721168
+Asthma	6	34188667	rs1776883
+Asthma	9	27308290	rs72721168
+Asthma	10	63340256	rs75446656
+Asthma	10	63667025	rs36080042
+Asthma (childhood onset)	3	114218488	rs9846423
+Asthma (childhood onset)	10	86305355	rs2353275
+Asthma (childhood onset)	10	27452030	rs660498
+Asthma (childhood onset)	7	83528488	rs17446324
+Asthma (childhood onset)	19	7264538	rs67731056
+Response to mepolizumab in severe asthma	6	145083119	rs114633080
+Response to mepolizumab in severe asthma	9	21255050	rs10811516
+Asthma	1	163807061	rs1348135
+Asthma	12	129027065	rs10773588
+Asthma	1	73644966	rs10157802
+Asthma	2	24267544	rs4268898
+Asthma	3	36197914	rs9870718
+Asthma	14	32222579	rs10141207
+Asthma	1	235199645	rs10924970
+Asthma	9	6209697	rs992969
+Asthma	17	39720582	rs2952156
+Asthma	5	132660272	rs20541
+Asthma	15	60777222	rs11071558
+Asthma	6	90276967	rs2325291
+Asthma	10	9004682	rs2589561
+Asthma	16	11106123	rs17806299
+Asthma	8	80366650	rs12543811
+Asthma	12	57109992	rs167769
+Asthma	17	49384071	rs17637472
+Asthma	5	142112854	rs7705042
+Asthma	6	28744470	rs1233578
+Asthma	3	24240941	rs12634582
+Asthma	6	31504943	rs2855812
+Asthma	11	76590272	rs7927894
+Asthma	15	67157322	rs2033784
+Asthma	2	102341256	rs1420101
+Asthma	5	111069301	rs10455025
+Asthma	6	32636595	rs9272346
+Asthma	1	154453788	rs4129267
+Asthma	11	114365008	rs4938096
+Asthma	20	45230458	rs16989837
+Asthma	7	42001387	rs10233459
+Asthma	1	201169300	rs1122396
+Asthma	7	34003736	rs10951405
+Asthma	11	100839163	rs3758697
+Asthma	20	3367760	rs6084352
+Asthma	8	116321559	rs12542922
+Asthma	21	20043380	rs2825968
+Asthma	8	118952044	rs2073617
+Asthma	5	37881312	rs12521260
+Asthma	1	78790420	rs2352521
+Asthma	1	196976659	rs6694672
+Asthma (childhood onset)	2	102351825	rs4988958
+Asthma (childhood onset)	5	132660753	rs1295685
+Asthma (childhood onset)	6	31445184	rs2596464
+Asthma (childhood onset)	9	6231239	rs12551256
+Asthma (childhood onset)	17	39900944	rs8069176
+Asthma	5	142112854	rs7705042
+Asthma	6	28744470	rs1233578
+Asthma	6	90276967	rs2325291
+Asthma	12	57109992	rs167769
+Asthma	17	49384071	rs17637472
+Asthma	6	31445184	rs2596464
+Asthma	10	9012824	rs1663687
+Asthma	8	80377552	rs10957979
+Asthma	16	11106123	rs17806299
+Asthma	2	102337157	rs3771180
+Asthma	5	111069301	rs10455025
+Asthma	5	132660272	rs20541
+Asthma	6	32636595	rs9272346
+Asthma	9	6209697	rs992969
+Asthma	11	76588150	rs2155219
+Asthma	15	60777222	rs11071558
+Asthma	15	67150258	rs17293632
+Asthma	17	39905964	rs2305479
+Asthma	6	31504943	rs2855812
+Asthma	6	31442631	rs2844510
+Asthma	2	102341256	rs1420101
+Asthma	5	110862415	rs6893213
+Asthma	5	132461855	rs6894249
+Asthma	6	32408196	rs3763309
+Adult asthma	6	32725465	rs2858892
+Adult asthma	14	93544435	rs2402306
+Asthma-chronic obstructive  pulmonary disease overlap syndrome	8	10186480	rs117733692
+Asthma-chronic obstructive  pulmonary disease overlap syndrome	2	6960080	rs3772010
+Asthma-chronic obstructive  pulmonary disease overlap syndrome	18	47496342	rs11665213
+Asthma-chronic obstructive  pulmonary disease overlap syndrome	18	26403713	rs1677005
+Asthma-chronic obstructive  pulmonary disease overlap syndrome	18	26315873	rs35614679
+Asthma with severe exacerbations	5	11868176	rs73052520
+Asthma with severe exacerbations	17	47887076	rs113516984
+Asthma with severe exacerbations	2	161994503	rs17759529
+Asthma with severe exacerbations	17	39756124	rs12946510
+Asthma with severe exacerbations	20	18410336	rs6132057
+Asthma with severe exacerbations	11	93787149	rs591709
+Asthma with severe exacerbations	12	116442573	rs11613333
+Asthma with severe exacerbations	2	41789723	rs4952375
+Asthma with severe exacerbations	15	39674256	rs2411306
+Asthma with severe exacerbations	17	39924659	rs8076131
+Asthma with severe exacerbations	6	133178585	rs112599943
+Asthma with severe exacerbations	4	14885862	rs181042383
+Asthma with severe exacerbations	10	12185307	rs76605301
+Asthma with severe exacerbations	3	174801440	rs187089444
+Asthma with severe exacerbations	4	151293521	rs78968521
+Asthma with severe exacerbations	2	41789723	rs4952375
+Asthma with severe exacerbations	2	161994503	rs17759529
+Asthma with severe exacerbations	6	133178585	rs112599943
+Asthma with severe exacerbations	12	116442573	rs11613333
+Asthma with severe exacerbations	17	39756124	rs12946510
+Asthma with severe exacerbations	17	47887076	rs113516984
+Asthma (childhood onset)	16	50712015	rs2066844
+Asthma (childhood onset)	17	39905186	rs4795399
+Asthma (childhood onset)	17	42238611	rs8066625
+Asthma (childhood onset)	17	47741840	rs56308324
+Asthma (childhood onset)	17	49377145	rs28406364
+Asthma (childhood onset)	18	62342581	rs4574025
+Asthma (childhood onset)	18	63775385	rs12964116
+Asthma (childhood onset)	19	1170446	rs4807630
+Asthma (childhood onset)	19	33230549	rs10414065
+Asthma (childhood onset)	2	102319699	rs72823641
+Asthma (childhood onset)	2	227805859	rs10175070
+Asthma (childhood onset)	2	241759225	rs34290285
+Asthma (childhood onset)	2	8301605	rs13416555
+Asthma (childhood onset)	3	188403231	rs12634152
+Asthma (childhood onset)	3	33006170	rs35570272
+Asthma (childhood onset)	4	122456327	rs2069763
+Asthma (childhood onset)	4	38797027	rs5743618
+Asthma (childhood onset)	5	111066174	rs1837253
+Asthma (childhood onset)	5	132442760	rs17622378
+Asthma (childhood onset)	5	132721182	rs2051809
+Asthma (childhood onset)	5	14610200	rs16903574
+Asthma (childhood onset)	5	72400091	rs10036789
+Asthma (childhood onset)	6	30202733	rs1117490
+Asthma (childhood onset)	6	31354420	rs2428494
+Asthma (childhood onset)	6	32658571	rs28407950
+Asthma (childhood onset)	6	409119	rs9391997
+Asthma (childhood onset)	6	90301954	rs1321859
+Asthma (childhood onset)	7	20386640	rs4473914
+Asthma (childhood onset)	7	22735831	rs34880821
+Asthma (childhood onset)	7	28132967	rs917115
+Asthma (childhood onset)	8	127765473	rs13277355
+Asthma (childhood onset)	8	80379410	rs4739738
+Asthma (childhood onset)	9	137605991	rs117137535
+Asthma (childhood onset)	9	6209697	rs992969
+Asthma (childhood onset)	1	167464183	rs1723018
+Asthma (childhood onset)	5	142112854	rs7705042
+Asthma (childhood onset)	7	20521373	rs6461503
+Asthma (childhood onset)	20	63701670	rs1623866
+Asthma (childhood onset)	2	102349850	rs10208293
+Asthma (childhood onset)	6	32636595	rs9272346
+Asthma (childhood onset)	9	6213387	rs928413
+Asthma (childhood onset)	17	39887090	rs9901146
+Asthma (age of onset)	17	40606948	rs11658582
+Asthma (age of onset)	2	102343750	rs3771175
+Asthma (age of onset)	2	227805721	rs10187276
+Asthma (age of onset)	2	241742614	rs78147778
+Asthma (age of onset)	3	188384928	rs2889896
+Asthma (age of onset)	5	132693166	rs4705962
+Asthma (age of onset)	6	32668608	rs9274659
+Asthma (age of onset)	6	31354129	rs1093
+Asthma (adult onset)	2	102349850	rs10208293
+Asthma (adult onset)	6	32636595	rs9272346
+Asthma (adult onset)	9	6213387	rs928413
+Asthma (adult onset)	6	32658571	rs28407950
+Asthma (adult onset)	10	9012377	rs1775554
+Asthma (adult onset)	6	31354420	rs2428494
+Asthma (adult onset)	9	6209697	rs992969
+Asthma (adult onset)	5	111066174	rs1837253
+Asthma (adult onset)	5	132442760	rs17622378
+Asthma (adult onset)	2	102319699	rs72823641
+Asthma (adult onset)	6	90301954	rs1321859
+Asthma (adult onset)	15	67163292	rs56062135
+Asthma (adult onset)	2	241759225	rs34290285
+Asthma (adult onset)	12	47811575	rs56389811
+Asthma (adult onset)	2	145399111	rs12617922
+Asthma (adult onset)	11	76582682	rs7936312
+Asthma (adult onset)	12	57115319	rs3122929
+Asthma (adult onset)	11	1129831	rs12788104
+Asthma (adult onset)	21	35092334	rs11088309
+Asthma (adult onset)	8	80379410	rs4739738
+Asthma (adult onset)	11	61862632	rs174621
+Asthma (adult onset)	16	11121567	rs35032408
+Asthma (adult onset)	12	71139430	rs11178648
+Asthma (adult onset)	6	30202733	rs1117490
+Asthma (adult onset)	12	55991020	rs705699
+Asthma (moderate or severe)	6	90291614	rs367983479
+Asthma (moderate or severe)	11	76582682	rs7936312
+Asthma (moderate or severe)	5	132463934	rs3749833
+Asthma (moderate or severe)	1	167458010	rs7523907
+Asthma (moderate or severe)	16	11136846	rs7203459
+Asthma (moderate or severe)	2	241759225	rs34290285
+Asthma (moderate or severe)	1	152313385	rs61816761
+Asthma (moderate or severe)	10	8073399	rs10905284
+Asthma (moderate or severe)	6	32613963	rs776111176
+Asthma (moderate or severe)	6	32659473	rs9273410
+Asthma (moderate or severe)	17	39754115	rs2941522
+Asthma (moderate or severe)	2	102332701	rs12479210
+Asthma (moderate or severe)	9	6208030	rs144829310
+Asthma (moderate or severe)	4	122134547	rs560026225
+Asthma (moderate or severe)	13	99460268	rs9517738
+Asthma (moderate or severe)	10	9001441	rs61840192
+Asthma (moderate or severe)	8	80354703	rs71266076
+Asthma (moderate or severe)	11	1142570	rs11603634
+Asthma (moderate or severe)	5	132552294	rs1986009
+Asthma (moderate or severe)	1	8441726	rs301819
+Asthma (moderate or severe)	15	60776505	rs10519068
+Asthma (moderate or severe)	12	56056091	rs7305461
+Asthma (moderate or severe)	15	67149412	rs72743461
+Asthma (moderate or severe)	12	57103222	rs703816
+Asthma (moderate or severe)	5	111066174	rs1837253
+Asthma (moderate or severe)	5	111131801	rs1438673
+Asthma (moderate or severe)	17	49361940	rs112502960
+Asthma (adult onset)	19	33230549	rs10414065
+Asthma (adult onset)	1	167464183	rs1723018
+Asthma (adult onset)	1	167451188	rs2056626
+Asthma (childhood onset)	1	152313385	rs61816761
+Asthma (childhood onset)	1	173194429	rs7518129
+Asthma (childhood onset)	1	203124073	rs12023876
+Asthma (childhood onset)	10	6579811	rs943451
+Asthma (childhood onset)	10	8549406	rs7894791
+Asthma (childhood onset)	10	9012377	rs1775554
+Asthma (childhood onset)	11	118872577	rs12365699
+Asthma (childhood onset)	11	65784486	rs479844
+Asthma (childhood onset)	11	76537586	rs61894547
+Asthma (childhood onset)	11	76582682	rs7936312
+Asthma (childhood onset)	12	111472415	rs10774625
+Asthma (childhood onset)	12	120926020	rs1696361
+Asthma (childhood onset)	12	54974507	rs62623446
+Asthma (childhood onset)	12	55991020	rs705699
+Asthma (childhood onset)	12	57115319	rs3122929
+Asthma (childhood onset)	12	71139430	rs11178648
+Asthma (childhood onset)	13	99322238	rs1887704
+Asthma (childhood onset)	14	68293424	rs1950897
+Asthma (childhood onset)	15	60777789	rs11071559
+Asthma (childhood onset)	15	67163292	rs56062135
+Asthma (childhood onset)	16	11121567	rs35032408
+Asthma (childhood onset)	16	27337847	rs3785356
+Asthma (age of onset)	6	30487517	rs12207974
+Asthma (age of onset)	9	6213468	rs7848215
+Asthma (age of onset)	12	120926020	rs1696361
+Asthma (age of onset)	12	111472415	rs10774625
+Asthma (age of onset)	5	111066174	rs1837253
+Asthma (age of onset)	15	60777789	rs11071559
+Asthma (age of onset)	4	122456327	rs2069763
+Asthma (age of onset)	2	8301605	rs13416555
+Asthma (age of onset)	11	65784486	rs479844
+Asthma (age of onset)	7	22735831	rs34880821
+Asthma (age of onset)	9	137605991	rs117137535
+Asthma (age of onset)	11	118872577	rs12365699
+Asthma (age of onset)	18	63775385	rs12964116
+Asthma (age of onset)	18	62342581	rs4574025
+Asthma (age of onset)	17	39905186	rs4795399
+Asthma (age of onset)	4	38797027	rs5743618
+Asthma (age of onset)	1	152313385	rs61816761
+Asthma (age of onset)	11	76537586	rs61894547
+Asthma (age of onset)	1	173194429	rs7518129
+Asthma (age of onset)	2	102349850	rs10208293
+Asthma (age of onset)	6	32636595	rs9272346
+Asthma (age of onset)	9	6213387	rs928413
+Asthma (age of onset)	17	39887090	rs9901146
+Self-reported childhood asthma in adult smokers	9	112563085	rs59289606
+Self-reported childhood asthma in adult smokers	5	31696629	rs439399
+Self-reported childhood asthma in adult smokers	12	54081158	rs7315121
+Self-reported childhood asthma in adult smokers	7	11137720	rs56317450
+Self-reported childhood asthma in adult smokers	3	159428036	rs4679858
+Asthma	10	8990592	rs72782676
+Asthma	9	6252690	rs149045797
+Asthma	10	6051176	rs12722502
+Asthma	1	12115601	rs2230624
+Asthma	10	9007290	rs12413578
+Asthma	2	102319699	rs72823641
+Asthma	19	33235672	rs117710327
+Asthma	9	6209697	rs992969
+Asthma	9	99153605	rs41283642
+Asthma	12	57095926	rs1059513
+Asthma	17	39910014	rs1008723
+Asthma	10	9016708	rs1444782
+Asthma	2	241759225	rs34290285
+Asthma	5	132660808	rs848
+Asthma	16	11119164	rs35441874
+Asthma	17	39638098	rs4794817
+Asthma	15	60777789	rs11071559
+Asthma	3	187963924	rs509399
+Asthma	6	90220794	rs72925996
+Asthma	15	67183150	rs10152595
+Asthma	8	80377552	rs10957979
+Asthma	4	38797027	rs5743618
+Asthma	1	198697103	rs2296618
+Asthma	11	118872577	rs12365699
+Asthma	11	65896135	rs72924800
+Asthma	2	8303673	rs10178845
+Asthma	10	8799706	rs2025758
+Asthma	16	27403057	rs6498021
+Asthma	5	111071044	rs3806933
+Asthma	7	20547220	rs35621564
+Asthma	3	188415730	rs13099273
+Asthma	14	68332385	rs2180769
+Asthma	3	196632439	rs1684466
+Asthma	1	203129147	rs2228079
+Asthma	17	45259320	rs4247364
+Asthma	11	61817672	rs174562
+Asthma	19	45867123	rs8103278
+Asthma	3	177134250	rs7626218
+Asthma	1	167457187	rs1214598
+Asthma	17	40711984	rs2253717
+Asthma	13	39752145	rs9943
+Asthma	10	8517780	rs1544301
+Asthma	7	20377088	rs12700186
+Asthma	12	56051582	rs10876866
+Asthma	21	35092334	rs11088309
+Asthma	17	40608272	rs112401631
+Asthma	5	157325949	rs11746314
+Asthma	19	3136093	rs117552144
+Asthma	15	67121286	rs117683492
+Asthma	1	152206676	rs12123821
+Asthma	2	102309902	rs12470864
+Asthma	11	1129831	rs12788104
+Asthma	17	49370984	rs12952581
+Asthma	15	67093131	rs1465841
+Asthma	10	9022753	rs1612986
+Asthma	5	14610200	rs16903574
+Asthma	4	122432277	rs17454584
+Asthma	16	27406423	rs179771
+Asthma	7	22726602	rs1800797
+Asthma	5	111066174	rs1837253
+Asthma	1	31699894	rs2228552
+Asthma	3	195988997	rs2448519
+Asthma	5	142159774	rs249677
+Asthma	16	27360103	rs3024664
+Asthma	8	144103704	rs34173062
+Asthma	4	105897896	rs34712979
+Asthma	16	27234391	rs34939984
+Asthma	3	33006170	rs35570272
+Asthma	5	132463934	rs3749833
+Asthma	5	119355086	rs3813308
+Asthma	5	110818610	rs3853750
+Asthma	10	6584252	rs41284471
+Asthma	4	122219915	rs45613035
+Asthma	9	6076102	rs4742151
+Asthma	5	132620126	rs60156285
+Asthma	1	152313385	rs61816761
+Asthma	11	76537586	rs61894547
+Asthma	6	32644653	rs6926894
+Asthma	10	8419000	rs7100961
+Asthma	15	67149412	rs72743461
+Asthma	2	227840005	rs7423358
+Asthma	11	76582483	rs7936070
+Asthma	12	94211187	rs7961712
+Asthma	6	127958284	rs802731
+Asthma	21	35340290	rs8129030
+Asthma	13	99380092	rs912131
+Asthma	7	28132967	rs917115
+Asthma	3	188724692	rs9290877
+Asthma (childhood onset)	18	54290038	rs12965763
+Asthma (childhood onset)	9	23585841	rs274943
+Asthma (childhood onset)	11	128302942	rs140522418
+Asthma (childhood onset)	10	6579811	rs943451
+Asthma (childhood onset)	7	20384301	rs149317277
+Asthma (childhood onset)	19	8675909	rs2918302
+Asthma (childhood onset)	17	40598769	rs9893132
+Asthma (childhood onset)	10	8564051	rs17144046
+Asthma (childhood onset)	12	111621753	rs11065979
+Asthma (childhood onset)	6	137681038	rs6927172
+Asthma (childhood onset)	12	123150549	rs1716183
+Asthma (childhood onset)	15	41495387	rs1655558
+Asthma (childhood onset)	1	9296617	rs67551275
+Asthma (childhood onset)	10	92624757	rs113092121
+Asthma (childhood onset)	17	45380520	rs9895436
+Asthma (childhood onset)	2	111511155	rs143326447
+Asthma (childhood onset)	6	127972417	rs55743914
+Asthma (childhood onset)	7	20504586	rs12531500
+Asthma (childhood onset)	12	120927628	rs188074962
+Asthma (childhood onset)	1	203124073	rs12023876
+Asthma (childhood onset)	1	167467033	rs1617333
+Asthma (childhood onset)	11	65784486	rs479844
+Asthma (childhood onset)	13	99322238	rs1887704
+Asthma (childhood onset)	5	142153497	rs449454
+Asthma (childhood onset)	15	67183427	rs34445740
+Asthma (childhood onset)	1	172731728	rs1102705
+Asthma (childhood onset)	15	67121286	rs117683492
+Asthma (childhood onset)	14	35415835	rs17103286
+Asthma (childhood onset)	20	53555865	rs2766667
+Asthma (childhood onset)	6	35166952	rs28522747
+Asthma (childhood onset)	22	41459908	rs5758364
+Asthma (childhood onset)	13	42423188	rs912425
+Asthma (childhood onset)	X	49283326	rs5953283
+Asthma (childhood onset)	3	141431184	rs7625643
+Asthma (childhood onset)	7	22740703	rs6954667
+Asthma (childhood onset)	X	13005622	rs850637
+Asthma (childhood onset)	10	62631615	rs10995245
+Asthma (childhood onset)	8	119051303	rs2450083
+Asthma (childhood onset)	14	102777733	rs71421264
+Asthma (childhood onset)	3	177134250	rs7626218
+Asthma (childhood onset)	6	409119	rs9391997
+Asthma (childhood onset)	3	121997324	rs1806656
+Asthma (childhood onset)	2	223799333	rs6755248
+Asthma (childhood onset)	18	51121270	rs1893380
+Asthma (childhood onset)	11	10642486	rs2052690
+Asthma (childhood onset)	3	33006170	rs35570272
+Asthma (childhood onset)	3	128194004	rs11412402
+Asthma (childhood onset)	11	36343703	rs10836538
+Asthma (childhood onset)	19	1152657	rs892225
+Asthma (childhood onset)	18	62342581	rs4574025
+Asthma (childhood onset)	2	102319699	rs72823641
+Asthma (childhood onset)	1	152206676	rs12123821
+Asthma (childhood onset)	17	40608272	rs112401631
+Asthma (childhood onset)	11	76588387	rs55646091
+Asthma (childhood onset)	2	102265892	rs78545931
+Asthma (adult onset)	7	28109636	rs57585717
+Asthma (adult onset)	10	8062378	rs11255504
+Asthma (adult onset)	10	8468994	rs7099257
+Asthma (adult onset)	11	1151933	rs28415845
+Asthma (adult onset)	11	61783884	rs174535
+Asthma (adult onset)	11	111601736	rs1784775
+Asthma (adult onset)	1	198671359	rs17668708
+Asthma (adult onset)	2	145387450	rs2381712
+Asthma (adult onset)	10	6051176	rs12722502
+Asthma (adult onset)	13	39745817	rs28635831
+Asthma (adult onset)	13	99418203	rs4771332
+Asthma (adult onset)	16	27358181	rs3024655
+Asthma (adult onset)	1	167451062	rs2056625
+Asthma (adult onset)	2	102275879	rs60227565
+Asthma (adult onset)	2	102309902	rs12470864
+Asthma (adult onset)	2	241759225	rs34290285
+Asthma (adult onset)	3	33042493	rs4491851
+Asthma (adult onset)	4	122438414	rs62322662
+Asthma (adult onset)	5	35881274	rs11742240
+Asthma (adult onset)	5	110825775	rs540485182
+Asthma (adult onset)	5	111066174	rs1837253
+Asthma (adult onset)	5	111072304	rs1898671
+Asthma (adult onset)	5	132451445	rs6866614
+Asthma (adult onset)	5	142139376	rs10699671
+Asthma (adult onset)	6	90275479	rs58521088
+Asthma (adult onset)	8	80389778	rs35204956
+Asthma (adult onset)	9	6047765	rs62557312
+Asthma (adult onset)	9	6209697	rs992969
+Asthma (adult onset)	10	8735677	rs10795672
+Asthma (adult onset)	10	9012377	rs1775554
+Asthma (adult onset)	11	76582682	rs7936312
+Asthma (adult onset)	12	47792780	rs2544026
+Asthma (adult onset)	12	56055651	rs7302200
+Asthma (adult onset)	12	57095926	rs1059513
+Asthma (adult onset)	15	60757370	rs7183955
+Asthma (adult onset)	15	67149412	rs72743461
+Asthma (adult onset)	16	11119164	rs35441874
+Asthma (adult onset)	17	49388382	rs10667251
+Asthma (adult onset)	19	33235672	rs117710327
+Asthma (adult onset)	21	35092334	rs11088309
+Asthma (adult onset)	1	8444998	rs301816
+Asthma (adult onset)	3	156592987	rs6441084
+Asthma (adult onset)	3	177131952	rs62296577
+Asthma (adult onset)	3	196035621	rs11715524
+Asthma (adult onset)	4	39388825	rs190438685
+Asthma control x inhaled corticosteroid treatment interaction (2df)	10	124845846	rs2629529
+Adult asthma	8	2693300	rs13277810
+Adult asthma	8	124519112	rs114647118
+Adult asthma	12	57115319	rs3122929
+Adult asthma	15	60776148	rs10519067
+Adult asthma	17	39766006	rs907092
+Adult asthma			chr6:145053377
+Adult asthma			chr4:130040437
+Adult asthma			chr18:42607527
+Adult asthma			chr19:54192692
+Adult asthma			chr1:234597720
+Adult asthma			chr17:38040119
+Asthma (childhood onset)	5	132463934	rs3749833
+Asthma (childhood onset)	12	55995509	rs705700
+Asthma (childhood onset)	17	49370984	rs12952581
+Asthma (childhood onset)	2	227805721	rs10187276
+Asthma (childhood onset)	8	127765473	rs13277355
+Asthma (childhood onset)	14	68287978	rs1885013
+Asthma (childhood onset)	1	172746562	rs78037977
+Asthma (childhood onset)	2	8319274	rs3856439
+Asthma (childhood onset)	6	106219660	rs9372120
+Asthma (childhood onset)	8	80382467	rs2221641
+Asthma (childhood onset)	16	27337847	rs3785356
+Asthma (childhood onset)	1	151829204	rs4845604
+Asthma (childhood onset)	6	33066047	rs111789468
+Asthma (childhood onset)	1	173162354	rs10158467
+Asthma (childhood onset)	12	57115319	rs3122929
+Asthma (childhood onset)	3	188683350	rs55661102
+Asthma (childhood onset)	6	33131761	rs3116989
+Asthma (childhood onset)	1	161215268	rs2070901
+Asthma (childhood onset)	2	102181785	rs74180212
+Asthma (childhood onset)	6	90266890	rs62408233
+Asthma (childhood onset)	7	28116987	rs4722758
+Asthma (childhood onset)	3	188411191	rs9860547
+Asthma (childhood onset)	1	212883085	rs12750027
+Asthma (childhood onset)	4	122432277	rs17454584
+Asthma (childhood onset)	5	110823145	rs7734635
+Asthma (childhood onset)	11	118872577	rs12365699
+Asthma (childhood onset)	12	54974507	rs62623446
+Asthma (childhood onset)	16	50712015	rs2066844
+Asthma (childhood onset)	5	132770006	rs113010607
+Asthma (childhood onset)	10	9022753	rs1612986
+Asthma (childhood onset)	6	31335547	rs114444221
+Asthma (childhood onset)	16	11125184	rs12935657
+Asthma (childhood onset)	5	111134439	rs6594499
+Asthma (childhood onset)	5	132581248	rs2299012
+Asthma (childhood onset)	5	14610200	rs16903574
+Asthma (childhood onset)	15	60777789	rs11071559
+Asthma (childhood onset)	2	102350446	rs1861245
+Asthma (childhood onset)	15	67149412	rs72743461
+Asthma (childhood onset)	11	76588605	rs11236797
+Asthma (childhood onset)	4	38797027	rs5743618
+Asthma (childhood onset)	9	6081804	rs340934
+Asthma (childhood onset)	2	241759225	rs34290285
+Asthma (childhood onset)	10	9007290	rs12413578
+Asthma (childhood onset)	5	111066174	rs1837253
+Asthma (childhood onset)	19	33235672	rs117710327
+Asthma (childhood onset)	9	6213468	rs7848215
+Asthma (childhood onset)	18	63775385	rs12964116
+Asthma (childhood onset)	10	6051176	rs12722502
+Asthma (childhood onset)	17	39905186	rs4795399
+Asthma (childhood onset)	17	39908718	rs117097909
+Asthma	5	132451445	rs6866614
+Asthma	5	132463934	rs3749833
+Asthma	5	132581248	rs2299012
+Asthma	5	132770006	rs113010607
+Asthma	5	142139376	rs10699671
+Asthma	5	142153497	rs449454
+Asthma	6	31335547	rs114444221
+Asthma	6	31354420	rs2428494
+Asthma	6	31356722	rs3190923
+Asthma	6	32490013	rs115664621
+Asthma	6	32514325	rs146618240
+Asthma	6	32528394	rs72508457
+Asthma	6	32571334	rs139088362
+Asthma	6	32573442	rs75380949
+Asthma	6	32576344	rs115468973
+Asthma	6	32578889	rs1064713
+Asthma	6	32586302	rs545366210
+Asthma	6	32625900	rs116189786
+Asthma	6	32641593	rs28383454
+Asthma	6	32644956	rs9273123
+Asthma	6	32650032	rs28798705
+Asthma	6	32665110	rs201184533
+Asthma	6	33066047	rs111789468
+Asthma	6	33131761	rs3116989
+Asthma	6	35166952	rs28522747
+Asthma (adult onset)	4	122432277	rs17454584
+Asthma	1	8444998	rs301816
+Asthma	1	8834298	rs11121240
+Asthma	1	9296617	rs67551275
+Asthma	1	151788046	rs541559418
+Asthma	1	151829204	rs4845604
+Asthma	1	152057072	rs115045402
+Asthma	1	152206676	rs12123821
+Asthma	1	152313385	rs61816761
+Asthma	1	161215268	rs2070901
+Asthma	1	167451062	rs2056625
+Asthma	1	167467033	rs1617333
+Asthma	1	172731728	rs1102705
+Asthma	1	173162354	rs10158467
+Asthma	1	198671359	rs17668708
+Asthma	1	203124073	rs12023876
+Asthma	2	8319274	rs3856439
+Asthma	2	102181785	rs74180212
+Asthma	2	102265892	rs78545931
+Asthma	2	102275879	rs60227565
+Asthma	2	102309902	rs12470864
+Asthma	2	102319699	rs72823641
+Asthma	2	102350446	rs1861245
+Asthma	2	111511155	rs143326447
+Asthma	2	145387450	rs2381712
+Asthma	2	223799333	rs6755248
+Asthma	2	227805721	rs10187276
+Asthma	2	241759225	rs34290285
+Asthma	3	33006170	rs35570272
+Asthma	3	33042493	rs4491851
+Asthma	3	121997324	rs1806656
+Asthma	3	141431184	rs7625643
+Asthma	3	177131952	rs62296577
+Asthma	3	177134250	rs7626218
+Asthma	3	188411191	rs9860547
+Asthma	3	188683350	rs55661102
+Asthma	3	196035621	rs11715524
+Asthma	3	196632439	rs1684466
+Asthma	4	38797027	rs5743618
+Asthma	4	39388825	rs190438685
+Asthma	4	122219915	rs45613035
+Asthma	4	122432277	rs17454584
+Asthma	4	122438414	rs62322662
+Asthma	5	14610200	rs16903574
+Asthma	5	35881274	rs11742240
+Asthma	5	110823145	rs7734635
+Asthma	5	110825775	rs540485182
+Asthma	5	111066174	rs1837253
+Asthma	5	111072304	rs1898671
+Asthma	5	111134439	rs6594499
+Asthma	6	90266890	rs62408233
+Asthma	6	90275479	rs58521088
+Asthma	6	106219660	rs9372120
+Asthma	6	127972417	rs55743914
+Asthma	6	137681038	rs6927172
+Asthma	7	20384301	rs149317277
+Asthma	7	20504586	rs12531500
+Asthma	7	22740703	rs6954667
+Asthma	7	28109636	rs57585717
+Asthma	7	28116987	rs4722758
+Asthma	8	80382467	rs2221641
+Asthma	8	80389778	rs35204956
+Asthma	8	127765473	rs13277355
+Asthma	9	6047765	rs62557312
+Asthma	9	6081804	rs340934
+Asthma	9	6209697	rs992969
+Asthma	9	6213468	rs7848215
+Asthma	9	23585841	rs274943
+Asthma	10	6051176	rs12722502
+Asthma	10	6579811	rs943451
+Asthma	10	8062378	rs11255504
+Asthma	10	8468994	rs7099257
+Asthma	10	8564051	rs17144046
+Asthma	10	8735677	rs10795672
+Asthma	10	9007290	rs12413578
+Asthma	10	9012377	rs1775554
+Asthma	10	9022753	rs1612986
+Asthma	10	62631615	rs10995245
+Asthma	10	92624757	rs113092121
+Asthma	11	1151933	rs28415845
+Asthma	11	10642486	rs2052690
+Asthma	11	36343703	rs10836538
+Asthma	11	61783884	rs174535
+Asthma	11	65784486	rs479844
+Asthma	11	76582682	rs7936312
+Asthma	11	76588387	rs55646091
+Asthma	11	76588605	rs11236797
+Asthma	11	111601736	rs1784775
+Asthma	11	118872577	rs12365699
+Asthma	11	128302942	rs140522418
+Asthma	12	47792780	rs2544026
+Asthma	12	54974507	rs62623446
+Asthma	12	55995509	rs705700
+Asthma	12	56055651	rs7302200
+Asthma	12	57095926	rs1059513
+Asthma	12	57115319	rs3122929
+Asthma	12	111621753	rs11065979
+Asthma	12	120927628	rs188074962
+Asthma	13	39745817	rs28635831
+Asthma	13	99322238	rs1887704
+Asthma	13	99418203	rs4771332
+Asthma	14	35415835	rs17103286
+Asthma	14	68287978	rs1885013
+Asthma	15	41495387	rs1655558
+Asthma	15	60757370	rs7183955
+Asthma	15	60777789	rs11071559
+Asthma	15	67121286	rs117683492
+Asthma	15	67149412	rs72743461
+Asthma	15	67183427	rs34445740
+Asthma	16	11119164	rs35441874
+Asthma	16	11125184	rs12935657
+Asthma	16	27337847	rs3785356
+Asthma	16	27358181	rs3024655
+Asthma	16	50712015	rs2066844
+Asthma	17	39905186	rs4795399
+Asthma	17	39908718	rs117097909
+Asthma	17	39917590	rs201413617
+Asthma	17	40598769	rs9893132
+Asthma	17	40608272	rs112401631
+Asthma	17	40713238	rs8067124
+Asthma	17	45380520	rs9895436
+Asthma	17	47741840	rs56308324
+Asthma	17	49370984	rs12952581
+Asthma	17	49388382	rs10667251
+Asthma	18	51121270	rs1893380
+Asthma onset (childhood vs adult)	7	28116987	rs4722758
+Asthma onset (childhood vs adult)	6	90275479	rs58521088
+Asthma onset (childhood vs adult)	1	173162354	rs10158467
+Asthma onset (childhood vs adult)	16	11119164	rs35441874
+Asthma onset (childhood vs adult)	2	102181785	rs74180212
+Asthma onset (childhood vs adult)	16	11125184	rs12935657
+Asthma onset (childhood vs adult)	18	62342581	rs4574025
+Asthma onset (childhood vs adult)	12	57115319	rs3122929
+Asthma onset (childhood vs adult)	17	45380520	rs9895436
+Asthma onset (childhood vs adult)	5	111072304	rs1898671
+Asthma onset (childhood vs adult)	5	111134439	rs6594499
+Asthma onset (childhood vs adult)	6	106219660	rs9372120
+Asthma onset (childhood vs adult)	16	27337847	rs3785356
+Asthma onset (childhood vs adult)	4	122432277	rs17454584
+Asthma onset (childhood vs adult)	15	67149412	rs72743461
+Asthma onset (childhood vs adult)	2	241759225	rs34290285
+Asthma onset (childhood vs adult)	5	132581248	rs2299012
+Asthma onset (childhood vs adult)	6	33131761	rs3116989
+Asthma onset (childhood vs adult)	15	60777789	rs11071559
+Asthma onset (childhood vs adult)	1	172746562	rs78037977
+Asthma onset (childhood vs adult)	2	102350446	rs1861245
+Asthma onset (childhood vs adult)	2	227805721	rs10187276
+Asthma onset (childhood vs adult)	3	188411191	rs9860547
+Asthma onset (childhood vs adult)	5	14610200	rs16903574
+Asthma onset (childhood vs adult)	11	76588605	rs11236797
+Asthma	18	54290038	rs12965763
+Asthma	18	63775385	rs12964116
+Asthma	19	8675909	rs2918302
+Asthma	19	9017666	rs10413947
+Asthma	19	33235672	rs117710327
+Asthma	20	53555865	rs2766667
+Asthma	20	63677259	rs2738783
+Asthma	21	35092334	rs11088309
+Asthma	22	41459908	rs5758364
+Asthma	X	13005622	rs850637
+Asthma	X	49283326	rs5953283
+Asthma onset (childhood vs adult)	2	145387450	rs2381712
+Asthma onset (childhood vs adult)	18	51121270	rs1893380
+Asthma onset (childhood vs adult)	15	41495387	rs1655558
+Asthma onset (childhood vs adult)	3	128194004	rs11412402
+Asthma onset (childhood vs adult)	10	92624757	rs113092121
+Asthma onset (childhood vs adult)	6	409119	rs9391997
+Asthma onset (childhood vs adult)	9	23585841	rs274943
+Asthma onset (childhood vs adult)	12	120927628	rs188074962
+Asthma onset (childhood vs adult)	1	161215268	rs2070901
+Asthma onset (childhood vs adult)	12	111621753	rs11065979
+Asthma onset (childhood vs adult)	19	1152657	rs892225
+Asthma onset (childhood vs adult)	6	90266890	rs62408233
+Asthma onset (childhood vs adult)	7	20504586	rs12531500
+Asthma onset (childhood vs adult)	11	65784486	rs479844
+Asthma onset (childhood vs adult)	11	76582682	rs7936312
+Asthma onset (childhood vs adult)	5	111066174	rs1837253
+Asthma onset (childhood vs adult)	9	6047765	rs62557312
+Asthma onset (childhood vs adult)	11	118872577	rs12365699
+Asthma onset (childhood vs adult)	9	6081804	rs340934
+Asthma onset (childhood vs adult)	9	6213468	rs7848215
+Asthma onset (childhood vs adult)	9	6209697	rs992969
+Asthma onset (childhood vs adult)	4	38797027	rs5743618
+Asthma onset (childhood vs adult)	18	63775385	rs12964116
+Asthma onset (childhood vs adult)	2	102275879	rs60227565
+Asthma onset (childhood vs adult)	2	102319699	rs72823641
+Asthma onset (childhood vs adult)	11	76588387	rs55646091
+Asthma onset (childhood vs adult)	17	39908718	rs117097909
+Asthma onset (childhood vs adult)	2	102265892	rs78545931
+Asthma onset (childhood vs adult)	17	39905186	rs4795399
+Asthma onset (childhood vs adult)	1	152206676	rs12123821
+Childhood asthma with severe exacerbations	17	39918265	rs7219923
+Childhood asthma with severe exacerbations	7	106018005	rs6967330
+Childhood asthma with severe exacerbations	6	32641349	rs1071630
+Childhood asthma with severe exacerbations	9	6085078	rs340933
+Childhood asthma with severe exacerbations	9	6190076	rs1342326
+Childhood asthma with severe exacerbations	2	102263004	rs10189629
+Childhood asthma with severe exacerbations	5	111128310	rs1043828
+Childhood asthma with severe exacerbations	5	132660272	rs20541
+Childhood asthma with severe exacerbations	19	48711017	rs281379
+Childhood asthma with severe exacerbations	2	102120407	rs12328681
+Childhood asthma with severe exacerbations	2	102441432	rs11465702
+Childhood asthma with severe exacerbations	17	39348680	rs8069451
+Childhood asthma with severe exacerbations	17	39765489	rs907091
+Childhood asthma with severe exacerbations	17	40023239	rs2302777
+Childhood asthma with severe exacerbations	6	32411712	rs9268516
+Childhood asthma with severe exacerbations			chr6:32717264
+Childhood asthma with severe exacerbations	9	5845105	rs10758710
+Childhood asthma with severe exacerbations	9	6308729	rs10975539
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	1	63023669	rs883398
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	1	63022557	rs4915866
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	2	58626423	rs1861415
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	6	130082936	rs6569651
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	11	19966866	rs2403547
+Post-bronchodilator FEV1 x air pollution (CO) interaction in childhood asthma	11	19972258	rs1986254
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	3	89027746	rs13090972
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	3	88945522	rs958144
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	5	107985181	rs13157529
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	3	89017438	rs4571247
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	17	51593949	rs11656155
+Post-bronchodilator FEV1 x air pollution (NO2) interaction in childhood asthma	9	110329243	rs7041938
+Asthma exacerbations in inhaled corticosteroid treatment	9	124066235	rs7851998
+Asthma exacerbations in inhaled corticosteroid treatment	11	86456094	rs2125362
+Asthma exacerbations in inhaled corticosteroid treatment	6	15909294	rs35514893
+Asthma exacerbations in inhaled corticosteroid treatment	1	6307159	rs11121611
+Asthma exacerbations in inhaled corticosteroid treatment	6	15909294	rs35514893
+Asthma exacerbations in inhaled corticosteroid treatment	6	123565086	rs4897302
+Asthma exacerbations in inhaled corticosteroid treatment	7	104366062	rs61585310
+Asthma exacerbations in inhaled corticosteroid treatment	9	124066235	rs7851998
+Asthma exacerbations in inhaled corticosteroid treatment	11	86456094	rs2125362
+Asthma exacerbations in inhaled corticosteroid treatment	13	33004095	rs450789
+Asthma exacerbations in inhaled corticosteroid treatment	18	15182382	rs12959468
+Asthma exacerbations in inhaled corticosteroid treatment	19	17984960	rs2278992
+Asthma exacerbations in inhaled corticosteroid treatment	22	39003936	rs6001366
+Asthma exacerbations in inhaled corticosteroid treatment	22	39008244	rs5995653
+Asthma exacerbations in inhaled corticosteroid treatment	18	15097278	rs540731596
+Asthma exacerbations in inhaled corticosteroid treatment	22	39008244	rs5995653

@@ -1,0 +1,44 @@
+Behcet's disease	2	121261187	rs17006292
+Behcet's disease			rs897200
+Behcet's disease	2;2	191150346;191145762	rs7572482; rs7574070; rs897200
+Behcet's disease	6	31090401	rs4947296
+Behcet's disease	6	31131800	rs4959053
+Behcet's disease	6	31368641	rs9266406
+Behcet's disease	1	67294457	rs924080
+Behcet's disease	1	206771300	rs1518111
+Behcet's disease	3	46164194	rs7616215
+Behcet's disease	2	191145762	rs7574070
+Behcet's disease	12	10408358	rs2617170
+Behcet's disease	3	159947262	rs17810546
+Behcet's disease	5	96783162	rs17482078
+Behcet's disease	5	96783162	rs17482078
+Behcet's disease	1	67287825	rs1495965
+Behcet's disease	1	206773289	rs1800871
+Behcet's disease	3	159947262	rs17810546
+Behcet's disease	1	206771966	rs3024490
+Behcet's disease	1	67278918	rs6660226
+Behcet's disease	3	159919889	rs76830965
+Behcet's disease	3	46166818	rs2087726
+Behcet's disease	6	137193653	rs4896243
+Behcet's disease	10	52394860	rs1660760
+Behcet's disease	10	62801746	rs12220700
+Behcet's disease	13	43899730	rs2121034
+Behcet's disease	1	7954990	rs72633102
+Behcet's disease	2	43431284	rs6544659
+Behcet's disease	2	62325541	rs12467814
+Behcet's disease	2	112819149	rs35145107
+Behcet's disease	3	49168885	rs6790914
+Behcet's disease	4	831200	rs4690319
+Behcet's disease	5	21007781	rs10447131
+Behcet's disease	7	128946981	rs192829776
+Behcet's disease	8	125334735	rs2385092
+Behcet's disease	9	114886856	rs2181036
+Behcet's disease	13	99418203	rs4771332
+Behcet's disease	16	85985255	rs6540239
+Behcet's disease	17	4719343	rs1045280
+Behcet's disease	22	30196853	rs16988383
+Behcet's disease	6	31372381	rs9266490
+Behcet's disease	19	48703205	rs681343
+Behcet's disease			HLA-B*51
+Behcet's disease	11	98216871	rs2848479
+Behcet's disease	3	160011868	rs1874886

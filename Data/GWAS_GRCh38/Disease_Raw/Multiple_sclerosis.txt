@@ -1,0 +1,817 @@
+Response to interferon beta in multiple sclerosis	1	24347376	rs6691722
+Response to interferon beta in multiple sclerosis	4	19045994	rs16898029
+Response to interferon beta in multiple sclerosis	18	39355576	rs12957214
+Multiple sclerosis	6	130068795	rs4364506
+Multiple sclerosis	13	50243690	rs2812197
+Multiple sclerosis	16	29809159	rs34286592
+Multiple sclerosis	17	18307496	rs4925166
+Multiple sclerosis	21	38466902	rs2836425
+Multiple sclerosis	1	2569783	rs10797431
+Multiple sclerosis	1	92485653	rs6689470
+Multiple sclerosis	1	116561593	rs2300747
+Multiple sclerosis	1	192575969	rs7535818
+Multiple sclerosis	3	122050675	rs2681424
+Multiple sclerosis	5	56142753	rs6859219
+Multiple sclerosis	6	32632598	rs3104373
+Multiple sclerosis	10	6080706	rs2182410
+Multiple sclerosis	10	31101198	rs1891621
+Multiple sclerosis	12	6330843	rs1800693
+Multiple sclerosis	16	11141273	rs6498168
+Multiple sclerosis	16	11105590	rs6498160
+Multiple sclerosis	1	2585342	rs60733400
+Multiple sclerosis	3	105867870	rs9657904
+Multiple sclerosis	5	40323665	rs78077440
+Multiple sclerosis	10	6050383	rs12253981
+Multiple sclerosis	1	116561593	rs2300747
+Multiple sclerosis			rs3135388
+Multiple sclerosis	6	29737882	rs2523393
+Multiple sclerosis	3	159981157	rs4680534
+Multiple sclerosis	10	6057082	rs2104286
+Multiple sclerosis	12	6333477	rs4149584
+Multiple sclerosis	2	136218685	rs882300
+Multiple sclerosis	16	11072831	rs11865121
+Multiple sclerosis	5	35874473	rs6897932
+Multiple sclerosis	16	85984057	rs17445836
+Multiple sclerosis	11	60993140	rs17824933
+Multiple sclerosis	5	40424324	rs6896969
+Multiple sclerosis	12	123172178	rs1790100
+Multiple sclerosis	10	79276250	rs1250540
+Multiple sclerosis	12	6330843	rs1800693
+Multiple sclerosis	1	116558335	rs1335532
+Multiple sclerosis	1	92838046	rs6604026
+Multiple sclerosis	12	57768956	rs703842
+Multiple sclerosis	6	32619077	rs9271366
+Multiple sclerosis	10	6057082	rs2104286
+Multiple sclerosis	20	46111557	rs6074022
+Multiple sclerosis	16	23055939	rs8049603
+Multiple sclerosis	8	130080167	rs6984045
+Multiple sclerosis (severity)	2	134311223	rs4953911
+Multiple sclerosis	17	47691470	rs8070463
+Multiple sclerosis	3	122050675	rs2681424
+Multiple sclerosis	6	159044945	rs1738074
+Multiple sclerosis	10	79274913	rs1250542
+Multiple sclerosis	16	11312946	rs7191700
+Multiple sclerosis	13	50268304	rs9596270
+Multiple sclerosis	5	159491886	rs10866713
+Multiple sclerosis	3	28037594	rs170934
+Multiple sclerosis	6	29952555	rs9260489
+Multiple sclerosis	10	6060049	rs12722489
+Multiple sclerosis	19	16437564	rs10411936
+Multiple sclerosis	2	68419651	rs7592330
+Multiple sclerosis	9	5893861	rs2150702
+Multiple sclerosis	2	43098432	rs6718520
+Multiple sclerosis	1	116561593	rs2300747
+Multiple sclerosis	6	32445768	rs3129889
+Multiple sclerosis	17	42329511	rs2293152
+Multiple sclerosis	20	46111557	rs6074022
+Multiple sclerosis	5	159332892	rs2546890
+Multiple sclerosis	5	35803475	rs931555
+Multiple sclerosis	11	61026179	rs4939490
+Multiple sclerosis	1	116495665	rs12025416
+Multiple sclerosis	6	32433440	rs3135338
+Multiple sclerosis	17	42362183	rs744166
+Multiple sclerosis	10	6060049	rs12722489
+Multiple sclerosis	1	92838046	rs6604026
+Multiple sclerosis	9	119222275	rs10984447
+Multiple sclerosis			rs3135388
+Multiple sclerosis	16	11155472	rs6498169
+Multiple sclerosis	5	35874473	rs6897932
+Multiple sclerosis	1	10293054	rs10492972
+Multiple sclerosis--Brain Glutamate Levels	4	37062709	rs13117816
+Multiple sclerosis--Brain Glutamate Levels	14	65796245	rs8007846
+Multiple sclerosis--Brain Glutamate Levels	17	57933599	rs8074980
+Multiple sclerosis--Brain Glutamate Levels	3	4395674	rs794185
+Multiple sclerosis--Brain Glutamate Levels	14	28780143	rs2038256
+Multiple sclerosis	12	41572059	rs1458175
+Multiple sclerosis	3	140821876	rs908821
+Multiple sclerosis			rs7672826
+Multiple sclerosis	13	92679633	rs9523762
+Multiple sclerosis	8	3970616	rs1529316
+Multiple sclerosis	9	17938353	rs1755289
+Multiple sclerosis	20	1225242	rs397020
+Multiple sclerosis	2	9109909	rs1109670
+Multiple sclerosis	2	118638115	rs651477
+Multiple sclerosis	3	148038899	rs1841770
+Multiple sclerosis (age of onset)	2	132989057	rs1437898
+Multiple sclerosis (age of onset)	18	57085083	rs1557351
+Multiple sclerosis (age of onset)	7	103987589	rs17157903
+Multiple sclerosis (age of onset)	8	72451754	rs2116078
+Multiple sclerosis (age of onset)	5	156073982	rs4704970
+Multiple sclerosis (age of onset)	11	88086259	rs1386330
+Multiple sclerosis (age of onset)	9	76291234	rs2842483
+Multiple sclerosis (age of onset)	1	179500179	rs12047808
+Multiple sclerosis (severity)	7	116706549	rs10243024
+Multiple sclerosis (severity)	19	55802162	rs299175
+Multiple sclerosis (severity)	19	11571680	rs7253363
+Multiple sclerosis (severity)	7	7228800	rs10259085
+Multiple sclerosis (severity)	11	116728676	rs180358
+Multiple sclerosis (severity)	4	130869346	rs1478091
+Multiple sclerosis (severity)	16	73547159	rs7191888
+Multiple sclerosis (severity)	3	156908302	rs12638253
+Multiple sclerosis (severity)	18	72107043	rs337718
+Multiple sclerosis (severity)	4	67198722	rs10518025
+Multiple sclerosis (severity)	6	15088920	rs6941421
+Multiple sclerosis	7	76346269	rs7779014
+Multiple sclerosis	7	76348912	rs17149161
+Multiple sclerosis	4	153232848	rs12644284
+Multiple sclerosis	7	76321913	rs7789940
+Multiple sclerosis	7	76323980	rs758944
+Multiple sclerosis	6	105164345	rs11962089
+Multiple sclerosis	12	57739473	rs12368653
+Multiple sclerosis	13	41565109	rs17594362
+Multiple sclerosis	18	58546158	rs12456021
+Multiple sclerosis	19	48711213	rs281380
+Multiple sclerosis	14	75539214	rs2300603
+Multiple sclerosis	1	200912467	rs7522462
+Multiple sclerosis	3	119501087	rs2293370
+Multiple sclerosis	11	61064810	rs650258
+Multiple sclerosis	1	116558335	rs1335532
+Multiple sclerosis	8	127802783	rs4410871
+Multiple sclerosis	19	10409388	rs8112449
+Multiple sclerosis	3	28029953	rs669607
+Multiple sclerosis	16	11083944	rs7200786
+Multiple sclerosis	20	46073481	rs2425752
+Multiple sclerosis	11	118883644	rs630923
+Multiple sclerosis	22	50532837	rs140522
+Multiple sclerosis	19	49365794	rs2303759
+Multiple sclerosis	3	16929446	rs9821630
+Multiple sclerosis	1	92682820	rs11810217
+Multiple sclerosis	5	40392626	rs4613763
+Multiple sclerosis	14	88021345	rs2119704
+Multiple sclerosis	8	128180025	rs2019960
+Multiple sclerosis	5	159332892	rs2546890
+Multiple sclerosis	17	59946914	rs180515
+Multiple sclerosis	5	35874473	rs6897932
+Multiple sclerosis	16	85977427	rs13333054
+Multiple sclerosis	6	135418217	rs11154801
+Multiple sclerosis	18	58716960	rs7238078
+Multiple sclerosis	6	90287050	rs12212193
+Multiple sclerosis	4	102657480	rs228614
+Multiple sclerosis	22	21776836	rs2283792
+Multiple sclerosis	2	111907624	rs17174870
+Multiple sclerosis	1	2792599	rs4648356
+Multiple sclerosis	6	135173737	rs9321490
+Multiple sclerosis	3	122077921	rs9282641
+Multiple sclerosis	2	43131922	rs12466022
+Multiple sclerosis	7	2408858	rs6952809
+Multiple sclerosis	6	137646077	rs13192841
+Multiple sclerosis	12	9723495	rs10466829
+Multiple sclerosis	5	142143435	rs1062158
+Multiple sclerosis	1	85306326	rs233100
+Multiple sclerosis	8	78488803	rs1520333
+Multiple sclerosis	3	27747289	rs11129295
+Multiple sclerosis	2	68419963	rs7595037
+Multiple sclerosis	1	100865980	rs12048904
+Multiple sclerosis	19	44642803	rs7255066
+Multiple sclerosis	10	92722160	rs7923837
+Multiple sclerosis	5	177357511	rs4075958
+Multiple sclerosis	6	137131771	rs17066096
+Multiple sclerosis	6	7118757	rs11755724
+Multiple sclerosis	5	134110884	rs756699
+Multiple sclerosis	1	100865980	rs12048904
+Multiple sclerosis	3	121941817	rs4285028
+Multiple sclerosis	3	122074340	rs4308217
+Multiple sclerosis	10	6059750	rs3118470
+Multiple sclerosis			DRB*15:01
+Multiple sclerosis			DRB*13:03
+Multiple sclerosis			DRB*03:01
+Multiple sclerosis			A*02:01
+Multiple sclerosis			DRB*08:01
+Multiple sclerosis	20	63778360	rs6062314
+Multiple sclerosis	10	31126177	rs793108
+Multiple sclerosis	5	40437846	rs9292777
+Multiple sclerosis	1	100941963	rs11581062
+Multiple sclerosis	16	1023552	rs2744148
+Multiple sclerosis	17	42355962	rs9891119
+Multiple sclerosis	9	90801254	rs290986
+Multiple sclerosis	6	159044945	rs1738074
+Multiple sclerosis	12	6330843	rs1800693
+Multiple sclerosis	19	6668961	rs1077667
+Multiple sclerosis	14	68787474	rs4902647
+Multiple sclerosis	10	79300560	rs1250550
+Multiple sclerosis	7	149592373	rs354033
+Multiple sclerosis	20	54174979	rs2248359
+Multiple sclerosis	13	50267187	rs806321
+Multiple sclerosis	1	157699488	rs3761959
+Multiple sclerosis	3	159991864	rs2243123
+Multiple sclerosis	10	6068866	rs7090512
+Multiple sclerosis	16	79618644	rs386965
+Multiple sclerosis	17	45325639	rs4792814
+Multiple sclerosis	19	18193890	rs874628
+Multiple sclerosis	3	169774313	rs10936599
+Multiple sclerosis	11	95578258	rs4409785
+Multiple sclerosis	3	102029794	rs771767
+Multiple sclerosis	6	127957653	rs802734
+Multiple sclerosis	1	192571891	rs1323292
+Multiple sclerosis	19	47158236	rs307896
+Multiple sclerosis	2	230242009	rs10201872
+Multiple sclerosis	6	32368410	rs3129934
+Multiple sclerosis (OCB status)	6	97571204	rs9320598
+Multiple sclerosis (OCB status)	1	159848723	rs6659742
+Multiple sclerosis (OCB status)	2	178431544	rs9283487
+Multiple sclerosis (OCB status)	6	32400310	rs3817963
+Multiple sclerosis (OCB status)	6	32438565	rs3129871
+Multiple sclerosis (OCB status)	6	32553130	rs3828840
+Multiple sclerosis (OCB status)	6	32624423	rs9271640
+Multiple sclerosis (OCB status)	6	32710135	rs9275563
+Multiple sclerosis (OCB status)	6	32695854	rs3129720
+Multiple sclerosis (OCB status)	3	140380851	rs17411949
+Multiple sclerosis (OCB status)	6	32400310	rs3817963
+Multiple sclerosis (OCB status)	6	32438565	rs3129871
+Multiple sclerosis	3	105867870	rs9657904
+Multiple sclerosis	6	32635230	rs2040406
+Multiple sclerosis	10	43318601	rs2503875
+Multiple sclerosis	9	133970221	rs3780792
+Multiple sclerosis	6	32619077	rs9271366
+Multiple sclerosis	19	12035555	rs3745672
+Multiple sclerosis and systolic blood pressure (pleiotropy)	6	33567689	rs210131
+Multiple sclerosis and systolic blood pressure (pleiotropy)	6	33585803	rs394199
+Multiple sclerosis and systolic blood pressure (pleiotropy)	18	58546158	rs12456021
+Multiple sclerosis and body mass index (pleiotropy)	6	33685334	rs942637
+Multiple sclerosis and waist-to-hip-ratio (pleiotropy)	6	33729008	rs471942
+Multiple sclerosis and type 2 diabetes (pleiotropy)	1	92469854	rs6662618
+Multiple sclerosis and type 2 diabetes (pleiotropy)	16	11381719	rs11864333
+Multiple sclerosis and C-reactive protein levels (pleiotropy)	1	92362948	rs17519972
+Multiple sclerosis and C-reactive protein levels (pleiotropy)	1	101157404	rs17123757
+Multiple sclerosis and C-reactive protein levels (pleiotropy)	3	102029794	rs771767
+Multiple sclerosis and triglyceride levels (pleiotropy)	3	56880037	rs1500710
+Multiple sclerosis and triglyceride levels (pleiotropy)	3	102036894	rs1398607
+Multiple sclerosis and triglyceride levels (pleiotropy)	3	121824730	rs1920296
+Multiple sclerosis and triglyceride levels (pleiotropy)	13	50267187	rs806321
+Multiple sclerosis and triglyceride levels (pleiotropy)	19	47158236	rs307896
+Multiple sclerosis and triglyceride levels (pleiotropy)	22	36872513	rs2072711
+Multiple sclerosis and LDL levels (pleiotropy)	1	157699488	rs3761959
+Multiple sclerosis and LDL levels (pleiotropy)	11	95578258	rs4409785
+Multiple sclerosis and LDL levels (pleiotropy)	17	45325639	rs4792814
+Multiple sclerosis and LDL levels (pleiotropy)	22	36916519	rs2413436
+Multiple sclerosis and HDL levels (pleiotropy)	1	101139197	rs12756986
+Multiple sclerosis and HDL levels (pleiotropy)	3	16929446	rs9821630
+Multiple sclerosis and HDL levels (pleiotropy)	3	28039951	rs338610
+Multiple sclerosis and HDL levels (pleiotropy)	3	121941817	rs4285028
+Multiple sclerosis and HDL levels (pleiotropy)	9	90801254	rs290986
+Multiple sclerosis and HDL levels (pleiotropy)	11	122651667	rs7941030
+Multiple sclerosis and HDL levels (pleiotropy)	19	44642803	rs7255066
+Multiple sclerosis or amyotrophic lateral sclerosis	17	47530206	rs2935183
+Multiple sclerosis	6	32368410	rs3129934
+Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	1	92607671	rs11808092
+Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	3	28029953	rs669607
+Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	3	122051692	rs2255214
+Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	10	6027930	rs12722561
+Chronic lymphocytic leukemia or multiple sclerosis	3	169800667	rs6793295
+Chronic lymphocytic leukemia or multiple sclerosis	6	7118757	rs11755724
+Chronic lymphocytic leukemia or multiple sclerosis	6	127957653	rs802734
+Chronic lymphocytic leukemia or multiple sclerosis	13	50267187	rs806321
+Chronic lymphocytic leukemia or multiple sclerosis	17	59755030	rs2777899
+Chronic lymphocytic leukemia or multiple sclerosis	17	59912499	rs1292034
+Chronic lymphocytic leukemia or multiple sclerosis	22	50532837	rs140522
+Diffuse large B-cell lymphoma or multiple sclerosis	1	192571891	rs1323292
+Diffuse large B-cell lymphoma or multiple sclerosis	13	50267187	rs806321
+Diffuse large B-cell lymphoma or multiple sclerosis	19	12702869	rs16978630
+Diffuse large B-cell lymphoma or multiple sclerosis	20	46073481	rs2425752
+Diffuse large B-cell lymphoma or multiple sclerosis	22	50532837	rs140522
+Follicular lymphoma or multiple sclerosis	2	68419963	rs7595037
+Follicular lymphoma or multiple sclerosis	20	46073481	rs2425752
+Marginal zone lymphoma or multiple sclerosis	1	192571891	rs1323292
+Marginal zone lymphoma or multiple sclerosis	10	6045332	rs1107345
+Marginal zone lymphoma or multiple sclerosis	10	79300560	rs1250550
+Marginal zone lymphoma or multiple sclerosis	17	59755030	rs2777899
+Marginal zone lymphoma or multiple sclerosis	14	75556057	rs8021741
+Marginal zone lymphoma or multiple sclerosis	20	46073481	rs2425752
+Marginal zone lymphoma or multiple sclerosis	20	63778360	rs6062314
+Multiple sclerosis	11	3238579	rs11026091
+Multiple sclerosis	8	1935186	rs13279485
+Multiple sclerosis	2	7913466	rs4669226
+Multiple sclerosis	13	49611068	rs9568281
+Multiple sclerosis	11	102757321	rs7924357
+Multiple sclerosis	6	104775989	rs733724
+Multiple sclerosis	10	112628513	rs17267338
+Multiple sclerosis	8	118379170	rs17749211
+Multiple sclerosis	2	133472646	rs1821625
+Multiple sclerosis	4	165909212	rs12513380
+Multiple sclerosis	1	182579884	rs533259
+Multiple sclerosis	4	179746494	rs17090640
+Multiple sclerosis	X	34874386	rs4271113
+Multiple sclerosis	18	31209762	rs2920001
+Multiple sclerosis	X	13596999	rs5978649
+Multiple sclerosis	1	173315060	rs4916321
+Oligoclonal band status in multiple sclerosis	6	32624423	rs9271640
+Oligoclonal band status in multiple sclerosis	18	50997791	rs9807334
+Oligoclonal band status in multiple sclerosis	6	32624423	rs9271640; rs3135388; rs3957148
+Immunoglobulin G index levels in multiple sclerosis	6	32696074	rs6457617
+Immunoglobulin G index levels in multiple sclerosis	14	105706543	rs11621145
+Immunoglobulin G index levels in multiple sclerosis	6;6	32624423;32696074	rs9271640; rs6457617; rs3957148
+Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp1734375
+Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp4224365
+Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp6724547
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis	10	128875540	rs12249496
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis	10	44917329	rs17417060
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp3442760
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp5383559
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp4348860
+Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis			kgp2538268
+Drug-induced liver injury in interferon-beta-treated multiple sclerosis	1	209942767	rs2205986
+Decreased low contrast letter acuity in multiple sclerosis	17	57321218	rs72830848
+Decreased low contrast letter acuity in multiple sclerosis	7	98834984	rs13241771
+Decreased low contrast letter acuity in multiple sclerosis	1	248860368	rs10157709
+Decreased low contrast letter acuity in multiple sclerosis	2	216996799	rs2888449
+Decreased low contrast letter acuity in multiple sclerosis	9	109808616	rs10980055
+Decreased low contrast letter acuity in multiple sclerosis	2	25693109	rs12713638
+Multiple sclerosis	22	39895803	rs137955
+Multiple sclerosis	6	520595	rs71545193
+Multiple sclerosis	2	201247748	rs10931933
+Multiple sclerosis	17	75811880	rs62088246
+Multiple sclerosis	19	11063252	rs12609500
+Multiple sclerosis			chr3:47005668
+Multiple sclerosis	3	196633959	rs1684468
+Multiple sclerosis	2	88794264	rs335123
+Multiple sclerosis	13	39783540	rs17591266
+Multiple sclerosis	6	129897657	rs6921288
+Multiple sclerosis	13	41465152	rs3783196
+Multiple sclerosis	20	49805558	rs6020055
+Multiple sclerosis	14	90906615	rs1152430
+Multiple sclerosis	3	141432148	rs6789653
+Multiple sclerosis	21	39091357	rs9977672
+Multiple sclerosis	12	46025303	rs7134559
+Multiple sclerosis	3	32920559	rs11919880
+Multiple sclerosis	5	143229960	rs33384
+Multiple sclerosis			chr16:30171625
+Multiple sclerosis	11	111379094	rs10789825
+Multiple sclerosis	18	49600629	rs28512338
+Multiple sclerosis	9	90792671	rs290260
+Multiple sclerosis	17	45330304	rs7222450
+Multiple sclerosis	17	58281401	rs2333227
+Multiple sclerosis	18	58602505	rs4940730
+Multiple sclerosis	12	112468611	rs11066320
+Multiple sclerosis	3	53085518	rs2253675
+Multiple sclerosis	17	2350174	rs35280661
+Multiple sclerosis	13	32918762	rs4941702
+Multiple sclerosis	9	35821800	rs2295799
+Multiple sclerosis	9	136745506	rs2811727
+Multiple sclerosis	15	60865204	rs12909611
+Multiple sclerosis	5	88768123	rs16903340
+Multiple sclerosis	1	66288850	rs566267
+Multiple sclerosis	4	2767542	rs1877721
+Multiple sclerosis	2	60827845	rs2420518
+Multiple sclerosis	2	111177884	rs7565445
+Multiple sclerosis	8	133041985	rs2741190
+Multiple sclerosis	1	203291372	rs4543864
+Multiple sclerosis	16	85985481	rs13330176
+Multiple sclerosis			chr6:130348257
+Multiple sclerosis	10	43252974	rs2505509
+Multiple sclerosis	17	4875192	rs8078776
+Multiple sclerosis	15	85744493	rs11629690
+Multiple sclerosis			chr10:21867179
+Multiple sclerosis	10	30744074	rs11008218
+Multiple sclerosis	18	50155855	rs1567526
+Multiple sclerosis	10	8380654	rs10905353
+Multiple sclerosis	2	213154257	rs62189580
+Multiple sclerosis	2	190656715	rs929566
+Multiple sclerosis	17	42377817	rs1026916
+Multiple sclerosis	7	139045049	rs10271373
+Multiple sclerosis	19	33230549	rs10414065
+Multiple sclerosis	12	6451407	rs1059501
+Multiple sclerosis	9	4981602	rs10758669
+Multiple sclerosis	6	36380912	rs1076928
+Multiple sclerosis	19	51784930	rs10853845
+Multiple sclerosis	10	31106832	rs1087056
+Multiple sclerosis	11	111405360	rs10891261
+Multiple sclerosis	11	128632327	rs10893900
+Multiple sclerosis	10	3875982	rs10904115
+Multiple sclerosis	1	165863039	rs10918297
+Multiple sclerosis	7	27095695	rs10951154
+Multiple sclerosis	9	22133285	rs10965250
+Multiple sclerosis	2	24829308	rs11125803
+Multiple sclerosis	16	30982502	rs11150602
+Multiple sclerosis	1	85216337	rs11161550
+Multiple sclerosis	3	45828480	rs1129183
+Multiple sclerosis	1	100947346	rs11578655
+Multiple sclerosis	19	19166593	rs11669861
+Multiple sclerosis	5	40396323	rs11749040
+Multiple sclerosis	1	92687078	rs11809700
+Multiple sclerosis	1	116800821	rs11810158
+Multiple sclerosis	14	51839373	rs11852059
+Multiple sclerosis	2	12467767	rs11899404
+Multiple sclerosis	12	42460403	rs3747562
+Multiple sclerosis	16	30091839	rs3809627
+Multiple sclerosis	16	1017832	rs405343
+Multiple sclerosis	14	87951477	rs408667
+Multiple sclerosis	11	128551280	rs4262739
+Multiple sclerosis	3	102030178	rs4325907
+Multiple sclerosis	11	95578258	rs4409785
+Multiple sclerosis	1	157119355	rs4661089
+Multiple sclerosis	7	128933913	rs4728142
+Multiple sclerosis	12	124466106	rs4765569
+Multiple sclerosis	17	36486677	rs4796224
+Multiple sclerosis	19	18191169	rs4808760
+Multiple sclerosis	20	41309482	rs4812492
+Multiple sclerosis	1	119724882	rs483180
+Multiple sclerosis	4	112153589	rs4834222
+Multiple sclerosis	6	135512325	rs4896153
+Multiple sclerosis	6	139580677	rs4896477
+Multiple sclerosis	11	65937961	rs531612
+Multiple sclerosis	7	2403667	rs55858457
+Multiple sclerosis	11	95688666	rs56095240
+Multiple sclerosis	11	113978180	rs56376240
+Multiple sclerosis	2	112013222	rs57116599
+Multiple sclerosis	1	92474402	rs58394161
+Multiple sclerosis	7	37342861	rs60600003
+Multiple sclerosis	11	128481247	rs61909096
+Multiple sclerosis	7	56083796	rs2242508
+Multiple sclerosis	20	54173204	rs2248137
+Multiple sclerosis	11	47338861	rs2269434
+Multiple sclerosis	6	170276994	rs2273215
+Multiple sclerosis	16	11020655	rs2286974
+Multiple sclerosis	12	6405797	rs2364485
+Multiple sclerosis	18	69876810	rs2469434
+Multiple sclerosis	5	142159774	rs249677
+Multiple sclerosis	20	54127898	rs2585447
+Multiple sclerosis	3	187848180	rs2590438
+Multiple sclerosis	3	27883014	rs2618101
+Multiple sclerosis	5	94870132	rs27002
+Multiple sclerosis	4	86941244	rs2705616
+Multiple sclerosis	11	110375886	rs2724416
+Multiple sclerosis	4	105334432	rs2726479
+Multiple sclerosis	11	116817667	rs2727790
+Multiple sclerosis	21	38492803	rs2836438
+Multiple sclerosis	8	78504987	rs28703878
+Multiple sclerosis	17	49302219	rs2960172
+Multiple sclerosis	1	6452487	rs2986736
+Multiple sclerosis	5	157163344	rs31220
+Multiple sclerosis	5	119367967	rs32658
+Multiple sclerosis	11	118609980	rs34026809
+Multiple sclerosis	11	321138	rs35218683
+Multiple sclerosis	1	85264137	rs35486093
+Multiple sclerosis	17	7272525	rs62059189
+Multiple sclerosis	15	40940837	rs6492971
+Multiple sclerosis	15	74862438	rs6495124
+Multiple sclerosis	15	90344352	rs6496663
+Multiple sclerosis	16	79618823	rs6564681
+Multiple sclerosis	11	122647817	rs6589939
+Multiple sclerosis	1	2589088	rs6670198
+Multiple sclerosis	1	24964519	rs6672420
+Multiple sclerosis	17	2061984	rs67457628
+Multiple sclerosis			rs67934705
+Multiple sclerosis	4	48125245	rs6837324
+Multiple sclerosis	6	143544084	rs6911131
+Multiple sclerosis	8	127801845	rs6990534
+Multiple sclerosis	19	44640642	rs7260482
+Multiple sclerosis	4	86592426	rs72665771
+Multiple sclerosis	6	90267049	rs72928038
+Multiple sclerosis	12	50827114	rs7295386
+Multiple sclerosis	12	12015197	rs73060045
+Multiple sclerosis	12	11845842	rs73277163
+Multiple sclerosis	4	40190429	rs7698247
+Multiple sclerosis	8	70529879	rs7830997
+Multiple sclerosis	12	123119506	rs7975763
+Multiple sclerosis	12	9713753	rs7977720
+Multiple sclerosis	17	40096407	rs883871
+Multiple sclerosis	1	212704434	rs9308424
+Multiple sclerosis	6	134876770	rs9399125
+Multiple sclerosis	13	50387821	rs9568402
+Multiple sclerosis			rs9844930
+Multiple sclerosis	3	18757356	rs9863496
+Multiple sclerosis	17	39813896	rs9909593
+Multiple sclerosis	18	58680812	rs9955954
+Multiple sclerosis	4	108137562	rs9992763
+Multiple sclerosis	20	41339548	rs6072343
+Multiple sclerosis	2	150787689	rs962052
+Multiple sclerosis			chr8:129011095
+Multiple sclerosis	8	143912625	rs3923387
+Multiple sclerosis	12	111446804	rs3184504
+Multiple sclerosis	10	62663656	rs34299154
+Multiple sclerosis	22	36914912	rs5756405
+Multiple sclerosis			chr20:52210360
+Multiple sclerosis	3	113552210	rs7620803
+Multiple sclerosis	17	75339695	rs9900529
+Multiple sclerosis	22	31226553	rs4820955
+Multiple sclerosis	6	127958959	rs802730
+Multiple sclerosis	4	163572655	rs72989863
+Multiple sclerosis	7	150676640	rs11762408
+Multiple sclerosis	3	188269836	rs13066789
+Multiple sclerosis	5	104354615	rs1442118
+Multiple sclerosis	2	162105535	rs2052401
+Multiple sclerosis	10	73894042	rs17741873
+Multiple sclerosis	2	65434709	rs13385171
+Multiple sclerosis	11	64327706	rs11231749
+Multiple sclerosis	5	1283640	rs72709458
+Multiple sclerosis	2	181106510	rs6433892
+Multiple sclerosis	1	207692807	rs7525478
+Multiple sclerosis	22	36862944	rs760517
+Multiple sclerosis	3	33130167	rs4392367
+Multiple sclerosis	12	94267677	rs61708525
+Multiple sclerosis	6	16672529	rs719316
+Multiple sclerosis	8	127163451	rs735542
+Multiple sclerosis	1	160420194	rs3737798
+Multiple sclerosis	2	191124630	rs6738544
+Multiple sclerosis	20	43950411	rs4812772
+Multiple sclerosis	2	203768138	rs12614091
+Multiple sclerosis	2	224942047	rs1857996
+Multiple sclerosis	3	169818849	rs10936602
+Multiple sclerosis	19	47135282	rs11083862
+Multiple sclerosis	9	98105907	rs7855251
+Multiple sclerosis	4	40305547	rs13136820
+Multiple sclerosis			chr6:119215402
+Multiple sclerosis	3	126148404	rs3845959
+Multiple sclerosis	18	63263862	rs2187163
+Multiple sclerosis	1	157716547	rs2317231
+Multiple sclerosis	7	149592373	rs354033
+Multiple sclerosis	5	6712721	rs34681760
+Multiple sclerosis	21	33415005	rs9808753
+Multiple sclerosis	14	68786647	rs12434551
+Multiple sclerosis	14	75547955	rs34695601
+Multiple sclerosis	5	134555592	rs2084007
+Multiple sclerosis	2	136127109	rs10191360
+Multiple sclerosis	3	105737111	rs2289746
+Multiple sclerosis	16	89075315	rs55733613
+Multiple sclerosis	21	33323876	rs71314176
+Multiple sclerosis	11	61026179	rs4939490
+Multiple sclerosis	12	57713053	rs701006
+Multiple sclerosis	7	106066016	rs73414214
+Multiple sclerosis	1	91756532	rs12133753
+Multiple sclerosis	16	85987899	rs35703946
+Multiple sclerosis			chr3:100656795
+Multiple sclerosis	10	6028310	rs12722559
+Multiple sclerosis			chr3:121765368
+Multiple sclerosis	2	230257114	rs35540610
+Multiple sclerosis	16	79316307	rs17724508
+Multiple sclerosis	6	137116920	rs62420820
+Multiple sclerosis	16	11319069	rs34947566
+Multiple sclerosis	20	63743088	rs6742
+Multiple sclerosis	2	144232981	rs72855540
+Multiple sclerosis	3	28030595	rs438613
+Multiple sclerosis	3	119509661	rs9843355
+Multiple sclerosis	19	6668961	rs1077667
+Multiple sclerosis			chr3:100848597
+Multiple sclerosis	1	192571891	rs1323292
+Multiple sclerosis	1	64963636	rs72922276
+Multiple sclerosis	12	6332456	rs12832171
+Multiple sclerosis	19	10352442	rs34536443
+Multiple sclerosis	10	6075359	rs11256593
+Multiple sclerosis			chr1:198573373
+Multiple sclerosis	13	50237084	rs9591325
+Multiple sclerosis			chr11:118783424
+Multiple sclerosis	1	116547871	rs10801908
+Multiple sclerosis			chr14:88523488
+Multiple sclerosis			chr3:112693983
+Multiple sclerosis			chr1:150593391
+Multiple sclerosis			chr1:154983036
+Multiple sclerosis			chr1:1682374
+Multiple sclerosis			chr1:32715071
+Multiple sclerosis			chr1:32738415
+Multiple sclerosis			chr11:14868316
+Multiple sclerosis			chr16:11213951
+Multiple sclerosis			chr16:11353879
+Multiple sclerosis			chr16:68335911
+Multiple sclerosis			chr16:68694818
+Multiple sclerosis			chr18:60902282
+Multiple sclerosis			chr2:112492986
+Multiple sclerosis			chr20:52783991
+Multiple sclerosis			chr5:40429250
+Multiple sclerosis			chr8:129177769
+Multiple sclerosis			chr8:95851818
+Multiple sclerosis			chr9:86543849
+Multiple sclerosis	5	35877403	rs10063294
+Multiple sclerosis	5	132454924	rs10066308
+Multiple sclerosis	8	11427875	rs10102600
+Multiple sclerosis	7	28102567	rs10245867
+Multiple sclerosis	5	177363161	rs67111717
+Multiple sclerosis	1	200906769	rs59655222
+Multiple sclerosis	6	135174088	rs2327586
+Multiple sclerosis	15	78955140	rs62013236
+Multiple sclerosis	1	160664798	rs6427540
+Multiple sclerosis	16	79077400	rs12925972
+Multiple sclerosis	17	47624914	rs11079784
+Multiple sclerosis	19	16448610	rs58166386
+Multiple sclerosis			chr5:1519833
+Multiple sclerosis	20	41317131	rs62208470
+Multiple sclerosis			chr13:100026952
+Multiple sclerosis	3	159973324	rs1014486
+Multiple sclerosis	11	118877104	rs6589706
+Multiple sclerosis			chr6:14691215
+Multiple sclerosis	5	134114136	rs244656
+Multiple sclerosis	6	137638318	rs631204
+Multiple sclerosis	3	4849521	rs4560284
+Multiple sclerosis			chr3:5035903
+Multiple sclerosis			chr10:6390285
+Multiple sclerosis	17	59781849	rs2150879
+Multiple sclerosis	2	43128185	rs12478539
+Multiple sclerosis	19	10481468	rs28834106
+Multiple sclerosis	7	22732641	rs2069852
+Multiple sclerosis			chr3:121783015
+Multiple sclerosis	11	118872577	rs12365699
+Multiple sclerosis	10	92719350	rs1112718
+Multiple sclerosis	16	79252606	rs11859008
+Multiple sclerosis	1	160734175	rs983494
+Multiple sclerosis	7	50200284	rs10230723
+Multiple sclerosis	5	159332892	rs2546890
+Multiple sclerosis	16	57043182	rs8062446
+Multiple sclerosis	10	62689789	rs61863928
+Multiple sclerosis	22	21851064	rs9610458
+Multiple sclerosis	2	68419404	rs12622670
+Multiple sclerosis			chr7:50328339
+Multiple sclerosis	8	60927999	rs13257990
+Multiple sclerosis	2	30249576	rs13414105
+Multiple sclerosis	6	105813894	rs17066362
+Multiple sclerosis	4	102990624	rs6533052
+Multiple sclerosis	5	56148856	rs7731626
+Multiple sclerosis	3	121824051	rs2331964
+Multiple sclerosis	2	61015275	rs1177228
+Multiple sclerosis	11	14381384	rs61884005
+Multiple sclerosis	3	159994586	rs10936182
+Multiple sclerosis			rs34723276
+Multiple sclerosis	22	28334187	rs134490
+Multiple sclerosis	20	46105671	rs6032662
+Multiple sclerosis	3	71486187	rs9878602
+Multiple sclerosis	6	137858009	rs17780048
+Multiple sclerosis	7	3099783	rs10951042
+Multiple sclerosis	1	119731286	rs12094392
+Multiple sclerosis	14	102799507	rs12147246
+Multiple sclerosis	6	7099796	rs12211604
+Multiple sclerosis	18	58546158	rs12456021
+Multiple sclerosis	10	79299578	rs1250551
+Multiple sclerosis	14	102764421	rs12588969
+Multiple sclerosis	10	6024499	rs12722574
+Multiple sclerosis	1	150722004	rs12755416
+Multiple sclerosis	19	4466469	rs12971909
+Multiple sclerosis	6	113828132	rs13193860
+Multiple sclerosis	8	128064205	rs13254990
+Multiple sclerosis	3	27741524	rs13327021
+Multiple sclerosis	2	25269598	rs13428812
+Multiple sclerosis	11	36416525	rs1365120
+Multiple sclerosis	10	8056756	rs1399180
+Multiple sclerosis	22	50532837	rs140522
+Multiple sclerosis	1	92961312	rs1415069
+Multiple sclerosis	19	49333989	rs1465697
+Multiple sclerosis	10	62637778	rs16917546
+Multiple sclerosis	4	121198294	rs17051321
+Multiple sclerosis	6	159044945	rs1738074
+Multiple sclerosis	12	6330843	rs1800693
+Multiple sclerosis	1	11796321	rs1801133
+Multiple sclerosis	10	88067364	rs1819577
+Multiple sclerosis	4	38719543	rs2045769
+Multiple sclerosis	3	28029953	rs669607
+Multiple sclerosis	10	6075359	rs11256593
+Multiple sclerosis	17	47624914	rs11079784
+Multiple sclerosis	19	16394295	rs1870071
+Multiple sclerosis	20	46107215	rs6065926
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; all treatment preparations)	6	32628946	rs9281971
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1b subcutaneous)	6	32642480	rs9272775
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1b subcutaneous)	6	32682984	rs17205731
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular)	6	32687953	rs3129783
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular)	6	31145498	rs886401
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular)	6	32625742	rs9271721
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous)	6	32626821	rs9281962
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations)	6	31142105	rs1265086
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations)	6	31354782	rs2523608
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations)	6	29968855	rs9260765
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations)	6	32631710	rs9272071
+Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations)	6	32670398	rs28746882
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	6	32642480	rs9272775
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	6	33103251	rs559242105
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1a subcutaneous and intramuscular)	6	32438696	rs9268633
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1a subcutaneous)	6	32625056	rs9271673
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; all treatment preparations)	6	32628946	rs9281971
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	6	33103251	rs559242105
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	6	32593093	rs28366299
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1a subcutaneous and intramuscular)	6	32501644	rs77278603
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1a subcutaneous)	6	32625421	rs9271700
+Relapse in treatment-naive multiple sclerosis (time to event)	17	46877618	rs11871306
+Relapse in multiple sclerosis	2	169261301	rs12988804
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies)	6	32614145	rs522308
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (mean antibody levels)	6	32602624	rs2454138
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (area under the curve for the first two years)	6	32602624	rs2454138
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (maximum antibody levels)	6	32602624	rs2454138
+Multiple sclerosis	10	73898591	rs2688608
+Multiple sclerosis	11	47680843	rs7120737
+Multiple sclerosis	11	64329761	rs694739
+Multiple sclerosis	11	118854185	rs9736016
+Multiple sclerosis	12	6394334	rs12296430
+Multiple sclerosis	13	99434005	rs4772201
+Multiple sclerosis	14	102797451	rs12148050
+Multiple sclerosis	15	78915124	rs59772922
+Multiple sclerosis	15	90434101	rs8042861
+Multiple sclerosis	16	11342133	rs6498184
+Multiple sclerosis	16	30145642	rs7204270
+Multiple sclerosis	16	68652002	rs1886700
+Multiple sclerosis	16	79076699	rs12149527
+Multiple sclerosis	16	79615497	rs7196953
+Multiple sclerosis	17	39756124	rs12946510
+Multiple sclerosis	17	47519732	rs4794058
+Multiple sclerosis	19	10631494	rs2288904
+Multiple sclerosis	19	16394295	rs1870071
+Multiple sclerosis	20	49822224	rs17785991
+Multiple sclerosis	20	63742630	rs2256814
+Multiple sclerosis	6	137641518	rs7769192
+Multiple sclerosis	11	118696037	rs533646
+Multiple sclerosis	16	11194949	rs4780346
+Multiple sclerosis	1	2594226	rs3748817
+Multiple sclerosis	1	92509907	rs41286801
+Multiple sclerosis	1	6470129	rs3007421
+Multiple sclerosis	1	85281310	rs12087340
+Multiple sclerosis	1	85449500	rs11587876
+Multiple sclerosis	1	119716347	rs666930
+Multiple sclerosis	1	157800451	rs2050568
+Multiple sclerosis	1	160742014	rs35967351
+Multiple sclerosis	2	24794991	rs4665719
+Multiple sclerosis	2	60868110	rs842639
+Multiple sclerosis	2	191109709	rs9967792
+Multiple sclerosis	3	18744093	rs11719975
+Multiple sclerosis	3	32971991	rs4679081
+Multiple sclerosis	3	71481195	rs9828629
+Multiple sclerosis	4	105252042	rs2726518
+Multiple sclerosis	5	134110884	rs756699
+Multiple sclerosis	5	142119476	rs1036207
+Multiple sclerosis	5	177361569	rs4976646
+Multiple sclerosis	6	14719265	rs17119
+Multiple sclerosis	6	36407527	rs941816
+Multiple sclerosis	7	3073400	rs1843938
+Multiple sclerosis	7	26975369	rs706015
+Multiple sclerosis	7	28133120	rs917116
+Multiple sclerosis	7	37342861	rs60600003
+Multiple sclerosis	7	50285971	rs201847125
+Multiple sclerosis	8	127180736	rs2456449
+Multiple sclerosis	10	31126177	rs793108
+Multiple sclerosis	10	6057082	rs2104286
+Multiple sclerosis	10	79288854	rs1782645
+Multiple sclerosis	10	92722160	rs7923837
+Multiple sclerosis	11	61025858	rs34383631
+Multiple sclerosis	12	6330843	rs1800693
+Multiple sclerosis	12	9753094	rs11052877
+Multiple sclerosis	12	57788279	rs201202118
+Multiple sclerosis	12	123108835	rs7132277
+Multiple sclerosis	14	68794755	rs2236262
+Multiple sclerosis	14	87965984	rs74796499
+Multiple sclerosis	16	11100914	rs12927355
+Multiple sclerosis	16	85960878	rs35929052
+Multiple sclerosis	17	42378745	rs4796791
+Multiple sclerosis	17	59739396	rs8070345
+Multiple sclerosis	19	6668961	rs1077667
+Multiple sclerosis	19	10352442	rs34536443
+Multiple sclerosis	19	18175134	rs11554159
+Multiple sclerosis	19	49367386	rs8107548
+Multiple sclerosis	20	46119308	rs4810485
+Multiple sclerosis	20	54174979	rs2248359
+Multiple sclerosis	22	21776836	rs2283792
+Multiple sclerosis	11	118885029	rs523604
+Multiple sclerosis	22	36902302	rs5756391
+Multiple sclerosis	22	41395532	rs2073167
+Multiple sclerosis	11	36342025	rs4755450
+Multiple sclerosis	1	100775337	rs7552544
+Multiple sclerosis	1	116537544	rs6677309
+Multiple sclerosis	1	192572342	rs1359062
+Multiple sclerosis	1	200905600	rs55838263
+Multiple sclerosis	2	43134117	rs2163226
+Multiple sclerosis	2	68360345	rs7595717
+Multiple sclerosis	2	230250739	rs9989735
+Multiple sclerosis	3	27715527	rs2371108
+Multiple sclerosis	3	28037080	rs1813375
+Multiple sclerosis	3	119503609	rs1131265
+Multiple sclerosis	3	121824730	rs1920296
+Multiple sclerosis	3	122051692	rs2255214
+Multiple sclerosis	3	159973324	rs1014486
+Multiple sclerosis	4	102630446	rs7665090
+Multiple sclerosis	5	35879054	rs6881706
+Multiple sclerosis	5	40398994	rs6880778
+Multiple sclerosis	5	56144903	rs71624119
+Multiple sclerosis	6	90267049	rs72928038
+Multiple sclerosis	6	135418217	rs11154801
+Multiple sclerosis	6	137131771	rs17066096
+Multiple sclerosis	6	137923679	rs67297943
+Multiple sclerosis	6	159049527	rs212405
+Multiple sclerosis	8	78663569	rs1021156
+Multiple sclerosis	8	127802783	rs4410871
+Multiple sclerosis	8	128146699	rs759648
+Multiple sclerosis	10	43147362	rs3004212
+Multiple sclerosis	11	61066152	rs175126
+Multiple sclerosis	11	128540941	rs3809006
+Multiple sclerosis	13	32923897	rs731089
+Multiple sclerosis	13	39776775	rs7993214
+Multiple sclerosis	13	50285854	rs806349
+Multiple sclerosis	14	75495168	rs4903324
+Multiple sclerosis	15	38554537	rs4924273
+Multiple sclerosis	16	57358329	rs223889
+Multiple sclerosis	19	51784199	rs7260516
+Multiple sclerosis	1	160432469	rs17371986
+Multiple sclerosis	1	198861813	rs113116201
+Multiple sclerosis	2	12500615	rs1534422
+Multiple sclerosis	2	181370365	rs6716355
+Multiple sclerosis	2	203746472	rs6435203
+Multiple sclerosis	3	141422126	rs9846396
+Multiple sclerosis	3	160016881	rs522127
+Multiple sclerosis	3	188365131	rs66756607
+Multiple sclerosis	4	2831000	rs189139
+Multiple sclerosis	6	139590185	rs727098
+Multiple sclerosis	6	159103590	rs9355260
+Multiple sclerosis	8	11458083	rs75637965
+Multiple sclerosis	8	70306125	rs13260060
+Multiple sclerosis	20	41339548	rs6072343
+Multiple sclerosis	21	33415005	rs9808753
+Multiple sclerosis	10	6079322	rs62626325
+Depression in multiple sclerosis (pre-diagnosis)	2	21296299	rs10514650
+Depression in multiple sclerosis (pre-diagnosis)	11	13228852	rs10832000
+Depression in multiple sclerosis (pre-diagnosis)	15	101648782	rs28758178
+Depression in multiple sclerosis (pre-diagnosis)	3	20734902	rs74696548
+Depression in multiple sclerosis (post-diagnosis)	2	75885737	rs12612334
+Depression in multiple sclerosis (post-diagnosis)	1	78537573	rs898
+Depression in multiple sclerosis	3	107506831	rs10513196
+Depression in multiple sclerosis	1	17224106	rs3003482

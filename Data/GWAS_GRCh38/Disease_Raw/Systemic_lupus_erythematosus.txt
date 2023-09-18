@@ -1,0 +1,1213 @@
+Systemic lupus erythematosus	7	128956751	rs12539741
+Systemic lupus erythematosus	10	48810120	rs2928402
+Systemic lupus erythematosus			A*01:01
+Systemic lupus erythematosus			B*08:01
+Systemic lupus erythematosus			DQA1*01:02
+Systemic lupus erythematosus			DQA1*05:05
+Systemic lupus erythematosus			DQB1*02:01
+Systemic lupus erythematosus			DQB1*03:01
+Systemic lupus erythematosus			DQB1*06:02
+Systemic lupus erythematosus			DRB1*03:01
+Systemic lupus erythematosus			DRB1*15:01
+Systemic lupus erythematosus	10	15496384	rs7098187
+Systemic lupus erythematosus			DQA1*05:01
+Systemic lupus erythematosus	7	128933913	rs4728142
+Systemic lupus erythematosus	19	18370523	rs8105429
+Systemic lupus erythematosus	10	103243964	rs4917385
+Systemic lupus erythematosus	9	128424504	rs61732491
+Systemic lupus erythematosus	1	205540170	rs181502228
+Systemic lupus erythematosus	X	154018741	rs1059702
+Systemic lupus erythematosus	16	31265490	rs1143679
+Systemic lupus erythematosus	7	28127772	rs10254284
+Systemic lupus erythematosus	9	7071706	rs4641121
+Systemic lupus erythematosus	4	79049054	rs10032909
+Systemic lupus erythematosus	1	173338762	rs12736195
+Systemic lupus erythematosus	1	183563302	rs13306575
+Systemic lupus erythematosus	1	119618166	rs3862260
+Systemic lupus erythematosus	6	37538639	rs2797780
+Systemic lupus erythematosus	6	119953631	rs4574684
+Systemic lupus erythematosus	8	9229768	rs330048
+Systemic lupus erythematosus	8	10033744	rs643955
+Systemic lupus erythematosus	8	11605506	rs17807624
+Systemic lupus erythematosus	9	6655056	rs7031325
+Systemic lupus erythematosus	9	86916761	rs190029011
+Systemic lupus erythematosus	11	65637829	rs931127
+Systemic lupus erythematosus	X	12814981	rs7892586
+Systemic lupus erythematosus	1	174343675	rs17301013
+Systemic lupus erythematosus	15	48216203	rs1878186
+Systemic lupus erythematosus	11	64587323	rs11231824
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	5	151077924	rs7708392
+Systemic lupus erythematosus	1	235865541	rs4660116
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	7	50267214	rs11185603
+Systemic lupus erythematosus	11	35076646	rs387619
+Systemic lupus erythematosus	6	35066077	rs820077
+Systemic lupus erythematosus	11	625085	rs58688157
+Systemic lupus erythematosus	16	11083944	rs7200786
+Systemic lupus erythematosus	7	28123055	rs12531540
+Systemic lupus erythematosus	6	106140931	rs6568431
+Systemic lupus erythematosus	1	206770623	rs3024493
+Systemic lupus erythematosus	X	30555616	rs2532871
+Systemic lupus erythematosus	2	191081596	rs6736175
+Systemic lupus erythematosus	17	39850937	rs143123127
+Systemic lupus erythematosus	12	128804645	rs11059919
+Systemic lupus erythematosus	5	160460329	rs2431098
+Systemic lupus erythematosus	6	32714358	rs114092478
+Systemic lupus erythematosus	8	11482456	rs2736332
+Systemic lupus erythematosus	5	151078210	rs6889239
+Systemic lupus erythematosus	7	128936032	rs3757387
+Systemic lupus erythematosus	15	75018695	rs2289583
+Systemic lupus erythematosus	5	134092910	rs4388254
+Systemic lupus erythematosus	14	68264741	rs4902562
+Systemic lupus erythematosus	3	159976265	rs77583790
+Systemic lupus erythematosus	1	161509020	rs6671847
+Systemic lupus erythematosus	6	31867385	rs74290525
+Systemic lupus erythematosus	10	8437905	rs7090925
+Systemic lupus erythematosus	6	110410913	rs9398235
+Systemic lupus erythematosus	1	173377204	rs10753074
+Systemic lupus erythematosus	10	62241941	rs10995092
+Systemic lupus erythematosus	19	10355447	rs11085727
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	22	21630090	rs3747093
+Systemic lupus erythematosus	11	128629105	rs7941765
+Systemic lupus erythematosus	6	32644524	rs9273076
+Systemic lupus erythematosus	2	162267541	rs1990760
+Systemic lupus erythematosus	1	113761186	rs6679677
+Systemic lupus erythematosus	4	101829919	rs10516487
+Systemic lupus erythematosus	16	85933077	rs13332649
+Systemic lupus erythematosus	6	30973212	rs114090659
+Systemic lupus erythematosus	6	137922602	rs58721818
+Systemic lupus erythematosus	1	173282717	rs10912578
+Systemic lupus erythematosus	2	65381229	rs268134
+Systemic lupus erythematosus	2	213025508	rs10048743
+Systemic lupus erythematosus	12	111535554	rs597808
+Systemic lupus erythematosus	16	31272002	rs35472514
+Systemic lupus erythematosus	1	183573188	rs17849501
+Systemic lupus erythematosus	6	32061428	rs1150757
+Systemic lupus erythematosus	17	4793960	rs79404002
+Systemic lupus erythematosus	7	128945562	rs35000415
+Systemic lupus erythematosus	6	14715651	rs1267499
+Systemic lupus erythematosus	6	106140931	rs6568431
+Systemic lupus erythematosus	6	137921300	rs6932056
+Systemic lupus erythematosus	7	28146272	rs849142
+Systemic lupus erythematosus	7	50266267	rs4917014
+Systemic lupus erythematosus	7	128954129	rs10488631
+Systemic lupus erythematosus	8	11486464	rs2736340
+Systemic lupus erythematosus	10	48861350	rs2663052
+Systemic lupus erythematosus	10	62045858	rs4948496
+Systemic lupus erythematosus	11	566936	rs12802200
+Systemic lupus erythematosus	11	35066852	rs2732549
+Systemic lupus erythematosus	11	71476633	rs3794060
+Systemic lupus erythematosus	11	128629105	rs7941765
+Systemic lupus erythematosus	12	111472415	rs10774625
+Systemic lupus erythematosus	12	128794319	rs1059312
+Systemic lupus erythematosus	14	68264741	rs4902562
+Systemic lupus erythematosus	15	75018695	rs2289583
+Systemic lupus erythematosus	16	11080508	rs9652601
+Systemic lupus erythematosus	16	31261032	rs34572943
+Systemic lupus erythematosus	16	85939006	rs11644034
+Systemic lupus erythematosus	17	4809322	rs2286672
+Systemic lupus erythematosus	17	39764941	rs2941509
+Systemic lupus erythematosus	19	10364976	rs2304256
+Systemic lupus erythematosus	22	21622645	rs7444
+Systemic lupus erythematosus	X	30559729	rs887369
+Systemic lupus erythematosus	X	154059995	rs1734787
+Systemic lupus erythematosus	1	67340749	rs1874791
+Systemic lupus erythematosus	6	135318506	rs6914831
+Systemic lupus erythematosus	13	46211386	rs912784
+Systemic lupus erythematosus	11	65774827	rs494003
+Systemic lupus erythematosus	20	7377776	rs11908000
+Systemic lupus erythematosus	17	75373341	rs959260
+Systemic lupus erythematosus			rs2288012
+Systemic lupus erythematosus	6	135679896	rs9402743
+Systemic lupus erythematosus	1	113834946	rs2476601
+Systemic lupus erythematosus	1	161509955	rs1801274
+Systemic lupus erythematosus	1	173257056	rs704840
+Systemic lupus erythematosus	1	183573188	rs17849501
+Systemic lupus erythematosus	1	206766559	rs3024505
+Systemic lupus erythematosus	1	235876577	rs9782955
+Systemic lupus erythematosus	2	162254026	rs2111485
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	2	213006985	rs3768792
+Systemic lupus erythematosus	3	58484624	rs9311676
+Systemic lupus erythematosus	3	160011200	rs564799
+Systemic lupus erythematosus	4	101816093	rs10028805
+Systemic lupus erythematosus	5	134096143	rs7726414
+Systemic lupus erythematosus	5	151078585	rs10036748
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	6	31951083	rs1270942
+Systemic lupus erythematosus	6	34829464	rs9462027
+Systemic lupus erythematosus	10	48728291	rs11101442
+Systemic lupus erythematosus	17	13830489	rs12949531
+Systemic lupus erythematosus	8	11495032	rs2618476
+Systemic lupus erythematosus	2	191038032	rs3821236
+Systemic lupus erythematosus	6	137874586	rs5029939
+Systemic lupus erythematosus	2	49728359	rs17039212
+Systemic lupus erythematosus	16	31322915	rs11150610
+Systemic lupus erythematosus	4	137771096	rs2313132
+Systemic lupus erythematosus	6	32082981	rs1150754
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	7	128954129	rs10488631
+Systemic lupus erythematosus	1	53163913	rs6695567
+Systemic lupus erythematosus	3	177377284	rs12629106
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	20	2537919	rs6049839
+Systemic lupus erythematosus	8	11486464	rs2736340
+Systemic lupus erythematosus	1	183207295	rs525410
+Systemic lupus erythematosus	22	21585386	rs5754217
+Systemic lupus erythematosus	1	189754493	rs10737562
+Systemic lupus erythematosus	7	128977412	rs12531711
+Systemic lupus erythematosus	2	180649002	rs918959
+Systemic lupus erythematosus	11	55368743	rs7927370
+Systemic lupus erythematosus	6	32638107	rs2187668
+Systemic lupus erythematosus	16	31301932	rs9888739
+Systemic lupus erythematosus	4	108801970	rs4956211
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	11	589564	rs4963128
+Systemic lupus erythematosus	6	32757416	rs2301271
+Systemic lupus erythematosus	12	76615280	rs2669010
+Systemic lupus erythematosus	6	32255481	rs3130320
+Systemic lupus erythematosus	3	175243598	rs1463525
+Systemic lupus erythematosus	6	32696681	rs2647012
+Systemic lupus erythematosus	4	87037243	rs340630
+Systemic lupus erythematosus	4	108125804	rs956237
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	5	151078585	rs10036748
+Systemic lupus erythematosus	7	50266267	rs4917014
+Systemic lupus erythematosus	8	11482672	rs7812879
+Systemic lupus erythematosus	11	128441164	rs6590330
+Systemic lupus erythematosus	22	21562901	rs131654
+Systemic lupus erythematosus	16	30624338	rs7186852
+Systemic lupus erythematosus	6	32608701	rs9271100
+Systemic lupus erythematosus	7	128933913	rs4728142
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	6	106120159	rs548234
+Systemic lupus erythematosus	6	137874929	rs2230926
+Systemic lupus erythematosus	10	48911009	rs1913517
+Systemic lupus erythematosus	11	118702810	rs4639966
+Systemic lupus erythematosus	12	128816149	rs1385374
+Systemic lupus erythematosus	16	30631546	rs7197475
+Systemic lupus erythematosus	7	75543861	rs1167796
+Systemic lupus erythematosus	11	128459064	rs1128334
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	8	11491677	rs13277113
+Systemic lupus erythematosus	5	42375141	rs979233
+Systemic lupus erythematosus	1	71808790	rs12141391
+Systemic lupus erythematosus	7	128954129	rs10488631
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	16	31357553	rs11574637
+Systemic lupus erythematosus	6	32638107	rs2187668
+Systemic lupus erythematosus	18	71175007	rs17083844
+Systemic lupus erythematosus	9	132221380	rs11243676
+Systemic lupus erythematosus	13	40983974	rs7329174
+Systemic lupus erythematosus	4	101829919	rs10516487
+Systemic lupus erythematosus	3	58384450	rs6445975
+Systemic lupus erythematosus	1	173340574	rs10798269
+Systemic lupus erythematosus	11	589564	rs4963128
+Systemic lupus erythematosus	16	31301932	rs9888739
+Systemic lupus erythematosus	6	31753256	rs3131379
+Systemic lupus erythematosus	7	129077852	rs12537284
+Systemic lupus erythematosus	4	54682309	rs2855772
+Systemic lupus erythematosus	4	8556539	rs13116227
+Systemic lupus erythematosus			rs10018951
+Systemic lupus erythematosus or rheumatoid arthritis	13	39760715	rs9603612
+Systemic lupus erythematosus or rheumatoid arthritis	5	160443604	rs4921283
+Systemic lupus erythematosus or rheumatoid arthritis	1	113834946	rs2476601
+Systemic lupus erythematosus or rheumatoid arthritis	6	106140931	rs6568431
+Systemic lupus erythematosus or rheumatoid arthritis	6	137866361	rs5029924
+Systemic lupus erythematosus or rheumatoid arthritis	7	128977412	rs12531711
+Systemic lupus erythematosus or rheumatoid arthritis	8	11486464	rs2736340
+Systemic lupus erythematosus or rheumatoid arthritis	19	10338682	rs7258015
+Systemic lupus erythematosus or rheumatoid arthritis	22	21602364	rs2283790
+Systemic lupus erythematosus	6	32711222	rs9275572
+Systemic lupus erythematosus	6	34746545	rs2764208
+Systemic lupus erythematosus	6	27592808	rs10946940
+Systemic lupus erythematosus			HLA-DQA1*05:01
+Systemic lupus erythematosus			HLA-DQB1*02:01
+Systemic lupus erythematosus			HLA-DRB1*03:01
+Systemic lupus erythematosus	1	161509955	rs1801274
+Systemic lupus erythematosus	1	183147396	rs12565776
+Systemic lupus erythematosus	1	184680369	rs10911628
+Systemic lupus erythematosus	2	127000872	rs12993006
+Systemic lupus erythematosus	2	155400189	rs4544377
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	3	1590669	rs4684256
+Systemic lupus erythematosus	6	31902549	rs558702
+Systemic lupus erythematosus	7	54715680	rs6946131
+Systemic lupus erythematosus	7	128933913	rs4728142
+Systemic lupus erythematosus	7	128954129	rs10488631
+Systemic lupus erythematosus	10	133412162	rs10857712
+Systemic lupus erythematosus	11	34759389	rs10466455
+Systemic lupus erythematosus	15	38472642	rs11073328
+Systemic lupus erythematosus	15	97064451	rs8023715
+Systemic lupus erythematosus	16	31301932	rs9888739
+Systemic lupus erythematosus	17	39453870	rs11655550
+Systemic lupus erythematosus	20	4762059	rs6084875
+Systemic lupus erythematosus	20	49958778	rs11697848
+Systemic lupus erythematosus	2	73981235	rs6705628
+Systemic lupus erythematosus	2	73975451	rs4852324
+Systemic lupus erythematosus	3	119542097	rs6804441
+Systemic lupus erythematosus	10	62045858	rs4948496
+Systemic lupus erythematosus	12	12620587	rs12822507
+Systemic lupus erythematosus	12	12681960	rs10845606
+Systemic lupus erythematosus	12	12717761	rs34330
+Systemic lupus erythematosus	12	101928157	rs4622329
+Systemic lupus erythematosus	1	183647749	rs10911390
+Systemic lupus erythematosus	3	38802156	rs11717455
+Systemic lupus erythematosus	6	90305320	rs12529935
+Systemic lupus erythematosus	10	71356185	rs2252996
+Systemic lupus erythematosus	16	29871169	rs12917712
+Systemic lupus erythematosus	19	17309480	rs2303745
+Systemic lupus erythematosus	4	101794731	rs4522865
+Systemic lupus erythematosus			rs2254546
+Systemic lupus erythematosus	7	50273756	rs10276619
+Systemic lupus erythematosus	7	128928906	rs729302
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	11	35071523	rs2785197
+Systemic lupus erythematosus	6	32606214	rs9270984
+Systemic lupus erythematosus	6	106135045	rs742108
+Systemic lupus erythematosus	6	137874929	rs2230926
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	10	48834906	rs877819
+Systemic lupus erythematosus	11	128441164	rs6590330
+Systemic lupus erythematosus	12	128816149	rs1385374
+Systemic lupus erythematosus	13	40983974	rs7329174
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	5	151078585	rs10036748
+Systemic lupus erythematosus	22	21585386	rs5754217
+Systemic lupus erythematosus	6	34855410	rs3734266
+Systemic lupus erythematosus	16	11096031	rs12599402
+Systemic lupus erythematosus	16	31287618	rs9937837
+Lupus nephritis in systemic lupus erythematosus	6	32696681	rs2647012
+Lupus nephritis in systemic lupus erythematosus	6	31202751	rs9263871
+Lupus nephritis in systemic lupus erythematosus	4	170967071	rs967616
+Lupus nephritis in systemic lupus erythematosus	1	41627344	rs752010
+Lupus nephritis in systemic lupus erythematosus	1	197336969	rs2786111
+Lupus nephritis in systemic lupus erythematosus	4	54145602	rs1364989
+Lupus nephritis in systemic lupus erythematosus	5	57918990	rs10041935
+Lupus nephritis in systemic lupus erythematosus	6	19823007	rs7773456
+Lupus nephritis in systemic lupus erythematosus	8	121263666	rs7834765
+Lupus nephritis in systemic lupus erythematosus	9	29632144	rs601162
+Lupus nephritis in systemic lupus erythematosus	10	13608032	rs2478118
+Lupus nephritis in systemic lupus erythematosus	12	95867790	rs6538678
+Lupus nephritis in systemic lupus erythematosus	14	50767442	rs8012283
+Lupus nephritis in systemic lupus erythematosus	16	24887651	rs274068
+Lupus nephritis in systemic lupus erythematosus	20	21162172	rs2236178
+Lupus nephritis in systemic lupus erythematosus	6	32249455	rs9267972
+Lupus nephritis in systemic lupus erythematosus	14	58092523	rs4901847
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	7	128977412	rs12531711
+Systemic lupus erythematosus	8	11491677	rs13277113
+Systemic lupus erythematosus	7	128928906	rs729302
+Systemic lupus erythematosus	6	32762309	rs2051549
+Interferon alpha levels in systemic lupus erythematosus	2	197055445	rs4850410
+Interferon alpha levels in systemic lupus erythematosus	10	51197961	rs7897633
+Interferon alpha levels in systemic lupus erythematosus	14	20472447	rs1049564
+Interferon alpha levels in systemic lupus erythematosus	6	170281387	rs1028488
+Interferon alpha levels in systemic lupus erythematosus	4	42862679	rs6850606
+Interferon alpha levels in systemic lupus erythematosus	1	111294513	rs7411387
+Interferon alpha levels in systemic lupus erythematosus	11	113668358	rs3934007
+Interferon alpha levels in systemic lupus erythematosus	2	197279278	rs1429411
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	12	124851404	rs11057864
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	4	65276878	rs7692514
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	10	12455748	rs1108131
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	11	129451923	rs958476
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	14	53797133	rs8009420
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	1	62987118	rs6696619
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	14	53779635	rs12589674
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	5	3525326	rs710987
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	12	118865390	rs1534618
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	9	90129733	rs10992211
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	7	139641806	rs10954650
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	14	51238072	rs10142203
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	1	225844976	rs4149228
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	1	161690906	rs6697139
+Systemic lupus erythematosus	2	191105394	rs7582694
+Systemic lupus erythematosus	8	11537723	rs1478897
+Systemic lupus erythematosus	6	32638107	rs2187668
+Systemic lupus erythematosus	6	32689659	rs3129716
+Systemic lupus erythematosus	6	32092090	rs1150753
+Systemic lupus erythematosus	6	31753256	rs3131379
+Systemic lupus erythematosus	6	31668965	rs9267531
+Systemic lupus erythematosus	8	11482456	rs2736332
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	22	21622645	rs7444
+Systemic lupus erythematosus	1	113834946	rs2476601
+Systemic lupus erythematosus	1	183573188	rs17849501
+Systemic lupus erythematosus	2	65381229	rs268134
+Systemic lupus erythematosus	2	162254026	rs2111485
+Systemic lupus erythematosus	2	213025508	rs10048743
+Systemic lupus erythematosus	3	58484624	rs9311676
+Systemic lupus erythematosus	3	160011200	rs564799
+Systemic lupus erythematosus			4:102721293
+Systemic lupus erythematosus	5	134092910	rs4388254
+Systemic lupus erythematosus	11	614318	rs1061502
+Systemic lupus erythematosus	12	111472415	rs10774625
+Systemic lupus erythematosus	15	75018695	rs2289583
+Systemic lupus erythematosus	17	39764941	rs2941509
+Systemic lupus erythematosus	19	10364976	rs2304256
+Systemic lupus erythematosus	6	34829464	rs9462027
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	2	73981235	rs6705628
+Systemic lupus erythematosus	13	40983974	rs7329174
+Systemic lupus erythematosus	2	30256991	rs17321999
+Systemic lupus erythematosus	3	188752450	rs6762714
+Systemic lupus erythematosus	6	16630667	rs17603856
+Systemic lupus erythematosus	9	4984530	rs1887428
+Systemic lupus erythematosus	1	161509955	rs1801274
+Systemic lupus erythematosus	1	173282717	rs10912578
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	5	151078210	rs6889239
+Systemic lupus erythematosus	5	160460329	rs2431098
+Systemic lupus erythematosus	6	32061428	rs1150757
+Systemic lupus erythematosus	6	106140931	rs6568431
+Systemic lupus erythematosus	6	137874929	rs2230926
+Systemic lupus erythematosus	7	128945562	rs35000415
+Systemic lupus erythematosus	8	11482456	rs2736332
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	10	62045858	rs4948496
+Systemic lupus erythematosus	11	35076646	rs387619
+Systemic lupus erythematosus	11	128629105	rs7941765
+Systemic lupus erythematosus	12	128794319	rs1059312
+Systemic lupus erythematosus	16	11080508	rs9652601
+Systemic lupus erythematosus	16	31265490	rs1143679
+Systemic lupus erythematosus	16	85933077	rs13332649
+Systemic lupus erythematosus	22	21622645	rs7444
+Systemic lupus erythematosus	1	173282717	rs10912578
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	5	151078210	rs6889239
+Systemic lupus erythematosus	6	106140931	rs6568431
+Systemic lupus erythematosus	6	137874929	rs2230926
+Systemic lupus erythematosus	7	50266267	rs4917014
+Systemic lupus erythematosus	11	65774827	rs494003
+Systemic lupus erythematosus	1	198625639	rs34889541
+Systemic lupus erythematosus	1	206470429	rs2297550
+Systemic lupus erythematosus	2	30222160	rs7579944
+Systemic lupus erythematosus	2	30256991	rs17321999
+Systemic lupus erythematosus	3	188752450	rs6762714
+Systemic lupus erythematosus	6	90292775	rs597325
+Systemic lupus erythematosus	7	74526648	rs73135369
+Systemic lupus erythematosus	9	4984530	rs1887428
+Systemic lupus erythematosus	16	68569895	rs1170426
+Systemic lupus erythematosus	1	198625639	rs34889541
+Systemic lupus erythematosus	1	206470429	rs2297550
+Systemic lupus erythematosus	2	30222160	rs7579944
+Systemic lupus erythematosus	2	30256991	rs17321999
+Systemic lupus erythematosus	3	188752450	rs6762714
+Systemic lupus erythematosus	6	16630667	rs17603856
+Systemic lupus erythematosus	6	90292775	rs597325
+Systemic lupus erythematosus	7	74526648	rs73135369
+Systemic lupus erythematosus	9	4984530	rs1887428
+Systemic lupus erythematosus	11	65774827	rs494003
+Systemic lupus erythematosus	16	68569895	rs1170426
+Systemic lupus erythematosus	1	92200342	rs12753920
+Systemic lupus erythematosus	3	28034494	rs427221
+Systemic lupus erythematosus	6	135679896	rs9402743
+Systemic lupus erythematosus	1	173378698	rs4916342
+Systemic lupus erythematosus	7	74511782	rs2267828
+Systemic lupus erythematosus	11	73152652	rs11235667
+Systemic lupus erythematosus	14	104938047	rs1048257
+Systemic lupus erythematosus	1	173237158	rs76413021
+Systemic lupus erythematosus	2	191089272	rs12612769
+Systemic lupus erythematosus	6	137874929	rs2230926
+Systemic lupus erythematosus	7	50259481	rs11185602
+Systemic lupus erythematosus	7	128935744	rs113478424
+Systemic lupus erythematosus	8	11494976	rs2736345
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	1	161509955	rs1801274
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	12	128794319	rs1059312
+Systemic lupus erythematosus	16	85977731	rs10521318
+Systemic lupus erythematosus	7	75580635	rs139110493
+Systemic lupus erythematosus	X	154000721	rs5986948
+Systemic lupus erythematosus	11	128459064	rs1128334
+Chronic lymphocytic leukemia or systemic lupus erythematosus	2	134305027	rs1439112
+Chronic lymphocytic leukemia or systemic lupus erythematosus	3	169790484	rs13069553
+Chronic lymphocytic leukemia or systemic lupus erythematosus	5	1279675	rs10069690
+Chronic lymphocytic leukemia or systemic lupus erythematosus	11	128629105	rs7941765
+Diffuse large B-cell lymphoma or systemic lupus erythematosus	3	124206424	rs1444766
+Marginal zone lymphoma or systemic lupus erythematosus	2	134305027	rs1439112
+Marginal zone lymphoma or systemic lupus erythematosus	3	124206424	rs1444766
+Marginal zone lymphoma or systemic lupus erythematosus	6	16970739	rs7382170
+Marginal zone lymphoma or systemic lupus erythematosus	17	39764941	rs2941509
+Systemic lupus erythematosus	3	119553544	rs2222631
+Systemic lupus erythematosus and Systemic sclerosis	1	35442850	rs2275247
+Systemic lupus erythematosus and Systemic sclerosis	2	219833404	rs10498070
+Systemic lupus erythematosus and Systemic sclerosis	3	58345459	rs2176082
+Systemic lupus erythematosus and Systemic sclerosis	6	106237320	rs3827644
+Systemic lupus erythematosus and Systemic sclerosis	7	28149792	rs1635852
+Systemic lupus erythematosus and Systemic sclerosis	7	93135669	rs1133906
+Systemic lupus erythematosus and Systemic sclerosis	11	34742932	rs1355223
+Systemic lupus erythematosus and Systemic sclerosis	1	173257056	rs704840
+Systemic lupus erythematosus and Systemic sclerosis	1	183211125	rs16860537
+Systemic lupus erythematosus and Systemic sclerosis	2	191075725	rs7601754
+Systemic lupus erythematosus and Systemic sclerosis	5	151081488	rs960709
+Systemic lupus erythematosus and Systemic sclerosis	6	34959503	rs1535001
+Systemic lupus erythematosus and Systemic sclerosis	6	137811379	rs10499197
+Systemic lupus erythematosus and Systemic sclerosis	7	129055929	rs13239597
+Systemic lupus erythematosus and Systemic sclerosis	8	11486464	rs2736340
+Systemic lupus erythematosus and Systemic sclerosis	11	601785	rs2396545
+Systemic lupus erythematosus and Systemic sclerosis	15	75132252	rs7172677
+Systemic lupus erythematosus and Systemic sclerosis	16	31315385	rs11860650
+Systemic lupus erythematosus and Systemic sclerosis	16	85939422	rs12711490
+Systemic lupus erythematosus and Systemic sclerosis	17	39820216	rs9303277
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	22	21630805	rs5754467
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	67336688	rs6659932
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113761186	rs6679677
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113834946	rs2476601
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113891324	rs1217393
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	173368608	rs2422345
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	183563445	rs17849502
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	190700031	rs744600
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191068557	rs13389408
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191108308	rs10174238
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	58197909	rs35677470
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	160595133	rs112846137
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	4	971932	rs13101828
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	151058916	rs4958880
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	160460329	rs2431098
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	106121395	rs802791
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	137922602	rs58721818
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	74123572	rs193107685
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	128949579	rs10954214
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	129007888	rs13238352
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	8	11484371	rs2736337
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	11	633689	rs7929541
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	12	112433568	rs11066301
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	16	85960878	rs35929052
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	10351837	rs11085725
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	49618017	rs76246107
+Systemic lupus erythematosus	6	137836352	rs75163761
+Systemic lupus erythematosus	7	50292600	rs10239000
+Systemic lupus erythematosus	7	74214690	rs372942110
+Systemic lupus erythematosus	7	74283211	rs78290495
+Systemic lupus erythematosus	7	74495911	rs530634980
+Systemic lupus erythematosus	7	74580705	rs13244581
+Systemic lupus erythematosus	7	74589381	rs116991837
+Systemic lupus erythematosus	7	74606017	rs150724213
+Systemic lupus erythematosus	7	74618332	rs7800325
+Systemic lupus erythematosus	7	74625354	rs67955681
+Systemic lupus erythematosus	7	74673141	rs68008267
+Systemic lupus erythematosus	7	74684288	rs79171842
+Systemic lupus erythematosus	7	74694107	rs143176121
+Systemic lupus erythematosus	7	74781289	rs587680541
+Systemic lupus erythematosus	7	75649229	rs4573208
+Systemic lupus erythematosus	7	129013997	rs78724056
+Systemic lupus erythematosus	10	48725929	rs7072606
+Systemic lupus erythematosus	11	35089610	rs11032994
+Systemic lupus erythematosus	12	12672303	rs10845602
+Systemic lupus erythematosus	19	51544061	rs3794986
+Systemic lupus erythematosus	X	12900169	rs4830478
+Systemic lupus erythematosus	7	74781840	rs199789198
+Systemic lupus erythematosus	7	75556681	rs794368
+Systemic lupus erythematosus	7	128938253	rs41298401
+Systemic lupus erythematosus	16	85934034	rs447632
+Systemic lupus erythematosus	6	29635735	rs111508444
+Systemic lupus erythematosus	6	31027112	rs566731348
+Systemic lupus erythematosus	6	31464229	rs2263318
+Systemic lupus erythematosus	6	31587615	rs2256974
+Systemic lupus erythematosus	6	31840951	rs117217736
+Systemic lupus erythematosus	6	32026946	rs200283861
+Systemic lupus erythematosus	6	32143247	rs565981183
+Systemic lupus erythematosus	6	32353696	rs368529276
+Systemic lupus erythematosus	6	32456138	rs9268807
+Systemic lupus erythematosus	6	32759548	rs7753017
+Systemic lupus erythematosus	6	33079254	rs1431403
+Systemic lupus erythematosus	6	33445230	rs3846852
+Systemic lupus erythematosus	6	33987724	rs554962164
+Systemic lupus erythematosus	6	34260788	rs111658701
+Systemic lupus erythematosus	6	34860776	rs6457796
+Systemic lupus erythematosus	6	35278542	rs10484578
+Systemic lupus erythematosus	6	36747255	rs34868004
+Systemic lupus erythematosus	6	90009445	rs3857496
+Systemic lupus erythematosus	6	90292775	rs597325
+Systemic lupus erythematosus	6	106120159	rs548234
+Systemic lupus erythematosus	6	116369686	rs9488914
+Systemic lupus erythematosus	6	137907383	rs9494894
+Systemic lupus erythematosus	6	154249517	rs9322454
+Systemic lupus erythematosus	7	50270294	rs62447171
+Systemic lupus erythematosus	7	74193613	rs10716716
+Systemic lupus erythematosus	7	74711703	rs117026326
+Systemic lupus erythematosus	7	75449782	rs587621258
+Systemic lupus erythematosus	7	75559377	rs77009341
+Systemic lupus erythematosus	7	75692143	rs146063533
+Systemic lupus erythematosus	7	128936032	rs3757387
+Systemic lupus erythematosus	7	129055928	rs28364822
+Systemic lupus erythematosus	8	11482456	rs2736332
+Systemic lupus erythematosus	8	42246722	rs117627999
+Systemic lupus erythematosus	8	70397462	rs11347613
+Systemic lupus erythematosus	8	71979513	rs10111413
+Systemic lupus erythematosus	8	128413347	rs16902895
+Systemic lupus erythematosus	9	4984530	rs1887428
+Systemic lupus erythematosus	9	21267088	rs7858766
+Systemic lupus erythematosus	10	5868783	rs77448389
+Systemic lupus erythematosus	10	48817351	rs7097397
+Systemic lupus erythematosus	10	62041271	rs7902146
+Systemic lupus erythematosus	10	62642076	rs10995254
+Systemic lupus erythematosus	10	71706952	rs10823829
+Systemic lupus erythematosus	10	102203640	rs11599734
+Systemic lupus erythematosus	10	103918153	rs111447985
+Systemic lupus erythematosus	10	110904356	rs58164562
+Systemic lupus erythematosus	11	4091970	rs3750996
+Systemic lupus erythematosus	11	18340835	rs77885959
+Systemic lupus erythematosus	11	35073939	rs2732540
+Systemic lupus erythematosus	11	65788053	rs10896045
+Systemic lupus erythematosus	16	50055297	rs11288784
+Systemic lupus erythematosus	16	57356566	rs669763
+Systemic lupus erythematosus	16	68520852	rs28410471
+Systemic lupus erythematosus	16	79711776	rs11376510
+Systemic lupus erythematosus	16	85985665	rs11117432
+Systemic lupus erythematosus	17	7337072	rs61759532
+Systemic lupus erythematosus	17	16936587	rs35966917
+Systemic lupus erythematosus	17	49390658	rs2671655
+Systemic lupus erythematosus	17	78377098	rs113417153
+Systemic lupus erythematosus	18	69876452	rs1788097
+Systemic lupus erythematosus	18	79626912	rs118075465
+Systemic lupus erythematosus	19	937136	rs10414086
+Systemic lupus erythematosus	19	6689054	rs11085192
+Systemic lupus erythematosus	19	10359243	rs55882956
+Systemic lupus erythematosus	19	18430178	rs11673604
+Systemic lupus erythematosus	19	32581862	rs12461589
+Systemic lupus erythematosus	19	49342638	rs8108669
+Systemic lupus erythematosus	19	51623800	rs4801882
+Systemic lupus erythematosus	22	18166589	rs4819670
+Systemic lupus erythematosus	22	21609497	rs5754344
+Systemic lupus erythematosus	22	39343182	rs9611155
+Systemic lupus erythematosus	X	12821671	rs6641111
+Systemic lupus erythematosus	X	56882269	rs5914012
+Systemic lupus erythematosus	X	154018741	rs1059702
+Systemic lupus erythematosus	X	154521643	rs5945199
+Systemic lupus erythematosus	11	69048902	rs4930642
+Systemic lupus erythematosus	11	72929435	rs77971648
+Systemic lupus erythematosus	11	118707281	rs480958
+Systemic lupus erythematosus	11	118854951	rs4936441
+Systemic lupus erythematosus	11	128444529	rs11501246
+Systemic lupus erythematosus	11	128724266	rs684150
+Systemic lupus erythematosus	12	4031710	rs2540119
+Systemic lupus erythematosus	12	12721528	rs4251697
+Systemic lupus erythematosus	12	101928157	rs4622329
+Systemic lupus erythematosus	12	103522302	rs6539078
+Systemic lupus erythematosus	12	111495741	rs77465633
+Systemic lupus erythematosus	12	112919404	rs1131476
+Systemic lupus erythematosus	12	117991171	rs7139263
+Systemic lupus erythematosus	12	120790827	rs35743748
+Systemic lupus erythematosus	12	128811558	rs11059928
+Systemic lupus erythematosus	12	132463597	rs200521476
+Systemic lupus erythematosus	13	41001255	rs57141708
+Systemic lupus erythematosus	14	104945922	rs2819426
+Systemic lupus erythematosus	15	38554477	rs7170151
+Systemic lupus erythematosus	15	38682347	rs12900640
+Systemic lupus erythematosus	15	74798906	rs11553760
+Systemic lupus erythematosus	15	100988807	rs35985016
+Systemic lupus erythematosus	16	11096178	rs34361002
+Systemic lupus erythematosus	16	23860136	rs79401250
+Systemic lupus erythematosus	16	30802134	rs534645300
+Systemic lupus erythematosus	6	32664858	rs9274384
+Systemic lupus erythematosus	6	32690917	rs34723256
+Systemic lupus erythematosus	6	32695381	rs113523948
+Systemic lupus erythematosus	6	32700187	rs36030018
+Systemic lupus erythematosus	6	32714652	rs9275599
+Systemic lupus erythematosus	6	32740588	rs11426605
+Systemic lupus erythematosus	6	32810139	rs144227975
+Systemic lupus erythematosus	7	75628053	rs118048475
+Systemic lupus erythematosus	1	116500680	rs9651076
+Systemic lupus erythematosus	1	157138367	rs116785379
+Systemic lupus erythematosus	1	157532226	rs112806509
+Systemic lupus erythematosus	1	161474579	rs12120358
+Systemic lupus erythematosus	1	161600039	rs76107698
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	1	173390048	rs2039982
+Systemic lupus erythematosus	1	183563302	rs13306575
+Systemic lupus erythematosus	1	198701340	rs4143303
+Systemic lupus erythematosus	1	202010327	rs3806357
+Systemic lupus erythematosus	1	206469377	rs4844538
+Systemic lupus erythematosus	2	7432948	rs75362385
+Systemic lupus erythematosus	2	30222160	rs7579944
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	2	65354166	rs11684155
+Systemic lupus erythematosus	2	73989388	rs10207954
+Systemic lupus erythematosus	2	111119597	rs73954925
+Systemic lupus erythematosus	2	135900775	rs218174
+Systemic lupus erythematosus	2	162225885	rs11679244
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	2	198090050	rs11684176
+Systemic lupus erythematosus	2	212729246	rs7565158
+Systemic lupus erythematosus	2	213019942	rs2371790
+Systemic lupus erythematosus	3	28030595	rs438613
+Systemic lupus erythematosus	3	72176765	rs7637844
+Systemic lupus erythematosus	3	119518880	rs144104218
+Systemic lupus erythematosus	3	169779797	rs1317082
+Systemic lupus erythematosus	4	971932	rs13101828
+Systemic lupus erythematosus	4	2699117	rs231694
+Systemic lupus erythematosus	4	40305571	rs113284964
+Systemic lupus erythematosus	4	78723125	rs6533951
+Systemic lupus erythematosus	4	80163195	rs2867700
+Systemic lupus erythematosus	4	83221591	rs11099582
+Systemic lupus erythematosus	4	86983537	rs144261754
+Systemic lupus erythematosus	4	101834942	rs4643809
+Systemic lupus erythematosus	4	108125804	rs956237
+Systemic lupus erythematosus	5	1282299	rs7725218
+Systemic lupus erythematosus	5	100805670	rs2544920
+Systemic lupus erythematosus	5	131784646	rs370449198
+Systemic lupus erythematosus	5	132493886	rs2549002
+Systemic lupus erythematosus	5	134093501	rs6874758
+Systemic lupus erythematosus	5	134379182	rs138305363
+Systemic lupus erythematosus	5	151078585	rs10036748
+Systemic lupus erythematosus	5	159459931	rs2421184
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	6	243302	rs9503037
+Systemic lupus erythematosus	6	25410794	rs79774308
+Systemic lupus erythematosus	6	25928148	rs9295676
+Systemic lupus erythematosus	6	28442366	rs77285596
+Systemic lupus erythematosus			rs1033568
+Systemic lupus erythematosus	1	161500484	rs111994823
+Systemic lupus erythematosus	1	161656008	rs75773410
+Systemic lupus erythematosus	1	173241650	rs117278480
+Systemic lupus erythematosus	1	183571081	rs66977652
+Systemic lupus erythematosus	2	191084261	rs71403211
+Systemic lupus erythematosus	5	134085418	rs115267018
+Systemic lupus erythematosus	6	31448075	rs4458721
+Systemic lupus erythematosus	6	31831299	rs3115674
+Systemic lupus erythematosus	6	32007481	rs554383943
+Systemic lupus erythematosus	6	32286483	rs9281714
+Systemic lupus erythematosus	6	32467772	rs9268989
+Systemic lupus erythematosus	6	32469767	rs9269029
+Systemic lupus erythematosus	6	32474342	rs34452045
+Systemic lupus erythematosus			chr6:32449301
+Systemic lupus erythematosus	6	32482119	rs9269207
+Systemic lupus erythematosus	6	32483985	rs9269233
+Systemic lupus erythematosus	6	32590413	rs9270371
+Systemic lupus erythematosus	6	32598319	rs2647078
+Systemic lupus erythematosus	6	32613907	rs1966002
+Systemic lupus erythematosus	6	32688139	rs189311301
+Systemic lupus erythematosus	6	32706948	rs17206287
+Systemic lupus erythematosus	6	32712345	rs3135461
+Systemic lupus erythematosus	6	32781712	rs574879686
+Systemic lupus erythematosus	6	33076238	rs115910061
+Systemic lupus erythematosus	6	36736516	rs56285849
+Lupus nephritis in systemic lupus erythematosus			rs4699259
+Systemic lupus erythematosus			chr6:31329092
+Systemic lupus erythematosus			rs10166809
+Systemic lupus erythematosus			rs12465689
+Systemic lupus erythematosus			rs146761142
+Systemic lupus erythematosus			rs149018565
+Systemic lupus erythematosus			rs1578624
+Systemic lupus erythematosus			rs16869875
+Systemic lupus erythematosus			rs184722928
+Systemic lupus erythematosus			rs205284
+Systemic lupus erythematosus			rs2254546
+Systemic lupus erythematosus			rs3135384
+Systemic lupus erythematosus			rs34596699
+Systemic lupus erythematosus			rs34825614
+Systemic lupus erythematosus			rs3734261
+Systemic lupus erythematosus			rs4958895
+Systemic lupus erythematosus	22	21609497	rs5754344
+Systemic lupus erythematosus			rs6957263
+Systemic lupus erythematosus			rs78368810
+Systemic lupus erythematosus			rs9268310
+Systemic lupus erythematosus			rs9270539
+Systemic lupus erythematosus			rs9271429
+Systemic lupus erythematosus			rs9275349
+Systemic lupus erythematosus			rs9276916
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	2	73975451	rs4852324
+Systemic lupus erythematosus	2	191075725	rs7601754
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	6	34855410	rs3734266
+Systemic lupus erythematosus	6	106120159	rs548234
+Systemic lupus erythematosus	8	11482672	rs7812879
+Systemic lupus erythematosus	9	4984530	rs1887428
+Systemic lupus erythematosus	10	48834906	rs877819
+Systemic lupus erythematosus	11	128441164	rs6590330
+Systemic lupus erythematosus	12	12681960	rs10845606
+Systemic lupus erythematosus	12	128814840	rs10847697
+Systemic lupus erythematosus	13	40983974	rs7329174
+Systemic lupus erythematosus	16	11096031	rs12599402
+Systemic lupus erythematosus	X	12821033	rs7062536
+Childhood onset systemic lupus erythematosus	8	11169932	rs7460469
+Childhood onset systemic lupus erythematosus	12	128888528	rs7300146
+Systemic lupus erythematosus	1	4521563	rs607850
+Systemic lupus erythematosus	1	173209324	rs1234315
+Systemic lupus erythematosus	1	178943270	rs67269402
+Systemic lupus erythematosus	2	191105394	rs7582694
+Systemic lupus erythematosus	4	152099409	rs7668917
+Systemic lupus erythematosus	4	189228942	rs11132627
+Systemic lupus erythematosus	5	3000871	rs11747688
+Systemic lupus erythematosus	5	128282950	rs76835745
+Systemic lupus erythematosus	5	128398268	rs74989671
+Systemic lupus erythematosus	5	128525194	rs6595836
+Systemic lupus erythematosus	6	29795126	rs1737002
+Systemic lupus erythematosus	6	30103553	rs1116221
+Systemic lupus erythematosus	6	30931873	rs3095152
+Systemic lupus erythematosus	6	31128024	rs9263715
+Systemic lupus erythematosus	6	31406802	rs12174396
+Systemic lupus erythematosus	6	31826815	rs2763979
+Systemic lupus erythematosus	6	32220606	rs422951
+Systemic lupus erythematosus	6	32605797	rs9270970
+Systemic lupus erythematosus	6	32722109	rs117522574
+Systemic lupus erythematosus	6	32850253	rs113206908
+Systemic lupus erythematosus	6	33058333	rs422544
+Systemic lupus erythematosus	6	89269986	rs78598955
+Systemic lupus erythematosus	7	74619286	rs73366469
+Systemic lupus erythematosus	7	89141313	rs10233510
+Systemic lupus erythematosus	7	128922524	rs4731530
+Systemic lupus erythematosus	7	129024628	rs57939992
+Systemic lupus erythematosus	8	11491677	rs13277113
+Systemic lupus erythematosus	8	23281923	rs10091786
+Systemic lupus erythematosus	11	118877104	rs6589706
+Systemic lupus erythematosus	12	12681960	rs10845606
+Systemic lupus erythematosus	12	116458870	rs7299679
+Systemic lupus erythematosus	12	128816149	rs1385374
+Systemic lupus erythematosus	15	52242147	rs3751631
+Systemic lupus erythematosus	16	31265490	rs1143679
+Systemic lupus erythematosus	18	28219995	rs11564296
+Systemic lupus erythematosus	18	73510701	rs34693543
+Systemic lupus erythematosus	21	41244804	rs2837982
+Systemic lupus erythematosus	21	45333789	rs1109754
+Systemic lupus erythematosus	1	183563445	rs17849502
+Systemic lupus erythematosus	2	191090464	rs10553577
+Systemic lupus erythematosus	6	137913641	rs9494895
+Systemic lupus erythematosus	6	32655373	rs3021302
+Systemic lupus erythematosus	1	183563445	rs17849502
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	7	128933913	rs4728142
+Systemic lupus erythematosus	7	129055929	rs13239597
+Systemic lupus erythematosus	16	31315385	rs11860650
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	6	7236387	rs2714333
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	10	14394837	rs7911501
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	11	89805517	rs372605131
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	13	108839523	rs145720245
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr1:173191475
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr1:206735148
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr2:191943742
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr6:32614963
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr6:106564236
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr6:138190533
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr7:50307334
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr7:74196185
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr7:128575797
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr8:11354097
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr10:50076325
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus			chr12:12874462
+Steroid induced osteonecrosis of the femoral head in systemic lupus erythematosus	10	14394837	rs7911501
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	10	14394837	rs7911501
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	11	89805517	rs372605131
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	13	108839523	rs145720245
+Steroid induced osteonecrosis of the femoral head and systemic lupus erythematosus	6	7236387	rs2714333
+Systemic lupus erythematosus	8	77195989	rs117821148
+Systemic lupus erythematosus	10	71352484	rs780669
+Systemic lupus erythematosus	11	73152652	rs11235667
+Systemic lupus erythematosus	12	111974714	rs76596471
+Systemic lupus erythematosus	1	24189898	rs113333331
+Systemic lupus erythematosus	1	234498457	rs6586391
+Systemic lupus erythematosus	6	16968557	rs10807602
+Systemic lupus erythematosus	10	12446137	rs10795956
+Systemic lupus erythematosus	12	118244946	rs428073
+Systemic lupus erythematosus	16	53095122	rs9934578
+Systemic lupus erythematosus	7	74619286	rs73366469
+Systemic lupus erythematosus	19	16329024	rs2362475
+Systemic lupus erythematosus	12	103511597	rs10082873
+Systemic lupus erythematosus	19	2167879	rs4807205
+Systemic lupus erythematosus	6	34856859	rs11755393
+Systemic lupus erythematosus	6	35359578	rs4713853
+Systemic lupus erythematosus	5	100836660	rs12153670
+Systemic lupus erythematosus	19	2167879	rs4807205
+Systemic lupus erythematosus	6	34856859	rs11755393
+Systemic lupus erythematosus	5	100836660	rs12153670
+Systemic lupus erythematosus	19	16329024	rs2362475
+Systemic lupus erythematosus	7	74619286	rs73366469
+Systemic lupus erythematosus	6	34856859	rs11755393
+Systemic lupus erythematosus	6	35359578	rs4713853
+Systemic lupus erythematosus	3	28030595	rs438613
+Systemic lupus erythematosus	4	2746936	rs4690055
+Systemic lupus erythematosus	4	10719809	rs4697651
+Systemic lupus erythematosus	10	62665366	rs4745876
+Systemic lupus erythematosus	9	21228424	rs4978037
+Systemic lupus erythematosus	1	174925885	rs549669428
+Systemic lupus erythematosus	20	1561106	rs6074813
+Systemic lupus erythematosus	1	67359716	rs6702599
+Systemic lupus erythematosus	5	35885880	rs6871748
+Systemic lupus erythematosus	13	49603317	rs76725306
+Systemic lupus erythematosus	8	128415272	rs7815944
+Systemic lupus erythematosus	12	120661499	rs7975703
+Systemic lupus erythematosus	15	77537964	rs869310
+Systemic lupus erythematosus	6	116372957	rs9387400
+Systemic lupus erythematosus	2	190567413	rs9630991
+Systemic lupus erythematosus	2	190567413	rs9630991
+Systemic lupus erythematosus	14	102797451	rs12148050
+Systemic lupus erythematosus	17	7331664	rs9899849
+Systemic lupus erythematosus	19	18406957	rs13344313
+Systemic lupus erythematosus	19	55228445	rs10419308
+Systemic lupus erythematosus	1	116533925	rs1016140
+Systemic lupus erythematosus	19	55228445	rs10419308
+Systemic lupus erythematosus	10	71741309	rs10999979
+Systemic lupus erythematosus	1	157527370	rs11264750
+Systemic lupus erythematosus	2	198056880	rs11679484
+Systemic lupus erythematosus	1	1243545	rs12093154
+Systemic lupus erythematosus	14	102797451	rs12148050
+Systemic lupus erythematosus	8	70306125	rs13260060
+Systemic lupus erythematosus	19	18406957	rs13344313
+Systemic lupus erythematosus	9	99823263	rs1405209
+Systemic lupus erythematosus	1	192574707	rs1547624
+Systemic lupus erythematosus	13	99439046	rs1885889
+Systemic lupus erythematosus	2	143263405	rs2381401
+Systemic lupus erythematosus	19	18275824	rs2384991
+Systemic lupus erythematosus	8	127184843	rs2445610
+Systemic lupus erythematosus	1	37811325	rs28411034
+Systemic lupus erythematosus	2	203874196	rs3087243
+Systemic lupus erythematosus	19	49311575	rs3760667
+Systemic lupus erythematosus	1	8371547	rs3795310
+Systemic lupus erythematosus	19	32615715	rs405858
+Systemic lupus erythematosus	1	1243545	rs12093154
+Systemic lupus erythematosus	1	37811325	rs28411034
+Systemic lupus erythematosus	1	116533925	rs1016140
+Systemic lupus erythematosus	1	157527370	rs11264750
+Systemic lupus erythematosus	1	170842658	rs12132445
+Systemic lupus erythematosus	1	192574707	rs1547624
+Systemic lupus erythematosus	2	143263405	rs2381401
+Systemic lupus erythematosus	2	190567413	rs9630991
+Systemic lupus erythematosus	2	203874196	rs3087243
+Systemic lupus erythematosus	3	28030595	rs438613
+Systemic lupus erythematosus	6	252145	rs6927090
+Systemic lupus erythematosus	6	116372957	rs9387400
+Systemic lupus erythematosus	8	70306125	rs13260060
+Systemic lupus erythematosus	8	127184843	rs2445610
+Systemic lupus erythematosus	8	128415272	rs7815944
+Systemic lupus erythematosus	10	62665366	rs4745876
+Systemic lupus erythematosus	10	71741309	rs10999979
+Systemic lupus erythematosus	12	120661499	rs7975703
+Systemic lupus erythematosus	13	49603317	rs76725306
+Systemic lupus erythematosus	13	99439046	rs1885889
+Systemic lupus erythematosus	19	32615715	rs405858
+Systemic lupus erythematosus	19	49311575	rs3760667
+Systemic lupus erythematosus	1	8371547	rs3795310
+Systemic lupus erythematosus	1	37811325	rs28411034
+Systemic lupus erythematosus	1	67359716	rs6702599
+Systemic lupus erythematosus	6	32619077	rs9271366
+Systemic lupus erythematosus	6	137685367	rs6920220
+Systemic lupus erythematosus	X	153924366	rs2269368
+Systemic lupus erythematosus	5	160459613	rs2431099
+Systemic lupus erythematosus	22	21585386	rs5754217
+Systemic lupus erythematosus	2	162267541	rs1990760
+Systemic lupus erythematosus	5	151077924	rs7708392
+Systemic lupus erythematosus	6	106140931	rs6568431
+Systemic lupus erythematosus	7	28146272	rs849142
+Systemic lupus erythematosus	6	34856859	rs11755393
+Systemic lupus erythematosus	1	206766559	rs3024505
+Systemic lupus erythematosus	1	183580622	rs10911363
+Systemic lupus erythematosus	16	85959043	rs12444486
+Systemic lupus erythematosus	10	22960180	rs11013210
+Systemic lupus erythematosus	1	67340749	rs1874791
+Systemic lupus erythematosus	1	235876577	rs9782955
+Systemic lupus erythematosus	4	184710844	rs7683537
+Systemic lupus erythematosus	12	118244946	rs428073
+Systemic lupus erythematosus	12	120766879	rs497273
+Systemic lupus erythematosus	7	25121983	rs1861525
+Systemic lupus erythematosus	7	50189102	rs921916
+Systemic lupus erythematosus	13	73704828	rs7333671
+Systemic lupus erythematosus	2	22328233	rs12992463
+Systemic lupus erythematosus	2	237127724	rs12620999
+Systemic lupus erythematosus	11	118822018	rs503425
+Systemic lupus erythematosus	11	34788463	rs10742326
+Systemic lupus erythematosus	12	118913063	rs4766921
+Systemic lupus erythematosus	5	6731300	rs11951576
+Systemic lupus erythematosus	3	122153978	rs6438700
+Systemic lupus erythematosus	12	128790482	rs6486730
+Systemic lupus erythematosus	10	23310629	rs4748857
+Systemic lupus erythematosus	5	39406395	rs3914167
+Systemic lupus erythematosus	6	32440720	rs3135394
+Systemic lupus erythematosus	2	191099907	rs7574865
+Systemic lupus erythematosus	7	128948946	rs2070197
+Systemic lupus erythematosus	16	31315385	rs11860650
+Systemic lupus erythematosus	8	11486464	rs2736340
+Systemic lupus erythematosus	6	137874014	rs5029937
+Systemic lupus erythematosus	1	113834946	rs2476601
+Systemic lupus erythematosus	11	589564	rs4963128
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	10	73898591	rs2688608
+Systemic lupus erythematosus	16	11080508	rs9652601
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	10	48893932	rs2663054
+Systemic lupus erythematosus	16	85981710	rs11117431
+Systemic lupus erythematosus	11	617228	rs112006329
+Systemic lupus erythematosus	4	101859567	rs4426778
+Systemic lupus erythematosus	19	10366391	rs34725611
+Systemic lupus erythematosus	19	10661265	rs147622113
+Systemic lupus erythematosus			B*57:01
+Systemic lupus erythematosus			C*08:02
+Systemic lupus erythematosus			DQB1*02:02
+Systemic lupus erythematosus			DQB1*06:03
+Systemic lupus erythematosus			B*27:05
+Systemic lupus erythematosus	16	31265490	rs1143679
+Systemic lupus erythematosus	1	113761186	rs6679677
+Systemic lupus erythematosus	8	11484361	rs2736336
+Systemic lupus erythematosus	19	1112944	rs7249065
+Systemic lupus erythematosus	3	58332737	rs180977001
+Systemic lupus erythematosus	11	128454974	rs12575600
+Systemic lupus erythematosus			C*05:01
+Systemic lupus erythematosus	16	57358329	rs223889
+Systemic lupus erythematosus	1	92469854	rs6662618
+Systemic lupus erythematosus	5	151078585	rs10036748
+Systemic lupus erythematosus	8	8861340	rs1039917
+Systemic lupus erythematosus	3	119503609	rs1131265
+Systemic lupus erythematosus			rs115268109
+Systemic lupus erythematosus	16	68573583	rs1170436
+Systemic lupus erythematosus	9	99637981	rs10819689
+Systemic lupus erythematosus	10	6072893	rs10905718
+Systemic lupus erythematosus	1	92653853	rs11578098
+Systemic lupus erythematosus	1	1309988	rs11590283
+Systemic lupus erythematosus	2	102434684	rs11681718
+Systemic lupus erythematosus	2	134308905	rs11887156
+Systemic lupus erythematosus	8	128178298	rs12156002
+Systemic lupus erythematosus	8	78644656	rs1966115
+Systemic lupus erythematosus	2	198025083	rs2196171
+Systemic lupus erythematosus	16	57354818	rs223883
+Systemic lupus erythematosus	6	137651931	rs2327832
+Systemic lupus erythematosus	8	8283379	rs2980512
+Systemic lupus erythematosus	6	25513951	rs35789010
+Systemic lupus erythematosus	6	25884291	rs36014129
+Systemic lupus erythematosus	1	155061442	rs41264285
+Systemic lupus erythematosus	4	976936	rs4690229
+Systemic lupus erythematosus	2	60759441	rs62149377
+Systemic lupus erythematosus	6	34848293	rs71567468
+Systemic lupus erythematosus	6	137916852	rs77000060
+Systemic lupus erythematosus	5	159457527	rs7720046
+Systemic lupus erythematosus	17	75408456	rs930297
+Systemic lupus erythematosus	19	18406521	rs12971295
+Systemic lupus erythematosus	6	106220119	rs2299864
+Systemic lupus erythematosus	7	128976528	rs12706861
+Systemic lupus erythematosus	2	191105394	rs7582694
+Systemic lupus erythematosus	22	21563337	rs131658
+Systemic lupus erythematosus	1	206781696	rs3122605
+Systemic lupus erythematosus	1	161522797	rs12129787
+Systemic lupus erythematosus	12	128809788	rs11059927
+Systemic lupus erythematosus	4	7256775	rs4610334
+Systemic lupus erythematosus	1	119986309	rs2453042
+Systemic lupus erythematosus	4	76744126	rs4859711
+Systemic lupus erythematosus	11	65787031	rs11227302
+Systemic lupus erythematosus	1	67333487	rs10889681
+Systemic lupus erythematosus	8	10869332	rs7819602
+Systemic lupus erythematosus	6	34829464	rs9462027
+Systemic lupus erythematosus	7	28102567	rs10245867
+Systemic lupus erythematosus	5	100841815	rs2548279
+Systemic lupus erythematosus	15	74785026	rs1378942
+Systemic lupus erythematosus	8	28171501	rs351758
+Systemic lupus erythematosus	14	102808210	rs2015407
+Systemic lupus erythematosus	11	64542619	rs4930194
+Systemic lupus erythematosus	11	35066852	rs2732549
+Systemic lupus erythematosus	20	46108744	rs6131014
+Systemic lupus erythematosus	1	172706385	rs10798176
+Systemic lupus erythematosus	6	36383081	rs916287
+Systemic lupus erythematosus	12	68044153	rs7486855
+Systemic lupus erythematosus			DQA1*01:03
+Systemic lupus erythematosus			DQA1*01:04
+Systemic lupus erythematosus			DQA1*02:01
+Systemic lupus erythematosus			DQA1*03:01
+Systemic lupus erythematosus			DQA1*03:03
+Systemic lupus erythematosus			DQA1*05:01
+Systemic lupus erythematosus			DQA1*05:05
+Systemic lupus erythematosus			DQB1*02:01
+Systemic lupus erythematosus			DQB1*03:01
+Systemic lupus erythematosus			DQB1*03:02
+Systemic lupus erythematosus			DQB1*03:03
+Systemic lupus erythematosus			DQB1*05:01
+Systemic lupus erythematosus			DQB1*05:03
+Systemic lupus erythematosus			DQB1*06:02
+Systemic lupus erythematosus			DRB1*01:01
+Systemic lupus erythematosus			DRB1*01:02
+Systemic lupus erythematosus			DRB1*03:01
+Systemic lupus erythematosus			DRB1*04:01
+Systemic lupus erythematosus			DRB1*04:03
+Systemic lupus erythematosus			DRB1*04:04
+Systemic lupus erythematosus			DRB1*04:07
+Systemic lupus erythematosus			DRB1*07:01
+Systemic lupus erythematosus			DRB1*11:01
+Systemic lupus erythematosus			DRB1*11:04
+Systemic lupus erythematosus			DRB1*12:01
+Systemic lupus erythematosus			DRB1*13:01
+Systemic lupus erythematosus			DRB1*14:01
+Systemic lupus erythematosus			DRB1*15:01
+Systemic lupus erythematosus			DRB1*15:03
+Systemic lupus erythematosus	7	128936032	rs3757387
+Systemic lupus erythematosus	1	161566341	rs332398
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	6	135538559	rs9402715
+Systemic lupus erythematosus	8	11480861	rs2618444
+Systemic lupus erythematosus	6	35147134	rs9394274
+Systemic lupus erythematosus	6	35295778	rs1194
+Systemic lupus erythematosus	16	68573583	rs1170436
+Systemic lupus erythematosus	16	58246174	rs2731763
+Systemic lupus erythematosus	5	151077924	rs7708392
+Systemic lupus erythematosus	3	58526510	rs1127745
+Systemic lupus erythematosus	8	10425916	rs3750310
+Systemic lupus erythematosus	22	37195278	rs229541
+Systemic lupus erythematosus			rs116356980
+Systemic lupus erythematosus	10	67531962	rs10762171
+Systemic lupus erythematosus	6	106090852	rs56886418
+Systemic lupus erythematosus	6	35187010	rs1590381
+Systemic lupus erythematosus	5	151065654	rs10057690
+Systemic lupus erythematosus	17	75364073	rs9894206
+Systemic lupus erythematosus	4	101829765	rs17266594
+Systemic lupus erythematosus	11	128413550	rs1946007
+Systemic lupus erythematosus	16	28295666	rs9889107
+Systemic lupus erythematosus	5	160452971	rs2431697
+Systemic lupus erythematosus	8	10928562	rs12548184
+Systemic lupus erythematosus	17	27595519	rs4795774
+Systemic lupus erythematosus	5	159453388	rs4921230
+Systemic lupus erythematosus	1	173337507	rs6681482
+Systemic lupus erythematosus	15	38670555	rs1874252
+Systemic lupus erythematosus	6	158995412	rs2092540
+Systemic lupus erythematosus	3	189882371	rs12107036
+Systemic lupus erythematosus	7	50278712	rs17552904
+Systemic lupus erythematosus	12	68067917	rs2041862
+Systemic lupus erythematosus	3	58380290	rs116165318
+Systemic lupus erythematosus	2	185151747	rs112047269
+Systemic lupus erythematosus	17	42324649	rs17881940
+Systemic lupus erythematosus	12	79345104	rs17005500
+Systemic lupus erythematosus	16	10944503	rs8054198
+Systemic lupus erythematosus	14	87916691	rs11845506
+Systemic lupus erythematosus			DQA1*01:05
+Systemic lupus erythematosus			A*31:01
+Systemic lupus erythematosus			A*01:01
+Systemic lupus erythematosus			B*08:01
+Systemic lupus erythematosus			B*18:01
+Systemic lupus erythematosus			B*44:02
+Systemic lupus erythematosus			C*06:02
+Systemic lupus erythematosus			C*07:01
+Systemic lupus erythematosus			C*16:01
+Systemic lupus erythematosus			DPB1*01:01
+Systemic lupus erythematosus			DQA1*01:01
+Systemic lupus erythematosus			DQA1*01:02
+Systemic lupus erythematosus	12	128794319	rs1059312
+Systemic lupus erythematosus	10	6054236	rs10795763
+Systemic lupus erythematosus	10	48766611	rs10857635
+Systemic lupus erythematosus	11	118771376	rs10892286
+Systemic lupus erythematosus	16	85985910	rs11117433
+Systemic lupus erythematosus	6	135418217	rs11154801
+Systemic lupus erythematosus	11	613208	rs1131665
+Systemic lupus erythematosus	6	32070773	rs1150755
+Systemic lupus erythematosus	3	12470013	rs1151988
+Systemic lupus erythematosus	14	72783972	rs11629434
+Systemic lupus erythematosus	4	122470309	rs11724582
+Systemic lupus erythematosus	10	62745326	rs117846724
+Systemic lupus erythematosus	6	159049385	rs212407
+Systemic lupus erythematosus	1	173222336	rs2205960
+Systemic lupus erythematosus	19	945013	rs2238573
+Systemic lupus erythematosus	5	160460329	rs2431098
+Systemic lupus erythematosus	1	113834946	rs2476601
+Systemic lupus erythematosus	16	58233568	rs2550333
+Systemic lupus erythematosus	9	99575049	rs11788118
+Systemic lupus erythematosus	1	172711891	rs12068671
+Systemic lupus erythematosus	11	128449583	rs12574073
+Systemic lupus erythematosus	2	135964033	rs12615624
+Systemic lupus erythematosus	3	119455536	rs12636784
+Systemic lupus erythematosus	6	57312868	rs12664535
+Systemic lupus erythematosus	8	128166844	rs13280095
+Systemic lupus erythematosus	19	18406957	rs13344313
+Systemic lupus erythematosus	2	33476823	rs13385731
+Systemic lupus erythematosus	22	39897459	rs137956
+Systemic lupus erythematosus	2	60841032	rs1432296
+Systemic lupus erythematosus	2	65437216	rs1437466
+Systemic lupus erythematosus	19	4980853	rs169080
+Systemic lupus erythematosus	1	183330915	rs17484292
+Systemic lupus erythematosus	16	68535537	rs1749792
+Systemic lupus erythematosus	12	112153882	rs17630235
+Systemic lupus erythematosus	7	22726602	rs1800797
+Systemic lupus erythematosus	1	161509955	rs1801274
+Systemic lupus erythematosus	16	11080795	rs2041670
+Systemic lupus erythematosus	8	11482373	rs2061831
+Systemic lupus erythematosus	2	162254026	rs2111485
+Systemic lupus erythematosus	8	56068244	rs2953898
+Systemic lupus erythematosus	8	8240557	rs2955587
+Systemic lupus erythematosus	1	192575665	rs2984920
+Systemic lupus erythematosus	1	206770623	rs3024493
+Systemic lupus erythematosus	19	10352442	rs34536443
+Systemic lupus erythematosus	16	31261032	rs34572943
+Systemic lupus erythematosus	6	34844924	rs34840245
+Systemic lupus erythematosus	7	128945562	rs35000415
+Systemic lupus erythematosus	11	35097935	rs353592
+Systemic lupus erythematosus	4	960459	rs3733345
+Systemic lupus erythematosus	3	28034792	rs376072
+Systemic lupus erythematosus	1	246280780	rs1780813
+Systemic lupus erythematosus	5	100848943	rs55849330
+Systemic lupus erythematosus	7	74152347	rs150518861
+Systemic lupus erythematosus	17	45379362	rs114038709
+Systemic lupus erythematosus	17	75345203	rs36023980
+Systemic lupus erythematosus	1	67373890	rs3828069
+Systemic lupus erythematosus	17	39729130	rs4252665
+Systemic lupus erythematosus	4	10565335	rs4355385
+Systemic lupus erythematosus	1	242802070	rs4382707
+Systemic lupus erythematosus	5	1368882	rs461193
+Systemic lupus erythematosus	4	101832251	rs4637409
+Systemic lupus erythematosus	2	203606750	rs4675354
+Systemic lupus erythematosus	8	78643913	rs4739134
+Systemic lupus erythematosus	20	46119308	rs4810485
+Systemic lupus erythematosus	11	65775268	rs489574
+Systemic lupus erythematosus	7	50266267	rs4917014
+Systemic lupus erythematosus	6	137874586	rs5029939
+Systemic lupus erythematosus	19	55226430	rs56154925
+Systemic lupus erythematosus	3	160011272	rs564976
+Systemic lupus erythematosus	1	111149818	rs586995
+Systemic lupus erythematosus	12	111569952	rs653178
+Systemic lupus erythematosus	8	9538022	rs6601327
+Systemic lupus erythematosus	1	1251122	rs6603785
+Systemic lupus erythematosus	1	196717788	rs6677604
+Systemic lupus erythematosus	1	160429796	rs6688100
+Systemic lupus erythematosus	2	198032171	rs6738825
+Systemic lupus erythematosus	5	159456019	rs6869688
+Systemic lupus erythematosus	5	100800161	rs6886392
+Systemic lupus erythematosus	7	8136157	rs6945305
+Systemic lupus erythematosus	7	28133113	rs702814
+Systemic lupus erythematosus	13	99377678	rs7325747
+Systemic lupus erythematosus	7	74619286	rs73366469
+Systemic lupus erythematosus	22	21622645	rs7444
+Systemic lupus erythematosus	2	61594642	rs74936631
+Systemic lupus erythematosus	2	191101726	rs7568275
+Systemic lupus erythematosus	2	30222160	rs7579944
+Systemic lupus erythematosus	2	102445656	rs7597017
+Systemic lupus erythematosus	5	134096143	rs7726414
+Systemic lupus erythematosus	7	26702535	rs7795074
+Systemic lupus erythematosus	16	30714927	rs8058578
+Systemic lupus erythematosus	17	75316103	rs8072449
+Systemic lupus erythematosus	1	154429203	rs8192282
+Systemic lupus erythematosus	1	119921542	rs835573
+Systemic lupus erythematosus	6	16636230	rs909788
+Systemic lupus erythematosus	14	68286876	rs911263
+Systemic lupus erythematosus	6	106207742	rs9373839
+Systemic lupus erythematosus	3	58479456	rs9852465
+Systemic lupus erythematosus	1	183563445	rs17849502
+Systemic lupus erythematosus	8	42176001	rs1804182
+Systemic lupus erythematosus	16	31272675	rs12928725
+Systemic lupus erythematosus	7	128936032	rs3757387
+Systemic lupus erythematosus	10	6052734	rs61839660
+Systemic lupus erythematosus	3	89842195	rs73846279
+Systemic lupus erythematosus	16	31265490	rs1143679
+Systemic lupus erythematosus	2	191079016	rs11889341
+Systemic lupus erythematosus	1	157705207	rs2317230
+Systemic lupus erythematosus	1	173247234	rs844646
+Systemic lupus erythematosus	4	108190649	rs57634688
+Systemic lupus erythematosus	6	29921473	rs75460055
+Systemic lupus erythematosus	6	29942046	rs534723171
+Systemic lupus erythematosus	6	29971371	rs2523968
+Systemic lupus erythematosus	6	30317873	rs1264585
+Systemic lupus erythematosus	6	30966087	rs3131933
+Systemic lupus erythematosus	6	31134496	rs75881311
+Systemic lupus erythematosus	6	31279629	rs112262437
+Systemic lupus erythematosus	6	31331721	rs111743557
+Systemic lupus erythematosus	6	31386015	rs2523483
+Systemic lupus erythematosus	6	31392867	rs28359827
+Systemic lupus erythematosus	6	31447129	rs2516465
+Systemic lupus erythematosus	6	31613260	rs542914466
+Systemic lupus erythematosus	6	32037578	rs113720465
+Systemic lupus erythematosus	6	32041524	rs7774739
+Systemic lupus erythematosus	6	32049830	rs146280229
+Systemic lupus erythematosus	6	32331681	rs145396511
+Systemic lupus erythematosus	6	32389462	rs146003878
+Systemic lupus erythematosus	6	32400783	rs9268486
+Systemic lupus erythematosus	6	32411537	rs574027387
+Systemic lupus erythematosus	6	32626884	rs116352702
+Systemic lupus erythematosus	6	32645641	rs9273190
+Systemic lupus erythematosus	6	32657607	rs140780894

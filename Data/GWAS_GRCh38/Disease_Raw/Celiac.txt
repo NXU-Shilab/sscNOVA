@@ -1,0 +1,223 @@
+Celiac disease	7	37365375	rs77778931
+Celiac disease	1	172790982	rs859715
+Celiac disease	1	200906769	rs59655222
+Celiac disease	10	79306017	rs1250557
+Celiac disease	11	118625403	rs45565037
+Celiac disease	11	128545234	rs4128561
+Celiac disease	14	68805252	rs971290
+Celiac disease	2	102476054	rs1468788
+Celiac disease	2	191105604	rs13401064
+Celiac disease	2	203735734	rs45620941
+Celiac disease	2	203819074	rs62184863
+Celiac disease	2	203843923	rs231804
+Celiac disease	2	60937594	rs6726160
+Celiac disease	20	45967568	rs6032606
+Celiac disease	3	159911578	rs9873580
+Celiac disease	3	46325463	rs2187670
+Celiac disease	4	122340375	rs62321692
+Celiac disease	4	122451978	rs2069772
+Celiac disease	6	127835743	rs4897233
+Celiac disease	6	158913093	rs9457515
+Celiac disease	6	159093828	rs3120630
+Celiac disease	1	61326191	rs6691768
+Celiac disease	15	74839978	rs936229
+Celiac disease	6	32638107	rs2187668
+Celiac disease	4	122588266	rs6822844
+Celiac disease	11	128511079	rs11221332
+Celiac disease	21	44227538	rs4819388
+Celiac disease	6	383546	rs1033180
+Celiac disease	22	21628603	rs2298428
+Celiac disease	2	102454108	rs917997
+Celiac disease	2	203937855	rs4675374
+Celiac disease	3	46193709	rs13098911
+Celiac disease	3	159947262	rs17810546
+Celiac disease	4	122194347	rs13151961
+Celiac disease	6	32638107	rs2187668
+Celiac disease	12	111569952	rs653178
+Celiac disease	1	61326191	rs6691768
+Celiac disease	1	172741860	rs859637
+Celiac disease	1	7986612	rs12727642
+Celiac disease	3	69203748	rs6806528
+Celiac disease	X	12953405	rs5979785
+Celiac disease	2	181131318	rs13010713
+Celiac disease	3	188394766	rs1464510
+Celiac disease	6	159044945	rs1738074
+Celiac disease	7	37334906	rs6974491
+Celiac disease	3	169774313	rs10936599
+Celiac disease	13	50261579	rs2762051
+Celiac disease	18	12809341	rs1893217
+Celiac disease	8	128252343	rs9792269
+Celiac disease	16	11310036	rs12928822
+Celiac disease	1	192567683	rs2816316
+Celiac disease	1	2595307	rs3748816
+Celiac disease	1	24977085	rs10903122
+Celiac disease	14	68811487	rs4899260
+Celiac disease	17	46788073	rs2074404
+Celiac disease	1	167442147	rs864537
+Celiac disease	1	200923009	rs296547
+Celiac disease	2	60959694	rs13003464
+Celiac disease	6	137651931	rs2327832
+Celiac disease	2	68371823	rs17035378
+Celiac disease	3	32973977	rs13314993
+Celiac disease	3	119399949	rs11712165
+Celiac disease	6	90216893	rs10806425
+Celiac disease	6	127957653	rs802734
+Celiac disease	10	79298270	rs1250552
+Celiac disease or Rheumatoid arthritis	12	111569952	rs653178
+Celiac disease or Rheumatoid arthritis	5	56264200	rs1020388
+Celiac disease or Rheumatoid arthritis	2	65381775	rs1876518
+Celiac disease or Rheumatoid arthritis	2	30222160	rs7579944
+Celiac disease or Rheumatoid arthritis	18	12809341	rs1893217
+Celiac disease or Rheumatoid arthritis	9	120878222	rs1953126
+Celiac disease or Rheumatoid arthritis	22	21628603	rs2298428
+Celiac disease or Rheumatoid arthritis	7	37397251	rs11984075
+Celiac disease or Rheumatoid arthritis	2	191099907	rs7574865
+Celiac disease or Rheumatoid arthritis	8	128303768	rs975730
+Celiac disease or Rheumatoid arthritis	11	118741072	rs10892279
+Celiac disease or Rheumatoid arthritis	1	167442147	rs864537
+Celiac disease or Rheumatoid arthritis	21	42416077	rs11203203
+Celiac disease or Rheumatoid arthritis	12	57668884	rs10876993
+Celiac disease or Rheumatoid arthritis	1	159035859	rs1772408
+Celiac disease	1	192567683	rs2816316
+Celiac disease	3	159947262	rs17810546
+Celiac disease	6	159044945	rs1738074
+Celiac disease	3	188394766	rs1464510
+Celiac disease	3	46310893	rs6441961
+Celiac disease	2	102355405	rs13015714
+Celiac disease	12	111569952	rs653178
+Celiac disease	4	122588266	rs6822844
+Crohn's disease and celiac disease	2	60990407	rs10188217
+Crohn's disease and celiac disease	6	159069404	rs212388
+Celiac disease	11	2027258	rs4930144
+Celiac disease	1	202500595	rs12734338
+Celiac disease	4	99618739	rs1032355
+Celiac disease	3	36368109	rs2605393
+Celiac disease	4	5160662	rs13128441
+Celiac disease	17	56533930	rs17760268
+Celiac disease	21	10540506	rs10439884
+Celiac disease	22	15473564	rs4911642
+Celiac disease	20	54798000	rs157640
+Celiac disease	14	34375170	rs1958589
+Celiac disease	10	117854099	rs10886159
+Celiac disease	6	32240547	rs424232
+Celiac disease	16	71013581	rs195656
+Celiac disease	19	50873907	rs2664156
+Celiac disease	1	201625537	rs2068824
+Celiac disease and Rheumatoid arthritis	21	35343463	rs9979383
+Celiac disease and Rheumatoid arthritis	6	159052542	rs212400
+Celiac disease and Rheumatoid arthritis	11	118809939	rs11217040
+Celiac disease and Rheumatoid arthritis	4	122117140	rs62323881
+Celiac disease and Rheumatoid arthritis	1	2608357	rs4073285
+Celiac disease and Rheumatoid arthritis	1	198764438	rs6696533
+Celiac disease and Rheumatoid arthritis	2	60877850	rs10203477
+Celiac disease and Rheumatoid arthritis	2	100142823	rs11123810
+Celiac disease and Rheumatoid arthritis	2	191037458	rs6749371
+Celiac disease and Rheumatoid arthritis	2	203745673	rs1980422
+Celiac disease and Rheumatoid arthritis	6	90267049	rs72928038
+Celiac disease and Rheumatoid arthritis	6	137684378	rs17264332
+Celiac disease and Rheumatoid arthritis	7	37387686	rs74830391
+Celiac disease and Rheumatoid arthritis	8	128554935	rs6651252
+Celiac disease and Rheumatoid arthritis	10	6348488	rs947474
+Celiac disease and Rheumatoid arthritis	12	112172910	rs11066188
+Celiac disease and Rheumatoid arthritis	18	12860802	rs80209296
+Celiac disease and Rheumatoid arthritis	21	42434957	rs1893592
+Celiac disease and Rheumatoid arthritis	22	21625000	rs4821124
+Celiac disease and Rheumatoid arthritis	2	30222160	rs7579944
+Celiac disease and Rheumatoid arthritis	1	113761186	rs6679677
+Celiac disease and Rheumatoid arthritis	1	183563445	rs17849502
+Celiac disease and Rheumatoid arthritis	2	181246479	rs16867384
+Celiac disease and Rheumatoid arthritis	3	46232768	rs67676925
+Refractory celiac disease type II	7	31159653	rs2041570
+Refractory celiac disease type II			HLA-DQ2
+Celiac disease	1	183563445	rs17849502
+Celiac disease	3	69203748	rs6806528
+Celiac disease	12	6402830	rs2364484
+Celiac disease	22	37237811	rs9610686
+Celiac disease (PheCode 557.1)	6	32368768	rs113857285
+Celiac disease (PheCode 557.1)	6	33888840	rs190732321
+Celiac disease	6	90170316	rs2474619
+Celiac disease	1	172894808	rs2157453
+Celiac disease	6	124422361	rs531930
+Celiac disease	10	6359663	rs4558075
+Celiac disease	17	37374139	rs8081319
+Celiac disease	3	46240253	rs13096142
+Celiac disease	4	122194347	rs13151961
+Celiac disease	6	159051263	rs212402
+Celiac disease	1	2607961	rs4445406
+Celiac disease	1	24963243	rs72657048
+Celiac disease	1	172711891	rs12068671
+Celiac disease	1	172895512	rs12142280
+Celiac disease	1	192572342	rs1359062
+Celiac disease	1	200912264	rs10800746
+Celiac disease	2	60959694	rs13003464
+Celiac disease	2	102470310	rs990171
+Celiac disease	2	181143073	rs1018326
+Celiac disease	2	191048308	rs6715106
+Celiac disease	2	191108837	rs6752770
+Celiac disease	2	203745673	rs1980422
+Celiac disease	3	32996229	rs4678523
+Celiac disease	3	46336534	rs2097282
+Celiac disease	3	46164194	rs7616215
+Celiac disease	3	119404431	rs61579022
+Celiac disease	3	159905770	rs1353248
+Celiac disease	3	159957140	rs2561288
+Celiac disease	3	188402113	rs2030519
+Celiac disease	4	122629959	rs13132308
+Celiac disease	6	408079	rs1050976
+Celiac disease	6	90099920	rs7753008
+Celiac disease	6	127972417	rs55743914
+Celiac disease	6	137684378	rs17264332
+Celiac disease	6	159048542	rs182429
+Celiac disease	6	159077235	rs1107943
+Celiac disease	10	6348230	rs2387397
+Celiac disease	10	79298270	rs1250552
+Celiac disease	11	111326133	rs7104791
+Celiac disease	11	118709156	rs10892258
+Celiac disease	11	128522042	rs61907765
+Celiac disease	12	111446804	rs3184504
+Celiac disease	14	68792785	rs11851414
+Celiac disease	15	74804102	rs1378938
+Celiac disease	16	10870261	rs6498114
+Celiac disease	18	12843138	rs11875687
+Celiac disease	21	42434957	rs1893592
+Celiac disease	21	44209238	rs58911644
+Celiac disease	22	21625000	rs4821124
+Celiac disease	X	153982797	rs13397
+Celiac disease			imm_3_161120372
+Celiac disease			imm_6_138043754
+Celiac disease			1kg_7_37384979
+Celiac disease	11	128522042	rs61907765
+Celiac disease	7	37342861	rs60600003
+Celiac disease	18	12777574	rs2542148
+Celiac disease	6	159049385	rs212407
+Celiac disease	1	172705636	rs10912267
+Celiac disease	2	203747335	rs7426056
+Celiac disease	11	118856134	rs10892299
+Celiac disease	4	122345366	rs74643882
+Celiac disease	21	42434957	rs1893592
+Celiac disease	3	119399949	rs11712165
+Celiac disease	2	203874196	rs3087243
+Celiac disease	11	111326133	rs7104791
+Celiac disease	1	61326191	rs6691768
+Celiac disease	22	21581863	rs66534072
+Celiac disease	2	191037458	rs6749371
+Celiac disease	1	200906114	rs12132349
+Celiac disease	1	2603539	rs6664969
+Celiac disease	2	100147542	rs13415465
+Celiac disease	10	6348488	rs947474
+Celiac disease	6	137682685	rs11757201
+Celiac disease	6	90267049	rs72928038
+Celiac disease	15	78942615	rs34593439
+Celiac disease	9	34710263	rs2812378
+Celiac disease	3	188402113	rs2030519
+Celiac disease	4	122629959	rs13132308
+Celiac disease	1	192572342	rs1359062
+Celiac disease	3	159929885	rs17753641
+Celiac disease	6	127970054	rs3190930
+Celiac disease	3	46208883	rs41432345
+Celiac disease	2	181192913	rs12619531
+Celiac disease	12	111446804	rs3184504
+Celiac disease	2	102476784	rs10469840
+Celiac disease	3	159905770	rs1353248
+Celiac disease	10	79285523	rs1250568
+Celiac disease	2	60977782	rs4560096

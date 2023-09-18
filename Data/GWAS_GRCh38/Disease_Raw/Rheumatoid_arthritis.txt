@@ -1,0 +1,1303 @@
+Rheumatoid arthritis	6	32484011	rs9269234
+Rheumatoid arthritis	5	30404961	rs12519788
+Rheumatoid arthritis	17	4599900	rs12601925
+Rheumatoid arthritis	3	112852072	rs9860428
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	32484011	rs9269234
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	5	30404961	rs12519788
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	17	4599900	rs12601925
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	3	112852072	rs9860428
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32827255	rs10484565
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32614873	rs3104413
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32629245	rs3129769
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32713753	rs3957146
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32714242	rs3998159
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32615580	rs6931277
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32713706	rs7454108
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32699330	rs9275334
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32705797	rs9275495
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32707746	rs9275530
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32707857	rs9275532
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32819398	rs9784858
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32446496	rs3129890
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32447303	rs3129891
+ACPA-positive rheumatoid arthritis (smoking interaction)	6	32421528	rs9268557
+Rheumatoid arthritis (ACPA-positive)	22	37149465	rs3218251
+Rheumatoid arthritis (ACPA-positive)	6	137922602	rs58721818
+Rheumatoid arthritis	1	199274100	rs1325190
+Rheumatoid arthritis	11	609888	rs12421158
+Rheumatoid arthritis	6	32614873	rs3104413
+Rheumatoid arthritis (ACPA-positive)	21	42434957	rs1893592
+Rheumatoid arthritis (ACPA-positive)	11	128632601	rs4936059
+Rheumatoid arthritis (ACPA-positive)	1	173330604	rs61828284
+Rheumatoid arthritis (ACPA-positive)	22	39351666	rs909685
+Rheumatoid arthritis (ACPA-positive)	2	30222160	rs7579944
+Rheumatoid arthritis (ACPA-positive)	13	39797240	rs9603618
+Rheumatoid arthritis (ACPA-positive)	14	68286876	rs911263
+Rheumatoid arthritis (ACPA-positive)	3	27736288	rs9880772
+Rheumatoid arthritis (ACPA-positive)	1	2596694	rs2843401
+Rheumatoid arthritis (ACPA-positive)	1	17346235	rs2301888
+Rheumatoid arthritis (ACPA-positive)	1	38151199	rs883220
+Rheumatoid arthritis (ACPA-positive)	1	113834946	rs2476601
+Rheumatoid arthritis (ACPA-positive)	1	116738074	rs112300936
+Rheumatoid arthritis (ACPA-positive)	1	154454494	rs2228145
+Rheumatoid arthritis (ACPA-positive)	1	157699488	rs3761959
+Rheumatoid arthritis (ACPA-positive)	1	161505960	rs10494360
+Rheumatoid arthritis (ACPA-positive)	1	198757491	rs1932437
+Rheumatoid arthritis (ACPA-positive)	2	60897715	rs34695944
+Rheumatoid arthritis (ACPA-positive)	2	65353087	rs11126034
+Rheumatoid arthritis (ACPA-positive)	2	100143710	rs11123811
+Rheumatoid arthritis (ACPA-positive)	2	191068528	rs13426947
+Rheumatoid arthritis (ACPA-positive)	2	203874196	rs3087243
+Rheumatoid arthritis (ACPA-positive)	3	58317208	rs73081554
+Rheumatoid arthritis (ACPA-positive)	4	26102491	rs12506688
+Rheumatoid arthritis (ACPA-positive)	5	56144903	rs71624119
+Rheumatoid arthritis (ACPA-positive)	5	103273223	rs2561477
+Rheumatoid arthritis (ACPA-positive)	6	137685367	rs6920220
+Rheumatoid arthritis (ACPA-positive)	6	159068759	rs212389
+Rheumatoid arthritis (ACPA-positive)	6	167127354	rs1571878
+Rheumatoid arthritis (ACPA-positive)	7	128933913	rs4728142
+Rheumatoid arthritis (ACPA-positive)	8	11494403	rs922483
+Rheumatoid arthritis (ACPA-positive)	9	34710263	rs2812378
+Rheumatoid arthritis (ACPA-positive)	9	120900340	rs10760126
+Rheumatoid arthritis (ACPA-positive)	10	6066377	rs10795791
+Rheumatoid arthritis (ACPA-positive)	10	6348488	rs947474
+Rheumatoid arthritis (ACPA-positive)	10	8059464	rs3781094
+Rheumatoid arthritis (ACPA-positive)	10	62040245	rs12764378
+Rheumatoid arthritis (ACPA-positive)	11	61142109	rs595158
+Rheumatoid arthritis (ACPA-positive)	11	118806377	rs11217037
+Rheumatoid arthritis (ACPA-positive)	12	57698306	rs10683701
+Rheumatoid arthritis (ACPA-positive)	15	38541832	rs8032939
+Rheumatoid arthritis (ACPA-positive)	15	69699078	rs8026898
+Rheumatoid arthritis (ACPA-positive)	16	85985481	rs13330176
+Rheumatoid arthritis (ACPA-positive)	17	39887396	rs12936409
+Rheumatoid arthritis (ACPA-positive)	18	12797695	rs2847297
+Rheumatoid arthritis (ACPA-positive)	19	10352442	rs34536443
+Rheumatoid arthritis (ACPA-positive)	20	46118343	rs1883832
+Rheumatoid arthritis (ACPA-positive)	21	34539301	rs2834512
+Rheumatoid arthritis (ACPA-positive)	21	35343463	rs9979383
+Rheumatoid arthritis (ACPA-positive)	22	21624807	rs11089637
+Rheumatoid arthritis	6	32696074	rs6457617
+Rheumatoid arthritis	18	78649597	rs2002842
+Rheumatoid arthritis	1	2622185	rs3890745
+Rheumatoid arthritis	7	92617430	rs42041
+Rheumatoid arthritis	20	46119308	rs4810485
+Rheumatoid arthritis	1	113761186	rs6679677
+Rheumatoid arthritis	6	32696222	rs6457620
+Rheumatoid arthritis	6	137685367	rs6920220
+Rheumatoid arthritis	10	6351298	rs4750316
+Rheumatoid arthritis	9	34710263	rs2812378
+Rheumatoid arthritis	12	57574932	rs1678542
+Rheumatoid arthritis	8	11502129	rs1600249
+Rheumatoid arthritis	3	56932218	rs2062583
+Rheumatoid arthritis	6	32713151	rs7765379
+Rheumatoid arthritis	12	72330254	rs12831974
+Rheumatoid arthritis	1	17348042	rs2240335
+Rheumatoid arthritis	22	37155567	rs743777
+Rheumatoid arthritis	21	41139991	rs2837960
+Rheumatoid arthritis	1	113761186	rs6679677
+Rheumatoid arthritis	6	32696074	rs6457617
+Rheumatoid arthritis	4	25415622	rs3816587
+Rheumatoid arthritis	6	32606394	rs615672
+Rheumatoid arthritis	7	131685280	rs11761231
+Rheumatoid arthritis	9	120927961	rs3761847
+Rheumatoid arthritis	6	32609603	rs660895
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	6	32251212	rs9296015
+Rheumatoid arthritis	1	17348042	rs2240335
+Rheumatoid arthritis	21	44289270	rs2075876
+Rheumatoid arthritis	9	120890620	rs881375
+Rheumatoid arthritis	2	60937196	rs13017599
+Rheumatoid arthritis	8	11486464	rs2736340
+Rheumatoid arthritis	2	203829153	rs231735
+Rheumatoid arthritis	1	113834946	rs2476601
+Celiac disease or Rheumatoid arthritis	12	111569952	rs653178
+Celiac disease or Rheumatoid arthritis	5	56264200	rs1020388
+Celiac disease or Rheumatoid arthritis	2	65381775	rs1876518
+Celiac disease or Rheumatoid arthritis	2	30222160	rs7579944
+Celiac disease or Rheumatoid arthritis	18	12809341	rs1893217
+Celiac disease or Rheumatoid arthritis	9	120878222	rs1953126
+Celiac disease or Rheumatoid arthritis	22	21628603	rs2298428
+Celiac disease or Rheumatoid arthritis	7	37397251	rs11984075
+Celiac disease or Rheumatoid arthritis	2	191099907	rs7574865
+Celiac disease or Rheumatoid arthritis	8	128303768	rs975730
+Celiac disease or Rheumatoid arthritis	11	118741072	rs10892279
+Celiac disease or Rheumatoid arthritis	1	167442147	rs864537
+Celiac disease or Rheumatoid arthritis	21	42416077	rs11203203
+Celiac disease or Rheumatoid arthritis	12	57668884	rs10876993
+Celiac disease or Rheumatoid arthritis	1	159035859	rs1772408
+Rheumatoid arthritis	6	32702178	rs9275406
+Rheumatoid arthritis	5	54015672	rs255758
+Response to tocilizumab in rheumatoid arthritis	19	51581583	rs1543922
+Response to tocilizumab in rheumatoid arthritis	11	11482681	rs7940423
+Response to tocilizumab in rheumatoid arthritis	19	15566899	rs1273516
+Response to tocilizumab in rheumatoid arthritis	5	21749239	rs12109285
+Response to tocilizumab in rheumatoid arthritis	12	32384554	rs11051970
+Response to tocilizumab in rheumatoid arthritis	15	36057645	rs1898036
+Response to tocilizumab in rheumatoid arthritis	20	2774842	rs6138892
+Response to tocilizumab in rheumatoid arthritis	3	6214310	rs6774280
+Response to tocilizumab in rheumatoid arthritis	1	9348900	rs11121380
+Response to tocilizumab in rheumatoid arthritis	3	10835926	rs1809529
+Response to tocilizumab in rheumatoid arthritis	13	113919624	rs9604529
+Response to tocilizumab in rheumatoid arthritis			chr2:179127489
+Response to tocilizumab in rheumatoid arthritis	15	76254592	rs1914816
+Response to tocilizumab in rheumatoid arthritis	10	55089225	rs16906916
+Response to tocilizumab in rheumatoid arthritis			chr11:34599304
+Response to tocilizumab in rheumatoid arthritis			rs1329568
+Response to tocilizumab in rheumatoid arthritis	18	42857686	rs16977065
+Response to tocilizumab in rheumatoid arthritis	13	43642928	rs4942242
+Response to tocilizumab in rheumatoid arthritis	14	47405354	rs17118552
+Response to tocilizumab in rheumatoid arthritis	16	48587491	rs6500395
+Response to tocilizumab in rheumatoid arthritis	2	51509856	rs1406428
+Response to tocilizumab in rheumatoid arthritis	20	59602560	rs6026990
+Response to tocilizumab in rheumatoid arthritis	1	60576203	rs12565755
+Response to tocilizumab in rheumatoid arthritis	8	74461713	rs16938910
+Response to tocilizumab in rheumatoid arthritis	15	78540881	rs12901682
+Response to tocilizumab in rheumatoid arthritis	4	75491177	rs13137105
+Response to tocilizumab in rheumatoid arthritis	4	77215780	rs11937061
+Response to tocilizumab in rheumatoid arthritis	15	91668544	rs7164176
+Response to tocilizumab in rheumatoid arthritis	8	115801679	rs800586
+Response to tocilizumab in rheumatoid arthritis	11	121373007	rs72991
+Response to tocilizumab in rheumatoid arthritis			chr3:186373264
+Response to anti-TNF therapy in rheumatoid arthritis	1	160546518	rs6427528
+Response to anti-TNF therapy in rheumatoid arthritis	5	175184337	rs4336372
+Response to anti-TNF therapy in rheumatoid arthritis	10	6747501	rs12570744
+Response to anti-TNF therapy in rheumatoid arthritis	14	34665980	rs7141276
+Response to anti-TNF therapy in rheumatoid arthritis	5	175184337	rs4336372
+Rheumatoid arthritis	6	44265183	rs2233434
+Rheumatoid arthritis	10	62198353	rs3125734
+Rheumatoid arthritis	4	78592061	rs2867461
+Rheumatoid arthritis	6	14096427	rs12529514
+Rheumatoid arthritis	6	44265183	rs2233434
+Rheumatoid arthritis	10	62025330	rs10821944
+Rheumatoid arthritis	2	62225526	rs11900673
+Rheumatoid arthritis	5	132094425	rs657075
+Rheumatoid arthritis	11	72662452	rs3781913
+Rheumatoid arthritis	14	104924668	rs2841277
+Rheumatoid arthritis	18	12797695	rs2847297
+Rheumatoid arthritis	11	128622844	rs4937362
+Rheumatoid arthritis	14	54881400	rs3783637
+Rheumatoid arthritis	14	61441614	rs1957895
+Rheumatoid arthritis	15	90350436	rs6496667
+Rheumatoid arthritis	16	23877519	rs7404928
+Rheumatoid arthritis	16	85985027	rs2280381
+Response to TNF-alpha inhibitors in rheumatoid arthritis	15	95598638	rs10520789
+Response to TNF-alpha inhibitors in rheumatoid arthritis	17	69806211	rs11870477
+Response to TNF-alpha inhibitors in rheumatoid arthritis	1	21549423	rs885814
+Response to TNF-alpha inhibitors in rheumatoid arthritis	18	71581359	rs1539909
+Response to TNF-alpha inhibitors in rheumatoid arthritis	2	37504522	rs960902
+Response to TNF-alpha inhibitors in rheumatoid arthritis	16	76856229	rs17679567
+Response to TNF-alpha inhibitors in rheumatoid arthritis	12	20687905	rs11045392
+Response to TNF-alpha inhibitors in rheumatoid arthritis	12	20707159	rs3794271
+Systemic lupus erythematosus or rheumatoid arthritis	13	39760715	rs9603612
+Systemic lupus erythematosus or rheumatoid arthritis	5	160443604	rs4921283
+Systemic lupus erythematosus or rheumatoid arthritis	1	113834946	rs2476601
+Systemic lupus erythematosus or rheumatoid arthritis	6	106140931	rs6568431
+Systemic lupus erythematosus or rheumatoid arthritis	6	137866361	rs5029924
+Systemic lupus erythematosus or rheumatoid arthritis	7	128977412	rs12531711
+Systemic lupus erythematosus or rheumatoid arthritis	8	11486464	rs2736340
+Systemic lupus erythematosus or rheumatoid arthritis	19	10338682	rs7258015
+Systemic lupus erythematosus or rheumatoid arthritis	22	21602364	rs2283790
+Severe progression in rheumatoid arthritis			kgp12350297
+Severe progression in rheumatoid arthritis	2	70532029	rs428225
+Rheumatoid arthritis	8	101451374	rs678347
+Rheumatoid arthritis	6	426155	rs9378815
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	12	111395984	rs10774624
+Rheumatoid arthritis	14	68293424	rs1950897
+Rheumatoid arthritis	21	34555942	rs147868091
+Rheumatoid arthritis	2	201289674	rs6715284
+Rheumatoid arthritis	10	9007290	rs12413578
+Rheumatoid arthritis	7	92607515	rs4272
+Rheumatoid arthritis	1	38168207	rs12140275
+Rheumatoid arthritis	11	108096623	rs138193887
+Rheumatoid arthritis	16	11745470	rs4780401
+Rheumatoid arthritis	8	128529854	rs1516971
+Rheumatoid arthritis	22	21624807	rs11089637
+Rheumatoid arthritis	11	61828092	rs968567
+Rheumatoid arthritis	1	161435263	rs72717009
+Rheumatoid arthritis	7	28135367	rs67250450
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	4	10725733	rs13142500
+Rheumatoid arthritis	4	48218822	rs2664035
+Rheumatoid arthritis	4	122478336	rs45475795
+Rheumatoid arthritis	11	61138978	rs508970
+Rheumatoid arthritis	1	154454494	rs2228145
+Rheumatoid arthritis	11	36480237	rs331463
+Rheumatoid arthritis	10	31126177	rs793108
+Rheumatoid arthritis	11	95578258	rs4409785
+Rheumatoid arthritis	3	27723132	rs3806624
+Rheumatoid arthritis	17	5369285	rs72634030
+Rheumatoid arthritis	21	44230126	rs2236668
+Rheumatoid arthritis	10	62277122	rs6479800
+Rheumatoid arthritis	12	111395984	rs10774624
+Rheumatoid arthritis	12	57714269	rs1633360
+Rheumatoid arthritis	6	106219660	rs9372120
+Rheumatoid arthritis	14	61473957	rs3783782
+Rheumatoid arthritis	6	14102981	rs74984480
+Rheumatoid arthritis	10	31126177	rs793108
+Rheumatoid arthritis	1	38168207	rs12140275
+Rheumatoid arthritis	2	201289674	rs6715284
+Rheumatoid arthritis	7	92607515	rs4272
+Rheumatoid arthritis	16	11745470	rs4780401
+Rheumatoid arthritis	10	48889774	rs2671692
+Rheumatoid arthritis	8	80183160	rs998731
+Rheumatoid arthritis	6	149513438	rs9373594
+Rheumatoid arthritis	21	34555942	rs147868091
+Rheumatoid arthritis	21	33391982	rs73194058
+Rheumatoid arthritis	8	128529854	rs1516971
+Rheumatoid arthritis	1	116721168	rs624988
+Rheumatoid arthritis	5	132094425	rs657075
+Rheumatoid arthritis	10	79947217	rs726288
+Rheumatoid arthritis	8	101451374	rs678347
+Rheumatoid arthritis	2	110850255	rs6732565
+Rheumatoid arthritis	1	161435263	rs72717009
+Rheumatoid arthritis	18	69876810	rs2469434
+Rheumatoid arthritis	2	62233985	rs13385025
+Rheumatoid arthritis	4	48218822	rs2664035
+Rheumatoid arthritis	22	21624807	rs11089637
+Rheumatoid arthritis	7	28135367	rs67250450
+Rheumatoid arthritis	14	104926500	rs2582532
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	8	114000368	rs2203098
+Rheumatoid arthritis	13	92293631	rs9516053
+Rheumatoid arthritis	16	5538688	rs4602043
+Rheumatoid arthritis	8	114000368	rs2203098
+Rheumatoid arthritis	13	92293631	rs9516053
+Rheumatoid arthritis	16	5538688	rs4602043
+Joint damage in rheumatoid arthritis	8	14611016	rs10088748
+Joint damage in rheumatoid arthritis	8	116463052	rs4129294
+Joint damage in rheumatoid arthritis	8	723082	rs60603343
+Joint damage in rheumatoid arthritis	15	69862908	rs58999906
+Joint damage in rheumatoid arthritis	2	20198534	rs72783289
+Joint damage in rheumatoid arthritis	1	3687131	rs3765718
+Joint damage in rheumatoid arthritis	3	169495902	rs7641666
+Joint damage in rheumatoid arthritis	5	180433167	rs34228803
+Joint damage in rheumatoid arthritis	4	136301045	rs72984811
+Joint damage in rheumatoid arthritis	20	51925009	rs73277715
+Joint damage in rheumatoid arthritis	16	7883804	rs72763714
+Joint damage in rheumatoid arthritis	5	129403217	rs115275214
+Joint damage in rheumatoid arthritis	6	43672362	rs2277125
+Joint damage in rheumatoid arthritis	10	123620992	rs2486037
+Joint damage in rheumatoid arthritis	6	32486076	rs112112734
+Joint damage in rheumatoid arthritis	3	169602270	rs11716015
+Joint damage in rheumatoid arthritis	6	32486076	rs112112734
+Joint damage in rheumatoid arthritis	10	116055008	rs180558
+Joint damage in rheumatoid arthritis	7	119397460	rs78619335
+Joint damage in rheumatoid arthritis	6	43678664	rs2295948
+Joint damage in rheumatoid arthritis	5	160243619	rs4594895
+Joint damage in rheumatoid arthritis	5	50964261	rs76166785
+Joint damage in rheumatoid arthritis	3	101078194	rs7646803
+Joint damage in rheumatoid arthritis	16	7881283	rs7186844
+Joint damage in rheumatoid arthritis	8	14575606	rs17249839
+Joint damage in rheumatoid arthritis	12	93613513	rs11107128
+Joint damage in rheumatoid arthritis	5	129403217	rs115275214
+Joint damage in rheumatoid arthritis	8	116463052	rs4129294
+Joint damage in rheumatoid arthritis	2	204062982	rs147138549
+Joint damage in rheumatoid arthritis	6	32602623	rs2516049
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	6	159085568	rs2451258
+Rheumatoid arthritis	19	10661265	rs147622113
+Rheumatoid arthritis	17	39875604	rs59716545
+Rheumatoid arthritis	10	6348488	rs947474
+Rheumatoid arthritis	10	8062759	rs3824660
+Rheumatoid arthritis	1	37812907	rs28411352
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	16	85985481	rs13330176
+Rheumatoid arthritis	21	42434957	rs1893592
+Rheumatoid arthritis	1	173380586	rs2105325
+Rheumatoid arthritis	9	120873843	rs10985070
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	6	36387877	rs2234067
+Rheumatoid arthritis	1	116721168	rs624988
+Rheumatoid arthritis	3	58317208	rs73081554
+Rheumatoid arthritis	3	27723132	rs3806624
+Rheumatoid arthritis	21	33391982	rs73194058
+Rheumatoid arthritis	12	56001170	rs773125
+Rheumatoid arthritis	12	57714269	rs1633360
+Rheumatoid arthritis	3	136683218	rs9826828
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	8	80183160	rs998731
+Rheumatoid arthritis	2	30226728	rs10175798
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	6	137684378	rs17264332
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis	15	69699078	rs8026898
+Rheumatoid arthritis	4	26118379	rs11933540
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	11	118858682	rs10790268
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	20	46120612	rs4239702
+Rheumatoid arthritis	2	60897715	rs34695944
+Rheumatoid arthritis	9	34710341	rs11574914
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	2	100208905	rs9653442
+Rheumatoid arthritis	7	128939988	rs3778753
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	10	6056986	rs706778
+Rheumatoid arthritis	2	203745673	rs1980422
+Rheumatoid arthritis	13	39793932	rs9603616
+Rheumatoid arthritis	1	2592372	rs187786174
+Rheumatoid arthritis	3	17005540	rs4452313
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	5	103273223	rs2561477
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	10	79947217	rs726288
+Rheumatoid arthritis	14	61473957	rs3783782
+Rheumatoid arthritis	10	62277122	rs6479800
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	1	17087404	rs761426
+Rheumatoid arthritis	18	69876810	rs2469434
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	1	161674468	rs75409195
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	14	104926500	rs2582532
+Rheumatoid arthritis	1	7901146	rs227163
+Rheumatoid arthritis	6	149513438	rs9373594
+Rheumatoid arthritis	4	78581818	rs10028001
+Rheumatoid arthritis	6	14102981	rs74984480
+Rheumatoid arthritis	5	132094425	rs657075
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	6	137684378	rs17264332
+Rheumatoid arthritis	15	69699078	rs8026898
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	2	100208905	rs9653442
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	4	26118379	rs11933540
+Rheumatoid arthritis	20	46120612	rs4239702
+Rheumatoid arthritis	7	128939988	rs3778753
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	1	2592372	rs187786174
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	11	118858682	rs10790268
+Rheumatoid arthritis	2	60897715	rs34695944
+Rheumatoid arthritis	9	34710341	rs11574914
+Rheumatoid arthritis	17	39875604	rs59716545
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	13	39793932	rs9603616
+Rheumatoid arthritis	2	203745673	rs1980422
+Rheumatoid arthritis	21	42434957	rs1893592
+Rheumatoid arthritis	1	37812907	rs28411352
+Rheumatoid arthritis	6	426155	rs9378815
+Rheumatoid arthritis	10	6056986	rs706778
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	6	159085568	rs2451258
+Rheumatoid arthritis	1	173380586	rs2105325
+Rheumatoid arthritis	16	85985481	rs13330176
+Rheumatoid arthritis	1	17087404	rs761426
+Rheumatoid arthritis	5	103273223	rs2561477
+Rheumatoid arthritis	3	17005540	rs4452313
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	14	68293424	rs1950897
+Rheumatoid arthritis	12	56001170	rs773125
+Rheumatoid arthritis	6	36387877	rs2234067
+Rheumatoid arthritis	2	30226728	rs10175798
+Rheumatoid arthritis	9	120873843	rs10985070
+Rheumatoid arthritis	1	154454494	rs2228145
+Rheumatoid arthritis	4	10725733	rs13142500
+Rheumatoid arthritis	1	157705207	rs2317230
+Rheumatoid arthritis	17	39583908	rs1877030
+Rheumatoid arthritis	10	8062759	rs3824660
+Rheumatoid arthritis	10	6348488	rs947474
+Rheumatoid arthritis	2	110850255	rs6732565
+Rheumatoid arthritis	11	61138978	rs508970
+Rheumatoid arthritis	2	100208905	rs9653442
+Rheumatoid arthritis	12	56001170	rs773125
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	12	57714269	rs1633360
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	7	92607515	rs4272
+Rheumatoid arthritis	6	106219660	rs9372120
+Rheumatoid arthritis	2	201289674	rs6715284
+Rheumatoid arthritis			chr11:107967350
+Rheumatoid arthritis	13	39793932	rs9603616
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	11	118858682	rs10790268
+Rheumatoid arthritis	17	5369285	rs72634030
+Rheumatoid arthritis	3	58317208	rs73081554
+Rheumatoid arthritis	5	103273223	rs2561477
+Rheumatoid arthritis	7	28135367	rs67250450
+Rheumatoid arthritis	9	34710341	rs11574914
+Rheumatoid arthritis	2	30226728	rs10175798
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	1	173380586	rs2105325
+Rheumatoid arthritis	18	69876810	rs2469434
+Rheumatoid arthritis	15	69699078	rs8026898
+Rheumatoid arthritis	2	203745673	rs1980422
+Rheumatoid arthritis	20	46120612	rs4239702
+Rheumatoid arthritis	2	110850255	rs6732565
+Rheumatoid arthritis			chr6:14103212
+Rheumatoid arthritis	2	100208905	rs9653442
+Rheumatoid arthritis	12	56001170	rs773125
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	7	92607515	rs4272
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	11	95578258	rs4409785
+Rheumatoid arthritis	6	106219660	rs9372120
+Rheumatoid arthritis	4	10725733	rs13142500
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	8	11484371	rs2736337
+Rheumatoid arthritis	11	118858682	rs10790268
+Rheumatoid arthritis	4	26118379	rs11933540
+Rheumatoid arthritis	16	85985481	rs13330176
+Rheumatoid arthritis	5	103273223	rs2561477
+Rheumatoid arthritis	7	28135367	rs67250450
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	2	30226728	rs10175798
+Rheumatoid arthritis	1	116721168	rs624988
+Rheumatoid arthritis	1	173380586	rs2105325
+Rheumatoid arthritis	2	203745673	rs1980422
+Rheumatoid arthritis	15	69699078	rs8026898
+Rheumatoid arthritis	10	62277122	rs6479800
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	12	111395984	rs10774624
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	9	34710341	rs11574914
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	18	69876810	rs2469434
+Rheumatoid arthritis	20	46120612	rs4239702
+Rheumatoid arthritis			chr6:14103212
+Rheumatoid arthritis	12	57714269	rs1633360
+Rheumatoid arthritis	11	95578258	rs4409785
+Rheumatoid arthritis	13	39793932	rs9603616
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis			chr17:38031857
+Rheumatoid arthritis	4	122478336	rs45475795
+Rheumatoid arthritis	5	132094425	rs657075
+Rheumatoid arthritis	3	27723132	rs3806624
+Rheumatoid arthritis	3	17005540	rs4452313
+Rheumatoid arthritis	6	149513438	rs9373594
+Rheumatoid arthritis	10	6348488	rs947474
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	8	128529854	rs1516971
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis			chr21:35928240
+Rheumatoid arthritis	10	62277122	rs6479800
+Rheumatoid arthritis	10	79947217	rs726288
+Rheumatoid arthritis			chr1:2523811
+Rheumatoid arthritis	8	80183160	rs998731
+Rheumatoid arthritis	11	36480237	rs331463
+Rheumatoid arthritis	22	21624807	rs11089637
+Rheumatoid arthritis	10	31126177	rs793108
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	5	132094425	rs657075
+Rheumatoid arthritis	16	85985481	rs13330176
+Rheumatoid arthritis	1	38168207	rs12140275
+Rheumatoid arthritis	19	17323284	rs77331626
+Rheumatoid arthritis			chr11:107967350
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	22	39351666	rs909685
+Rheumatoid arthritis	6	159085568	rs2451258
+Rheumatoid arthritis	6	159085568	rs2451258
+Rheumatoid arthritis	4	48218822	rs2664035
+Rheumatoid arthritis	4	48218822	rs2664035
+Rheumatoid arthritis			chrX:78464616
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	3	17005540	rs4452313
+Rheumatoid arthritis	14	104926500	rs2582532
+Rheumatoid arthritis	6	149513438	rs9373594
+Rheumatoid arthritis	14	61473957	rs3783782
+Rheumatoid arthritis	14	61473957	rs3783782
+Rheumatoid arthritis	10	6348488	rs947474
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	18	12881362	rs8083786
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	14	68293424	rs1950897
+Rheumatoid arthritis	14	68293424	rs1950897
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis			chr21:35928240
+Rheumatoid arthritis	2	60897715	rs34695944
+Rheumatoid arthritis	2	60897715	rs34695944
+Rheumatoid arthritis	1	38168207	rs12140275
+Rheumatoid arthritis	17	39583908	rs1877030
+Rheumatoid arthritis	1	37812907	rs28411352
+Rheumatoid arthritis	1	37812907	rs28411352
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	11	61828092	rs968567
+Rheumatoid arthritis	1	161435263	rs72717009
+Rheumatoid arthritis	1	157705207	rs2317230
+Rheumatoid arthritis	10	8062759	rs3824660
+Rheumatoid arthritis	10	8062759	rs3824660
+Rheumatoid arthritis	8	101451374	rs678347
+Rheumatoid arthritis	8	101451374	rs678347
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	21	33391982	rs73194058
+Rheumatoid arthritis	21	33391982	rs73194058
+Rheumatoid arthritis			chr17:38031857
+Rheumatoid arthritis	3	136683218	rs9826828
+Rheumatoid arthritis	10	6056986	rs706778
+Rheumatoid arthritis	10	6056986	rs706778
+Rheumatoid arthritis	22	37149465	rs3218251
+Rheumatoid arthritis	3	27723132	rs3806624
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis	6	137906227	rs7752903
+Rheumatoid arthritis			chr1:2523811
+Rheumatoid arthritis			chr1:2523811
+Rheumatoid arthritis	1	7901146	rs227163
+Rheumatoid arthritis	8	80183160	rs998731
+Rheumatoid arthritis	9	120873843	rs10985070
+Rheumatoid arthritis	9	120873843	rs10985070
+Rheumatoid arthritis	11	36480237	rs331463
+Rheumatoid arthritis	16	11745470	rs4780401
+Rheumatoid arthritis	16	11745470	rs4780401
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	22	21624807	rs11089637
+Rheumatoid arthritis	10	48889774	rs2671692
+Rheumatoid arthritis	10	31126177	rs793108
+Rheumatoid arthritis	10	9007290	rs12413578
+Rheumatoid arthritis	2	62233985	rs13385025
+Rheumatoid arthritis	4	10725733	rs13142500
+Rheumatoid arthritis	6	32460995	rs9268839
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	14	104926500	rs2582532
+Rheumatoid arthritis	21	42434957	rs1893592
+Rheumatoid arthritis			chrX:78464616
+Rheumatoid arthritis	1	161435263	rs72717009
+Rheumatoid arthritis	2	201289674	rs6715284
+Rheumatoid arthritis	8	128529854	rs1516971
+Rheumatoid arthritis	10	9007290	rs12413578
+Rheumatoid arthritis	1	154454494	rs2228145
+Rheumatoid arthritis	X	154036016	rs5987194
+Rheumatoid arthritis	X	154036016	rs5987194
+Rheumatoid arthritis	6	426155	rs9378815
+Rheumatoid arthritis	6	426155	rs9378815
+Rheumatoid arthritis			chr7:128580042
+Rheumatoid arthritis			chr7:128580042
+Rheumatoid arthritis	1	154454494	rs2228145
+Rheumatoid arthritis	6	31654829	rs805297
+Rheumatoid arthritis	6	167119305	rs3093024
+Rheumatoid arthritis	2	191099907	rs7574865
+Rheumatoid arthritis	6	32703326	rs13192471
+Rheumatoid arthritis	6	137874929	rs2230926
+Rheumatoid arthritis	5	103261019	rs26232
+Rheumatoid arthritis	1	167439433	rs840016
+Rheumatoid arthritis	14	75494193	rs7155603
+Rheumatoid arthritis	1	2622185	rs3890745
+Rheumatoid arthritis	2	191099907	rs7574865
+Rheumatoid arthritis	9	120927961	rs3761847
+Rheumatoid arthritis	2	60908994	rs13031237
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	10	6351298	rs4750316
+Rheumatoid arthritis	6	32315077	rs6910071
+Rheumatoid arthritis	2	65368452	rs934734
+Rheumatoid arthritis	3	58571114	rs13315591
+Rheumatoid arthritis	6	167120802	rs3093023
+Rheumatoid arthritis	7	128954129	rs10488631
+Rheumatoid arthritis	2	100190478	rs11676922
+Rheumatoid arthritis	10	6056986	rs706778
+Rheumatoid arthritis	4	122297158	rs13119723
+Rheumatoid arthritis	12	111446804	rs3184504
+Rheumatoid arthritis	17	39884510	rs2872507
+Rheumatoid arthritis	21	42416077	rs11203203
+Rheumatoid arthritis	4	26106575	rs874040
+Rheumatoid arthritis	20	46119308	rs4810485
+Rheumatoid arthritis	15	69703005	rs17374222
+Rheumatoid arthritis	5	56142753	rs6859219
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	2	100219272	rs10865035
+Rheumatoid arthritis	6	137685367	rs6920220
+Rheumatoid arthritis	9	34743684	rs951005
+Rheumatoid arthritis	1	38158457	rs12131057
+Rheumatoid arthritis	1	2622185	rs3890745
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	4	26097188	rs6448432
+Rheumatoid arthritis	6	32408196	rs3763309
+Rheumatoid arthritis	6	137685367	rs6920220
+Rheumatoid arthritis	10	6057082	rs2104286
+Rheumatoid arthritis	12	57574932	rs1678542
+Rheumatoid arthritis	22	30285268	rs1043099
+Rheumatoid arthritis	6	137681500	rs10499194
+Rheumatoid arthritis	6	137685367	rs6920220
+Response to anti-TNF therapy in rheumatoid arthritis	6	90499109	rs284515
+Response to anti-TNF therapy in rheumatoid arthritis	6	169570527	rs75908454
+Response to anti-TNF therapy in rheumatoid arthritis	10	116058040	rs1679568
+Response to anti-TNF therapy in rheumatoid arthritis	6	90498823	rs284511
+Response to anti-TNF therapy in rheumatoid arthritis	10	116058040	rs1679568
+Response to anti-TNF therapy in rheumatoid arthritis	1	33522178	rs923880
+Response to anti-TNF therapy in rheumatoid arthritis	2	7971100	rs41005
+Response to anti-TNF therapy in rheumatoid arthritis	2	216519759	rs13015080
+Response to anti-TNF therapy in rheumatoid arthritis	11	7948164	rs1079467
+Response to anti-TNF therapy in rheumatoid arthritis	16	71931293	rs16973500
+Response to anti-TNF therapy in rheumatoid arthritis	2	216519759	rs13015080
+Response to anti-TNF therapy in rheumatoid arthritis	5	19839394	rs1498103
+Joint damage progression in ACPA-negative rheumatoid arthritis	21	31807059	rs2833522
+Rheumatoid factor seropositivity in rheumatoid arthritis	5	3670892	rs1502644
+Celiac disease and Rheumatoid arthritis	21	35343463	rs9979383
+Celiac disease and Rheumatoid arthritis	6	159052542	rs212400
+Celiac disease and Rheumatoid arthritis	11	118809939	rs11217040
+Celiac disease and Rheumatoid arthritis	4	122117140	rs62323881
+Celiac disease and Rheumatoid arthritis	1	2608357	rs4073285
+Celiac disease and Rheumatoid arthritis	1	198764438	rs6696533
+Celiac disease and Rheumatoid arthritis	2	60877850	rs10203477
+Celiac disease and Rheumatoid arthritis	2	100142823	rs11123810
+Celiac disease and Rheumatoid arthritis	2	191037458	rs6749371
+Celiac disease and Rheumatoid arthritis	2	203745673	rs1980422
+Celiac disease and Rheumatoid arthritis	6	90267049	rs72928038
+Celiac disease and Rheumatoid arthritis	6	137684378	rs17264332
+Celiac disease and Rheumatoid arthritis	7	37387686	rs74830391
+Celiac disease and Rheumatoid arthritis	8	128554935	rs6651252
+Celiac disease and Rheumatoid arthritis	10	6348488	rs947474
+Celiac disease and Rheumatoid arthritis	12	112172910	rs11066188
+Celiac disease and Rheumatoid arthritis	18	12860802	rs80209296
+Celiac disease and Rheumatoid arthritis	21	42434957	rs1893592
+Celiac disease and Rheumatoid arthritis	22	21625000	rs4821124
+Celiac disease and Rheumatoid arthritis	2	30222160	rs7579944
+Celiac disease and Rheumatoid arthritis	1	113761186	rs6679677
+Celiac disease and Rheumatoid arthritis	1	183563445	rs17849502
+Celiac disease and Rheumatoid arthritis	2	181246479	rs16867384
+Celiac disease and Rheumatoid arthritis	3	46232768	rs67676925
+Joint damage in rheumatoid arthritis	17	45314842	rs7216796
+Joint damage in rheumatoid arthritis	9	136370636	rs59902911
+Marginal zone lymphoma or rheumatoid arthritis	16	62594871	rs1364229
+Chronic lymphocytic leukemia or rheumatoid arthritis	2	201196097	rs3731714
+Diffuse large B-cell lymphoma or rheumatoid arthritis	1	2622185	rs3890745
+Follicular lymphoma or rheumatoid arthritis	10	11246455	rs2765974
+Marginal zone lymphoma or rheumatoid arthritis	12	116928726	rs16947122
+Rheumatoid arthritis (ACPA-negative)	6	31385552	rs2596565
+Rheumatoid arthritis (ACPA-negative)	11	88934972	rs518167
+Rheumatoid arthritis (ACPA-negative)	13	51002034	rs3790022
+Rheumatoid arthritis (ACPA-negative)	13	99868847	rs9557321
+Rheumatoid arthritis (ACPA-negative)	6	32615965	rs9271348
+Rheumatoid arthritis (ACPA-negative)	18	75750899	rs1943199
+Response to methotrexate in rheumatoid arthritis	3	160712081	rs7624766
+Response to methotrexate in rheumatoid arthritis	18	8275859	rs6506569
+Rheumatoid arthritis	2	41853484	rs4305317
+Rheumatoid arthritis	7	45864208	rs6956740
+Rheumatoid arthritis	7	128940626	rs3807306
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	6	32476421	rs12194148
+Rheumatoid arthritis	2	41853484	rs4305317
+Rheumatoid arthritis	4	22089761	rs6448119
+Rheumatoid arthritis	5	178186543	rs2961663
+Rheumatoid arthritis	6	32533367	rs2157337
+Rheumatoid arthritis	13	64317065	rs11148643
+Rheumatoid arthritis	13	64356863	rs1340317
+Rheumatoid arthritis	13	64362111	rs9571178
+Rheumatoid arthritis	13	64366135	rs12873872
+Rheumatoid arthritis	13	64371042	rs9598783
+Rheumatoid arthritis	13	64372566	rs2220327
+Rheumatoid arthritis	13	64376290	rs1340319
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	22	21630805	rs5754467
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	67336688	rs6659932
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113761186	rs6679677
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113834946	rs2476601
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	113891324	rs1217393
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	173368608	rs2422345
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	1	183563445	rs17849502
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	190700031	rs744600
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191068557	rs13389408
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	2	191108308	rs10174238
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	58197909	rs35677470
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	3	160595133	rs112846137
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	4	971932	rs13101828
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	151058916	rs4958880
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	5	160460329	rs2431098
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	106121395	rs802791
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	6	137922602	rs58721818
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	74123572	rs193107685
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	128949579	rs10954214
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	7	129007888	rs13238352
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	8	11484371	rs2736337
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	11	633689	rs7929541
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	12	112433568	rs11066301
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	16	85960878	rs35929052
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	10351837	rs11085725
+Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)	19	49618017	rs76246107
+Interstitial lung diseases in rheumatoid arthritis	7	7672101	rs12702634
+Interstitial lung diseases in rheumatoid arthritis	1	4089023	rs531367212
+Interstitial lung diseases in rheumatoid arthritis	1	201720270	rs732814
+Interstitial lung diseases in rheumatoid arthritis	4	4575485	rs6842024
+Interstitial lung diseases in rheumatoid arthritis	4	49176118	rs9291340
+Interstitial lung diseases in rheumatoid arthritis	7	5868805	rs79857884
+Interstitial lung diseases in rheumatoid arthritis	8	100157596	rs199739054
+Interstitial lung diseases in rheumatoid arthritis	11	131642123	rs76140786
+Interstitial lung diseases in rheumatoid arthritis	13	74298019	rs17062507
+Interstitial lung diseases in rheumatoid arthritis	15	78424044	rs57947079
+Interstitial lung diseases in rheumatoid arthritis	17	2788499	rs9906052
+Rheumatoid arthritis	4	77587043	rs117605225
+Rheumatoid arthritis	14	104919812	rs2841269
+Rheumatoid arthritis	22	39360645	rs2049985
+Rheumatoid arthritis	6	167126167	rs3093019
+Rheumatoid arthritis	X	154018741	rs1059702
+Rheumatoid arthritis	14	68747134	rs194757
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	1	17318691	rs11464953
+Rheumatoid arthritis	1	160474183	rs148363003
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	6	32486159	rs112062732
+Rheumatoid arthritis	6	44277504	rs1044690
+Rheumatoid arthritis	6	137902353	rs9494893
+Rheumatoid arthritis	7	74611832	rs113066392
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	11	9751970	rs360136
+Rheumatoid arthritis	12	111418869	rs78894077
+Rheumatoid arthritis	14	35392594	rs111597524
+Rheumatoid arthritis	21	25397195	rs1547233
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)(time to event)	20	57641643	rs59967896
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)(time to event)	3	54084687	rs58861611
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)(time to event)	16	52471255	rs79025327
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)(time to event)	16	89145003	rs142820005
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)	20	57641643	rs59967896
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)	3	54084687	rs58861611
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)	16	52471255	rs79025327
+Response to tofacitinib treatment in rheumatoid arthritis (herpes zoster)	16	89145003	rs142820005
+Alanine aminotransferase level after methotrexate initiation in rheumatoid arthritis	1	64748329	rs72675408
+Rheumatoid arthritis	1	67322032	rs2201584
+Rheumatoid arthritis	2	197748584	rs770667
+Rheumatoid arthritis	3	46363251	rs34030880
+Rheumatoid arthritis	5	134083592	rs244672
+Rheumatoid arthritis	15	90483245	rs8040585
+Rheumatoid arthritis	10	62303318	rs56139217
+Rheumatoid arthritis	2	191090464	rs10553577
+Rheumatoid arthritis	6	167127770	rs3093017
+Rheumatoid arthritis	6	44281427	rs80202727
+Rheumatoid arthritis	7	128936032	rs3757387
+Rheumatoid arthritis	X	79087812	rs6615512
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	1	2569783	rs10797431
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	6	137907383	rs9494894
+Rheumatoid arthritis	6	167127770	rs3093017
+Rheumatoid arthritis	6	32593593	rs35139284
+Rheumatoid arthritis	6	36042055	rs386700170
+Rheumatoid arthritis	6	44261078	rs28362859
+Rheumatoid arthritis	7	128935744	rs11269962
+Rheumatoid arthritis	7	50313596	rs10261758
+Rheumatoid arthritis	8	11480861	rs2618444
+Rheumatoid arthritis	10	31061565	rs1776616
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	11	128618427	rs2156698
+Rheumatoid arthritis	18	79400235	rs56376587
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	21	44283361	rs111469885
+Rheumatoid arthritis	22	21561877	rs5754100
+Rheumatoid arthritis	22	39353976	rs5757628
+Rheumatoid arthritis	X	78924458	rs144238538
+Juvenile rheumatoid arthritis	6	32659207	rs4713573
+Rheumatoid arthritis	2	191090464	rs10553577
+Rheumatoid arthritis	4	108140462	rs58107865
+Rheumatoid arthritis	6	167127770	rs3093017
+Rheumatoid arthritis	6	32626378	rs532322163
+Rheumatoid arthritis	6	44261078	rs28362859
+Rheumatoid arthritis	7	128933913	rs4728142
+Rheumatoid arthritis	10	62025330	rs10821944
+Rheumatoid arthritis	X	78924458	rs144238538
+Rheumatoid arthritis	11	64340005	rs479777
+Rheumatoid arthritis	1	2800059	rs897628
+Rheumatoid arthritis	13	39771329	rs7320598
+Rheumatoid arthritis	1	2552522	rs2258734
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	2	60845529	rs56095903
+Rheumatoid arthritis	1	154452980	rs12126142
+Rheumatoid arthritis	6	167127770	rs3093017
+Rheumatoid arthritis	9	120873843	rs10985070
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	12	111446804	rs3184504
+Rheumatoid arthritis	15	69746861	rs2117234
+Rheumatoid arthritis	4	10724896	rs13103285
+Rheumatoid arthritis	10	31122426	rs1538981
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	7	128938247	rs2004640
+Rheumatoid arthritis	7	128936032	rs3757387
+Rheumatoid arthritis	16	11740030	rs7206670
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	18	12797695	rs2847297
+Rheumatoid arthritis	5	103268000	rs403214
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	7	92609830	rs42034
+Rheumatoid arthritis	11	95578258	rs4409785
+Rheumatoid arthritis	16	85982485	rs9939427
+Rheumatoid arthritis	6	137909252	rs7749323
+Rheumatoid arthritis	19	10661265	rs147622113
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	3	58197909	rs35677470
+Rheumatoid arthritis	19	10359299	rs12720356
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	1	113761186	rs6679677
+Rheumatoid arthritis	X	154036016	rs5987194
+Rheumatoid arthritis	14	92651884	rs117068593
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	11	118870448	rs7117261
+Rheumatoid arthritis	6	106228595	rs62422878
+Rheumatoid arthritis	22	21562072	rs5754104
+Rheumatoid arthritis	2	191094763	rs4853458
+Rheumatoid arthritis	6	137678426	rs35926684
+Rheumatoid arthritis	16	85977427	rs13333054
+Rheumatoid arthritis	20	46118343	rs1883832
+Rheumatoid arthritis	8	11480078	rs2409780
+Rheumatoid arthritis	15	69718308	rs7170107
+Rheumatoid arthritis	7	50313596	rs10261758
+Rheumatoid arthritis	10	6060794	rs3118471
+Rheumatoid arthritis	4	26089240	rs932036
+Rheumatoid arthritis	22	39351775	rs2069235
+Rheumatoid arthritis	8	100265412	rs1660322
+Rheumatoid arthritis	6	382537	rs9405192
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	11	128627057	rs73013527
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	15	69751888	rs11636401
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	7	128936032	rs3757387
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	5	103268000	rs403214
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	14	68293424	rs1950897
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	15	38541832	rs8032939
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	7	92609830	rs42034
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	11	95578258	rs4409785
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	19	10352442	rs34536443
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	1	113834946	rs2476601
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	2	191079016	rs11889341
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	10	6058762	rs3134883
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	5	56148856	rs7731626
+Rheumatoid arthritis (rheumatoid factor and anti-cyclic citrullinated peptide seronegative)	2	191094763	rs4853458
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	4	26083889	rs10517086
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	22	39351775	rs2069235
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	382537	rs9405192
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	173197108	rs1234313
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	2800059	rs897628
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	65371166	rs1858037
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	13	39788092	rs8002731
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	9	120933193	rs35942002
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	2552522	rs2258734
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	10	48817351	rs7097397
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	60881694	rs67574266
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	21	35340290	rs8129030
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	159085568	rs2451258
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	5	56148856	rs7731626
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	154452980	rs12126142
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	16	88981246	rs62045818
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	10	6056986	rs706778
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	167127770	rs3093017
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	8	100105506	rs1471293
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	17	39908216	rs11078928
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	12	111446804	rs3184504
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	4	10724896	rs13103285
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	203880280	rs11571297
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	10	31122426	rs1538981
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	7	128938247	rs2004640
+Rheumatoid arthritis	19	10354167	rs35018800
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	191073180	rs140675301
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	19	10354167	rs35018800
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	13	28029870	rs76428106
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	137909252	rs7749323
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	19	10661265	rs147622113
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	19	10352442	rs34536443
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	111119036	rs72836346
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	19	10359299	rs12720356
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	113834946	rs2476601
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	161506414	rs9427397
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	113761186	rs6679677
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	X	154036016	rs5987194
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	10	62020112	rs71508903
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	11	118870448	rs7117261
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	106228595	rs62422878
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	191079016	rs11889341
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	2	191094763	rs4853458
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	6	137678426	rs35926684
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	16	85982485	rs9939427
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	20	46118343	rs1883832
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	8	11480078	rs2409780
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	15	69718308	rs7170107
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	21	44233881	rs7278257
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	21	44236891	rs11558819
+Response to TNF inhibitor in rheumatoid arthritis (erythrocyte sedimentation rate)	10	61036479	rs140142800
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	8	113394871	rs150537045
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	14	68021957	rs140825531
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	8	21125392	rs10097964
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	3	86448244	rs114456288
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	1	80513736	rs76668869
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	11	13737245	rs78078856
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	14	35267067	rs2295463
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	11	85160633	rs117214796
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	10	21051164	rs74807419
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	4	100505575	rs34619498
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	16	54026293	rs7195994
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	9	119426326	rs10739537
+Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	8	113394871	rs150537045
+Response to TNF inhibitor in rheumatoid arthritis (change in patient global heath assessment score)	11	102630934	rs948138
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	11	19962783	rs78368496
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	5	1729673	rs147859879
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	9	98685681	rs337527
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	10	126878395	rs11599217
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	4	82429	rs2187874
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	1	80513736	rs76668869
+Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	11	13737245	rs78078856
+Response to TNF inhibitor in rheumatoid arthritis (change in disease activity score)	10	126878395	rs11599217
+Rheumatoid arthritis	11	118822452	rs28361986
+Rheumatoid arthritis	11	128286419	rs12795702
+Rheumatoid arthritis	11	128627057	rs73013527
+Rheumatoid arthritis	12	24660347	rs4963581
+Rheumatoid arthritis	12	56075401	rs4622308
+Rheumatoid arthritis	12	111495741	rs77465633
+Rheumatoid arthritis	13	39781776	rs9532434
+Rheumatoid arthritis	14	68293424	rs1950897
+Rheumatoid arthritis	14	68793871	rs3825568
+Rheumatoid arthritis	14	104921845	rs2841275
+Rheumatoid arthritis	15	38541832	rs8032939
+Rheumatoid arthritis	15	69718308	rs7170107
+Rheumatoid arthritis	15	90495652	rs199894206
+Rheumatoid arthritis	16	11740030	rs7206670
+Rheumatoid arthritis	16	23859886	rs149041927
+Rheumatoid arthritis	16	30615295	rs12918327
+Rheumatoid arthritis	16	85982795	rs9927316
+Rheumatoid arthritis	17	39875604	rs59716545
+Rheumatoid arthritis	18	12797695	rs2847297
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	19	10661265	rs147622113
+Rheumatoid arthritis	20	46118343	rs1883832
+Rheumatoid arthritis	20	63852655	rs6011186
+Rheumatoid arthritis	21	33403138	rs8126756
+Rheumatoid arthritis	21	35365944	rs8133843
+Rheumatoid arthritis	21	42434957	rs1893592
+Rheumatoid arthritis	21	44233881	rs7278257
+Rheumatoid arthritis	22	21562072	rs5754104
+Rheumatoid arthritis	22	39351775	rs2069235
+Rheumatoid arthritis	22	45350272	rs35156883
+Rheumatoid arthritis	X	79110630	rs6619397
+Rheumatoid arthritis	X	154036016	rs5987194
+Rheumatoid arthritis	1	17103279	rs2235909
+Rheumatoid arthritis	2	203771467	rs2558210
+Rheumatoid arthritis	10	6080046	rs11594656
+Rheumatoid arthritis	10	62200170	rs35576264
+Rheumatoid arthritis	15	69755777	rs10152590
+Rheumatoid arthritis	6	137968711	rs9373203
+Rheumatoid arthritis			Asn120HLA-DRB1
+Rheumatoid arthritis (ACPA-positive)			Asn120HLA-DRB1
+Rheumatoid arthritis (ACPA-negative)			Ser60HLA-DRB1
+Rheumatoid arthritis	1	2552522	rs2258734
+Rheumatoid arthritis	1	17346235	rs2301888
+Rheumatoid arthritis	1	37812907	rs28411352
+Rheumatoid arthritis	1	113761186	rs6679677
+Rheumatoid arthritis	1	154452980	rs12126142
+Rheumatoid arthritis	1	157699488	rs3761959
+Rheumatoid arthritis	1	160447367	rs12026490
+Rheumatoid arthritis	1	173197108	rs1234313
+Rheumatoid arthritis	1	186663185	rs10911902
+Rheumatoid arthritis	2	30222456	rs1355208
+Rheumatoid arthritis	2	60845529	rs56095903
+Rheumatoid arthritis	2	65371166	rs1858037
+Rheumatoid arthritis	2	73981235	rs6705628
+Rheumatoid arthritis	2	100143710	rs11123811
+Rheumatoid arthritis	2	191079016	rs11889341
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	3	17012007	rs4602367
+Rheumatoid arthritis	3	27723132	rs3806624
+Rheumatoid arthritis	4	10724896	rs13103285
+Rheumatoid arthritis	4	26109971	rs34046593
+Rheumatoid arthritis	4	77587043	rs117605225
+Rheumatoid arthritis	5	10704685	rs2918392
+Rheumatoid arthritis	5	56148856	rs7731626
+Rheumatoid arthritis	5	103268000	rs403214
+Rheumatoid arthritis	5	134088199	rs244685
+Rheumatoid arthritis	6	382537	rs9405192
+Rheumatoid arthritis	6	14106966	rs12530098
+Rheumatoid arthritis	6	44266184	rs2233424
+Rheumatoid arthritis	6	106228595	rs62422878
+Rheumatoid arthritis	6	137909252	rs7749323
+Rheumatoid arthritis	6	159068759	rs212389
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	7	28126823	rs740122
+Rheumatoid arthritis	7	74611832	rs113066392
+Rheumatoid arthritis	7	92609830	rs42034
+Rheumatoid arthritis	7	128936032	rs3757387
+Rheumatoid arthritis	8	11491452	rs9693589
+Rheumatoid arthritis	9	34710341	rs11574914
+Rheumatoid arthritis	9	120905921	rs10435844
+Rheumatoid arthritis	10	6058762	rs3134883
+Rheumatoid arthritis	10	6475205	rs502919
+Rheumatoid arthritis	10	8053377	rs2275806
+Rheumatoid arthritis	10	31122426	rs1538981
+Rheumatoid arthritis	10	48817351	rs7097397
+Rheumatoid arthritis	10	62020112	rs71508903
+Rheumatoid arthritis	11	9731194	rs9943599
+Rheumatoid arthritis	11	64275525	rs660442
+Rheumatoid arthritis	11	69092381	rs59578717
+Rheumatoid arthritis	11	72693848	rs79145843
+Rheumatoid arthritis	11	95578258	rs4409785
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	67215986	rs7517847
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	113318157	rs113973829
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	113834946	rs2476601
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	172877652	rs10912488
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	1	200905600	rs55838263
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	1	206770623	rs3024493
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	2	191079016	rs11889341
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	3	46342713	rs113341849
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	3	49674864	rs11130213
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	9	4981602	rs10758669
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	9	136378050	rs3812565
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	10	99530544	rs6584283
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	11	76570549	rs2212434
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	12	68103628	rs12817473
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	19	10359299	rs12720356
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	21	39087168	rs13048533
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	1	19845021	rs10737481
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	1	67240275	rs11209026
+Ulcerative colitis vs rheumatoid arthritis (ordinary least squares (OLS))	1	113761186	rs6679677
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	60841032	rs1432296
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	191089272	rs12612769
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	233275771	rs3792109
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	3	49660026	rs9836291
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	40488584	rs10073277
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	132461855	rs6894249
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	150858959	rs147018773
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	159387525	rs10045431
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	6	159068759	rs212389
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	9	136395373	rs4266763
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	62685804	rs10761659
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	79282718	rs1250573
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	80462422	rs7100689
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	99538694	rs1332099
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	11	61822009	rs28456
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	11	76581531	rs7110818
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	16	50722970	rs2076756
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	20	46118343	rs1883832
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	22	30174033	rs1003342
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	22	39339082	rs151314883
+Rheumatoid arthritis	6	32707693	rs12525220
+Rheumatoid arthritis	6	32707693	rs12525220
+Rheumatoid arthritis	2	161994637	rs12617656
+Rheumatoid arthritis	6	167119574	rs1854853
+Rheumatoid arthritis	9	120400388	rs12379034
+Rheumatoid arthritis	2	161994637	rs12617656
+Rheumatoid arthritis	6	167119574	rs1854853
+Rheumatoid arthritis	9	120400388	rs12379034
+Rheumatoid arthritis	6	32480822	rs7748270
+Rheumatoid arthritis	6	32480822	rs7748270
+Rheumatoid arthritis	6	32707693	rs12525220
+Rheumatoid arthritis	2	65368452	rs934734
+Rheumatoid arthritis	2	100190478	rs11676922
+Rheumatoid arthritis	6	167120802	rs3093023
+Rheumatoid arthritis	9	120889023	rs2072438
+Bone erosion in rheumatoid arthritis	8	133059588	rs2741200
+Bone erosion in rheumatoid arthritis	12	63918830	rs12422918
+Methotrexate-induced interstitial lung disease in rheumatoid arthritis	1	147733635	rs6593803
+Methotrexate-induced interstitial lung disease in rheumatoid arthritis	9	101611505	rs9299346
+Methotrexate-induced interstitial lung disease in rheumatoid arthritis	14	42913159	rs1624005
+Rheumatoid arthritis	21	34539301	rs2834512
+Rheumatoid arthritis	2	60908994	rs13031237
+Rheumatoid arthritis	2	100056230	rs10209110
+Rheumatoid arthritis	2	203878211	rs11571302
+Rheumatoid arthritis	4	26102491	rs12506688
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	X	153982797	rs13397
+Rheumatoid arthritis	5	103273223	rs2561477
+Rheumatoid arthritis	6	137685367	rs6920220
+Rheumatoid arthritis	2	203745673	rs1980422
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	22	37149465	rs3218251
+Rheumatoid arthritis	19	10352442	rs34536443
+Rheumatoid arthritis	2	60897715	rs34695944
+Rheumatoid arthritis	3	58197909	rs35677470
+Rheumatoid arthritis	5	103261591	rs39984
+Rheumatoid arthritis	8	11488036	rs4840565
+Rheumatoid arthritis	1	17347613	rs2240339
+Rheumatoid arthritis	18	12857759	rs62097857
+Rheumatoid arthritis	10	8053377	rs2275806
+Rheumatoid arthritis	10	62040245	rs12764378
+Rheumatoid arthritis	11	61142109	rs595158
+Rheumatoid arthritis	15	38535939	rs8043085
+Rheumatoid arthritis	15	69699078	rs8026898
+Rheumatoid arthritis	16	85985481	rs13330176
+Rheumatoid arthritis	17	39905943	rs2305480
+Rheumatoid arthritis	1	2596694	rs2843401
+Rheumatoid arthritis	21	35343463	rs9979383
+Rheumatoid arthritis	2	65370537	rs11673987
+Rheumatoid arthritis	2	100190052	rs6712515
+Rheumatoid arthritis	2	191105153	rs10181656
+Rheumatoid arthritis	17	39887396	rs12936409
+Rheumatoid arthritis	4	26084947	rs17630466
+Rheumatoid arthritis	2	191068528	rs13426947
+Rheumatoid arthritis	3	143446660	rs1875463
+Rheumatoid arthritis	6	167127354	rs1571878
+Rheumatoid arthritis	7	128940626	rs3807306
+Rheumatoid arthritis	9	34710263	rs2812378
+Rheumatoid arthritis	9	120921291	rs2269060
+Rheumatoid arthritis	10	6066377	rs10795791
+Rheumatoid arthritis	11	118741072	rs10892279
+Rheumatoid arthritis	20	46119308	rs4810485
+Rheumatoid arthritis	6	167124266	rs59466457
+Rheumatoid arthritis	1	38151199	rs883220
+Rheumatoid arthritis	6	32609603	rs660895
+Rheumatoid arthritis	5	56144903	rs71624119
+Rheumatoid arthritis	6	90267049	rs72928038
+Rheumatoid arthritis	7	37387748	rs75351767
+Rheumatoid arthritis	1	154454494	rs8192284
+Rheumatoid arthritis	1	17347907	rs2240336
+Rheumatoid arthritis (ACPA-positive)	15	69699078	rs8026898
+Rheumatoid arthritis (ACPA-positive)	16	85985481	rs13330176
+Rheumatoid arthritis (ACPA-positive)	17	39884510	rs2872507
+Rheumatoid arthritis (ACPA-positive)	21	34539301	rs2834512
+Rheumatoid arthritis (ACPA-positive)	21	35343463	rs9979383
+Rheumatoid arthritis (ACPA-positive)	2	100056230	rs10209110
+Rheumatoid arthritis (ACPA-positive)	9	120933004	rs10739580
+Rheumatoid arthritis (ACPA-positive)	2	203878211	rs11571302
+Rheumatoid arthritis (ACPA-positive)	17	39887396	rs12936409
+Rheumatoid arthritis (ACPA-positive)	X	153982797	rs13397
+Rheumatoid arthritis (ACPA-positive)	2	191068528	rs13426947
+Rheumatoid arthritis (ACPA-positive)	2	203745673	rs1980422
+Rheumatoid arthritis (ACPA-positive)	1	113834946	rs2476601
+Rheumatoid arthritis (ACPA-positive)	22	37149465	rs3218251
+Rheumatoid arthritis (ACPA-positive)	19	10352442	rs34536443
+Rheumatoid arthritis (ACPA-positive)	2	60897715	rs34695944
+Rheumatoid arthritis (ACPA-positive)	3	58197909	rs35677470
+Rheumatoid arthritis (ACPA-positive)	10	8060309	rs3802604
+Rheumatoid arthritis (ACPA-positive)	5	103261591	rs39984
+Rheumatoid arthritis (ACPA-positive)	11	118871133	rs4938573
+Rheumatoid arthritis (ACPA-positive)	6	167124266	rs59466457
+Rheumatoid arthritis (ACPA-positive)	20	46105671	rs6032662
+Rheumatoid arthritis (ACPA-positive)	1	173330604	rs61828284
+Rheumatoid arthritis (ACPA-positive)	6	159075681	rs629326
+Rheumatoid arthritis (ACPA-positive)	2	65329190	rs6546146
+Rheumatoid arthritis (ACPA-negative)	6	32609603	rs660895
+Rheumatoid arthritis (ACPA-negative)	5	56144903	rs71624119
+Rheumatoid arthritis (ACPA-positive)	1	2596694	rs2843401
+Rheumatoid arthritis (ACPA-positive)	2	60908994	rs13031237
+Rheumatoid arthritis (ACPA-positive)	2	65371107	rs1858036
+Rheumatoid arthritis (ACPA-positive)	2	100190052	rs6712515
+Rheumatoid arthritis (ACPA-positive)	2	191057148	rs11893432
+Rheumatoid arthritis (ACPA-positive)	2	203874196	rs3087243
+Rheumatoid arthritis (ACPA-positive)	4	26102491	rs12506688
+Rheumatoid arthritis (ACPA-positive)	5	103273223	rs2561477
+Rheumatoid arthritis (ACPA-positive)	6	137685367	rs6920220
+Rheumatoid arthritis (ACPA-positive)	6	159068759	rs212389
+Rheumatoid arthritis (ACPA-positive)	6	167127354	rs1571878
+Rheumatoid arthritis (ACPA-positive)	7	128940626	rs3807306
+Rheumatoid arthritis (ACPA-positive)	9	34710263	rs2812378
+Rheumatoid arthritis (ACPA-positive)	9	120921291	rs2269060
+Rheumatoid arthritis (ACPA-positive)	10	6066377	rs10795791
+Rheumatoid arthritis (ACPA-positive)	11	118741072	rs10892279
+Rheumatoid arthritis (ACPA-positive)	20	46119308	rs4810485
+Rheumatoid arthritis (ACPA-positive)	1	17347613	rs2240339
+Rheumatoid arthritis (ACPA-positive)	1	38151199	rs883220
+Rheumatoid arthritis (ACPA-positive)	10	8053377	rs2275806
+Rheumatoid arthritis (ACPA-positive)	10	62040245	rs12764378
+Rheumatoid arthritis (ACPA-positive)	11	61142109	rs595158
+Rheumatoid arthritis (ACPA-positive)	15	38535939	rs8043085
+Rheumatoid arthritis (ACPA-positive)	5	151055333	rs6579837
+Rheumatoid arthritis (ACPA-positive)	6	32609603	rs660895
+Rheumatoid arthritis (ACPA-positive)	5	56144903	rs71624119
+Rheumatoid arthritis (ACPA-positive)	1	116738074	rs798000
+Rheumatoid arthritis (ACPA-positive)	13	39776775	rs7993214
+Rheumatoid arthritis (ACPA-positive)	1	154454494	rs8192284
+Rheumatoid arthritis (ACPA-positive)	14	68286876	rs911263
+Rheumatoid arthritis (ACPA-positive)	1	17347907	rs2240336
+joint destruction in rheumatoid arthritis (rapid vs slow)	5	114305448	rs11958855
+joint destruction in rheumatoid arthritis (rapid vs slow)	9	98831543	rs2295926
+joint destruction in rheumatoid arthritis (rapid vs slow)	6	112340694	rs1539403
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	180721999	rs13029379
+joint destruction in rheumatoid arthritis (rapid vs slow)	12	97342818	rs1582341
+joint destruction in rheumatoid arthritis (rapid vs slow)	3	193849727	rs7629215
+joint destruction in rheumatoid arthritis (rapid vs slow)	17	729948	rs2644714
+joint destruction in rheumatoid arthritis (rapid vs slow)	17	733582	rs2295479
+joint destruction in rheumatoid arthritis (rapid vs slow)	16	7149459	rs12447219
+joint destruction in rheumatoid arthritis (rapid vs slow)	9	98831543	rs2295926
+joint destruction in rheumatoid arthritis (rapid vs slow)	5	114305448	rs11958855
+joint destruction in rheumatoid arthritis (rapid vs slow)	1	38384667	rs4266846
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	180721999	rs13029379
+joint destruction in rheumatoid arthritis (rapid vs slow)	3	193849727	rs7629215
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	164826436	rs355808
+joint destruction in rheumatoid arthritis (rapid vs slow)	8	4554833	rs7357519
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	14517062	rs4669995
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	14562225	rs10181834
+joint destruction in rheumatoid arthritis (rapid vs slow)	2	182320437	rs833126
+Carotid intima media thickness in rheumatoid arthritis	3	25596864	rs116199914
+Carotid intima media thickness in rheumatoid arthritis	12	62943756	rs1695024
+Carotid intima media thickness in rheumatoid arthritis	11	129982285	rs111703287
+Cardiovascular event in rheumatoid arthritis	1	166516654	rs6684311
+Ischemic heart disease in rheumatoid arthritis	1	245175674	rs112844193
+Ischemic heart disease in rheumatoid arthritis	7	121326736	rs3779381
+Ischemic heart disease in rheumatoid arthritis	1	156087626	rs112941217
+Carotid plaques in rheumatoid arthritis	17	15105113	rs8066891
+Carotid plaques in rheumatoid arthritis	9	29148451	rs12683261
+Carotid plaques in rheumatoid arthritis	1	240436606	rs9727451
+Carotid plaques in rheumatoid arthritis	4	165658495	rs2611206
+Sero-negative rheumatoid arthritis	5	56144903	rs71624119
+Sero-negative rheumatoid arthritis	6	32703201	rs9275428
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	5	56144903	rs71624119
+Rheumatoid arthritis	19	10317045	rs74956615
+Rheumatoid arthritis	4	26086506	rs16878091
+Rheumatoid arthritis	2	203874196	rs3087243
+Rheumatoid arthritis	6	137682685	rs11757201
+Rheumatoid arthritis	9	34710263	rs2812378
+Rheumatoid arthritis	2	100147542	rs13415465
+Rheumatoid arthritis	1	113846182	rs1217403
+Rheumatoid arthritis	15	38535939	rs8043085
+Rheumatoid arthritis	6	137922602	rs58721818
+Rheumatoid arthritis	1	17328912	rs1748041
+Rheumatoid arthritis	2	190673836	rs10931468
+Rheumatoid arthritis	1	2603539	rs6664969
+Rheumatoid arthritis	2	203747335	rs7426056
+Rheumatoid arthritis	6	90267049	rs72928038
+Rheumatoid arthritis	3	58197909	rs35677470
+Rheumatoid arthritis	10	8060309	rs3802604
+Rheumatoid arthritis	2	191099907	rs7574865
+Rheumatoid arthritis	7	128932712	rs4731532
+Rheumatoid arthritis	10	6348488	rs947474
+Rheumatoid arthritis	17	39877024	rs1054609
+Rheumatoid arthritis	10	6059750	rs3118470
+Rheumatoid arthritis	5	151059427	rs1422673
+Rheumatoid arthritis	1	3412820	rs2493291
+Rheumatoid arthritis	1	113834946	rs2476601
+Rheumatoid arthritis	2	37721427	rs12467084
+Rheumatoid arthritis	2	198259003	rs6752643
+Rheumatoid arthritis	3	58996349	rs11915402
+Rheumatoid arthritis	4	13097258	rs512244
+Rheumatoid arthritis	4	112286121	rs17604670
+Rheumatoid arthritis	5	72460843	rs2278600
+Rheumatoid arthritis	5	133712084	rs6596147
+Rheumatoid arthritis	7	130322574	rs2306848
+Rheumatoid arthritis	7	64266267	rs1830035
+Rheumatoid arthritis	7	101299780	rs10275421
+Rheumatoid arthritis	8	129939865	rs11785995
+Rheumatoid arthritis	8	20501107	rs9785133
+Rheumatoid arthritis	9	123392075	rs872863
+Rheumatoid arthritis	9	81822500	rs7854383
+Rheumatoid arthritis	9	120944104	rs2900180
+Rheumatoid arthritis	10	103653282	rs4918037
+Rheumatoid arthritis	10	48889774	rs2671692
+Rheumatoid arthritis	10	70121102	rs10999147
+Rheumatoid arthritis	12	48021974	rs4760609
+Rheumatoid arthritis	12	120363020	rs757123
+Rheumatoid arthritis	14	104513149	rs4264325
+Rheumatoid arthritis	16	83997047	rs2292327
+Rheumatoid arthritis	16	1491460	rs2745106
+Rheumatoid arthritis	17	78232490	rs11868709
+Rheumatoid arthritis	18	48515384	rs8087252
+Rheumatoid arthritis	20	37423443	rs6018432
+Rheumatoid arthritis	20	59817947	rs1182531
+Rheumatoid arthritis	22	21642781	rs13054355
+Rheumatoid arthritis	22	19750832	rs1005133

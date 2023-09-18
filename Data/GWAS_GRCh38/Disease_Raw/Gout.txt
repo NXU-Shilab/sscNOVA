@@ -1,0 +1,255 @@
+Gout	10	87159562	rs7903456
+Gout	2	27508073	rs1260326
+Gout	4	10000237	rs1014290
+Gout	4	48026080	rs11733284
+Gout	4	88162514	rs3114020
+Gout	6	25830070	rs1165176
+Gout	6	26203682	rs11758351
+Gout	10	87159562	rs7903456
+Gout	11	64668434	rs2285340
+Gout	11	66283241	rs4073582
+Gout	12	111269073	rs4766566
+Renal underexcretion gout	2	27518370	rs780094
+Renal underexcretion gout	4	10000237	rs1014290
+Renal underexcretion gout	4	48026080	rs11733284
+Renal underexcretion gout	4	88118477	rs1871744
+Renal underexcretion gout	6	26203682	rs11758351
+Renal underexcretion gout	10	87159562	rs7903456
+Renal underexcretion gout	11	64668434	rs2285340
+Renal underexcretion gout	12	111269073	rs4766566
+Renal overload gout	2	27508073	rs1260326
+Renal overload gout	4	9985700	rs3733589
+Renal overload gout	4	88051854	rs2728104
+Renal overload gout	11	64668434	rs2285340
+Renal overload gout	12	111269073	rs4766566
+Gout	4	10315399	rs9999470
+Gout	4	88131171	rs2231142
+Gout vs. Hyperuricemia	4	88131171	rs2231142
+Gout	16	6078519	rs2343519
+Gout	9	104793430	rs4149327
+Gout	11	17406354	rs2077654
+Gout	11	17454913	rs4148613
+Gout	12	21906683	rs4148660
+Gout	21	42290799	rs914189
+Gout	11	44267885	rs10769025
+Gout	1	160176704	rs16831514
+Gout	14	96242445	rs2069590
+Gout	3	55076280	rs358079
+Gout	4	186897102	rs370915
+Gout	7	117503548	rs4148689
+Gout	10	95042841	rs2275620
+Gout			rs2070676
+Gout	10	133537670	rs2070677
+Gout	5	133224458	rs2303670
+Gout	20	22806984	rs7267722
+Gout	7	81720096	rs5745709
+Gout	7	27886026	rs10225163
+Gout	7	104821040	rs2465065
+Gout	15	58385696	rs187775
+Gout	7	32177281	rs10239506
+Gout	17	66718990	rs9900205
+Gout	6	35389916	rs3798343
+Gout	4	23949395	rs12501032
+Gout	9	8712601	rs10815925
+Gout	3	25539285	rs1286772
+Gout	20	46604118	rs847058
+Gout	6	160130172	rs683369
+Gout	11	2895485	rs2283231
+Gout	7	66244790	rs4149458
+Gout	7	66265811	rs1499614
+Gout	8	72126216	rs7013415
+Gout	12	47862166	rs2239181
+Gout	12	1625104	rs4766398
+Gout	12	1631005	rs10773971
+Gout	4	183356978	rs17074636
+Gout	18	60708701	rs2168303
+Gout	4	9945032	rs4475146
+Gout	4	88117930	rs1481012
+Gout	9	104561919	rs13287980
+Gout	10	121521144	rs3135753
+Response to allopurinol in gout (change in serum uric acid levels)	1	240558252	rs1934341
+Response to allopurinol in gout (change in serum uric acid levels)	4	88131171	rs2231142
+Gout vs. Hyperuricemia	4	88080741	rs2728125
+Gout vs. Hyperuricemia	12	111803962	rs671
+Gout vs. Hyperuricemia	4	10000237	rs1014290
+Gout vs. Hyperuricemia	11	100271031	rs7927466
+Gout vs. Hyperuricemia	10	19534538	rs10764052
+Gout vs. Hyperuricemia	18	29955603	rs9952962
+Gout vs. Hyperuricemia	3	8604338	rs430312
+Gout vs. Hyperuricemia	19	23212515	rs12980365
+Gout vs. Hyperuricemia	4	1632779	rs11942233
+Gout vs. Hyperuricemia	3	151906841	rs3107329
+Gout vs. Hyperuricemia	3	94336976	rs6801125
+Gout	4	9921380	rs734553
+Gout			c.1580C>G
+Gout	4	88131171	rs2231142
+Gout	4	88080741	rs2728125
+Gout	4	9993558	rs3775948
+Gout	12	110948323	rs2188380
+Gout	2	27508073	rs1260326
+Gout	11	66283241	rs4073582
+Gout	11	65600852	rs10791821
+Gout	9	3589117	rs12236871
+Gout	11	2760289	rs179785
+Gout	17	61370008	rs11653176
+Gout	4	9914117	rs11722228
+Gout	4	88131171	rs2231142
+Renal underexcretion gout	3	69583032	rs142605903
+Renal underexcretion gout	3	47722565	rs142840709
+Renal underexcretion gout	7	13615424	rs6949071
+Renal underexcretion gout	7	109923507	rs149662848
+Renal underexcretion gout	7	151184801	rs35679068
+Renal underexcretion gout	8	51750918	rs6987025
+Renal overload gout	4	88133515	rs4148155
+Renal overload gout	12	111702865	rs11066008
+Renal overload gout	10	85911274	rs11201829
+Renal overload gout	17	70718073	rs62070600
+Renal overload gout	7	100121881	rs11974814
+Gout (combined type)	4	88128874	rs74904971
+Gout (combined type)	12	112074109	rs116873087
+Gout (combined type)	4	9993558	rs3775948
+Gout (combined type)	10	87189288	rs6586063
+Gout (combined type)	11	64814173	rs11231879
+Gout (combined type)	17	61373080	rs9905274
+Gout (combined type)	2	27508073	rs1260326
+Gout (combined type)	2	133602133	rs145480657
+Gout (combined type)	4	80246155	rs11099097
+Gout (normal type)	1	116840544	rs146978188
+Gout (normal type)	21	25768225	rs71651656
+Gout (normal type)	4	88133515	rs4148155
+Gout (normal type)	9	84559192	rs548944057
+Gout (normal type)	12	126807279	rs4558213
+Gout	4	88133515	rs4148155
+Gout	12	111803962	rs671
+Gout	4	9993632	rs3775946
+Gout	11	64506358	rs145954970
+Gout	10	87155350	rs3129500
+Gout	2	27508073	rs1260326
+Gout	17	61371584	rs1010269
+Gout	13	72994373	rs76499759
+Gout	16	20547119	rs9926388
+Gout	6	25807375	rs2817188
+Gout	10	62089323	rs147430423
+Gout	11	1350000	rs7116562
+Gout	12	122133584	rs36045144
+Gout	1	145707383	rs1797052
+Gout	2	75489181	rs10167307
+Gout	8	19190261	rs333042
+Gout	12	46206380	rs557868370
+Renal underexcretion gout	4	9993558	rs3775948
+Renal underexcretion gout	12	111792215	rs4646776
+Renal underexcretion gout	4	88133515	rs4148155
+Renal underexcretion gout	10	87083452	rs9420434
+Renal underexcretion gout	11	64480378	rs76741582
+Renal underexcretion gout	11	74561129	rs77984796
+Renal underexcretion gout	1	245763940	rs12035406
+Renal underexcretion gout	2	27525757	rs1260333
+Gout (normal type)	15	91198066	rs139921868
+Gout (normal type)	3	179340761	rs185157360
+Gout (normal type)	6	56716902	rs150881933
+Gout (normal type)	6	45715521	rs76952758
+Gout (normal type)	7	81732258	rs118003389
+Gout (normal type)	9	132130488	rs79022888
+Agouti-related protein levels	16	67476655	rs114322795
+Agouti-related protein levels	16	67540505	rs75204333
+Gout (PheCode 274.1)	8	92527474	rs544648171
+Agouti-related protein levels	16	67346647	rs7184253
+Agouti-related protein levels	16	68394186	rs8051517
+Agouti-related protein levels	16	67381180	rs142444346
+Agouti-related protein levels	16	67709521	rs74900413
+Agouti-related protein levels	2	176679823	rs4894192
+Agouti-related protein levels	16	68847872	rs138539707
+Agouti-related protein levels	12	115116281	rs11451130
+Gout	1	145711421	rs1967017
+Gout	1	155208991	rs760077
+Gout	2	27508073	rs1260326
+Gout	2	169154475	rs2075252
+Gout	2	176182444	rs72929103
+Gout	3	53021295	rs2581778
+Gout	4	9636262	rs13140984
+Gout	4	9925343	rs13129697
+Gout	4	10059523	rs75341455
+Gout	4	10294490	rs6839820
+Gout	4	10513057	rs16869379
+Gout	4	87670402	rs114791459
+Gout	4	87868966	rs114580333
+Gout	4	87973963	rs2728127
+Gout	4	88131171	rs2231142
+Gout	4	88327909	rs4693211
+Gout	4	99318162	rs1229984
+Gout	5	73149674	rs520007
+Gout	6	7118757	rs11755724
+Gout	6	25510421	rs9461183
+Gout	6	25812922	rs1165196
+Gout	6	27218013	rs3800307
+Gout	7	73573024	rs2286276
+Gout	7	151717955	rs10224002
+Gout	10	59706080	rs1171619
+Gout	11	64387509	rs77085155
+Gout	11	64566642	rs2078267
+Gout	11	64697931	rs471618
+Gout	11	65782099	rs11227299
+Gout	12	57449928	rs2229357
+Gout	12	122109702	rs28548845
+Gout	15	75866642	rs1394125
+Gout	15	90099474	rs28508560
+Gout	22	43928847	rs738409
+Gout vs asymptomatic hyperuricemia	2	27508073	rs1260326
+Gout vs asymptomatic hyperuricemia	4	88131171	rs2231142
+Gout vs asymptomatic hyperuricemia	4	88327909	rs4693211
+Gout vs asymptomatic hyperuricemia	4	9920543	rs16890979
+Gout vs asymptomatic hyperuricemia	4	99318162	rs1229984
+Gout vs asymptomatic hyperuricemia	4	87670402	rs114791459
+Gout vs asymptomatic hyperuricemia	4	87868966	rs114580333
+Gout vs asymptomatic hyperuricemia	11	64566642	rs2078267
+Gout vs asymptomatic hyperuricemia	4	88112375	rs13120400
+Gout vs asymptomatic hyperuricemia	4	88205495	rs7672194
+Gout vs asymptomatic hyperuricemia	4	88295616	rs28793136
+Gout vs asymptomatic hyperuricemia	4	88318340	rs1545207
+Gout vs asymptomatic hyperuricemia	4	9944539	rs16891234
+Renal overload gout	4	88117930	rs1481012
+Renal overload gout	9	88216417	rs17053965
+Renal overload gout	8	5357195	rs139404304
+Gout (age >=50)	5	31562640	rs61554123
+Gout (age >=50)	14	95605411	rs188807203
+Gout (age <50)	X	145701165	rs147750368
+Gout (age >=50)	4	9985700	rs3733589
+Gout (age >=50)	7	148073993	rs79799209
+Serum uric acid levels in response to allopurinol in gout	4	115481897	rs13139451
+Serum uric acid levels in response to allopurinol in gout	17	81071259	rs140721383
+Serum uric acid levels in response to allopurinol in gout	4	88170035	rs2725271
+Serum uric acid levels in response to allopurinol in gout	1	35015950	rs7555340
+Serum uric acid levels in response to allopurinol in gout	12	4988312	rs116568708
+Serum uric acid levels in response to allopurinol in gout	13	101144683	rs17621578
+Serum uric acid levels in response to allopurinol in gout	15	52048569	rs62015197
+Serum uric acid levels in response to allopurinol in gout	3	73225138	rs13100165
+Serum uric acid levels in response to allopurinol in gout	18	54876130	rs2311126
+Serum uric acid levels in response to allopurinol in gout	1	46464760	rs13374145
+Serum uric acid levels in response to allopurinol in gout	16	78744762	rs56126557
+Serum uric acid levels in response to allopurinol in gout	11	123909685	rs75510224
+Serum uric acid levels in response to allopurinol in gout	3	193161335	rs57248949
+Serum uric acid levels in response to allopurinol in gout	13	18792141	rs114363471
+Serum uric acid levels in response to allopurinol in gout	7	39945012	rs74415766
+Serum uric acid levels in response to allopurinol in gout	11	125227371	rs77467703
+Serum uric acid levels in response to allopurinol in gout	11	123834718	rs114789419
+Serum uric acid levels in response to allopurinol in gout	4	88124179	rs75544042
+Serum uric acid levels in response to allopurinol in gout	4	88131171	rs2231142
+Serum uric acid levels in response to allopurinol in gout	4	88169725	rs10011796
+Serum uric acid levels in response to allopurinol in gout	18	75471506	rs17211056
+Serum uric acid levels in response to allopurinol in gout	18	54865807	rs11152031
+Serum uric acid levels in response to allopurinol in gout	1	151895084	rs3762427
+Serum uric acid levels in response to allopurinol in gout	16	15775609	rs12922040
+Serum uric acid levels in response to allopurinol in gout	3	73227801	rs12486903
+Serum uric acid levels in response to allopurinol in gout	12	5770243	rs34720592
+Gout	6	25809488	rs1359232
+Gout	10	59707424	rs1171617
+Gout	3	53037781	rs2581817
+Gout	1	155185239	rs2070803
+Gout	7	151708919	rs10480300
+Gout	4	88131171	rs2231142
+Gout	2	27508073	rs1260326
+Gout	4	88133515	rs4148155
+Gout	4	88049223	rs2725211
+Gout	7	112691741	rs2905274
+Gout in chronic kidney disease	4	9959397	rs59834205
+Gout in chronic kidney disease	4	88133515	rs4148155

@@ -1,0 +1,163 @@
+Sarcoidosis	1	67134418	rs12069782
+Sarcoidosis	2	202691803	rs6748088
+Sarcoidosis	2	230313189	rs933957
+Sarcoidosis	4	102730805	rs223498
+Sarcoidosis	5	159405269	rs4921492
+Sarcoidosis	11	64329761	rs694739
+Sarcoidosis	12	111569952	rs653178
+Sarcoidosis	18	12775592	rs2847260
+Sarcoidosis	19	10352442	rs34536443
+Crohn's disease and sarcoidosis (combined)	10	23376509	rs1398024
+Sarcoidosis	11	64340005	rs479777
+Ocular sarcoidosis	6	31067775	rs192064582
+Ocular sarcoidosis	7	25895542	rs2391170
+Ocular sarcoidosis	22	48331447	rs133666
+Ocular sarcoidosis	15	58428495	rs74019436
+Ocular sarcoidosis	12	31864	rs374336126
+Ocular sarcoidosis	22	16890658	rs140374692
+Ocular sarcoidosis	20	30415673	rs138887197
+Ocular sarcoidosis	2	15918509	rs16863127
+Ocular sarcoidosis	10	132245320	rs12267905
+Ocular sarcoidosis	22	21233535	rs202199696
+Ocular sarcoidosis	15	81115563	rs113246996
+Ocular sarcoidosis	14	26356241	rs73597906
+Ocular sarcoidosis	16	84742465	rs11641007
+Ocular sarcoidosis	7	106496127	rs10237818
+Ocular sarcoidosis	6	32647569	rs28609302
+Ocular sarcoidosis	2	98693451	rs62158012
+Ocular sarcoidosis	18	68625281	rs199946046
+Ocular sarcoidosis	5	101770172	rs115474981
+Ocular sarcoidosis	14	25024864	rs148797562
+Ocular sarcoidosis	1	235937740	rs74148933
+Ocular sarcoidosis	13	39797285	rs116669420
+Ocular sarcoidosis	8	96002361	rs261562
+Ocular sarcoidosis	18	26527900	rs113819682
+Ocular sarcoidosis	15	59911174	rs56844788
+Ocular sarcoidosis	16	30160110	rs62055380
+Ocular sarcoidosis	18	14186392	rs543143
+Ocular sarcoidosis			chr18:49642209
+Ocular sarcoidosis			chr3:26678105
+Ocular sarcoidosis	2	162478172	rs1485976
+Ocular sarcoidosis	6	42909650	rs140196622
+Ocular sarcoidosis	6	43028259	rs147649290
+Ocular sarcoidosis	5	22036799	rs75455045
+Ocular sarcoidosis	11	6285654	rs7129092
+Ocular sarcoidosis			chr6:32444170
+Ocular sarcoidosis	6	84001929	rs144648114
+Ocular sarcoidosis	8	11779424	rs8191607
+Ocular sarcoidosis	14	74267460	rs149564368
+Ocular sarcoidosis	10	6166048	rs186003188
+Ocular sarcoidosis	11	46583732	rs149747817
+Ocular sarcoidosis	7	36632719	rs116561169
+Ocular sarcoidosis	7	54850224	rs143261448
+Ocular sarcoidosis			chr1:36162329
+Ocular sarcoidosis	18	55786872	rs111366529
+Ocular sarcoidosis	9	100222426	rs61234719
+Ocular sarcoidosis	9	100091874	rs7860280
+Ocular sarcoidosis	3	169837302	rs185473131
+Ocular sarcoidosis	1	245533270	rs79599477
+Ocular sarcoidosis	6	33037657	rs150480104
+Ocular sarcoidosis	11	59901430	rs78359123
+Ocular sarcoidosis	9	99998509	rs79529267
+Ocular sarcoidosis	11	35528905	rs56694684
+Ocular sarcoidosis	3	65705301	rs59337986
+Ocular sarcoidosis	1	171559277	rs235485
+Ocular sarcoidosis	1	104042877	rs2984818
+Ocular sarcoidosis	15	98748177	rs60710235
+Ocular sarcoidosis	6	163217235	rs16888819
+Ocular sarcoidosis	1	104169089	rs12756615
+Ocular sarcoidosis	5	158302049	rs1952664
+Ocular sarcoidosis	5	21540699	rs1496462
+Ocular sarcoidosis	3	13806989	rs7617314
+Ocular sarcoidosis	15	70408417	rs59208555
+Ocular sarcoidosis	15	95542851	rs12904124
+Ocular sarcoidosis	14	47061638	rs7147260
+Ocular sarcoidosis	8	56583918	rs2609982
+Ocular sarcoidosis	6	32644878	rs9273113
+Ocular sarcoidosis	5	158300905	rs882886
+Ocular sarcoidosis	6	32639784	rs9272594
+Ocular sarcoidosis	12	32050917	rs11051754
+Ocular sarcoidosis	4	29898299	rs28705717
+Ocular sarcoidosis	22	16899194	rs57047299
+Ocular sarcoidosis	9	68225014	rs11143370
+Ocular sarcoidosis	10	75751688	rs7090348
+Ocular sarcoidosis	6	32666449	rs68033958
+Ocular sarcoidosis	2	143602701	rs4662209
+Ocular sarcoidosis	22	46549045	rs9616042
+Ocular sarcoidosis	5	128597766	rs58827916
+Ocular sarcoidosis			chr20:9115318
+Ocular sarcoidosis	2	33981969	rs75977254
+Ocular sarcoidosis	7	6005760	rs9655491
+Ocular sarcoidosis	5	26685401	rs116272744
+Ocular sarcoidosis	10	14365826	rs139334616
+Ocular sarcoidosis	2	169416081	rs76179020
+Ocular sarcoidosis	5	26526530	rs182625293
+Ocular sarcoidosis	2	205567988	rs146112665
+Ocular sarcoidosis in sarcoidosis	3	65706699	rs17073533
+Ocular sarcoidosis in sarcoidosis	8	96002361	rs261562
+Ocular sarcoidosis in sarcoidosis	12	32044036	rs7953516
+Ocular sarcoidosis in sarcoidosis	22	48331447	rs133666
+Ocular sarcoidosis			chr2:160143734
+Ocular sarcoidosis			chr2:172504191
+Ocular sarcoidosis			chr2:228548897
+Ocular sarcoidosis			chr3:84356123
+Ocular sarcoidosis			chr4:31324345
+Ocular sarcoidosis			chr4:37036670
+Ocular sarcoidosis			chr5:124254518
+Ocular sarcoidosis			chr5:149311063
+Ocular sarcoidosis			chr6:67602255
+Ocular sarcoidosis			chr6:89573771
+Ocular sarcoidosis			chr7:100342988
+Ocular sarcoidosis			chr8:1822104
+Ocular sarcoidosis			chr13:34509247
+Ocular sarcoidosis			chr13:61595316
+Ocular sarcoidosis			chr15:100979802
+Ocular sarcoidosis			chr17:7615159
+Ocular sarcoidosis			chr11:84639992
+Ocular sarcoidosis			chr1:181887010
+Ocular sarcoidosis in sarcoidosis			chr4:31358146
+Ocular sarcoidosis in sarcoidosis			chr5:124254518
+Sarcoidosis	7	75817656	rs4728493
+Sarcoidosis	7	75993594	rs112463197
+Sarcoidosis	1	67162145	rs117633859
+Sarcoidosis	10	80166946	rs1049550
+Sarcoidosis	1	67135384	rs143577520
+Sarcoidosis	2	202689601	rs72928925
+Sarcoidosis	6	31229486	rs3134783
+Sarcoidosis	6	32660883	rs28688207
+Sarcoidosis	10	80194525	rs11308079
+Sarcoidosis	6	32663120	rs191548708
+Sarcoidosis	6	32396039	rs2076530
+Sarcoidosis	10	80151969	rs1953600
+Sarcoidosis (non-Lofgren's syndrome)	6	32481634	rs1964995
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	6	32193619	rs3132940
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	6	32481634	rs1964995
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	6	32712293	rs9275582
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	6	32836522	rs3819717
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	10	80382420	rs1953970
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	27566749	rs10484399
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	28092461	rs13197574
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	28381921	rs13213152
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	28835514	rs9257248
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	28938014	rs3130895
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	29089862	rs3129788
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	29388554	rs9257809
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	29493953	rs1233491
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	29796695	rs1633005
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	30064745	rs8321
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	30184690	rs11158
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	30464400	rs3130141
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	30746031	rs3130662
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	30911859	rs886420
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	31112239	rs2233974
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	31278044	rs2524067
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	31652743	rs3117582
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	31781365	rs915652
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	31973120	rs389884
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32128224	rs3130288
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32334605	rs1265757
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32440720	rs3135394
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32638107	rs2187668
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32812947	rs11244
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	6	32945469	rs1480380
+Sarcoidosis (Lofgren's syndrome)	6	32128224	rs3130288

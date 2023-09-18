@@ -1,0 +1,950 @@
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	22373858	rs34920465
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	24192153	rs7552167
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	1238231	rs6697886
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	2559766	rs2234161
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	7962137	rs3766606
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	19845367	rs6426833
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	19816373	rs3806308
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	19811221	rs4655215
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	24978623	rs6600247
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	67242472	rs80174646
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	67215986	rs7517847
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	67256884	rs10889676
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	67237759	rs183686347
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	113834946	rs2476601
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	113943285	rs114202211
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	151829204	rs4845604
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	152618187	rs6693105
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	154453788	rs4129267
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs4971079
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	155224224	rs78973538
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	160876494	rs1333062
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	161502999	rs10800314
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	161504083	rs61802846
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	161533059	rs79568124
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	172875212	rs6425143
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	198880294	rs1405108
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	203747335	rs7426056
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	203843041	rs11306716
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	218145423	rs11676348
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	227795396	rs7556897
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	230283413	rs12694846
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	233260144	rs35300242
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	240630275	rs3749171
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	240639691	rs4676406
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	241797926	rs35320439
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	18763719	rs73178598
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	28244770	rs10510607
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	46387167	rs1001007
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	49684099	rs3197999
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	49618715	rs116046827
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	3	137722530	rs6781808
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	4	79966815	rs11098964
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	4	101818823	rs13107612
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	4	102513096	rs3774937
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	4	122531076	rs59867199
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	4	122629959	rs13132308
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	10521556	rs11750385
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	10689450	rs3776414
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	38867630	rs395157
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	40414887	rs1992661
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	90263440	rs1847472
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	106026874	rs4946717
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	106082455	rs28701841
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	127956006	rs9491891
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs582757
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	137652695	rs928722
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	137641937	rs9494840
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	159085568	rs2451258
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs67025039
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	167098098	rs111305875
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	167024500	rs2301436
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	2830351	rs1182188
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	17157947	rs1525735
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	26832962	rs28550029
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	28154778	rs860262
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	50283578	rs4917129
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	50136058	rs12718244
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	99161494	rs9297145
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	107839681	rs6466198
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	107809588	rs7805114
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	128933913	rs4728142
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	7	148523356	rs2538470
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	8	89837077	rs10094579
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	8	125527723	rs1551399
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	8	128215706	rs2042011
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	197732862	rs16841904
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	200132792	rs2816958
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	200909599	rs12131796
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	206770623	rs3024493
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	1	206788283	rs12075255
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	9262859	rs2666218
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	24874775	rs13407913
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	25278036	rs201014116
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	27508073	rs1260326
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	28391927	rs925255
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	43550825	rs77981966
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	60977721	rs7608910
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	60854175	rs702872
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	62333197	rs4672505
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	65459327	rs11675538
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	102030838	rs4851529
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	102358876	rs12987977
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	102154822	rs871656
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	144724260	rs11691685
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	162254026	rs2111485
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	162268127	rs35667974
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	162272314	rs3747517
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	162280432	rs72871627
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	198696033	rs17229679
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	2	198702963	rs6434978
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	40396323	rs11749040
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	40496321	rs9687958
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	40201698	rs353339
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	56144903	rs71624119
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	72398072	rs4703855
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	73244023	rs34804116
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	96786011	rs469758
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	96916885	rs2910686
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	96839226	rs2549803
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	132442760	rs17622378
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	132467845	rs17622517
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	132421409	rs1004234
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	142133639	rs6863411
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	150849504	rs11749391
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	151090412	rs74817271
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	159400761	rs56167332
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	159402519	rs12188300
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	159337470	rs4921482
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	159356215	rs6556411
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	5	173960506	rs72812861
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	14715651	rs1267499
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	20643496	rs2328530
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	20624151	rs714830
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	21430497	rs71559680
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	6	90267049	rs72928038
+Crohn's disease	1	159830120	rs34687326
+Crohn's disease	3	53099133	rs2581828
+Crohn's disease	3	188683372	rs56116661
+Crohn's disease	13	42343725	rs80244186
+Crohn's disease	22	36862461	rs4821544
+Crohn's disease	16	82833851	rs10492862
+Crohn's disease	7	50264865	rs1456896
+Crohn's disease	17	42375526	rs12942547
+Crohn's disease	19	48702915	rs516246
+Crohn's disease	2	43579779	rs10495903
+Crohn's disease	1	197732149	rs2488397
+Crohn's disease	10	110426390	rs11195128
+Crohn's disease	2	102322576	rs13001325
+Crohn's disease	2	27508073	rs1260326
+Crohn's disease	8	128554935	rs6651252
+Crohn's disease	6	159069404	rs212388
+Crohn's disease	2	181443625	rs6740847
+Crohn's disease	1	200908434	rs7554511
+Crohn's disease	16	28517460	rs28449958
+Crohn's disease	10	30439172	rs1042058
+Crohn's disease	3	188683372	rs56116661
+Crohn's disease	2	28391927	rs925255
+Crohn's disease	19	33240645	rs17694108
+Crohn's disease	10	73913343	rs2227564
+Crohn's disease	6	127134977	rs9491697
+Crohn's disease	5	73244023	rs34804116
+Crohn's disease	3	71126344	rs2593855
+Crohn's disease	11	118883644	rs630923
+Crohn's disease	6	127956006	rs9491891
+Crohn's disease	1	198629533	rs7555082
+Crohn's disease	16	50712015	rs2066844
+Crohn's disease	1	67242007	rs11581607
+Crohn's disease	2	233252802	rs6752107
+Crohn's disease	5	40410482	rs11742570
+Crohn's disease	5	132435113	rs2188962
+Crohn's disease	9	136371953	rs10781499
+Crohn's disease	10	62685804	rs10761659
+Crohn's disease	11	76588605	rs11236797
+Crohn's disease	5	159400761	rs56167332
+Crohn's disease	21	15445619	rs2823286
+Crohn's disease	10	99524480	rs4409764
+Crohn's disease	3	49684099	rs3197999
+Crohn's disease	1	172884320	rs7517810
+Crohn's disease	22	39263768	rs2413583
+Crohn's disease	19	1124032	rs2024092
+Crohn's disease	18	12818923	rs80262450
+Crohn's disease	6	166960059	rs1819333
+Crohn's disease	12	40346421	rs148319899
+Crohn's disease	5	150898347	rs11741861
+Crohn's disease	15	67150258	rs17293632
+Crohn's disease	12	6381959	rs7954567
+Crohn's disease	6	90263440	rs1847472
+Crohn's disease	3	53099133	rs2581828
+Crohn's disease	1	159830120	rs34687326
+Crohn's disease	6	20812357	rs9358372
+Crohn's disease	10	6052734	rs61839660
+Crohn's disease	6	21430497	rs71559680
+Crohn's disease	17	27542007	rs10775412
+Crohn's disease	4	101944147	rs13126505
+Crohn's disease	2	198032171	rs6738825
+Crohn's disease	10	80494291	rs6586030
+Crohn's disease	3	141386728	rs724016
+Crohn's disease	2	24874775	rs13407913
+Crohn's disease	16	11279463	rs529866
+Crohn's disease	14	75275048	rs1569328
+Crohn's disease	6	14719265	rs17119
+Crohn's disease	5	38867630	rs395157
+Crohn's disease	20	46113425	rs1569723
+Crohn's disease	1	155260340	rs3180018
+Crohn's disease	6	42039665	rs67289879
+Crohn's disease	20	6113242	rs4256018
+Crohn's disease	4	38586832	rs11734570
+Crohn's disease	19	46346549	rs4802307
+Crohn's disease	13	42478744	rs2062305
+Crohn's disease	21	39093608	rs2836878
+Crohn's disease	20	59249254	rs259964
+Crohn's disease	5	10695414	rs2930047
+Crohn's disease	3	101304904	rs503734
+Crohn's disease	2	144734815	rs11681525
+Crohn's disease	7	148738247	rs243505
+Crohn's disease	10	58153390	rs1819658
+Crohn's disease	1	151829204	rs4845604
+Crohn's disease	1	160887174	rs4656958
+Crohn's disease	12	111569952	rs653178
+Crohn's disease	1	209797265	rs59043219
+Crohn's disease	22	30097893	rs5763767
+Crohn's disease	2	186711652	rs144344067
+Crohn's disease	11	61796827	rs4246215
+Crohn's disease	4	122430276	rs1479918
+Crohn's disease	17	59886176	rs1292053
+Crohn's disease	15	38606989	rs16967103
+Crohn's disease	1	7962137	rs3766606
+Crohn's disease	18	48868651	rs7240004
+Crohn's disease	10	124750812	rs111456533
+Crohn's disease	1	62583922	rs1748195
+Crohn's disease	17	56803632	rs3853824
+Crohn's disease	1	113623135	rs2636006
+Crohn's disease	11	64382898	rs559928
+Crohn's disease	5	56143024	rs10065637
+Crohn's disease	2	241545286	rs76527535
+Crohn's disease	21	44195858	rs7282490
+Crohn's disease	17	34266955	rs3091316
+Crohn's disease	17	39756124	rs12946510
+Crohn's disease	9	4981601	rs75900472
+Crohn's disease	22	21568615	rs2266959
+Crohn's disease	8	125522429	rs921720
+Crohn's disease	10	79300560	rs1250550
+Crohn's disease	21	33404389	rs2284553
+Crohn's disease	5	96917099	rs1363907
+Crohn's disease	1	206766559	rs3024505
+Crohn's disease	10	35177257	rs34779708
+Crohn's disease	2	60977721	rs7608910
+Crohn's disease	13	43883789	rs3764147
+Crohn's disease	2	230232414	rs6716753
+Crohn's disease	20	63697746	rs6062496
+Crohn's disease	19	10402235	rs11879191
+Crohn's disease	6	105987394	rs7746082
+Crohn's disease	14	88006251	rs8005161
+Crohn's disease	5	142133639	rs6863411
+Crohn's disease	16	50722970	rs2076756
+Crohn's disease	10	62710915	rs224136
+Crohn's disease	1	67215986	rs7517847
+Crohn's disease	2	233274722	rs2241880
+Crohn's disease	2	233274722	rs2241880
+Crohn's disease	16	50729868	rs2066847
+Crohn's disease	19	48705608	rs504963
+Crohn's disease	1	67236843	rs11465804
+Crohn's disease	5	132435113	rs2188962
+Crohn's disease	5	159387525	rs10045431
+Crohn's disease	6	167024500	rs2301436
+Crohn's disease and sarcoidosis (combined)	10	23376509	rs1398024
+Crohn's disease	1	24946709	rs7551188
+Crohn's disease	4	38334202	rs1487630
+Crohn's disease	13	40983974	rs7329174
+Crohn's disease	17	42355962	rs9891119
+Crohn's disease	2	5523876	rs11894081
+Crohn's disease	11	72959855	rs72981516
+Crohn's disease	6	31174468	rs3094188
+Crohn's disease	6	32237333	rs9267911
+Crohn's disease	6	32713151	rs7765379
+Crohn's disease	9	4985879	rs2274471
+Crohn's disease	9	114783386	rs6478106
+Crohn's disease	1	67240275	rs11209026
+Ulcerative colitis or Crohn's disease	6	32619077	rs9271366
+Ulcerative colitis or Crohn's disease	9	114830358	rs2006996
+Crohn's disease	21	44195678	rs762421
+Crohn's disease	1	67236843	rs11465804
+Crohn's disease	2	233271764	rs3828309
+Crohn's disease	5	40392626	rs4613763
+Crohn's disease	21	15432901	rs1736135
+Crohn's disease	12	40208138	rs11175593
+Crohn's disease	9	4981602	rs10758669
+Crohn's disease	3	49684099	rs3197999
+Crohn's disease	5	150879305	rs11747270
+Crohn's disease	16	50729868	rs2066847
+Crohn's disease	10	62678726	rs10995271
+Crohn's disease	6	20728500	rs6908425
+Crohn's disease	8	125527809	rs1551398
+Crohn's disease	1	113834946	rs2476601
+Crohn's disease	1	172893094	rs9286879
+Crohn's disease	1	200966738	rs11584383
+Crohn's disease	7	50230076	rs1456893
+Crohn's disease	10	34998722	rs17582416
+Crohn's disease	11	76590272	rs7927894
+Crohn's disease	17	39884510	rs2872507
+Crohn's disease	13	43883789	rs3764147
+Crohn's disease	6	105987394	rs7746082
+Crohn's disease	1	160882256	rs2274910
+Crohn's disease	5	132435113	rs2188962
+Crohn's disease	9	114804160	rs4263839
+Crohn's disease	10	99531836	rs11190140
+Crohn's disease	18	12779948	rs2542151
+Crohn's disease	5	159387525	rs10045431
+Crohn's disease	6	167024500	rs2301436
+Crohn's disease	17	42362183	rs744166
+Crohn's disease	7	148560956	rs7807268
+Crohn's disease	5	132406536	rs6596075
+Crohn's disease	2	233250193	rs10210302
+Crohn's disease	3	49664550	rs9858542
+Crohn's disease	5	150860514	rs1000113
+Crohn's disease	18	12779948	rs2542151
+Crohn's disease	6	32690533	rs9469220
+Crohn's disease	10	3820350	rs6601764
+Crohn's disease	16	50705671	rs17221417
+Crohn's disease	5	40401407	rs17234657
+Crohn's disease	10	62685804	rs10761659
+Crohn's disease	1	67209833	rs11805303
+Crohn's disease	10	99528007	rs10883365
+Crohn's disease (time to surgery)	16	75133681	rs7195303
+Crohn's disease (need for surgery)	9	134614732	rs11103429
+Crohn's disease (need for surgery)	7	82210237	rs11978472
+Crohn's disease	13	43883789	rs3764147
+Crohn's disease	1	67240275	rs11209026
+Crohn's disease	10	79300560	rs1250550
+Crohn's disease	5	159360377	rs6556412
+Crohn's disease	22	21574352	rs181359
+Crohn's disease	10	58153390	rs1819658
+Crohn's disease	19	10359299	rs12720356
+Crohn's disease	1	172884320	rs7517810
+Crohn's disease	9	114790605	rs3810936
+Crohn's disease	17	39884510	rs2872507
+Crohn's disease	2	43579779	rs10495903
+Crohn's disease	6	159069404	rs212388
+Crohn's disease	14	88006251	rs8005161
+Crohn's disease	15	67150258	rs17293632
+Crohn's disease	11	61790331	rs102275
+Crohn's disease	1	155260340	rs3180018
+Crohn's disease	2	25269598	rs13428812
+Crohn's disease	12	40398498	rs11564258
+Crohn's disease	10	35246767	rs12242110
+Crohn's disease	3	49684099	rs3197999
+Crohn's disease	1	160860478	rs4656940
+Crohn's disease	22	39263768	rs2413583
+Crohn's disease	6	31574531	rs1799964
+Crohn's disease	9	4981602	rs10758669
+Crohn's disease	5	150890858	rs7714584
+Crohn's disease	10	6060049	rs12722489
+Crohn's disease	16	28479196	rs151181
+Crohn's disease	10	62685804	rs10761659
+Crohn's disease	2	102437989	rs2058660
+Crohn's disease	14	68743482	rs4902642
+Crohn's disease	1	7819003	rs2797685
+Crohn's disease	1	206766559	rs3024505
+Crohn's disease	7	50264865	rs1456896
+Crohn's disease	21	44195140	rs2838519
+Crohn's disease	13	42478744	rs2062305
+Crohn's disease	19	1124836	rs740495
+Crohn's disease	2	27519736	rs780093
+Crohn's disease	2	230252159	rs7423615
+Crohn's disease	19	48711017	rs281379
+Crohn's disease	5	132448701	rs12521868
+Crohn's disease	5	96908845	rs2549794
+Crohn's disease	20	63718234	rs4809330
+Crohn's disease	1	197758512	rs1998598
+Crohn's disease	22	30196498	rs713875
+Crohn's disease	5	173852839	rs359457
+Crohn's disease	17	42418754	rs11871801
+Crohn's disease	6	166993145	rs415890
+Crohn's disease	9	136372044	rs4077515
+Crohn's disease	2	60997124	rs10181042
+Crohn's disease	1	200908434	rs7554511
+Crohn's disease	1	113834946	rs2476601
+Crohn's disease	18	12809341	rs1893217
+Crohn's disease	5	40410482	rs11742570
+Crohn's disease	11	64329761	rs694739
+Crohn's disease	6	105987150	rs6568421
+Crohn's disease	16	50722970	rs2076756
+Crohn's disease	10	99524480	rs4409764
+Crohn's disease	2	198032171	rs6738825
+Crohn's disease	5	142099500	rs11167764
+Crohn's disease	6	20728500	rs6908425
+Crohn's disease	17	34266646	rs3091315
+Crohn's disease	2	233275771	rs3792109
+Crohn's disease	8	128554935	rs6651252
+Crohn's disease	8	125525328	rs4871611
+Crohn's disease	11	76590331	rs7927997
+Crohn's disease	6	90263440	rs1847472
+Crohn's disease	3	18665366	rs13073817
+Crohn's disease	5	73255307	rs7702331
+Crohn's disease	6	3433084	rs17309827
+Crohn's disease	19	33266156	rs736289
+Crohn's disease	21	15440233	rs1736020
+Crohn's disease	10	99528007	rs10883365
+Crohn's disease	18	12779948	rs2542151
+Crohn's disease	5	40437846	rs9292777
+Crohn's disease	5	159395637	rs6887695
+Crohn's disease	5	150843825	rs13361189
+Crohn's disease	1	172929237	rs12035082
+Crohn's disease	21	38919816	rs2836754
+Crohn's disease	1	191590226	rs10801047
+Crohn's disease	3	49664550	rs9858542
+Crohn's disease	1	67240275	rs11209026
+Crohn's disease	5	40431081	rs1373692
+Crohn's disease	16	50722863	rs5743289
+Crohn's disease and celiac disease	2	60990407	rs10188217
+Crohn's disease and celiac disease	6	159069404	rs212388
+Crohn's disease and psoriasis	10	79273128	rs1250544
+Crohn's disease and psoriasis	16	11254001	rs4780355
+Crohn's disease and psoriasis	1	19392330	rs7667
+Crohn's disease and psoriasis	3	113962104	rs1386478
+Crohn's disease	1	67240275	rs11209026
+Crohn's disease	2	233274722	rs2241880
+Crohn's disease	2	62486398	rs6545946
+Crohn's disease	5	40437846	rs9292777
+Crohn's disease	5	102611094	rs7705924
+Crohn's disease	6	29755384	rs9258260
+Crohn's disease	8	73095112	rs12677663
+Crohn's disease	10	131373856	rs10734105
+Crohn's disease	10	62655424	rs7076156
+Crohn's disease	10	99532633	rs11190141
+Crohn's disease	11	57435536	rs11229030
+Crohn's disease	16	50722970	rs2076756
+Crohn's disease	16	67937477	rs11574514
+Crohn's disease	17	34266955	rs3091316
+Crohn's disease	2	60959694	rs13003464
+Crohn's disease	5	132067045	rs3091338
+Crohn's disease	8	126080638	rs1906493
+Crohn's disease	5	40497502	rs4286721
+Poor prognosis in Crohn's disease	X	113634280	rs5929166
+Poor prognosis in Crohn's disease	6	108666025	rs147856773
+Poor prognosis in Crohn's disease	6	31766174	rs9279411
+Poor prognosis in Crohn's disease	7	45859651	rs75764599
+Crohn's disease	9	114831987	rs78898421
+Crohn's disease	10	62710915	rs224136
+Crohn's disease	4	38333446	rs73243351
+Crohn's disease	5	159400761	rs56167332
+Crohn's disease	16	28511823	rs56354901
+Crohn's disease	1	67182913	rs76418789
+Crohn's disease	6	32668951	rs184950714
+Crohn's disease	1	111720204	rs488200
+Crohn's disease	7	77319034	rs4727354
+Crohn's disease	17	27516617	rs2945412
+Crohn's disease	4	101944147	rs13126505
+Crohn's disease	2	62324337	rs10865331
+Crohn's disease	5	56143024	rs10065637
+Crohn's disease	2	27412596	rs1728918
+Crohn's disease	1	78157942	rs17391694
+Crohn's disease	6	127134977	rs9491697
+Crohn's disease	6	127924620	rs13204742
+Crohn's disease	5	73255307	rs7702331
+Crohn's disease	5	173910850	rs17695092
+Crohn's disease	6	21430497	rs12663356
+Crohn's disease	6	31306603	rs9264942
+Crohn's disease	2	230232414	rs6716753
+Crohn's disease	2	233264857	rs12994997
+Crohn's disease	4	48361966	rs6837335
+Crohn's disease	7	26852821	rs10486483
+Crohn's disease	1	113761186	rs6679677
+Crohn's disease	1	119908567	rs3897478
+Crohn's disease	1	172893094	rs9286879
+Crohn's disease	7	28140937	rs864745
+Crohn's disease	8	89863690	rs7015630
+Crohn's disease	8	128554935	rs6651252
+Crohn's disease	13	43883789	rs3764147
+Crohn's disease	15	38606989	rs16967103
+Crohn's disease	16	50729868	rs2066847
+Crohn's disease	6	159069404	rs212388
+Crohn's disease	19	1124032	rs2024092
+Crohn's disease	19	46346549	rs4802307
+Crohn's disease	19	48702915	rs516246
+Crohn's disease	21	33404389	rs2284553
+Crohn's disease	5	40414965	rs1992660
+Crohn's disease	11	20677383	rs1793004
+Crohn's disease	16	50722970	rs2076756
+Crohn's disease	1;1;1;1;1;1	67228519;67236843;67264945;67240275;67256884;67260421	rs1343151; rs12567232; rs2902440; rs11209003; rs2201841; rs1004819; rs11465804; rs6669582; rs10789230; rs11209002; rs2064689; rs11465802; rs10889677; rs11209026; rs10889676; rs9988642
+Crohn's disease	1;1;1;1;1;1	67228519;67236843;67264945;67240275;67256884;67260421	rs1343151; rs12567232; rs2902440; rs11209003; rs2201841; rs1004819; rs11465804; rs6669582; rs10789230; rs11209002; rs2064689; rs11465802; rs10889677; rs11209026; rs10889676; rs9988642
+Crohn's disease	16	50722863	rs5743289
+Crohn's disease	7	114717488	rs1869839
+Crohn's disease	21	33424579	rs2834215
+Crohn's disease	22	41035338	rs4820425
+Crohn's disease	16	50722970	rs2076756
+Crohn's disease	1	67240275	rs11209026
+Crohn's disease	2	233275771	rs3792109
+Crohn's disease	5	40410482	rs11742570
+Crohn's disease	10	62685804	rs10761659
+Crohn's disease	6	31607499	rs9348876
+Crohn's disease	9	136372044	rs4077515
+Crohn's disease-related phenotypes	3	65774667	rs11924265
+Crohn's disease-related phenotypes	2	159858104	rs10929956
+Crohn's disease-related phenotypes	1	86444581	rs2249296
+Crohn's disease-related phenotypes	2	155895409	rs1520339
+Crohn's disease-related phenotypes	3	65774667	rs11924265
+Crohn's disease-related phenotypes	1	159916632	rs12122337
+Crohn's disease-related phenotypes	3	111762099	rs9868898
+Crohn's disease	10	6039267	rs12722515
+Crohn's disease	16	11279548	rs423674
+Crohn's disease	1	119895261	rs2641348
+Crohn's disease	1	78157942	rs17391694
+Crohn's disease	8	125522429	rs921720
+Crohn's disease	6	143577757	rs12199775
+Crohn's disease	17	27516617	rs2945412
+Crohn's disease	6	166960059	rs1819333
+Crohn's disease	10	79272775	rs1250546
+Crohn's disease	20	63717555	rs6062504
+Crohn's disease	5	40236916	rs1842076
+Crohn's disease	14	75275048	rs1569328
+Crohn's disease	21	39093608	rs2836878
+Crohn's disease	6	32658495	rs113653754
+Crohn's disease	6	20728500	rs6908425
+Crohn's disease	17	42375526	rs12942547
+Crohn's disease	21	33404389	rs2284553
+Crohn's disease	10	58187470	rs1199103
+Crohn's disease	1	7962137	rs3766606
+Crohn's disease	2	28391927	rs925255
+Crohn's disease	2	65440138	rs6740462
+Crohn's disease	18	79460616	rs7236492
+Crohn's disease	10	73909432	rs2227551
+Crohn's disease	11	64382898	rs559928
+Crohn's disease	7	50264865	rs1456896
+Crohn's disease	1	67215986	rs7517847
+Crohn's disease	5	40410482	rs11742570
+Crohn's disease	22	39263768	rs2413583
+Crohn's disease	1	92088726	rs34856868
+Crohn's disease	10	62685804	rs10761659
+Crohn's disease	16	85976080	rs2361755
+Crohn's disease	9	136505189	rs13300218
+Crohn's disease	13	40258875	rs17061048
+Crohn's disease	1	200908434	rs7554511
+Crohn's disease	8	128554935	rs6651252
+Crohn's disease	2	144734815	rs11681525
+Crohn's disease	19	10402235	rs11879191
+Crohn's disease	17	34266646	rs3091315
+Crohn's disease	21	15445619	rs2823286
+Crohn's disease	9	114790969	rs4246905
+Crohn's disease	10	80491075	rs7097656
+Crohn's disease	18	59211042	rs1517037
+Crohn's disease	2	233252937	rs6738490
+Crohn's disease	2	62325186	rs11679753
+Crohn's disease	1	198632575	rs76181804
+Crohn's disease	13	42336183	rs61959448
+Crohn's disease	5	56144903	rs71624119
+Crohn's disease	7	28150502	rs10276381
+Crohn's disease	1	62436136	rs631106
+Crohn's disease	2	227795396	rs7556897
+Crohn's disease	10	99523571	rs71485777
+Crohn's disease	13	43910570	rs6561151
+Crohn's disease	6	31306603	rs9264942
+Crohn's disease	1	172875212	rs6425143
+Crohn's disease	2	27518370	rs780094
+Crohn's disease	9	114818634	rs7869487
+Crohn's disease	2	230250739	rs9989735
+Crohn's disease	6	166978686	rs9457247
+Crohn's disease	1	113834946	rs2476601
+Crohn's disease	6	127956006	rs9491891
+Crohn's disease	4	102005766	rs34592089
+Crohn's disease	17	42347515	rs6503695
+Crohn's disease	5	73244023	rs34804116
+Crohn's disease	15	38554821	rs72727394
+Crohn's disease	5	173946945	rs56163845
+Crohn's disease	13	42443894	rs9525625
+Crohn's disease	20	59249254	rs259964
+Crohn's disease	2	102046427	rs10185424
+Crohn's disease	19	33240645	rs17694108
+Crohn's disease	2	218286495	rs2382817
+Crohn's disease	1	155908941	rs670523
+Crohn's disease	6	149255943	rs7758080
+Crohn's disease	11	65885771	rs568617
+Crohn's disease	6	111526988	rs3851228
+Crohn's disease	7	100825743	rs314313
+Crohn's disease	5	177361569	rs4976646
+Crohn's disease	7	99161494	rs9297145
+Crohn's disease	1	62583922	rs1748195
+Crohn's disease	12	111569952	rs653178
+Crohn's disease	14	68807188	rs194749
+Crohn's disease	5	132442760	rs17622378
+Crohn's disease	10	99524480	rs4409764
+Crohn's disease	11	76588150	rs2155219
+Crohn's disease	5	150898347	rs11741861
+Crohn's disease	9	136371953	rs10781499
+Crohn's disease	9	4981601	rs75900472
+Crohn's disease	3	49684099	rs3197999
+Crohn's disease	6	31306603	rs116392568
+Crohn's disease	5	131277907	rs11743851
+Crohn's disease	10	62781559	rs224090
+Crohn's disease	4	26130739	rs4692386
+Crohn's disease	8	27370037	rs17057051
+Crohn's disease	20	32261714	rs4243971
+Crohn's disease	1	1312114	rs12103
+Crohn's disease	4	3442776	rs2073505
+Crohn's disease	2	159937497	rs4664304
+Crohn's disease	12	68106206	rs7134472
+Crohn's disease	3	141386728	rs724016
+Crohn's disease	2	240630275	rs3749171
+Crohn's disease	3	49191068	rs4541435
+Crohn's disease	16	28506388	rs26528
+Crohn's disease	18	12809341	rs1893217
+Crohn's disease	10	35006503	rs11010067
+Crohn's disease	5	159400761	rs56167332
+Crohn's disease	7	26852821	rs10486483
+Crohn's disease	19	10359299	rs12720356
+Crohn's disease	7	50136058	rs12718244
+Crohn's disease	1	198629533	rs7555082
+Crohn's disease	22	41471373	rs727563
+Crohn's disease	16	11610795	rs11641184
+Crohn's disease	2	62324337	rs10865331
+Crohn's disease	2	241797926	rs35320439
+Crohn's disease	3	48643620	rs9868809
+Crohn's disease	7	148523356	rs2538470
+Crohn's disease	12	6381959	rs7954567
+Crohn's disease	12	40134630	rs12422544
+Crohn's disease	1	206766559	rs3024505
+Crohn's disease	19	1124032	rs2024092
+Crohn's disease	17	39756124	rs12946510
+Crohn's disease	2	60977721	rs7608910
+Crohn's disease	6	105987394	rs7746082
+Crohn's disease	21	44195858	rs7282490
+Crohn's disease	2	24874775	rs13407913
+Crohn's disease	12	40362670	rs4768236
+Crohn's disease	19	48702915	rs516246
+Crohn's disease	15	67150258	rs17293632
+Crohn's disease	6	159069404	rs212388
+Crohn's disease	5	38867630	rs395157
+Crohn's disease	2	102446909	rs6708413
+Crohn's disease	5	96917099	rs1363907
+Crohn's disease	1	197662011	rs2488389
+Crohn's disease	17	59886176	rs1292053
+Crohn's disease	3	18725912	rs4256159
+Crohn's disease	14	88006251	rs8005161
+Crohn's disease	2	43579779	rs10495903
+Crohn's disease	5	10695414	rs2930047
+Crohn's disease	11	61785208	rs174537
+Crohn's disease	22	21570728	rs2256609
+Crohn's disease	22	30097893	rs5763767
+Crohn's disease	20	46111557	rs6074022
+Crohn's disease	5	142133639	rs6863411
+Crohn's disease	6	21430497	rs71559680
+Crohn's disease	13	99255087	rs3742130
+Crohn's disease	1	151829204	rs4845604
+Crohn's disease	5	130768383	rs10051722
+Crohn's disease	19	46346549	rs4802307
+Crohn's disease	6	90263440	rs1847472
+Crohn's disease	4	122240464	rs7657746
+Crohn's disease	6	14719265	rs17119
+Crohn's disease	11	61008737	rs11230563
+Crohn's disease	8	89863690	rs7015630
+Crohn's disease	4	48361228	rs7438704
+Crohn's disease	17	56803632	rs3853824
+Crohn's disease	2	191066738	rs1517352
+Crohn's disease	6	382559	rs7773324
+Crohn's disease	1	161509955	rs1801274
+Crohn's disease	15	90638257	rs7165170
+Crohn's disease	10	30439172	rs1042058
+Crohn's disease	5	72398072	rs4703855
+Crohn's disease	1	186906327	rs10798069
+Crohn's disease	6	3420172	rs13204048
+Crohn's disease	11	58641214	rs11229555
+Crohn's disease	1	160887174	rs4656958
+Crohn's disease	13	40121855	rs915286
+Crohn's disease	6	127136115	rs2503322
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	99518968	rs11190133
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	2208529	rs10743181
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	58641214	rs11229555
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	58517478	rs10750899
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	61008737	rs11230563
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	61783884	rs174535
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	64382898	rs559928
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	65885771	rs568617
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	76588605	rs11236797
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	110085620	rs7115956
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs4561177
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	114559688	rs661054
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	128324555	rs7933433
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	128511079	rs11221332
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	11	128476898	rs11221322
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	6337611	rs1860545
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	6393576	rs11616188
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	40350592	rs7313895
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	47814585	rs11168249
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	68114342	rs11614178
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	106804833	rs12369214
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	12	111446804	rs3184504
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	13	26957130	rs17085007
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	13	40439840	rs941823
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	13	43910570	rs6561151
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	8	128554935	rs6651252
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	4981602	rs10758669
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	34710263	rs2812378
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	114806766	rs7848647
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	114934056	rs726657
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	114829725	rs7468800
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	117713024	rs4986790
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	136369439	rs10870077
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	136365140	rs141992399
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	9	136494980	rs3124998
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	6052734	rs61839660
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	6060794	rs3118471
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	6000052	rs76913543
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	6057082	rs2104286
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	6485181	rs2236379
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	30402574	rs2050392
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	35177257	rs34779708
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	62678726	rs10995271
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	62621908	rs7915475
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	73909432	rs2227551
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	79282718	rs1250573
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	80491075	rs7097656
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	88990206	rs1800682
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	92672243	rs2497318
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	99523573	rs10748781
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	13	49021195	rs2026029
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	13	99388400	rs9554587
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	14	35370030	rs2145623
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	14	35094005	rs8006884
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	14	35359535	rs12879003
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	14	75275048	rs1569328
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	14	88022477	rs11624293
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	15	38606989	rs16967103
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	15	67150258	rs17293632
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	15	67165360	rs35874463
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	11271643	rs367569
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	11225500	rs11649613
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	11067551	rs8061882
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	11655918	rs7195296
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	23853269	rs7404095
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	28506388	rs26528
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs34670647
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	30474072	rs11574938
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	30959620	rs1870293
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	50722629	rs2066845
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	50660100	rs2357623
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	50728860	rs72796367
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	50729868	rs5743293
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	85981710	rs11117431
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	16	85970504	rs12932970
+Crohn's disease	16	50675812	rs6596
+Crohn's disease	16	50888875	rs13333062
+Crohn's disease	6	32981027	rs1049526
+Crohn's disease	16	50675812	rs6596
+Crohn's disease	16	50888875	rs13333062
+Crohn's disease	6	32981027	rs1049526
+Crohn's disease	16	50675812	rs6596
+Crohn's disease	16	50888875	rs13333062
+Crohn's disease	6	32981027	rs1049526
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	27542007	rs10775412
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)			rs28998802
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	27770105	rs9797244
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	27810514	rs2779255
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	34243528	rs9889296
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	39876427	rs35736272
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	42375526	rs12942547
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	47612985	rs12943464
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	56803632	rs3853824
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	59912196	rs1292035
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	64069832	rs196941
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	17	72646784	rs17780256
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	18	79460616	rs7236492
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	18	12879467	rs12968719
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	18	12857759	rs62097857
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	18	69894282	rs66504140
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	34165501	rs587259
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	1124032	rs2024092
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	1186317	rs72977586
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	10317045	rs74956615
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	10354167	rs35018800
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	10359299	rs12720356
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	10489742	rs35074907
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	46346549	rs4802307
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	19	48702851	rs679574
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	32261714	rs4243971
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	32760944	rs6058869
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	44440356	rs4812833
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	44561731	rs79493594
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	46118343	rs1883832
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	49823486	rs1328454
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	59249254	rs259964
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	20	63697746	rs6062496
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	21	15448569	rs2823288
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	21	33404389	rs2284553
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	21	39091357	rs9977672
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	21	42434957	rs1893592
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	21	44196441	rs4456788
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	22	21574308	rs2266961
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	22	29767846	rs140135
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	22	39264824	rs2143178
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	22	39266545	rs5757584
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	22	45331684	rs1569414
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	62594503	rs10761648
+Paneth cell defects in Crohn's disease	20	4245273	rs12481514
+Paneth cell defects in Crohn's disease	20	40728825	rs723080
+Paneth cell defects in Crohn's disease	5	108553338	rs147629807
+Paneth cell defects in Crohn's disease	5	35482212	rs17318450
+Paneth cell defects in Crohn's disease	3	158878626	rs12494894
+Paneth cell defects in Crohn's disease	11	114194103	rs629922
+Paneth cell defects in Crohn's disease	8	71188090	rs72622838
+Paneth cell defects in Crohn's disease	7	153020025	rs11978753
+Paneth cell defects in Crohn's disease	22	45540440	rs2238823
+Crohn's disease	2	240630832	rs3749172
+Crohn's disease	10	62718076	rs224143
+Crohn's disease	10	79285450	rs1250569
+Crohn's disease	10	99524480	rs4409764
+Crohn's disease	18	12854073	rs514000
+Crohn's disease	21	15414477	rs2823257
+Crohn's disease	1	44492543	rs10082259
+Crohn's disease	1	6144101	rs17436816
+Crohn's disease	1	67278918	rs6660226
+Crohn's disease	1	105538802	rs1710775
+Crohn's disease	2	25382703	rs148746268
+Crohn's disease	3	30179572	rs11129387
+Crohn's disease	3	120363935	rs2030413
+Crohn's disease	4	113154532	rs9307388
+Crohn's disease	4	172130730	rs143431075
+Crohn's disease	5	103612484	rs2052483
+Crohn's disease	7	146694428	rs10952655
+Crohn's disease	9	5071049	rs10119004
+Crohn's disease	11	27829084	rs1826333
+Crohn's disease	14	78072463	rs177206
+Crohn's disease	16	4568930	rs11648328
+Crohn's disease (time to progression)			chr2:151914525
+Crohn's disease (time to progression)	14	74415130	rs10144920
+Crohn's disease (time to progression)	9	9065941	rs10977466
+Crohn's disease (time to progression)	5	101171505	rs11950172
+Crohn's disease (time to progression)	15	96933041	rs12442493
+Crohn's disease (time to progression)	19	44789032	rs2965118
+Crohn's disease (time to progression)	5	65343061	rs4700080
+Crohn's disease (time to progression)	2	151206431	rs62167560
+Crohn's disease (time to progression)	3	112789332	rs7614127
+Crohn's disease (time to progression)	15	35639966	rs78885963
+Crohn's disease (time to progression)	8	3951280	rs940145
+Crohn's disease (time to progression)	16	18006634	rs9921472
+Crohn's disease (time to first abdominal surgery)	10	33378350	rs10763930
+Crohn's disease (time to first abdominal surgery)	6	24523528	rs116417499
+Crohn's disease (time to first abdominal surgery)			rs3936663
+Crohn's disease (time to first abdominal surgery)	17	5522104	rs62072729
+Crohn's disease (time to first abdominal surgery)	3	25251475	rs6778300
+Crohn's disease (time to first abdominal surgery)	1	229142587	rs76804613
+Crohn's disease (time to first abdominal surgery)	13	110931075	rs9521997
+Crohn's disease (indolent vs progressive)			chr2:26187269
+Crohn's disease (indolent vs progressive)			chr20:41202388
+Crohn's disease (indolent vs progressive)	11	132706651	rs11223177
+Crohn's disease (indolent vs progressive)	9	22589172	rs1499555
+Crohn's disease (indolent vs progressive)	18	75743798	rs1544254
+Crohn's disease (indolent vs progressive)	13	62645344	rs1603949
+Crohn's disease (indolent vs progressive)	2	161408759	rs16845844
+Crohn's disease (indolent vs progressive)	4	116341004	rs1873103
+Crohn's disease (indolent vs progressive)	11	24637287	rs1972081
+Crohn's disease (indolent vs progressive)	7	4134757	rs4723416
+Crohn's disease (indolent vs progressive)	11	98730321	rs56259952
+Crohn's disease (indolent vs progressive)	14	22570239	rs5742831
+Crohn's disease (indolent vs progressive)	2	161291619	rs7566270
+Crohn's disease (indolent vs progressive)	4	11728827	rs75986423
+Crohn's disease (indolent vs progressive)	7	106059997	rs7780850
+Crohn's disease or systemic sclerosis	1	67336688	rs6659932
+Crohn's disease or systemic sclerosis	5	132496822	rs2548998
+Crohn's disease or systemic sclerosis	6	33512961	rs68191
+Crohn's disease or systemic sclerosis	17	42378745	rs4796791
+Crohn's disease	1	67182913	rs76418789
+Crohn's disease	8	69560258	rs117742432
+Crohn's disease	9	114813633	rs55951892
+Crohn's disease	19	29530539	rs117223925
+Crohn's disease	4	188972159	rs12647478
+Crohn's disease	10	62710915	rs224136
+Crohn's disease	9	71266959	rs151258497
+Crohn's disease	20	52931763	rs6126698
+Crohn's disease	1	111680080	rs534888
+Crohn's disease	8	128212448	rs12678162
+Crohn's disease	5	159400761	rs56167332
+Crohn's disease	21	31954469	rs2833577
+Crohn's disease	4	38359795	rs55843528
+Crohn's disease	16	28511823	rs56354901
+Crohn's disease	1	20111141	rs7515774
+Crohn's disease	15	26911391	rs781387485
+Crohn's disease	11	65140591	rs11227126
+Crohn's disease	7	77319034	rs4727354
+Crohn's disease	22	22712129	rs9623882
+Crohn's disease	6	32668951	rs184950714
+Crohn's disease	5	68395641	rs10068082
+Crohn's disease	7	12182175	rs200319458
+Crohn's disease			chr20:47804952
+Crohn's disease	6	2957593	rs79536569
+Thiopurine-induced early leukopenia in Crohn's disease	13	48045719	rs116855232
+Crohn's disease x smoking status (never vs ever smoking) interaction	2	25228920	rs74580656
+Crohn's disease x smoking status (never vs ever smoking) interaction	6	32400070	rs3817966
+Crohn's disease x smoking status (never vs current smoking) interaction	6	31014432	rs7755802
+Crohn's disease x smoking status (never vs current smoking) interaction	6	32400000	rs9268482
+Crohn's disease x smoking status (never vs current smoking) interaction	16	50705671	rs17221417
+Crohn's disease x smoking status (never vs former smoking) interaction	16	68791062	rs16958356
+Crohn's disease vs ulcerative colitis	12	124548243	rs885026
+Crohn's disease vs ulcerative colitis	3	112350545	rs9842650
+Crohn's disease vs ulcerative colitis	8	80366650	rs12543811
+Crohn's disease	9	114817177	rs10817678
+Crohn's disease	5	159400761	rs56167332
+Crohn's disease	1	67132294	rs2024825
+Crohn's disease	7	950350	rs77992257
+Crohn's disease	16	28519966	rs4787458
+Crohn's disease or Leprosy	13	43897741	rs9567307
+Crohn's disease or Leprosy	8	89777483	rs40545
+Crohn's disease or Leprosy (opposite effect)	9	114817177	rs10817678
+Crohn's disease or Leprosy (opposite effect)	16	50685192	rs9302752
+Crohn's disease or Leprosy (opposite effect)	5	159400761	rs56167332
+Crohn's disease or Leprosy (opposite effect)	1	67132294	rs2024825
+Crohn's disease or Leprosy (opposite effect)	7	950350	rs77992257
+Crohn's disease or Leprosy (opposite effect)	16	28519966	rs4787458
+Crohn's disease or Leprosy (opposite effect)	10	62734542	rs80161952
+Crohn's disease or Leprosy (opposite effect)	2	102554607	rs2310295
+Crohn's disease or Leprosy (opposite effect)	11	64343196	rs574835
+Crohn's disease	5	40426318	rs957100
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	67215986	rs7517847
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	113318157	rs113973829
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	113834946	rs2476601
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	1	172877652	rs10912488
+Surgical recurrence in Crohn's disease	18	55500289	rs2060886
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	5	40446447	rs4957294
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	16	50270338	rs77150043
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	16	50722970	rs2076756
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	60841032	rs1432296
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	191089272	rs12612769
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	2	233275771	rs3792109
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	3	49660026	rs9836291
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	40488584	rs10073277
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	132461855	rs6894249
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	150858959	rs147018773
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	5	159387525	rs10045431
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	6	159068759	rs212389
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	9	136395373	rs4266763
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	62685804	rs10761659
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	79282718	rs1250573
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	80462422	rs7100689
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	10	99538694	rs1332099
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	11	61822009	rs28456
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	11	76581531	rs7110818
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	16	50722970	rs2076756
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	20	46118343	rs1883832
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	22	30174033	rs1003342
+Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	22	39339082	rs151314883
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	1	19845367	rs6426833
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	1	67202253	rs1977160
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	1	113834946	rs2476601
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	1	172887910	rs6704109
+Crohn's disease vs ulcerative colitis (ordinary least squares (OLS))	2	233276306	rs3792108
+Crohn's disease	6	32619077	rs9271366
+Crohn's disease	1	67182913	rs76418789
+Crohn's disease	4	38323415	rs6856616
+Crohn's disease	6	32405455	rs10947261
+Crohn's disease	6	33796256	rs751728
+Crohn's disease	6	166957622	rs2149085
+Crohn's disease	10	110426390	rs11195128
+Crohn's disease	11	73152652	rs11235667
+Crohn's disease	6	31301916	rs114985235
+Crohn's disease	6	32607736	rs9271060
+Crohn's disease	6	82938337	rs293526
+Crohn's disease	9	114806486	rs6478109
+Crohn's disease	6	32691666	rs140068907
+Poor prognosis in Crohn's disease	6	32463370	rs9268877
+Infliximab-induced mucosal healing in Crohn's disease	16	3688026	rs2158962
+Anti-adalimumab antibody production in response to treatment in Crohn's disease	3	111506078	rs9828223

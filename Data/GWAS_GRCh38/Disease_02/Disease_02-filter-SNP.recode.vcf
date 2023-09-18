@@ -1,0 +1,135 @@
+##fileformat=VCFv4.0
+##fileDate=20180418
+##source=dbSNP
+##dbSNP_BUILD_ID=151
+##reference=GRCh38.p7
+##phasing=partial
+##variationPropertyDocumentationUrl=ftp://ftp.ncbi.nlm.nih.gov/snp/specs/dbSNP_BitField_latest.pdf
+##INFO=<ID=RS,Number=1,Type=Integer,Description="dbSNP ID (i.e. rs number)">
+##INFO=<ID=RSPOS,Number=1,Type=Integer,Description="Chr position reported in dbSNP">
+##INFO=<ID=RV,Number=0,Type=Flag,Description="RS orientation is reversed">
+##INFO=<ID=VP,Number=1,Type=String,Description="Variation Property.  Documentation is at ftp://ftp.ncbi.nlm.nih.gov/snp/specs/dbSNP_BitField_latest.pdf">
+##INFO=<ID=GENEINFO,Number=1,Type=String,Description="Pairs each of gene symbol:gene id.  The gene symbol and id are delimited by a colon (:) and each pair is delimited by a vertical bar (|)">
+##INFO=<ID=dbSNPBuildID,Number=1,Type=Integer,Description="First dbSNP Build for RS">
+##INFO=<ID=SAO,Number=1,Type=Integer,Description="Variant Allele Origin: 0 - unspecified, 1 - Germline, 2 - Somatic, 3 - Both">
+##INFO=<ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+##INFO=<ID=WGT,Number=1,Type=Integer,Description="Weight, 00 - unmapped, 1 - weight 1, 2 - weight 2, 3 - weight 3 or more">
+##INFO=<ID=VC,Number=1,Type=String,Description="Variation Class">
+##INFO=<ID=PM,Number=0,Type=Flag,Description="Variant is Precious(Clinical,Pubmed Cited)">
+##INFO=<ID=TPA,Number=0,Type=Flag,Description="Provisional Third Party Annotation(TPA) (currently rs from PHARMGKB who will give phenotype data)">
+##INFO=<ID=PMC,Number=0,Type=Flag,Description="Links exist to PubMed Central article">
+##INFO=<ID=S3D,Number=0,Type=Flag,Description="Has 3D structure - SNP3D table">
+##INFO=<ID=SLO,Number=0,Type=Flag,Description="Has SubmitterLinkOut - From SNP->SubSNP->Batch.link_out">
+##INFO=<ID=NSF,Number=0,Type=Flag,Description="Has non-synonymous frameshift A coding region variation where one allele in the set changes all downstream amino acids. FxnClass = 44">
+##INFO=<ID=NSM,Number=0,Type=Flag,Description="Has non-synonymous missense A coding region variation where one allele in the set changes protein peptide. FxnClass = 42">
+##INFO=<ID=NSN,Number=0,Type=Flag,Description="Has non-synonymous nonsense A coding region variation where one allele in the set changes to STOP codon (TER). FxnClass = 41">
+##INFO=<ID=REF,Number=0,Type=Flag,Description="Has reference A coding region variation where one allele in the set is identical to the reference sequence. FxnCode = 8">
+##INFO=<ID=SYN,Number=0,Type=Flag,Description="Has synonymous A coding region variation where one allele in the set does not change the encoded amino acid. FxnCode = 3">
+##INFO=<ID=U3,Number=0,Type=Flag,Description="In 3' UTR Location is in an untranslated region (UTR). FxnCode = 53">
+##INFO=<ID=U5,Number=0,Type=Flag,Description="In 5' UTR Location is in an untranslated region (UTR). FxnCode = 55">
+##INFO=<ID=ASS,Number=0,Type=Flag,Description="In acceptor splice site FxnCode = 73">
+##INFO=<ID=DSS,Number=0,Type=Flag,Description="In donor splice-site FxnCode = 75">
+##INFO=<ID=INT,Number=0,Type=Flag,Description="In Intron FxnCode = 6">
+##INFO=<ID=R3,Number=0,Type=Flag,Description="In 3' gene region FxnCode = 13">
+##INFO=<ID=R5,Number=0,Type=Flag,Description="In 5' gene region FxnCode = 15">
+##INFO=<ID=OTH,Number=0,Type=Flag,Description="Has other variant with exactly the same set of mapped positions on NCBI refernce assembly.">
+##INFO=<ID=CFL,Number=0,Type=Flag,Description="Has Assembly conflict. This is for weight 1 and 2 variant that maps to different chromosomes on different assemblies.">
+##INFO=<ID=ASP,Number=0,Type=Flag,Description="Is Assembly specific. This is set if the variant only maps to one assembly">
+##INFO=<ID=MUT,Number=0,Type=Flag,Description="Is mutation (journal citation, explicit fact): a low frequency variation that is cited in journal and other reputable sources">
+##INFO=<ID=VLD,Number=0,Type=Flag,Description="Is Validated.  This bit is set if the variant has 2+ minor allele count based on frequency or genotype data.">
+##INFO=<ID=G5A,Number=0,Type=Flag,Description=">5% minor allele frequency in each and all populations">
+##INFO=<ID=G5,Number=0,Type=Flag,Description=">5% minor allele frequency in 1+ populations">
+##INFO=<ID=HD,Number=0,Type=Flag,Description="Marker is on high density genotyping kit (50K density or greater).  The variant may have phenotype associations present in dbGaP.">
+##INFO=<ID=GNO,Number=0,Type=Flag,Description="Genotypes available. The variant has individual genotype (in SubInd table).">
+##INFO=<ID=KGPhase1,Number=0,Type=Flag,Description="1000 Genome phase 1 (incl. June Interim phase 1)">
+##INFO=<ID=KGPhase3,Number=0,Type=Flag,Description="1000 Genome phase 3">
+##INFO=<ID=CDA,Number=0,Type=Flag,Description="Variation is interrogated in a clinical diagnostic assay">
+##INFO=<ID=LSD,Number=0,Type=Flag,Description="Submitted from a locus-specific database">
+##INFO=<ID=MTP,Number=0,Type=Flag,Description="Microattribution/third-party annotation(TPA:GWAS,PAGE)">
+##INFO=<ID=OM,Number=0,Type=Flag,Description="Has OMIM/OMIA">
+##INFO=<ID=NOC,Number=0,Type=Flag,Description="Contig allele not present in variant allele list. The reference sequence allele at the mapped position is not present in the variant allele list, adjusted for orientation.">
+##INFO=<ID=WTD,Number=0,Type=Flag,Description="Is Withdrawn by submitter If one member ss is withdrawn by submitter, then this bit is set.  If all member ss' are withdrawn, then the rs is deleted to SNPHistory">
+##INFO=<ID=NOV,Number=0,Type=Flag,Description="Rs cluster has non-overlapping allele sets. True when rs set has more than 2 alleles from different submissions and these sets share no alleles in common.">
+##FILTER=<ID=NC,Description="Inconsistent Genotype Submission For At Least One Sample">
+##INFO=<ID=CAF,Number=.,Type=String,Description="An ordered, comma delimited list of allele frequencies based on 1000Genomes, starting with the reference allele followed by alternate alleles as ordered in the ALT column. Where a 1000Genomes alternate allele is not in the dbSNPs alternate allele set, the allele is added to the ALT column. The minor allele is the second largest value in the list, and was previuosly reported in VCF as the GMAF. This is the GMAF reported on the RefSNP and EntrezSNP pages and VariationReporter">
+##INFO=<ID=COMMON,Number=1,Type=Integer,Description="RS is a common SNP.  A common SNP is one that has at least one 1000Genomes population with a minor allele of frequency >= 1% and for which 2 or more founders contribute to that minor allele frequency.">
+##INFO=<ID=TOPMED,Number=.,Type=String,Description="An ordered, comma delimited list of allele frequencies based on TOPMed, starting with the reference allele followed by alternate alleles as ordered in the ALT column. The TOPMed minor allele is the second largest value in the list.">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	8230022	rs438650	T	C	.	.	.
+1	24187123	rs78312791	C	A	.	.	.
+1	24970693	rs11249215	G	A	.	.	.
+1	63643011	rs2269242	G	A,T	.	.	.
+1	67247663	rs113935720	T	C	.	.	.
+1	67259437	rs10889677	C	A	.	.	.
+1	152617711	rs6677595	C	G,T	.	.	.
+1	155157915	rs4971079	G	A,C	.	.	.
+1	173399532	rs1578624	C	T	.	.	.
+2	60845432	rs35741374	C	T	.	.	.
+2	65474623	rs840967	C	A,T	.	.	.
+2	73973913	rs10166809	C	T	.	.	.
+2	102055220	rs4851536	T	G	.	.	.
+2	164694691	rs7607980	T	C	.	.	.
+2	190549137	rs34825614	A	G	.	.	.
+2	191047814	rs12465689	C	A,T	.	.	.
+2	191153045	rs897200	T	C	.	.	.
+3	16969982	rs3906814	C	G,T	.	.	.
+3	56919146	rs9844930	A	C	.	.	.
+3	101898138	rs771576	T	A,C	.	.	.
+3	185806293	rs4686392	A	G	.	.	.
+4	7183972	rs3936663	A	C,T	.	.	.
+4	101801236	rs4699259	C	A	.	.	.
+4	179363660	rs6811556	T	A,C	.	.	.
+4	181478542	rs7672826	G	A	.	.	.
+4	183688220	rs10018951	C	T	.	.	.
+5	96784466	rs39841	G	A,C	.	.	.
+5	151085018	rs75851973	A	G	.	.	.
+5	151098757	rs17728338	G	A	.	.	.
+5	151107634	rs4958895	A	T	.	.	.
+6	29290190	rs1033568	G	A,T	.	.	.
+6	31285148	rs12191877	C	T	.	.	.
+6	31287231	rs13214872	C	G	.	.	.
+6	32224440	rs16869875	C	T	.	.	.
+6	32359144	rs9268310	T	C	.	.	.
+6	32445274	rs3135388	A	G	.	.	.
+6	32452182	rs3135384	A	G	.	.	.
+6	32591987	rs9270539	T	C	.	.	.
+6	32620208	rs9271429	A	G	.	.	.
+6	32699886	rs9275349	G	C	.	.	.
+6	32898318	rs9276916	A	G,T	.	.	.
+6	33066800	rs34596699	C	A,T	.	.	.
+6	33341335	rs184722928	G	A	.	.	.
+6	34584135	rs205284	C	G,T	.	.	.
+6	34747063	rs146761142	A	G	.	.	.
+6	34872621	rs3734261	G	A	.	.	.
+6	35056706	rs78368810	C	G	.	.	.
+6	137876687	rs582757	C	T	.	.	.
+7	105500705	rs6957263	T	C	.	.	.
+7	110352114	rs34723276	T	C	.	.	.
+8	11486171	rs2254546	A	G	.	.	.
+9	22081398	rs10116277	G	T	.	.	.
+9	32523739	rs11795343	T	C	.	.	.
+9	37037979	rs1329568	T	A,G	.	.	.
+9	75984217	rs6560480	C	T	.	.	.
+10	73841838	rs2459446	C	T	.	.	.
+10	100251454	rs12265333	A	G,T	.	.	.
+10	119246715	rs17098586	T	A	.	.	.
+10	133537633	rs2070676	G	C	.	.	.
+11	64344456	rs685870	T	C	.	.	.
+11	67104849	rs34560402	C	T	.	.	.
+11	110091706	rs4561177	A	G	.	.	.
+11	128540369	rs10893884	T	A,C	.	.	.
+12	56347444	rs57137641	G	A	.	.	.
+14	35383280	rs12884468	T	C	.	.	.
+16	30995651	rs2199036	C	T	.	.	.
+16	58293742	rs2288012	A	G	.	.	.
+17	27797882	rs28998802	G	A	.	.	.
+17	42666566	rs2292749	C	A,T	.	.	.
+17	49334880	rs1343795	C	A	.	.	.
+19	54713283	rs2296370	A	G,T	.	.	.
+19	54834954	rs4806584	T	A	.	.	.
+19	54862632	rs77637758	T	C	.	.	.
+19	54866128	rs3745900	T	C	.	.	.
+19	54867770	rs12459411	C	T	.	.	.
+19	54878590	rs181695385	T	C	.	.	.
+19	54908874	rs8111853	G	T	.	.	.
+20	49974254	rs6063454	G	T	.	.	.

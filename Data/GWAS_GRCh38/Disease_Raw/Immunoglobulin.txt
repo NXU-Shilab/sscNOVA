@@ -1,0 +1,320 @@
+Immunoglobulin light chain (AL) amyloidosis	1	19968007	rs10799599
+Immunoglobulin light chain (AL) amyloidosis	3	41827935	rs142802669
+Immunoglobulin light chain (AL) amyloidosis	7	21898622	rs4487645
+Immunoglobulin light chain (AL) amyloidosis	7	151239990	rs79419269
+Immunoglobulin light chain (AL) amyloidosis	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis	11	123369465	rs11219122
+Immunoglobulin light chain (AL) amyloidosis	14	34969593	rs2273156
+Immunoglobulin light chain (AL) amyloidosis	16	30660211	rs35629860
+Immunoglobulin light chain (AL) amyloidosis	17	16941853	rs4792800
+Immunoglobulin light chain (AL) amyloidosis	22	39151886	rs1005300
+Immunoglobulin A	1	232383404	rs669408
+Immunoglobulin A	11	46357892	rs11038871
+Immunoglobulin A	10	89012072	rs2234978
+Immunoglobulin A	6	32638107	rs2187668
+Immunoglobulin A	2	162267541	rs1990760
+Immunoglobulin A	18	5857092	rs11662763
+Immunoglobulin A	7	96785743	rs12669076
+Immunoglobulin A	3	151862085	rs6798928
+Immunoglobulin A	8	128234169	rs10492294
+Immunoglobulin A	9	27882655	rs7029145
+Immunoglobulin A	6	32619077	rs9271366
+Immunoglobulin A	16	10987392	rs6498142
+Immunoglobulin measurement (zinc sulfate turbidity test)	1	161751561	rs7540096
+Immunoglobulin measurement (zinc sulfate turbidity test)	5	72985488	rs258888
+Immunoglobulin measurement (zinc sulfate turbidity test)	14	102777609	rs1051750
+Immunoglobulin measurement (zinc sulfate turbidity test)	17	16936468	rs74998556
+Immunoglobulin M against phosphorylcholine (IgM anti-PC) levels	11	123484683	rs35923643
+Immunoglobulin G index levels in multiple sclerosis	6	32696074	rs6457617
+Immunoglobulin G index levels in multiple sclerosis	14	105706543	rs11621145
+Immunoglobulin G index levels in multiple sclerosis	6;6	32624423;32696074	rs9271640; rs6457617; rs3957148
+Composite immunoglobulin trait (IgA x IgG x IgM)	6	32614705	rs9271324
+Composite immunoglobulin trait (IgA x IgG x IgM)	17	7558697	rs187256434
+Composite immunoglobulin trait (IgA x IgG/IgM)	2	111462782	rs1448187
+Composite immunoglobulin trait (IgA x IgG/IgM)	14	102773293	rs12147883
+Composite immunoglobulin trait (IgA x IgG/IgM)	1	203656523	rs6661843
+Composite immunoglobulin trait (IgA x IgG/IgM)	3	58437771	rs6794695
+Composite immunoglobulin trait (IgA x IgG/IgM)	12	111277393	rs1265565
+Composite immunoglobulin trait (IgA x IgG/IgM)	19	1079960	rs36084354
+Composite immunoglobulin trait (IgA x IgG/IgM)	18	23845027	rs17202961
+Composite immunoglobulin trait (IgA x IgG/IgM)	22	28882263	rs77389267
+Composite immunoglobulin trait (IgG/IgM)	12	49208422	rs10875934
+Composite immunoglobulin trait (IgA x IgG)	17	40013006	rs113903075
+Composite immunoglobulin trait (IgA/IgG)	1	19141681	rs781088515
+Composite immunoglobulin trait (IgA/IgG)	1	160186352	rs762472595
+Composite immunoglobulin trait (IgA/IgG)	14	105707884	rs117775520
+Composite immunoglobulin trait (IgA/IgG)	14	105644577	rs11627594
+Composite immunoglobulin trait (IgA/IgG)			chr14:105598858
+Composite immunoglobulin trait (IgA/IgG)	6	32837272	rs2239701
+Composite immunoglobulin trait (IgA/IgG)	12	110688804	rs28720928
+Composite immunoglobulin trait (IgA/IgG)	12	10434512	rs1141715
+Composite immunoglobulin trait (IgA/IgG)	9	114930602	rs3181356
+Composite immunoglobulin trait (IgA/IgG)	17	42322333	rs780466766
+Composite immunoglobulin trait (IgA/IgG)	14	105490049	rs765583909
+Composite immunoglobulin trait (IgA/IgG)	12	10420495	rs2682491
+Composite immunoglobulin trait (IgA/IgM)	6	28446593	rs753075559
+Composite immunoglobulin trait (IgA/IgM)	6	31358474	rs9405084
+Composite immunoglobulin trait (IgA/IgM)	14	105709338	rs112763553
+Composite immunoglobulin trait (IgA/IgM)	16	85919590	rs8057456
+Composite immunoglobulin trait (IgA/IgM)	14	92665735	rs12590630
+Composite immunoglobulin trait (IgA/IgM)	2	60815015	rs35043490
+Composite immunoglobulin trait (IgA/IgM)	1	45331833	rs3219489
+Composite immunoglobulin trait (IgA/IgM)	9	37002145	rs12554596
+Composite immunoglobulin trait (IgA/IgM)	5	50552464	rs3857298
+Composite immunoglobulin trait (IgG/IgM)	4	38797027	rs5743618
+Composite immunoglobulin trait (IgG/IgM)	14	105733666	rs74093831
+Composite immunoglobulin trait (IgG/IgM)	2	110841381	rs1554005
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	16	5030085	rs3743841
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	18	5503378	rs73379591
+Kawasaki disease or immunoglobulin A vasculitis (pleiotropy)	10	6791131	rs10508313
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54278734	rs586206
+Immunoglobulin A vasculitis	6	32702260	rs9275407
+Immunoglobulin A vasculitis	6	32475492	rs9269110
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	9	133257367	rs8176722
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	15	74318848	rs751527
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50857161	rs8066847
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161499264	rs6658353
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161509069	rs4657041
+High affinity immunoglobulin gamma Fc receptor I levels	22	22702868	rs5751521
+Leucine-rich repeats and immunoglobulin-like domains protein 3 levels	12	58890047	rs144365133
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs4806584
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7690056	rs4996978
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54632690	rs10425827
+Low affinity immunoglobulin gamma Fc region receptor III-B levels			chr1
+Polymeric immunoglobulin receptor levels	1	206935771	rs2275531
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	9	133256074	rs8176741
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels			chr9:136139907
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	9	133281560	rs558240
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	15	74317938	rs4887134
+Immunoglobulin superfamily containing leucine-rich repeat protein 2 levels	9	133209554	rs4489379
+Immunoglobulin G levels	14	105641600	rs4983498
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54549174	rs7246961
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54542896	rs12459783
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	6	31357111	rs1131163
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54639836	rs369645554
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels			chr19:55067218
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54280275	rs383369
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54282520	rs116877265
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54271122	rs3896287
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54250239	rs11668189
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54260474	rs389096
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54257485	rs117866885
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54207310	rs73615921
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54291446	rs427366
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54292240	rs77193666
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54636880	rs8101240
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs3745900
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs12459411
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs372756420
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs8111853
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs181695385
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs77637758
+Killer cell immunoglobulin-like receptor 2DL4 levels			rs2296370
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54632388	rs10426886
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54573515	rs28384500
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54575519	rs141524982
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54585932	rs4806519
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54544858	rs146829452
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54615303	rs7250931
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54548687	rs10402494
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54646481	rs10411948
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54588509	rs112416574
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54653456	rs141316225
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54461539	rs7254603
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54657298	rs112856126
+Polymeric immunoglobulin receptor levels	14	105660219	rs73367390
+Polymeric immunoglobulin receptor levels	1	206935771	rs2275531
+Polymeric immunoglobulin receptor levels	14	105591378	rs74091256
+Polymeric immunoglobulin receptor levels			chr14:106040004
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels			chr17:48885083
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50830236	rs10853117
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50884228	rs34871718
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50843312	rs58795058
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50780633	rs138946040
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50804171	rs150333964
+Immunoglobulin N-glycan 22 levels	14	65792447	rs4131097
+Immunoglobulin N-glycan 2 levels	14	65803692	rs61989008
+Immunoglobulin N-glycan 23 levels	1	24965206	rs188468174
+Immunoglobulin N-glycan 2 levels	7	151234719	rs111632177
+Immunoglobulin N-glycan 23 levels	22	39462191	rs2413592
+Immunoglobulin N-glycan 7 levels	14	65800106	rs8006608
+Immunoglobulin N-glycan 7 levels	14	65380123	rs8022094
+Immunoglobulin N-glycan 8 levels	1	24965206	rs188468174
+Immunoglobulin N-glycan 10 levels	1	24965206	rs188468174
+Immunoglobulin N-glycan 10 levels	22	39442013	rs5750829
+Immunoglobulin N-glycan 10 levels	22	23837735	rs3177243
+Immunoglobulin N-glycan 11 levels	22	23828809	rs2186369
+Immunoglobulin N-glycan 11 levels	1	24965206	rs188468174
+Immunoglobulin N-glycan 12 levels	14	65380123	rs8022094
+Immunoglobulin N-glycan 16 levels	14	105632083	rs7153753
+Immunoglobulin N-glycan 16 levels			chr14:106098420
+Immunoglobulin N-glycan 17 levels	14	65380123	rs8022094
+Immunoglobulin N-glycan 19 levels	6	32731211	rs7751856
+Immunoglobulin N-glycan 1 levels	14	50159939	rs35530861
+Immunoglobulin N-glycan 22 levels	3	186995175	rs16848727
+Immunoglobulin N-glycan 2 levels	14	65393250	rs11158592
+Immunoglobulin N-glycan 23 levels	3	186997531	rs35376994
+Immunoglobulin N-glycan 6 levels	15	78356462	rs116881376
+Immunoglobulin N-glycan 24 levels	3	186997531	rs35376994
+Immunoglobulin N-glycan 7 levels	7	50312008	rs7797255
+Immunoglobulin N-glycan 10 levels	6	139308387	rs4543384
+Immunoglobulin N-glycan 12 levels	14	65450942	rs61989999
+Immunoglobulin N-glycan 16 levels	14	105501605	rs11622603
+Immunoglobulin N-glycan 16 levels	3	187008099	rs11710456
+Immunoglobulin N-glycan 20 levels	19	5837500	rs35222081
+Immunoglobulin N-glycan 21 levels	14	65436723	rs12892058
+WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 levels	17	50841678	rs3803884
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54600931	rs45461791
+Leukocyte immunoglobulin-like receptor subfamily B member 1 levels	19	54626781	rs2004318
+Leukocyte immunoglobulin-like receptor subfamily B member 2 levels	19	54293995	rs103294
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7694790	rs11260013
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161549650	rs34436026
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161702205	rs6668534
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161671594	rs6665610
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161538973	rs10919544
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161500252	rs7551957
+Low affinity immunoglobulin gamma Fc region receptor II-a/b levels	1	161675021	rs17413015
+Low affinity immunoglobulin gamma Fc region receptor III-B levels	1	161538973	rs10919544
+Polymeric immunoglobulin receptor levels	1	206890664	rs35400166
+Killer cell immunoglobulin-like receptor 2DL4 levels	19	54881190	rs7259090
+Killer cell immunoglobulin-like receptor 2DL4 levels	19	54804874	rs618835
+Immunoglobulin A vasculitis	6	32452402	rs7754768
+Immunoglobulin A vasculitis	6	32460012	rs9268832
+Immunoglobulin A vasculitis	6	32711607	rs9275578
+Immunoglobulin A vasculitis	6	32712293	rs9275582
+Immunoglobulin A vasculitis	6	32445373	rs2213585
+Immunoglobulin A vasculitis	6	32445317	rs2213586
+Immunoglobulin A vasculitis	6	32445682	rs2227139
+Immunoglobulin A vasculitis	6	32446053	rs3763327
+Immunoglobulin A vasculitis	6	32443869	rs7192
+Immunoglobulin A vasculitis	6	32444762	rs7195
+Immunoglobulin A vasculitis	6	32714215	rs3998158
+Immunoglobulin A vasculitis	6	32623692	rs112396255
+Immunoglobulin A vasculitis	6	32622945	rs17533090
+Immunoglobulin A vasculitis	6	32687771	rs13194877
+Immunoglobulin A vasculitis	6	32711222	rs9275572
+Immunoglobulin A vasculitis	6	32430086	rs17202717
+Immunoglobulin A vasculitis	6	32433259	rs17496307
+Immunoglobulin A vasculitis	6	32441931	rs17496549
+Immunoglobulin A vasculitis	6	32697473	rs17212483
+Immunoglobulin A vasculitis	6	32696851	rs115255544
+Immunoglobulin A vasculitis	6	32697348	rs17212462
+Immunoglobulin A vasculitis	6	32697910	rs17212553
+Immunoglobulin A vasculitis	6	32695987	rs17427445
+Immunoglobulin A vasculitis	6	32699290	rs17427564
+Immunoglobulin A vasculitis	6	32703056	rs34492195
+Immunoglobulin A vasculitis			DRB1*01:01
+Immunoglobulin A vasculitis	6	32696159	rs34677551
+Immunoglobulin A vasculitis	6	32692120	rs35472814
+Immunoglobulin A vasculitis	6	32696261	rs35900855
+Immunoglobulin A vasculitis	6	32706866	rs9275516
+Immunoglobulin A vasculitis	6	32697643	rs10484561
+Immunoglobulin A vasculitis	6	32706448	rs35332745
+Immunoglobulin A vasculitis	6	32448081	rs12529093
+Immunoglobulin A vasculitis	6	32448301	rs13209059
+Immunoglobulin A vasculitis	6	32448198	rs13209234
+Immunoglobulin A vasculitis	6	32456254	rs13220657
+Immunoglobulin A vasculitis	6	32447434	rs28895028
+Immunoglobulin A vasculitis	6	32457527	rs28895205
+Immunoglobulin A vasculitis	6	32459604	rs28732229
+Immunoglobulin A vasculitis	6	32453727	rs28895136
+Immunoglobulin A vasculitis	6	32444658	rs3177928
+Immunoglobulin A vasculitis	6	32695144	rs114169440
+Immunoglobulin A vasculitis	6	32623281	rs17599077
+Immunoglobulin A vasculitis	6	32614112	rs4530903
+Immunoglobulin A vasculitis	6	32710405	rs6932517
+Immunoglobulin A vasculitis	6	32711685	rs9275580
+Immunoglobulin A vasculitis	6	32713500	rs2858331
+Immunoglobulin A vasculitis	6	32465348	rs113585425
+Immunoglobulin A vasculitis	6	32417115	rs72847996
+Immunoglobulin A vasculitis			DQB1*05:01
+Immunoglobulin A vasculitis			DQA1*01:01
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161531655	rs12120973
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161483076	rs71639066
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161487626	rs11582349
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161688106	rs72633696
+Low affinity immunoglobulin gamma Fc region receptor II-a levels			chr1:161872724
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161332564	rs72714978
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161723409	rs35002732
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161304521	rs7532602
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161679841	rs112981088
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	160744153	rs138376790
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161312594	rs4131826
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	160401437	rs145540354
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161263721	rs191551653
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161726591	rs114727710
+Low affinity immunoglobulin gamma Fc region receptor II-a levels			chr1:161258922
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161677034	rs12118043
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161509955	rs1801274
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161482685	rs141710057
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161647707	rs1771575
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161538713	rs201457946
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161428687	rs10157070
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161549621	rs10917571
+Low affinity immunoglobulin gamma Fc region receptor II-b levels			chr1:161387236
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161419170	rs4326638
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161503335	rs4233371
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161509955	rs1801274
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161511771	rs10800357
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161437448	rs60002308
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161485731	rs6427594
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161428687	rs10157070
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161532114	rs10800519
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161498819	rs74124991
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161538713	rs201457946
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161605954	rs34472144
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161506085	rs56315079
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161430651	rs112334085
+Low affinity immunoglobulin gamma Fc region receptor II-a levels	1	161688700	rs10917686
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161722364	rs11590932
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161693553	rs113927189
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161304521	rs7532602
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161694564	rs2185552
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161511771	rs10800357
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161418379	rs6680657
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	162176183	rs189676321
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161532097	rs12133719
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161965261	rs2490441
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161936103	rs77505094
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161531084	rs187848728
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	162001874	rs2499833
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161745485	rs114499611
+Low affinity immunoglobulin gamma Fc region receptor II-b levels			chr1:161455825
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	160344148	rs145208930
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	163394421	rs183747710
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161298867	rs182412529
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161656293	rs369070413
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	160881378	rs77521168
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161676087	rs13376485
+Low affinity immunoglobulin gamma Fc region receptor II-b levels	1	161211344	rs76265753
+Low affinity immunoglobulin gamma Fc region receptor III-B levels	1	161538827	rs10919543
+Leucine-rich repeats and immunoglobulin-like domains protein 3 levels	12	58932883	rs11172828
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7694683	rs11260012
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7699550	rs12980031
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7708325	rs8182583
+Low affinity immunoglobulin epsilon Fc receptor levels	19	7698992	rs12981234
+Immunoglobulin A vasculitis	6	32693798	rs9275260
+Immunoglobulin A vasculitis	2	43087705	rs1002796
+Immunoglobulin A vasculitis	2	164106976	rs1446468
+Immunoglobulin A vasculitis	5	173374104	rs6883311
+Immunoglobulin A vasculitis	10	18724467	rs11015915
+Immunoglobulin A vasculitis	10	18889952	rs72781262
+Immunoglobulin A vasculitis	11	96698259	rs10789640
+Immunoglobulin light chain (AL) amyloidosis (serum Ig light chain only lambda based profile)	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis (liver involvement)	8	52506268	rs7820212
+Immunoglobulin light chain (AL) amyloidosis (heart and kidney involvement)	2	6303084	rs6752376
+Immunoglobulin light chain (AL) amyloidosis (serum Ig light chain only lambda/kappa based profile)	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis (serum Ig lambda profile)	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis (serum Ig lambda profile)	13	34612315	rs10507419
+Immunoglobulin light chain (AL) amyloidosis (heart involvement)	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis (kidney involvement)	11	69648142	rs9344
+Immunoglobulin light chain (AL) amyloidosis (serum IgG profile)	13	34612315	rs10507419
+T-Cell Immunoglobulin and Mucin domain 1 levels	1	116922709	rs34171147
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	156502250	rs186386113
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	156618799	rs114645617
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	157045138	rs6555820
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	157185457	rs10066955
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	157299627	rs76141264
+T-Cell Immunoglobulin and Mucin domain 1 levels	5	157449143	rs3844
+T-Cell Immunoglobulin and Mucin domain 1 levels	17	68883786	rs34931250
+Response to intravenous immunoglobulin treatment in Kawasaki disease	7	93145706	rs28662

@@ -1,0 +1,31 @@
+Allergy 
+Alopecia areata
+Ankylosing spondylitis 
+Asthma 
+Autoimmune thyroid disease 
+Behcet
+Celiac
+Crohn
+Gout
+Graves
+Idiopathic inflammatory myopathy
+Immunoglobulin
+Juvenile idiopathic arthritis
+Kawasaki disease
+Multiple sclerosis
+Myasthenia gravis
+Narcolepsy
+Osteoarthritis
+Primary biliary cholangitis
+Primary sclerosing cholangitis
+Psoriasis
+Rheumatoid arthritis
+Sarcoidosis
+Sjögren's syndrome
+Systemic lupus erythematosus
+Systemic sclerosis
+Takayasu Arteritis
+Type 1 diabetes
+Ulcerative colitis
+Vasculitis
+Vitiligo

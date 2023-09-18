@@ -1,0 +1,774 @@
+Type 1 diabetes	12	56041720	rs705705
+Type 1 diabetes	1	200845831	rs6691977
+Type 1 diabetes	13	99429512	rs9585056
+Type 1 diabetes	14	98021670	rs1456988
+Type 1 diabetes	14	100840110	rs56994090
+Type 1 diabetes	15	38554821	rs72727394
+Type 1 diabetes	15	78942615	rs34593439
+Type 1 diabetes	16	28494339	rs151234
+Type 1 diabetes	16	11100914	rs12927355
+Type 1 diabetes	16	11257354	rs193778
+Type 1 diabetes	16	75218429	rs8056814
+Type 1 diabetes	17	39896954	rs12453507
+Type 1 diabetes	17	40618898	rs757411
+Type 1 diabetes	17	45996523	rs1052553
+Type 1 diabetes	18	12809341	rs1893217
+Type 1 diabetes	18	12830539	rs12971201
+Type 1 diabetes	9	4290823	rs6476839
+Type 1 diabetes	19	10352442	rs34536443
+Type 1 diabetes	10	6066377	rs10795791
+Type 1 diabetes	19	46715865	rs402072
+Type 1 diabetes	10	6087680	rs41295121
+Type 1 diabetes	20	1635560	rs6043409
+Type 1 diabetes	11	2160994	rs689
+Type 1 diabetes	21	44201934	rs6518350
+Type 1 diabetes	12	9753255	rs917911
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	12	111569952	rs653178
+Type 1 diabetes	1	206766559	rs3024505
+Type 1 diabetes	2	100147625	rs13415583
+Type 1 diabetes	2	110857502	rs4849135
+Type 1 diabetes	2	162254026	rs2111485
+Type 1 diabetes	2	162268127	rs35667974
+Type 1 diabetes	2	162280432	rs72871627
+Type 1 diabetes	2	203874196	rs3087243
+Type 1 diabetes	3	46415921	rs113010081
+Type 1 diabetes	4	122322441	rs75793288
+Type 1 diabetes	4	165653115	rs2611215
+Type 1 diabetes	5	35883149	rs11954020
+Type 1 diabetes	6	90267049	rs72928038
+Type 1 diabetes	6	126431738	rs1538171
+Type 1 diabetes	7	50398132	rs62447205
+Type 1 diabetes	7	50961290	rs10277986
+Type 1 diabetes	18	69859408	rs1615504
+Type 1 diabetes	10	6052734	rs61839660
+Type 1 diabetes	19	10359299	rs12720356
+Type 1 diabetes	19	48702915	rs516246
+Type 1 diabetes	10	88275897	rs12416116
+Type 1 diabetes	21	42405248	rs11203202
+Type 1 diabetes	11	2177435	rs72853903
+Type 1 diabetes	22	30135102	rs4820830
+Type 1 diabetes	22	37191071	rs229533
+Kidney disease (end stage renal disease vs non-end stage renal disease) in type 1 diabetes	4	86607925	rs61277444
+Kidney disease (end stage renal disease vs non-end stage renal disease) in type 1 diabetes	2	99767892	rs7562121
+Kidney disease (end stage renal disease vs normoalbuminuria) in type 1 diabetes	4	86607925	rs61277444
+Chronic kidney disease (severe chronic kidney disease vs normal kidney function) in type 1 diabetes	20	60318758	rs6027504
+Chronic kidney disease (severe chronic kidney disease vs normal kidney function) in type 1 diabetes	7	148443990	rs1989248
+Kidney disease (early and late stages) in type 1 diabetes	10	81531934	rs72809865
+Kidney disease (early stage) in type 1 diabetes	2	20398749	rs10186458
+Kidney disease (early stage) in type 1 diabetes	4	16155043	rs317865
+Kidney disease (early stage) in type 1 diabetes	2	216505032	rs35612822
+Kidney disease (late stage) in type 1 diabetes	5	167551225	rs72831309
+Chronic kidney disease (chronic kidney disease vs normal or mildly reduced eGFR) in type 1 diabetes	6	8226764	rs13217044
+Type 1 diabetes	19	46705224	rs425105
+Type 1 diabetes	17	40614034	rs7221109
+Type 1 diabetes	X	154717327	rs2664170
+Type 1 diabetes	16	20331250	rs12444268
+Type 1 diabetes	6	90248512	rs11755527
+Type 1 diabetes	10	6081532	rs12251307
+Type 1 diabetes	11	2191936	rs7111341
+Type 1 diabetes	16	11086016	rs12708716
+Type 1 diabetes	22	37195278	rs229541
+Type 1 diabetes	4	26083889	rs10517086
+Type 1 diabetes	9	4291747	rs7020673
+Type 1 diabetes	14	68796882	rs1465788
+Type 1 diabetes	16	28528527	rs4788084
+Type 1 diabetes	10	6430929	rs11258747
+Type 1 diabetes	12	56088396	rs2292239
+Type 1 diabetes	12	111446804	rs3184504
+Type 1 diabetes	15	78943104	rs3825932
+Type 1 diabetes	18	12809341	rs1893217
+Type 1 diabetes	21	42416077	rs11203203
+Type 1 diabetes	1	206766559	rs3024505
+Type 1 diabetes	6	126377573	rs9388489
+Type 1 diabetes	7	50959497	rs4948088
+Type 1 diabetes	10	88263276	rs10509540
+Type 1 diabetes	12	9757568	rs4763879
+Type 1 diabetes	14	98032614	rs4900384
+Type 1 diabetes	16	75213347	rs7202877
+Type 1 diabetes	20	1629905	rs2281808
+Type 1 diabetes	22	30185733	rs5753037
+Type 1 diabetes	1	63643100	rs2269241
+Type 1 diabetes	2	12500615	rs1534422
+Type 1 diabetes	6	32440750	rs9268645
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	2	162267541	rs1990760
+Type 1 diabetes	4	122211337	rs4505848
+Type 1 diabetes	17	39909987	rs2290400
+Type 1 diabetes	2	203874196	rs3087243
+Type 1 diabetes	7	26852046	rs7804356
+Type 1 diabetes	17	7730374	rs16956936
+Type 1 diabetes	12	56018703	rs1701704
+Type 1 diabetes	10	6052734	rs61839660
+Type 1 diabetes	12	111270654	rs1265564
+Type 1 diabetes	12	112049014	rs17696736
+Type 1 diabetes	4	122277280	rs6534347
+Type 1 diabetes	1	113761186	rs6679677
+Type 1 diabetes	12	56076841	rs11171739
+Type 1 diabetes	16	11086016	rs12708716
+Type 1 diabetes	12	9703362	rs11052552
+Type 1 diabetes	4	122408207	rs17388568
+Type 1 diabetes	12	9681032	rs3764021
+Type 1 diabetes	5	133293192	rs17166496
+Type 1 diabetes	6	32636595	rs9272346
+Type 1 diabetes	6	90248512	rs11755527
+Type 1 diabetes	10	6348488	rs947474
+Type 1 diabetes	15	78943104	rs3825932
+Type 1 diabetes	22	37195278	rs229541
+Type 1 diabetes	16	11270222	rs416603
+Type 1 diabetes	1	113761186	rs6679677
+Type 1 diabetes	2	203874196	rs3087243
+Type 1 diabetes	12	112049014	rs17696736
+Type 1 diabetes	12	56088396	rs2292239
+Type 1 diabetes	18	12779948	rs2542151
+Type 1 diabetes	6	32636595	rs9272346
+Type 1 diabetes	2	24469940	rs2165738
+Type 1 diabetes	10	6081532	rs12251307
+Type 1 diabetes	16	11086016	rs12708716
+Type 1 diabetes	12	112049014	rs17696736
+Type 1 diabetes	18	69864406	rs763361
+Type 1 diabetes	5	35910427	rs1445898
+Type 1 diabetes	12	56088396	rs2292239
+Type 1 diabetes	16	11086016	rs12708716
+Type 1 diabetes	18	12779948	rs2542151
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	5	35874473	rs6897932
+Type 1 diabetes	2	100208905	rs9653442
+Type 1 diabetes	1	113761186	rs6679677
+Type 1 diabetes	11	2148544	rs3741208
+Type 1 diabetes	2	162267541	rs1990760
+Type 1 diabetes	6	90247744	rs3757247
+Type 1 diabetes	15	38546063	rs8035957
+Type 1 diabetes	21	42416281	rs9976767
+Type 1 diabetes	1	84845509	rs1983853
+Type 1 diabetes	9	4292083	rs10758593
+Type 1 diabetes	11	2148913	rs1004446
+Type 1 diabetes	16	11144926	rs2903692
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	6	32700133	rs2647044
+Type 1 diabetes nephropathy	2	212304043	rs7588550
+Type 1 diabetes nephropathy	15	93598604	rs12437854
+Type 1 diabetes nephropathy	2	99844192	rs7583877
+Type 1 diabetes nephropathy	20	60321657	rs6027506
+Type 1 diabetes nephropathy	2	99844192	rs7583877
+Type 1 diabetes nephropathy	4	173653255	rs11723864
+Type 1 diabetes nephropathy	14	56754421	rs878889
+Type 1 diabetes nephropathy	12	120536707	rs614226
+Type 1 diabetes nephropathy	20	32943738	rs13045180
+Type 1 diabetes nephropathy	20	60320788	rs11698685
+Type 1 diabetes nephropathy	8	122693916	rs4871297
+Type 1 diabetes	1	206766559	rs3024505
+Type 1 diabetes	2	162267541	rs1990760
+Type 1 diabetes	4	122408207	rs17388568
+Type 1 diabetes	10	6055320	rs12722495
+Type 1 diabetes	11	2148913	rs1004446
+Type 1 diabetes	12	56088396	rs2292239
+Type 1 diabetes	16	11086016	rs12708716
+Type 1 diabetes	21	42421219	rs3788013
+Type 1 diabetes	22	37155567	rs743777
+Type 1 diabetes	2	203874196	rs3087243
+Type 1 diabetes	4	122456825	rs2069762
+Type 1 diabetes	16	28528527	rs4788084
+Type 1 diabetes	18	69864406	rs763361
+Type 1 diabetes	19	10364976	rs2304256
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	12	111446804	rs3184504
+Type 1 diabetes	15	38614840	rs7171171
+Type 1 diabetes	6	90248512	rs11755527
+Type 1 diabetes	12	56018703	rs1701704
+Type 1 diabetes	17	39884510	rs2872507
+Type 1 diabetes	11	2160994	rs689
+Type 1 diabetes	18	12779948	rs2542151
+Insulinoma-associated antigen 2 autoantibody levels in type 1 diabetes	1	157701026	rs7528684
+Gastric parietal cell autoantibody levels in type 1 diabetes	9	133263862	rs657152
+Thyroid peroxidase autoantibody levels in type 1 diabetes	6	90248512	rs11755527
+Type 1 diabetes	11	2160994	rs689
+Type 1 diabetes	6	26423332	rs4320356
+Type 1 diabetes	10	8060309	rs3802604
+Type 1 diabetes	6	32660056	rs1770
+Type 1 diabetes	12	55991020	rs705699
+Diabetic nephropathy in type 1 diabetes	2	227256385	rs55703767
+Diabetic nephropathy in type 1 diabetes	4	70493059	rs191449639
+Macroalbuminuria in type 1 diabetes	2	227256385	rs55703767
+Macroalbuminuria in type 1 diabetes	14	73273542	rs113554206
+Kidney disease (end stage renal disease vs non-end stage renal disease) in type 1 diabetes	3	36524820	rs116216059
+Kidney disease (end stage renal disease vs macroalbuminuria) in type 1 diabetes	8	127087785	rs551191707
+Microalbuminuria in type 1 diabetes	3	11869161	rs142823282
+Microalbuminuria in type 1 diabetes	4	173579655	rs145681168
+Microalbuminuria in type 1 diabetes	6	30919688	rs118124843
+Microalbuminuria in type 1 diabetes	14	25535506	rs61983410
+Microalbuminuria in type 1 diabetes	20	57262207	rs144434404
+Microalbuminuria in type 1 diabetes	7	100130923	rs77273076
+Microalbuminuria in type 1 diabetes	11	16916299	rs183937294
+Chronic kidney disease (reduced eGFR or end stage renal disease) in type 1 diabetes	2	3697625	rs12615970
+Chronic kidney disease (reduced eGFR or end stage renal disease) in type 1 diabetes	18	1811107	rs185299109
+Chronic kidney disease (end stage renal disease vs. normal eGFR) in type 1 diabetes	5	122438887	rs149641852
+Kidney disease (reduced eGFR and albuminuria or end stage renal disease) in type 1 diabetes	2	227256385	rs55703767
+Kidney disease (end stage renal disease or albuminuria) in type 1 diabetes	2	227256385	rs55703767
+Diabetic nephropathy in type 1 diabetes	10	95524324	rs1326934
+Erectile dysfunction in type 1 diabetes	3	105292046	rs9810233
+Erectile dysfunction in type 1 diabetes	2	172628350	rs836589
+Erectile dysfunction in type 1 diabetes	6	143758717	rs6931865
+Erectile dysfunction in type 1 diabetes	3	36638607	rs950146
+Erectile dysfunction in type 1 diabetes	1	197051528	rs2990510
+Erectile dysfunction in type 1 diabetes	3	80816613	rs9850225
+Type 1 diabetes	2	25078886	rs478222
+Type 1 diabetes	13	75752146	rs539514
+Type 1 diabetes	6	170063801	rs924043
+Type 1 diabetes	7	28189423	rs550448
+Type 1 diabetes	8	118965098	rs12679857
+Type 1 diabetes	2	28423934	rs6547853
+Type 1 diabetes	11	69781755	rs4084127
+Type 1 diabetes	10	98540425	rs10786436
+Type 1 diabetes	14	23370824	rs10137082
+Type 1 diabetes	19	10364976	rs2304256
+Type 1 diabetes	14	100839708	rs941576
+Urinary albumin excretion rate in type 1 diabetes	4	174721548	rs11725853
+Urinary albumin excretion rate in type 1 diabetes	8	19065067	rs2410601
+Skin fluorescence in type 1 diabetes	1	78360228	rs7533564
+Type 1 diabetes			rs2269242
+Type 1 diabetes	1	92358141	rs34090353
+Type 1 diabetes	1	212796238	rs11120029
+Type 1 diabetes	2	12512805	rs10169963
+Type 1 diabetes	2	100147438	rs12712067
+Type 1 diabetes	1	172746562	rs78037977
+Type 1 diabetes	1	192570207	rs2816313
+Type 1 diabetes	1	212796238	rs11120029
+Type 1 diabetes	2	12512805	rs10169963
+Type 1 diabetes	2	100147438	rs12712067
+Type 1 diabetes	2	191105394	rs7582694
+Type 1 diabetes	2	241468331	rs10933559
+Type 1 diabetes	4	973543	rs113881148
+Type 1 diabetes	4	38602849	rs337637
+Type 1 diabetes	5	40521603	rs1876142
+Type 1 diabetes	5	56146422	rs10213692
+Type 1 diabetes	6	424915	rs9405661
+Type 1 diabetes			rs2269242
+Type 1 diabetes	6	137682468	rs12665429
+Type 1 diabetes	6	159049210	rs212408
+Type 1 diabetes	7	20557306	rs17143056
+Type 1 diabetes	7	28102567	rs10245867
+Type 1 diabetes	8	11877675	rs2250903
+Type 1 diabetes	9	99823263	rs1405209
+Type 1 diabetes	10	33137219	rs722988
+Type 1 diabetes	11	35267496	rs11033048
+Type 1 diabetes	11	60961822	rs79538630
+Type 1 diabetes	11	61828092	rs968567
+Type 1 diabetes	11	64367826	rs645078
+Type 1 diabetes	11	128734337	rs605093
+Type 1 diabetes	12	8942630	rs1805731
+Type 1 diabetes	12	53077434	rs7313065
+Type 1 diabetes	13	42343795	rs74537115
+Type 1 diabetes	14	68286876	rs911263
+Type 1 diabetes	16	20331769	rs4238595
+Type 1 diabetes	17	45996523	rs1052553
+Type 1 diabetes	17	47956725	rs2597169
+Type 1 diabetes	21	44204668	rs56178904
+Type 1 diabetes	1	92358141	rs34090353
+Type 1 diabetes	1	119895261	rs2641348
+Type 1 diabetes	1	154465420	rs2229238
+Type 1 diabetes	1	172746562	rs78037977
+Type 1 diabetes	1	192570207	rs2816313
+Type 1 diabetes	1	119895261	rs2641348
+Type 1 diabetes	1	154465420	rs2229238
+Type 1 diabetes	2	191105394	rs7582694
+Type 1 diabetes	2	241468331	rs10933559
+Type 1 diabetes	4	973543	rs113881148
+Type 1 diabetes	4	38602849	rs337637
+Type 1 diabetes	5	40521603	rs1876142
+Type 1 diabetes with low genetic risk score			chr6:33020111
+Type 1 diabetes with low genetic risk score			chr6:33647094
+Type 1 diabetes with low genetic risk score			chr6:25864590
+Type 1 diabetes with low genetic risk score			chr6:26732200
+Type 1 diabetes with low genetic risk score			chr6:25710343
+Type 1 diabetes with low genetic risk score			chr6:26073147
+Type 1 diabetes with low genetic risk score			chr6:26266083
+Type 1 diabetes with low genetic risk score			chr5:81431680
+Type 1 diabetes with low genetic risk score			chr6:25513951
+Type 1 diabetes with low genetic risk score			chr6:27700521
+Type 1 diabetes with low genetic risk score			chr6:26408323
+Type 1 diabetes with low genetic risk score			chr6:27803328
+Type 1 diabetes with low genetic risk score			chr6:26935600
+Type 1 diabetes with low genetic risk score			chr6:26581807
+Type 1 diabetes with low genetic risk score			chr6:27104763
+Type 1 diabetes with low genetic risk score			chr6:27559448
+Type 1 diabetes with low genetic risk score			chr6:27457865
+Type 1 diabetes with low genetic risk score			chr6:27281907
+Type 1 diabetes with low genetic risk score			chr6:27911422
+Type 1 diabetes with low genetic risk score			chr6:28107123
+Type 1 diabetes with low genetic risk score			chr6:28235278
+Type 1 diabetes with low genetic risk score			chr6:30018547
+Type 1 diabetes with low genetic risk score			chr6:29785031
+Type 1 diabetes with low genetic risk score			chr6:29639324
+Type 1 diabetes with low genetic risk score			chr6:28594470
+Type 1 diabetes with low genetic risk score			chr6:32596935
+Type 1 diabetes with low genetic risk score			chr2:135623778
+Type 1 diabetes with low genetic risk score			chr2:135859184
+Type 1 diabetes with low genetic risk score			chr2:135080336
+Type 1 diabetes with low genetic risk score			chr2:135197227
+Type 1 diabetes with low genetic risk score			chr2:135516008
+Type 1 diabetes with low genetic risk score			chr2:135403522
+Type 1 diabetes with low genetic risk score			chr2:135301250
+Type 1 diabetes with low genetic risk score			chr10:131361823
+Type 1 diabetes with low genetic risk score			chr2:135731408
+Type 1 diabetes with low genetic risk score			chr2:135964425
+Type 1 diabetes with low genetic risk score			chr6:127756593
+Type 1 diabetes with low genetic risk score			chr4:137228466
+Type 1 diabetes with low genetic risk score			chr2:134846613
+Type 1 diabetes with low genetic risk score			chr11:68326963
+Type 1 diabetes with low genetic risk score			chr3:57269656
+Type 1 diabetes with low genetic risk score			chr5:6893947
+Type 1 diabetes with low genetic risk score			chr7:129944187
+Type 1 diabetes with low genetic risk score			chr14:22390463
+Type 1 diabetes with low genetic risk score			chr2:134947988
+Type 1 diabetes with low genetic risk score			chr3:64722924
+Type 1 diabetes with low genetic risk score			chr5:80384899
+Type 1 diabetes with low genetic risk score			chr19:31157758
+Type 1 diabetes with low genetic risk score	4	124578751	rs13147255
+Type 1 diabetes with low genetic risk score	1	158815304	rs857786
+Type 1 diabetes with low genetic risk score			chr1:37812907
+Type 1 diabetes with low genetic risk score			chr12:65324519
+Type 1 diabetes with low genetic risk score			chr12:65644210
+Type 1 diabetes with low genetic risk score			chr2:136066296
+Type 1 diabetes with low genetic risk score			chr6:25371141
+Type 1 diabetes with low genetic risk score			chr19:42174477
+Type 1 diabetes with low genetic risk score			chr6:33301993
+Type 1 diabetes with low genetic risk score			chr6:33464895
+Type 1 diabetes with low genetic risk score			chr2:134585720
+Type 1 diabetes with low genetic risk score			chr9:20324372
+Type 1 diabetes with low genetic risk score			chr2:134688820
+Type 1 diabetes with low genetic risk score			chr3:57295247
+Type 1 diabetes with low genetic risk score			chr11:18264227
+Type 1 diabetes with low genetic risk score			chr2:41910220
+Type 1 diabetes with low genetic risk score			chr7:44959149
+Type 1 diabetes with low genetic risk score			chr12:65543332
+Type 1 diabetes with low genetic risk score			chr1:151853237
+Type 1 diabetes with low genetic risk score			chr6:26835246
+Type 1 diabetes with low genetic risk score			chr8:56693303
+Type 1 diabetes with low genetic risk score			chr15:27596077
+Type 1 diabetes with low genetic risk score			chr2:137009624
+Type 1 diabetes with low genetic risk score			chr4:92954497
+Type 1 diabetes with low genetic risk score			chr2:136221960
+Type 1 diabetes with low genetic risk score			chr6:33168798
+Type 1 diabetes with low genetic risk score			chr3:57041866
+Type 1 diabetes	5	56146422	rs10213692
+Type 1 diabetes	6	424915	rs9405661
+Type 1 diabetes	6	137682468	rs12665429
+Type 1 diabetes	6	159049210	rs212408
+Type 1 diabetes	7	20557306	rs17143056
+Type 1 diabetes	7	28102567	rs10245867
+Type 1 diabetes	8	11877675	rs2250903
+Type 1 diabetes	9	99823263	rs1405209
+Type 1 diabetes	10	33137219	rs722988
+Type 1 diabetes	11	35267496	rs11033048
+Type 1 diabetes	11	60961822	rs79538630
+Type 1 diabetes	11	61828092	rs968567
+Type 1 diabetes	11	64367826	rs645078
+Type 1 diabetes	11	128734337	rs605093
+Type 1 diabetes	12	8942630	rs1805731
+Type 1 diabetes	12	53077434	rs7313065
+Type 1 diabetes	13	42343795	rs74537115
+Type 1 diabetes	14	68286876	rs911263
+Type 1 diabetes	16	20331769	rs4238595
+Type 1 diabetes	17	45996523	rs1052553
+Type 1 diabetes	17	47956725	rs2597169
+Type 1 diabetes	21	44204668	rs56178904
+Type 1 diabetes with low genetic risk score			chr9:5703334
+Type 1 diabetes with low genetic risk score			chr6:28485841
+Type 1 diabetes with low genetic risk score			chr6:28355925
+Type 1 diabetes with low genetic risk score			chr2:117481369
+Type 1 diabetes with low genetic risk score			chr6:29238474
+Type 1 diabetes with low genetic risk score			chr6:28705657
+Type 1 diabetes with low genetic risk score			chr6:29051468
+Type 1 diabetes with low genetic risk score			chr6:29499942
+Type 1 diabetes with low genetic risk score			chr6:30331468
+Type 1 diabetes with low genetic risk score			chr6:28939145
+Type 1 diabetes with low genetic risk score			chr6:29388554
+Type 1 diabetes with low genetic risk score			chr6:30441472
+Type 1 diabetes with low genetic risk score			chr9:71822481
+Type 1 diabetes with low genetic risk score			chr6:30157766
+Type 1 diabetes with low genetic risk score			chr6:30733315
+Type 1 diabetes with low genetic risk score			chr6:30576624
+Type 1 diabetes with low genetic risk score			chr2:60197190
+Type 1 diabetes with low genetic risk score			chr16:73991175
+Type 1 diabetes with low genetic risk score			chr6:30843488
+Type 1 diabetes with low genetic risk score			chr6:31000992
+Type 1 diabetes with low genetic risk score			chr16:9864106
+Type 1 diabetes with low genetic risk score			chr6:31229085
+Type 1 diabetes with low genetic risk score			chr6:31117579
+Type 1 diabetes with low genetic risk score			chr2:62744832
+Type 1 diabetes with low genetic risk score			chr6:31348918
+Type 1 diabetes with low genetic risk score			chr6:32911694
+Type 1 diabetes with low genetic risk score			chr18:69571112
+Type 1 diabetes with low genetic risk score			chr14:96458513
+Type 1 diabetes with low genetic risk score			chr6:31508681
+Type 1 diabetes with low genetic risk score			chr16:61597297
+Type 1 diabetes with low genetic risk score			chr7:117532167
+Type 1 diabetes with low genetic risk score			chr6:31628361
+Type 1 diabetes with low genetic risk score			chr6:31799896
+Type 1 diabetes with low genetic risk score			chr6:32096949
+Type 1 diabetes with low genetic risk score			chr6:31902549
+Type 1 diabetes with low genetic risk score			chr6:32809144
+Type 1 diabetes with low genetic risk score			chr6:32334605
+Type 1 diabetes with low genetic risk score			chr18:58518360
+Type 1 diabetes with low genetic risk score			chr6:32231204
+Type 1 diabetes with low genetic risk score			chr6:32469977
+Type 1 diabetes with low genetic risk score			chr19:47871241
+Type 1 diabetes with low genetic risk score			chr11:78403273
+Type 1 diabetes with low genetic risk score			chr21:44998426
+Type 1 diabetes with low genetic risk score			chr6:32698749
+Type 1 diabetes with low genetic risk score			chr2:25865493
+Type 1 diabetes with low genetic risk score			chr18:58389479
+Type 1 diabetes with low genetic risk score			chr4:24259293
+Type 1 diabetes with low genetic risk score			chr1:63633409
+Type 1 diabetes with low genetic risk score			chr15:74624584
+Type 1 diabetes with low genetic risk score			chr11:33955292
+Type 1 diabetes with low genetic risk score			chr3:27921000
+Type 1 diabetes with low genetic risk score			chr1:182869236
+Type 1 diabetes with low genetic risk score			chr18:21507398
+Type 1 diabetes with low genetic risk score			chr3:114257954
+Type 1 diabetes with low genetic risk score			chr8:20451062
+Type 1 diabetes with low genetic risk score			chr6:46032617
+Type 1 diabetes with low genetic risk score			chr16:51887655
+Type 1 diabetes with low genetic risk score			chr10:60664647
+Type 1 diabetes with low genetic risk score			chr21:41956642
+Type 1 diabetes with low genetic risk score			chr7:48863732
+Type 1 diabetes with low genetic risk score			chr1:102495801
+Type 1 diabetes with low genetic risk score			chr10:120940685
+Type 1 diabetes with low genetic risk score			chr14:21746775
+Type 1 diabetes with low genetic risk score			chr20:4377254
+Type 1 diabetes with low genetic risk score			chr19:36633617
+Type 1 diabetes with low genetic risk score			chr19:36013582
+Type 1 diabetes with low genetic risk score			chr2:217759606
+Type 1 diabetes with low genetic risk score			chr1:221898846
+Type 1 diabetes with low genetic risk score			chr19:37034392
+Type 1 diabetes with low genetic risk score			chr4:105683278
+Type 1 diabetes with low genetic risk score			chr15:46441258
+Type 1 diabetes with low genetic risk score			chr8:76353999
+Type 1 diabetes with low genetic risk score			chr1:78372988
+Type 1 diabetes with low genetic risk score			chr6:8311442
+Type 1 diabetes			chr6:32535377
+Type 1 diabetes			chr6:28026638
+Type 1 diabetes			chr6:28699892
+Type 1 diabetes			chr6:28171932
+Type 1 diabetes			chr6:29215110
+Type 1 diabetes			chr15:74624584
+Type 1 diabetes			chr6:29100913
+Type 1 diabetes			chr6:29785031
+Type 1 diabetes			chr6:29558785
+Type 1 diabetes			chr6:30064745
+Type 1 diabetes			chr6:28939145
+Type 1 diabetes			chr6:28828294
+Type 1 diabetes			chr6:30202510
+Type 1 diabetes			chr6:29388554
+Type 1 diabetes			chr6:30569095
+Type 1 diabetes			chr6:30685004
+Type 1 diabetes			chr6:32836793
+Type 1 diabetes			chr6:30387407
+Type 1 diabetes			chr21:44998426
+Type 1 diabetes			chr6:30801949
+Type 1 diabetes			chr6:31395249
+Type 1 diabetes			chr6:31517324
+Type 1 diabetes			chr6:31135418
+Type 1 diabetes			chr6:46032617
+Type 1 diabetes			chr6:32978829
+Type 1 diabetes			chr6:31635993
+Type 1 diabetes			chr2:25772946
+Type 1 diabetes			chr6:26732200
+Type 1 diabetes			chr2:60197190
+Type 1 diabetes			chr6:25710343
+Type 1 diabetes			chr6:30964532
+Type 1 diabetes			chr6:25513951
+Type 1 diabetes			chr6:27883876
+Type 1 diabetes			chr6:25822433
+Type 1 diabetes			chr6:25929860
+Type 1 diabetes			chr6:27523520
+Type 1 diabetes			chr6:26073147
+Type 1 diabetes			chr6:26199675
+Type 1 diabetes			chr18:58518360
+Type 1 diabetes			chr6:27174125
+Type 1 diabetes			chr6:27349237
+Type 1 diabetes			chr6:27624224
+Type 1 diabetes			chr6:28594470
+Type 1 diabetes			chr18:58389479
+Type 1 diabetes			chr6:26316067
+Type 1 diabetes			chr6:28309894
+Type 1 diabetes			chr6:26463346
+Type 1 diabetes			chr6:26935600
+Type 1 diabetes			chr6:27731058
+Type 1 diabetes			chr6:26581807
+Type 1 diabetes			chr6:28429899
+Type 1 diabetes			chr6:31799896
+Type 1 diabetes			chr6:31951083
+Type 1 diabetes			chr6:32061428
+Type 1 diabetes			chr6:32234432
+Type 1 diabetes			chr21:41956642
+Type 1 diabetes			chr20:4377254
+Type 1 diabetes			chr6:33647094
+Type 1 diabetes			chr6:33489728
+Type 1 diabetes			chr6:33387741
+Type 1 diabetes			chr19:35897277
+Type 1 diabetes			chr8:76353999
+Type 1 diabetes			chr6:32405601
+Type 1 diabetes			chr12:65543332
+Type 1 diabetes			chr19:31157758
+Type 1 diabetes			chr1:37781423
+Type 1 diabetes			chr4:92954497
+Type 1 diabetes			chr8:56693303
+Type 1 diabetes			chr7:129949957
+Type 1 diabetes			chr7:44959149
+Type 1 diabetes			chr1:37891198
+Type 1 diabetes			chr3:57259774
+Type 1 diabetes			chr9:20324372
+Type 1 diabetes			chr12:65644210
+Type 1 diabetes			chr6:26835246
+Type 1 diabetes			chr15:27596077
+Type 1 diabetes			chr2:137009624
+Type 1 diabetes			chr2:134538048
+Type 1 diabetes			chr2:134722410
+Type 1 diabetes			chr2:134845031
+Type 1 diabetes			chr2:134947988
+Type 1 diabetes			chr18:69405649
+Type 1 diabetes			chr6:27063201
+Type 1 diabetes			chr16:9864106
+Type 1 diabetes			chr14:96458513
+Type 1 diabetes			chr9:5703334
+Type 1 diabetes			chr6:33160210
+Type 1 diabetes			chr6:25365660
+Type 1 diabetes			chr6:32684938
+Type 1 diabetes			chr6:31275040
+Type 1 diabetes			chr2:135859184
+Type 1 diabetes			chr2:135671796
+Type 1 diabetes			chr2:135149518
+Type 1 diabetes			chr2:135571320
+Type 1 diabetes			chr2:135403522
+Type 1 diabetes			chr2:136026774
+Type 1 diabetes			chr2:135265228
+Type 1 diabetes			chr2:136221960
+Type 1 diabetes			chr6:29683408
+Type 1 diabetes			chr6:29949300
+Type 1 diabetes			chr11:18269981
+Type 1 diabetes			chr4:137228466
+Type 1 diabetes			chr3:57373867
+Type 1 diabetes			chr2:41913324
+Type 1 diabetes			chr10:131361823
+Type 1 diabetes			chr1:151853237
+Type 1 diabetes			chr14:22383427
+Type 1 diabetes			chr3:64734347
+Type 1 diabetes			chr11:68326963
+Type 1 diabetes			chr5:6893947
+Type 1 diabetes			chr3:57041866
+Type 1 diabetes			chr12:65324519
+Type 1 diabetes			chr5:80384899
+Coronary artery disease in type 1 diabetes	9	22085599	rs1970112
+Coronary artery disease in type 1 diabetes	2	223293148	rs181176493
+Coronary artery disease in type 1 diabetes	2	62179865	rs70962766
+Coronary artery disease in type 1 diabetes	6	45758094	rs138181578
+Coronary artery disease in type 1 diabetes	11	106323171	rs10625784
+Coronary artery disease in type 1 diabetes	15	53449415	rs79237700
+Coronary artery disease in type 1 diabetes	5	155011321	rs574480779
+Coronary artery disease in type 1 diabetes	2	123529348	rs1344228
+Coronary artery disease in type 1 diabetes	20	153643	rs6055069
+Type 1 diabetes	11	2160994	rs689
+Type 1 diabetes	21	20724226	rs2128344
+Type 1 diabetes	2	168190122	rs60587303
+Type 1 diabetes	2	141543366	rs192324744
+Type 1 diabetes	19	10352442	rs34536443
+Type 1 diabetes	1	63641613	rs2269247
+Type 1 diabetes in high risk HLA genotype individuals (time to event)	11	2163618	rs3842727
+Type 1 diabetes in high risk HLA genotype individuals (time to event)	6	166969779	rs73043122
+Type 1 diabetes in high risk HLA genotype individuals (time to event)	10	122400322	rs113306148
+Type 1 diabetes in high risk HLA genotype individuals (time to event)	11	2217058	rs10831551
+Type 1 diabetes in high risk HLA genotype individuals (time to event)	22	21662102	rs428595
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	1	113761186	rs6679677
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	12	111446804	rs3184504
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	22	21662102	rs428595
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	1	113761186	rs6679677
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	11	2163618	rs3842727
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	3	58414687	rs11705721
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	1	2863195	rs28600853
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	11	2163618	rs3842727
+Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	16	6086218	rs9934817
+Glycated hemoglobin levels in type 1 diabetes	13	31593580	rs2085277
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	2	60326008	rs7567242
+Type 1 diabetes	6	32658661	rs9273367
+Type 1 diabetes	6	90155151	rs17711850
+Type 1 diabetes	7	127618330	rs3757787
+Type 1 diabetes	9	22134254	rs10811662
+Type 1 diabetes	10	112998590	rs7903146
+Type 1 diabetes	10	6056861	rs706779
+Type 1 diabetes	11	2159830	rs3842753
+Type 1 diabetes	12	111446804	rs3184504
+Type 1 diabetes	12	56051582	rs10876866
+Type 1 diabetes	15	93288838	rs7167984
+Type 1 diabetes	16	53788258	rs113935429
+Type 1 diabetes	18	12778716	rs2847278
+Neuropeptide Y autoantibody levels in type 1 diabetes	13	42065933	rs2148655
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27187197	rs6448501
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27170830	rs12508379
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27161458	rs185335076
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27165208	rs13132147
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27165352	rs35956129
+Neuropeptide Y autoantibody levels in type 1 diabetes	14	69126022	rs1275406
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27213543	rs7684596
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27213548	rs7684597
+Neuropeptide Y autoantibody levels in type 1 diabetes	4	27213567	rs7684611
+Type 1 diabetes	14	49843683	rs55846421
+Type 1 diabetes	6	32516743	rs138748427
+Type 1 diabetes	7	127618330	rs3757787
+Type 1 diabetes	11	2837316	rs2237897
+Fulminant type 1 diabetes	3	5093886	rs3864055
+Fulminant type 1 diabetes	4	184755529	rs12644905
+Fulminant type 1 diabetes	6	17120009	rs12203596
+Fulminant type 1 diabetes	6	163922743	rs9356171
+Fulminant type 1 diabetes	9	23166744	rs7871386
+Fulminant type 1 diabetes	11	27778324	rs5790666
+Fulminant type 1 diabetes	12	53151908	rs11170445
+Fulminant type 1 diabetes	22	20814301	rs178050
+Fulminant type 1 diabetes	6	32461866	rs9268853
+Type 1 diabetes (age at diagnosis)	6	29058810	rs114631266
+Type 1 diabetes (age at diagnosis)	6	29931850	rs2471863
+Type 1 diabetes (age at diagnosis)	6	29946109	rs34941730
+Type 1 diabetes (age at diagnosis)	6	30345252	rs45626136
+Type 1 diabetes (age at diagnosis)	6	30954755	rs116020851
+Type 1 diabetes (age at diagnosis)	6	31110838	rs1265057
+Type 1 diabetes (age at diagnosis)	6	31173705	rs116763857
+Type 1 diabetes (age at diagnosis)	6	31280657	rs9264758
+Type 1 diabetes (age at diagnosis)	6	31449679	rs9501130
+Type 1 diabetes (age at diagnosis)	6	31576865	rs3093664
+Type 1 diabetes (age at diagnosis)	6	32238711	rs3134938
+Type 1 diabetes (age at diagnosis)	6	32337881	rs926592
+Type 1 diabetes (age at diagnosis)	6	32421478	rs3135365
+Type 1 diabetes (age at diagnosis)	6	32427864	rs9268576
+Type 1 diabetes (age at diagnosis)	6	32615624	rs7760731
+Type 1 diabetes (age at diagnosis)	6	32700118	rs9275358
+Type 1 diabetes (age at diagnosis)	6	32714422	rs35122968
+Type 1 diabetes (age at diagnosis)	6	32714617	rs3997848
+Type 1 diabetes (age at diagnosis)	6	32836637	rs241427
+Type 1 diabetes (age at diagnosis)	6	32838614	rs4148870
+Type 1 diabetes (age at diagnosis)	6	33107889	rs3128930
+Type 1 diabetes (age at diagnosis)	1	20693912	rs17407280
+Type 1 diabetes (age at diagnosis)	1	161538827	rs10919543
+Type 1 diabetes (age at diagnosis)	1	212470318	rs7524087
+Type 1 diabetes (age at diagnosis)	2	161647730	rs77155259
+Type 1 diabetes (age at diagnosis)	3	111874722	rs111821448
+Type 1 diabetes (age at diagnosis)	4	46372280	rs139881548
+Type 1 diabetes (age at diagnosis)	4	165916328	rs34740712
+Type 1 diabetes (age at diagnosis)	5	57837318	rs4513644
+Type 1 diabetes (age at diagnosis)	6	64748694	rs78824139
+Type 1 diabetes (age at diagnosis)	7	17147155	rs6461299
+Type 1 diabetes (age at diagnosis)	7	43408191	rs10255565
+Type 1 diabetes (age at diagnosis)	8	132775726	rs35766765
+Type 1 diabetes (age at diagnosis)	9	5421234	rs74629033
+Type 1 diabetes (age at diagnosis)	9	14228472	rs10961433
+Type 1 diabetes (age at diagnosis)	9	129743380	rs4837404
+Type 1 diabetes (age at diagnosis)	16	22969144	rs1110458
+Type 1 diabetes (age at diagnosis)	17	39754115	rs2941522
+Type 1 diabetes (age at diagnosis)	7	10057028	rs10258381
+Type 1 diabetes	7	50955790	rs4263714
+Type 1 diabetes	11	2176056	rs4929965
+Type 1 diabetes	16	75200974	rs72802342
+Type 1 diabetes	11	2143569	rs4366464
+Type 1 diabetes	11	2055620	rs78896587
+Type 1 diabetes	9	4291928	rs10974438
+Type 1 diabetes	1	63641613	rs2269247
+Type 1 diabetes	4	1782676	rs56337234
+Type 1 diabetes	1	24970252	rs10751776
+Type 1 diabetes	1	35622060	rs574384
+Type 1 diabetes	1	37881745	rs12742756
+Type 1 diabetes	1	63648218	rs855330
+Type 1 diabetes	1	119962909	rs1493696
+Type 1 diabetes	1	198629260	rs570794153
+Type 1 diabetes	1	212679490	rs12128789
+Type 1 diabetes	2	12494668	rs1881146
+Type 1 diabetes	2	60409281	rs12464462
+Type 1 diabetes	2	241338592	rs13018977
+Type 1 diabetes	4	184381748	rs12644686
+Type 1 diabetes	5	111230662	rs114378220
+Type 1 diabetes	5	132431072	rs766751473
+Type 1 diabetes	6	410417	rs1050979
+Type 1 diabetes	7	20339178	rs7805218
+Type 1 diabetes	7	117446559	rs7795896
+Type 1 diabetes	8	58959618	rs1947178
+Type 1 diabetes	8	119070702	rs13259300
+Type 1 diabetes	8	140606084	rs3802214
+Type 1 diabetes	9	133060938	rs541856133
+Type 1 diabetes	10	8066419	rs537544
+Type 1 diabetes	10	70618733	rs78325861
+Type 1 diabetes	11	2881830	rs140215710
+Type 1 diabetes	11	76582761	rs7936434
+Type 1 diabetes	11	128734279	rs607703
+Type 1 diabetes	12	8971336	rs7301381
+Type 1 diabetes	13	42356523	rs238265
+Type 1 diabetes	16	20331769	rs4238595
+Type 1 diabetes	16	80250127	rs8046043
+Type 1 diabetes	17	7337072	rs61759532
+Type 1 diabetes	17	47951723	rs11651753
+Type 1 diabetes	17	68168777	rs57209021
+Type 1 diabetes	21	44294411	rs74203920
+Type 1 diabetes and autoimmune thyroid diseases	6	30110498	rs2523989
+Type 1 diabetes and autoimmune thyroid diseases	6	30814225	rs886424
+Type 1 diabetes and autoimmune thyroid diseases	6	31396930	rs2251396
+Type 1 diabetes and autoimmune thyroid diseases	6	31600692	rs2857595
+Type 1 diabetes and autoimmune thyroid diseases	6	31951083	rs1270942
+Type 1 diabetes and autoimmune thyroid diseases	6	32395438	rs1980493
+Type 1 diabetes and autoimmune thyroid diseases	6	32830954	rs1015166
+Type 1 diabetes and autoimmune thyroid diseases	1	113537449	rs2153977
+Type 1 diabetes and autoimmune thyroid diseases	1	113834946	rs2476601
+Type 1 diabetes and autoimmune thyroid diseases	1	113886839	rs2358994
+Type 1 diabetes and autoimmune thyroid diseases	4	121392885	rs7679475
+Latent autoimmune diabetes vs. type 1 diabetes	6	32658698	rs9273368
+Coronary artery disease in type 1 diabetes	2	154368670	rs17206992
+Coronary artery disease in type 1 diabetes	2	176780863	rs113517532
+Coronary artery disease in type 1 diabetes	3	13329174	rs73018809
+Coronary artery disease in type 1 diabetes	3	104256574	rs28641753
+Coronary artery disease in type 1 diabetes	4	6169503	rs78031527
+Coronary artery disease in type 1 diabetes	5	10500534	rs143537377
+Coronary artery disease in type 1 diabetes	5	72098560	rs115829748
+Coronary artery disease in type 1 diabetes	6	94847753	rs9354144
+Coronary artery disease in type 1 diabetes	8	72930288	rs571622299
+Coronary artery disease in type 1 diabetes	9	37034098	rs143723948
+Coronary artery disease in type 1 diabetes	10	19168458	rs117826205
+Coronary artery disease in type 1 diabetes	11	8058878	rs61879614
+Coronary artery disease in type 1 diabetes	17	4424870	rs34319244
+Coronary artery disease in type 1 diabetes	18	47872985	rs113114656
+Coronary artery disease in type 1 diabetes	21	19974842	rs67213764
+Coronary artery disease in type 1 diabetes	21	23556791	rs12482425
+Coronary artery disease in type 1 diabetes	22	25592812	rs373009901
+Coronary artery disease in type 1 diabetes	1	205515245	rs138760780
+Coronary artery disease in type 1 diabetes	9	69340801	rs12344245
+Coronary artery disease in type 1 diabetes	9	69340801	rs12344245
+Coronary artery disease in type 1 diabetes	1	205515245	rs138760780
+Type 1 diabetes	1	113834946	rs2476601
+Type 1 diabetes	11	2193158	rs7937915
+Type 1 diabetes	12	111446804	rs3184504
+Type 1 diabetes	11	2141880	rs4244808
+Type 1 diabetes	16	75213493	rs7202844
+Type 1 diabetes	12	56076841	rs11171739
+Type 1 diabetes	2	203874196	rs3087243
+Type 1 diabetes	16	11106941	rs741172
+Type 1 diabetes	18	12777574	rs2542148
+Type 1 diabetes	2	162368011	rs984971
+Type 1 diabetes	21	42405613	rs9981624
+Type 1 diabetes	10	88275897	rs12416116
+Type 1 diabetes	15	78942615	rs34593439
+Type 1 diabetes	6	90267049	rs72928038
+Type 1 diabetes	2	162268127	rs35667974
+Type 1 diabetes	22	30156522	rs4336042
+Type 1 diabetes	16	28494339	rs151234
+Type 1 diabetes	10	6059750	rs3118470
+Type 1 diabetes	1	206770623	rs3024493
+Type 1 diabetes	19	10317045	rs74956615
+Type 1 diabetes	21	42434957	rs1893592
+Type 1 diabetes	6	126353208	rs2045258
+Type 1 diabetes	10	6074291	rs72776098
+Type 1 diabetes	7	50947496	rs7780389
+Type 1 diabetes	22	37191071	rs229533
+Type 1 diabetes	1	113846182	rs1217403
+Type 1 diabetes	2	203858029	rs926169
+Type 1 diabetes	6	32658495	rs9273363
+Type 1 diabetes	6	126391101	rs1578060
+Type 1 diabetes	10	88428167	rs10788599
+Type 1 diabetes	11	2163618	rs3842727
+Type 1 diabetes	17	39910119	rs56380902
