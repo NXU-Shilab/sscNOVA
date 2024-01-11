@@ -86,7 +86,7 @@ Use the trained model to predict GWAS without ImmuNexUT interaction data.
 Example usage:
 
 ```
-python 03_variant_prediction_cnn.py gwas_remaining_141.csv cnn_141
+python 03_variant_predict_cnn.py gwas_remaining_141.csv cnn_141
 ```
 
 Arguments:
@@ -147,7 +147,7 @@ Predict an experimentally curated testing data.
 Example usage:
 
 ```
-python 06_variant_prediction_indicator.py hgmd_clinvar_141.csv cnn_pseudo_141 141
+python 06_variant_predict_indicator.py hgmd_clinvar_141.csv cnn_pseudo_141 141
 ```
 
 Arguments:
